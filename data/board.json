@@ -1,0 +1,411 @@
+{
+ "updatedAt": "2026-10-27T16:28:12.784678+00:00",
+ "sources": "Open-Meteo · The Hindu · NPR · BBC",
+ "weather": [
+  {
+   "id": "boston",
+   "city": "Boston",
+   "region": "Massachusetts, USA",
+   "unit": "F",
+   "now": {
+    "t": 53.2,
+    "feels": 47.5,
+    "hum": 39,
+    "wind": 4.3,
+    "code": 0
+   },
+   "days": [
+    {
+     "date": "2026-10-27",
+     "hi": 56.1,
+     "lo": 37.5,
+     "code": 3,
+     "rain": 1,
+     "rainMm": 0.0,
+     "gustMph": 32.0
+    },
+    {
+     "date": "2026-10-28",
+     "hi": 57.7,
+     "lo": 31.5,
+     "code": 3,
+     "rain": 3,
+     "rainMm": 0.0,
+     "gustMph": 21.5
+    },
+    {
+     "date": "2026-10-29",
+     "hi": 66.0,
+     "lo": 42.3,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 33.3
+    },
+    {
+     "date": "2026-10-30",
+     "hi": 67.2,
+     "lo": 50.9,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 32.9
+    },
+    {
+     "date": "2026-10-31",
+     "hi": 54.1,
+     "lo": 45.0,
+     "code": 3,
+     "rain": 1,
+     "rainMm": 0.0,
+     "gustMph": 25.9
+    }
+   ],
+   "alert": null
+  },
+  {
+   "id": "hyderabad",
+   "city": "Hyderabad",
+   "region": "Telangana, India",
+   "unit": "C",
+   "now": {
+    "t": 26.0,
+    "feels": 25.8,
+    "hum": 50,
+    "wind": 7.3,
+    "code": 3
+   },
+   "days": [
+    {
+     "date": "2026-10-27",
+     "hi": 30.6,
+     "lo": 22.2,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 30.2
+    },
+    {
+     "date": "2026-10-28",
+     "hi": 28.8,
+     "lo": 23.6,
+     "code": 51,
+     "rain": 31,
+     "rainMm": 0.3,
+     "gustMph": 30.4
+    },
+    {
+     "date": "2026-10-29",
+     "hi": 32.3,
+     "lo": 23.4,
+     "code": 51,
+     "rain": 21,
+     "rainMm": 0.1,
+     "gustMph": 24.2
+    },
+    {
+     "date": "2026-10-30",
+     "hi": 32.8,
+     "lo": 23.7,
+     "code": 55,
+     "rain": 67,
+     "rainMm": 4.5,
+     "gustMph": 15.4
+    },
+    {
+     "date": "2026-10-31",
+     "hi": 30.8,
+     "lo": 22.1,
+     "code": 81,
+     "rain": 59,
+     "rainMm": 10.8,
+     "gustMph": 20.4
+    }
+   ],
+   "alert": null
+  },
+  {
+   "id": "vijayawada",
+   "city": "Vijayawada",
+   "region": "Andhra Pradesh, India",
+   "unit": "C",
+   "now": {
+    "t": 28.1,
+    "feels": 29.2,
+    "hum": 66,
+    "wind": 14.5,
+    "code": 3
+   },
+   "days": [
+    {
+     "date": "2026-10-27",
+     "hi": 33.9,
+     "lo": 24.9,
+     "code": 51,
+     "rain": 73,
+     "rainMm": 0.1,
+     "gustMph": 27.7
+    },
+    {
+     "date": "2026-10-28",
+     "hi": 28.3,
+     "lo": 24.1,
+     "code": 81,
+     "rain": 92,
+     "rainMm": 24.0,
+     "gustMph": 32.4
+    },
+    {
+     "date": "2026-10-29",
+     "hi": 32.2,
+     "lo": 24.3,
+     "code": 51,
+     "rain": 34,
+     "rainMm": 0.1,
+     "gustMph": 18.8
+    },
+    {
+     "date": "2026-10-30",
+     "hi": 30.9,
+     "lo": 24.8,
+     "code": 95,
+     "rain": 49,
+     "rainMm": 2.2,
+     "gustMph": 17.7
+    },
+    {
+     "date": "2026-10-31",
+     "hi": 30.5,
+     "lo": 24.7,
+     "code": 51,
+     "rain": 77,
+     "rainMm": 1.5,
+     "gustMph": 14.5
+    }
+   ],
+   "alert": "Wed: rain expected, about 24 mm"
+  }
+ ],
+ "news": {
+  "andhra": [
+   {
+    "headline": "Siddhartha Academy of Higher Education awards ₹5.79 crore scholarships to 1,223 students",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/siddhartha-academy-of-higher-education-awards-579-crore-scholarships-to-1223-students/article71631014.ece",
+    "time": "2026-10-27T20:59:51+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Jagan warns NDA of retaliation if YSRCP cadres are targeted",
+    "summary": "YSRCP chief accuses TDP of using police to intimidate opposition candidates; questions fairness of local body elections",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-warns-nda-of-retaliation-if-ysrcp-cadres-are-targeted/article71632062.ece",
+    "time": "2026-10-27T20:59:01+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Prakasam Collector removes DEO over student death case failures",
+    "summary": "Action taken against C.V. Renuka as she reportedly failed to discharge her duties in the student death issue and other administrative deficiencies; Deputy DEO E.V. Rangaiah given full additional charge in her place",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-collector-removes-deo-over-student-death-case-failures/article71632270.ece",
+    "time": "2026-10-27T20:53:15+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Arnab impact likely up to Krishna; A.P. on high alert, says Naidu",
+    "summary": "84,396 people evacuated to safer locations; 290 cyclone shelters set up; schools in affected districts to remain closed on October 28",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-impact-likely-up-to-krishna-ap-on-high-alert-says-naidu/article71632354.ece",
+    "time": "2026-10-27T20:50:26+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Arnab fails to dampen spirits of devotees in Vizianagaram, Sirimanotsavam held peacefully",
+    "summary": "Thousands witness annual procession; authorities heave a sigh of relief as weather remains favourable during festivities",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/arnab-fails-to-dampen-spirits-of-devotees-in-vizianagaram-sirimanotsavam-held-peacefully/article71629781.ece",
+    "time": "2026-10-27T20:50:09+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NDA sweeps Pulivendula ZPTC, MPTC polls in YSR family bastion",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-sweeps-pulivendula-zptc-mptc-polls-in-ysr-family-bastion/article71632157.ece",
+    "time": "2026-10-27T20:37:04+05:30",
+    "source": "The Hindu"
+   }
+  ],
+  "telangana": [
+   {
+    "headline": "Harish Rao suggests govt. to sell rice lying in godowns to pay ration dealers’ dues",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/harish-rao-suggests-govt-to-sell-rice-lying-in-godowns-to-pay-ration-dealers-dues/article71632844.ece",
+    "time": "2026-10-27T21:48:51+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Congress-induced drought, not forced by nature: KTR",
+    "summary": "He says party is planning a public meeting at Nirmal on November 11",
+    "link": "https://www.thehindu.com/news/national/telangana/congress-induced-drought-not-forced-by-nature-ktr/article71632731.ece",
+    "time": "2026-10-27T21:43:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Telangana declares 365 mandals drought-affected, of which 111 severely drought-affected",
+    "summary": "The drought assessment found that the kharif crop area in 18 of the State’s 33 districts had been affected",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-declares-365-mandals-drought-affected-of-which-111-severely-drought-affected/article71632836.ece",
+    "time": "2026-10-27T21:43:09+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Hyderabad Metro eyes ‘Personal Rapid Transit System’ to solve last-mile connectivity issues",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-metro-eyes-personal-rapid-transit-system-to-solve-last-mile-connectivity-issues/article71631528.ece",
+    "time": "2026-10-27T21:34:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "HYDRAA removes seven borewells near Fox Sagar",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/hydraa-removes-seven-borewells-near-fox-sagar/article71632764.ece",
+    "time": "2026-10-27T21:28:54+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "As rice prices spike, traders warned against creating artificial shortage",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/as-rice-prices-spike-traders-warned-against-creating-artificial-shortage/article71632698.ece",
+    "time": "2026-10-27T21:26:41+05:30",
+    "source": "The Hindu"
+   }
+  ],
+  "india": [
+   {
+    "headline": "Sonia Gandhi says her memoir is bound to create ‘tamasha’",
+    "summary": "‘Others have spent decades telling my story; now it’s my turn,’ she says ahead of November 10 release",
+    "link": "https://www.thehindu.com/news/national/bound-to-be-tamasha-when-my-book-comes-out-my-turn-to-tell-my-story-sonia-gandhi/article71632387.ece",
+    "time": "2026-10-27T21:54:11+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Applications invited for Yuva Nidhi Plus skill training",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/applications-invited-for-yuva-nidhi-plus-skill-training/article71631842.ece",
+    "time": "2026-10-27T21:50:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "The Hindu’s promotional campaign wins seven laurels at Love of Advertising Awards",
+    "summary": "The Hindu’s promotional campaign titled ‘Written by Journalists’, bagged six honours and its impactful experiential initiative named ‘Kerala for ALL’, created for Kerala Tourism, won another laurel at the LoA Awards",
+    "link": "https://www.thehindu.com/news/national/kerala/the-hindu-group-wins-seven-laurels-at-love-of-advertising-awards/article71632361.ece",
+    "time": "2026-10-27T21:50:46+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Harish Rao suggests govt. to sell rice lying in godowns to pay ration dealers’ dues",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/harish-rao-suggests-govt-to-sell-rice-lying-in-godowns-to-pay-ration-dealers-dues/article71632844.ece",
+    "time": "2026-10-27T21:48:51+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Two arrested in ₹1.35-crore digital arrest fraud case",
+    "summary": "According to the police, the accused posed as Mumbai Crime Branch officers and contacted the complainant through WhatsApp voice and video calls.",
+    "link": "https://www.thehindu.com/news/national/kerala/two-arrested-in-135-crore-digital-arrest-fraud-case/article71632509.ece",
+    "time": "2026-10-27T21:48:20+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Woman catches man reportedly recording her inside metro, accused flees with phone",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/woman-catches-man-reportedly-recording-her-inside-metro-accused-flees-with-phone/article71632774.ece",
+    "time": "2026-10-27T21:47:04+05:30",
+    "source": "The Hindu"
+   }
+  ],
+  "usa": [
+   {
+    "headline": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+    "summary": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+    "time": "2026-10-27T05:00:00-04:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+    "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+    "time": "2026-10-27T05:00:00-04:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Some Michigan residents remain hopeful despite being hit hard by Trump's tariffs",
+    "summary": "Michigan households are paying the highest cost per household for the Trump administration's tariffs. For the voters paying the price, the issue isn't cut-and-dry.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6015161/some-michigan-residents-remain-hopeful-despite-being-hit-hard-by-trumps-tariffs",
+    "time": "2026-10-27T04:48:12-04:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
+    "summary": "The Chesapeake Bay, home to blue crabs and striped bass, has a new apex predator: the blue catfish. It's invasive and voracious. It's also delicious, which officials hope might help save the bay.",
+    "link": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
+    "time": "2026-10-26T16:09:15-04:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Trump administration pushes for food assistance card upgrade to fight fraud",
+    "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+    "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+    "time": "2026-10-26T14:41:43-04:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Four Corners region faces flood threat after days of heavy rain",
+    "summary": "The area where four states meet in the U.S. Southwest remains on a flood watch after days of heavy rain and winds.",
+    "link": "https://www.npr.org/2026/10/26/nx-s1-6016309/four-corners-region-faces-flood-threat-after-days-of-heavy-rain",
+    "time": "2026-10-26T06:46:16-04:00",
+    "source": "NPR"
+   }
+  ],
+  "world": [
+   {
+    "headline": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+    "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
+    "time": "2026-10-27T16:20:22+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+    "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
+    "time": "2026-10-27T16:11:35+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+    "summary": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+    "time": "2026-10-27T16:11:27+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "West warns of famine risk in Sudan as civil war grinds on",
+    "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo",
+    "time": "2026-10-27T15:41:46+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Truce begins in Ukraine city where residents ate weeds to survive",
+    "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+    "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+    "time": "2026-10-27T15:13:24+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+    "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo",
+    "time": "2026-10-27T14:29:39+00:00",
+    "source": "BBC News"
+   }
+  ]
+ }
+}
