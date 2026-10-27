@@ -14,7 +14,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else "data/board.json"
-UA = {"User-Agent": "Mozilla/5.0 (living-room-board; +https://pages.github.com)"}
+UA = {"User-Agent": "Mozilla/5.0 (home-board; +https://pages.github.com)"}
 
 CITIES = [
     {"id": "boston", "city": "Boston", "region": "Massachusetts, USA", "lat": 42.3601, "lon": -71.0589,
