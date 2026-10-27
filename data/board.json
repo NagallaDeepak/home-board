@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T16:28:12.784678+00:00",
+ "updatedAt": "2026-10-27T16:39:48.475607+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 53.2,
-    "feels": 47.5,
-    "hum": 39,
-    "wind": 4.3,
+    "t": 53.6,
+    "feels": 47.9,
+    "hum": 37,
+    "wind": 3.7,
     "code": 0
    },
    "days": [
     {
      "date": "2026-10-27",
      "hi": 56.1,
-     "lo": 37.5,
+     "lo": 37.8,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
@@ -69,8 +69,8 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 26.0,
-    "feels": 25.8,
+    "t": 25.9,
+    "feels": 25.7,
     "hum": 50,
     "wind": 7.3,
     "code": 3
@@ -130,10 +130,10 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 28.1,
+    "t": 28.2,
     "feels": 29.2,
-    "hum": 66,
-    "wind": 14.5,
+    "hum": 65,
+    "wind": 14.4,
     "code": 3
    },
    "days": [
@@ -277,10 +277,31 @@
   ],
   "india": [
    {
+    "headline": "Sreedharan tells Keralam govt. to ‘ignore’ technical panel’s objections over high-speed rail project",
+    "summary": "The technocrat says the panel did not study the proposal properly",
+    "link": "https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece",
+    "time": "2026-10-27T22:06:29+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Sonia Gandhi says her memoir is bound to create ‘tamasha’",
     "summary": "‘Others have spent decades telling my story; now it’s my turn,’ she says ahead of November 10 release",
     "link": "https://www.thehindu.com/news/national/bound-to-be-tamasha-when-my-book-comes-out-my-turn-to-tell-my-story-sonia-gandhi/article71632387.ece",
-    "time": "2026-10-27T21:54:11+05:30",
+    "time": "2026-10-27T22:05:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Kerala Pradesh Congress Committe apologises to CJI for post on X",
+    "summary": "KPCC chief Sunny Joseph says post demanding resignation of the Chief Justice was published without prior approval or consultation",
+    "link": "https://www.thehindu.com/news/national/kerala/kerala-pradesh-congress-committe-apologises-to-cji-for-post-on-x/article71632905.ece",
+    "time": "2026-10-27T22:03:48+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Woman catches man reportedly recording her inside metro, accused flees with phone",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/woman-catches-man-reportedly-recording-her-inside-metro-accused-flees-with-phone/article71632774.ece",
+    "time": "2026-10-27T21:57:20+05:30",
     "source": "The Hindu"
    },
    {
@@ -295,27 +316,6 @@
     "summary": "The Hindu’s promotional campaign titled ‘Written by Journalists’, bagged six honours and its impactful experiential initiative named ‘Kerala for ALL’, created for Kerala Tourism, won another laurel at the LoA Awards",
     "link": "https://www.thehindu.com/news/national/kerala/the-hindu-group-wins-seven-laurels-at-love-of-advertising-awards/article71632361.ece",
     "time": "2026-10-27T21:50:46+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Harish Rao suggests govt. to sell rice lying in godowns to pay ration dealers’ dues",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/harish-rao-suggests-govt-to-sell-rice-lying-in-godowns-to-pay-ration-dealers-dues/article71632844.ece",
-    "time": "2026-10-27T21:48:51+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Two arrested in ₹1.35-crore digital arrest fraud case",
-    "summary": "According to the police, the accused posed as Mumbai Crime Branch officers and contacted the complainant through WhatsApp voice and video calls.",
-    "link": "https://www.thehindu.com/news/national/kerala/two-arrested-in-135-crore-digital-arrest-fraud-case/article71632509.ece",
-    "time": "2026-10-27T21:48:20+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Woman catches man reportedly recording her inside metro, accused flees with phone",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/woman-catches-man-reportedly-recording-her-inside-metro-accused-flees-with-phone/article71632774.ece",
-    "time": "2026-10-27T21:47:04+05:30",
     "source": "The Hindu"
    }
   ],
