@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T19:20:53.626784+00:00",
+ "updatedAt": "2026-10-28T23:24:15.879333+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,37 +8,37 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 52.8,
-    "feels": 48.2,
-    "hum": 60,
-    "wind": 4.7,
-    "code": 3
+    "t": 46.4,
+    "feels": 42.3,
+    "hum": 83,
+    "wind": 4.8,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-10-28",
-     "hi": 54.0,
+     "hi": 53.9,
      "lo": 31.5,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 13.4
     },
     {
      "date": "2026-10-29",
-     "hi": 65.9,
+     "hi": 66.3,
      "lo": 40.4,
      "code": 0,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 23.3
+     "gustMph": 23.9
     },
     {
      "date": "2026-10-30",
-     "hi": 66.4,
+     "hi": 65.0,
      "lo": 50.2,
      "code": 3,
-     "rain": 4,
+     "rain": 12,
      "rainMm": 0.0,
      "gustMph": 29.8
     },
@@ -56,7 +56,7 @@
      "hi": 59.4,
      "lo": 45.0,
      "code": 3,
-     "rain": 1,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.4
     }
@@ -69,11 +69,11 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.3,
-    "feels": 24.9,
-    "hum": 77,
-    "wind": 7.1,
-    "code": 3
+    "t": 22.4,
+    "feels": 24.0,
+    "hum": 80,
+    "wind": 7.4,
+    "code": 1
    },
    "days": [
     {
@@ -81,7 +81,7 @@
      "hi": 30.1,
      "lo": 22.1,
      "code": 3,
-     "rain": 22,
+     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 24.8
     },
@@ -90,7 +90,7 @@
      "hi": 31.9,
      "lo": 23.3,
      "code": 51,
-     "rain": 76,
+     "rain": 69,
      "rainMm": 2.3,
      "gustMph": 16.3
     },
@@ -99,7 +99,7 @@
      "hi": 32.9,
      "lo": 22.7,
      "code": 53,
-     "rain": 78,
+     "rain": 69,
      "rainMm": 1.5,
      "gustMph": 17.7
     },
@@ -108,7 +108,7 @@
      "hi": 30.6,
      "lo": 23.3,
      "code": 51,
-     "rain": 71,
+     "rain": 63,
      "rainMm": 0.9,
      "gustMph": 16.6
     },
@@ -117,7 +117,7 @@
      "hi": 32.0,
      "lo": 23.2,
      "code": 53,
-     "rain": 69,
+     "rain": 78,
      "rainMm": 2.7,
      "gustMph": 18.1
     }
@@ -130,11 +130,11 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.1,
-    "feels": 26.6,
-    "hum": 85,
-    "wind": 9.1,
-    "code": 3
+    "t": 24.2,
+    "feels": 26.3,
+    "hum": 80,
+    "wind": 8.5,
+    "code": 0
    },
    "days": [
     {
@@ -142,7 +142,7 @@
      "hi": 30.9,
      "lo": 24.0,
      "code": 51,
-     "rain": 16,
+     "rain": 34,
      "rainMm": 0.4,
      "gustMph": 18.8
     },
@@ -151,7 +151,7 @@
      "hi": 31.6,
      "lo": 25.0,
      "code": 95,
-     "rain": 68,
+     "rain": 72,
      "rainMm": 2.0,
      "gustMph": 15.0
     },
@@ -160,7 +160,7 @@
      "hi": 30.3,
      "lo": 24.6,
      "code": 55,
-     "rain": 89,
+     "rain": 84,
      "rainMm": 1.7,
      "gustMph": 17.2
     },
@@ -178,7 +178,7 @@
      "hi": 30.0,
      "lo": 24.9,
      "code": 55,
-     "rain": 80,
+     "rain": 85,
      "rainMm": 6.3,
      "gustMph": 24.4
     }
@@ -189,10 +189,17 @@
  "news": {
   "andhra": [
    {
+    "headline": "Hunker down: On Cyclone Arnab, its landfall",
+    "summary": "Proactive governance kept the casualties low after Cyclone Arnab",
+    "link": "https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece",
+    "time": "2026-10-29T01:30:31+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
     "summary": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
     "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
-    "time": "2026-10-28T23:02:34+05:30",
+    "time": "2026-10-29T00:15:54+05:30",
     "source": "The Hindu"
    },
    {
@@ -221,13 +228,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-collector-staff-unhurt-after-lorry-hits-official-vehicle/article71636715.ece",
     "time": "2026-10-28T21:29:08+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bharath cycles through Kurnool, urges voters to elect NDA",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bharath-cycles-through-kurnool-urges-voters-to-elect-nda/article71636431.ece",
-    "time": "2026-10-28T21:23:34+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "Three schoolgirls from Tiruvannamalai rescued at Kilambakkam bus terminus",
-    "summary": "The girls were handed over to the Child Welfare Committee (CWC) for counselling before reuniting with the family members",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/three-schoolgirls-from-tiruvannamalai-rescued-at-kilambakkam-bus-terminus/article71634937.ece",
-    "time": "2026-10-29T00:45:02+05:30",
+    "headline": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+    "summary": "The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance",
+    "link": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece",
+    "time": "2026-10-29T03:05:29+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rise in child marriage complaints in Mysuru district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/rise-in-child-marriage-complaints-in-mysuru-district/article71635727.ece",
-    "time": "2026-10-29T00:43:53+05:30",
+    "headline": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
+    "summary": "Brijmohan Shrivastav claimed that the previously raised queries about her appointment as the national president were still unresolved",
+    "link": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece",
+    "time": "2026-10-29T02:53:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "MIDS professor alleges police harassment over fake Instagram account",
-    "summary": "In a complaint to the DGP, Prof. Kalaiyarasan said the police told him he was required for an inquiry at T4 Sankar Nagar police station in Pammal over an allegedly abusive comment targeting Pallavaram TVK MLA J.…",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/mids-professor-alleges-police-harassment-over-fake-instagram-account/article71637364.ece",
-    "time": "2026-10-29T00:43:51+05:30",
+    "headline": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
+    "summary": "She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece",
+    "time": "2026-10-29T02:32:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Child rescued in Ranipet; four persons held",
-    "summary": "Arrested persons told the police that they had kidnapped the baby past midnight on September 23",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/child-rescued-in-ranipet-four-persons-held/article71636182.ece",
-    "time": "2026-10-29T00:43:48+05:30",
+    "headline": "Pakistan minister invites Punjab CM Mann",
+    "summary": "Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in…",
+    "link": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece",
+    "time": "2026-10-29T02:27:21+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kavitha threatens to block census operations over OBC column demand",
-    "summary": "Hyderabad Declaration adopts nine resolutions on caste census, reservations",
-    "link": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece",
-    "time": "2026-10-29T00:34:21+05:30",
+    "headline": "Bihar MLC polls: Upper caste candidates dominate election results",
+    "summary": "The Opposition Congress party which had put up its candidates on five seats has failed to win even a single seat in the elections",
+    "link": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece",
+    "time": "2026-10-29T02:19:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
-    "summary": "The Bill provides for reconstitution of the board to establish a centralised decision-making mechanism",
-    "link": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
-    "time": "2026-10-29T00:31:47+05:30",
+    "headline": "Railways to turn off charging points in trains during night",
+    "summary": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours,…",
+    "link": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+    "time": "2026-10-29T02:11:32+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Trump administration wants to remove regulations on a super planet-heating gas",
+    "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+    "time": "2026-10-28T17:15:09-04:00",
+    "source": "NPR"
+   },
    {
     "headline": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
     "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
     "time": "2026-10-28T02:15:31-04:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-    "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-    "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-    "time": "2026-10-27T17:17:57-04:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-    "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-    "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o",
-    "time": "2026-10-28T17:34:41+00:00",
+    "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+    "time": "2026-10-28T23:21:48+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
-    "time": "2026-10-28T16:59:47+00:00",
+    "headline": "Girl seriously injured in wolf attack at German wildlife park",
+    "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo",
+    "time": "2026-10-28T22:08:52+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Watch: At the scene of Spain's deadly train crash",
-    "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-    "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo",
-    "time": "2026-10-28T16:45:16+00:00",
+    "headline": "High-speed train crash kills at least 68 people in Spain",
+    "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
+    "time": "2026-10-28T21:38:54+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-    "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
-    "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o",
-    "time": "2026-10-28T16:30:29+00:00",
+    "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+    "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o",
+    "time": "2026-10-28T21:24:41+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "What we know so far about deadly Spain train crash",
-    "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-    "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-    "time": "2026-10-28T15:36:11+00:00",
+    "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+    "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo",
+    "time": "2026-10-28T21:16:30+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "How could Israel break election deadlock? Here are four scenarios",
-    "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo",
-    "time": "2026-10-28T14:30:31+00:00",
+    "headline": "Israel's election deadlock is a sign of the country's deep divisions",
+    "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+    "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo",
+    "time": "2026-10-28T20:53:02+00:00",
     "source": "BBC News"
    }
   ]
