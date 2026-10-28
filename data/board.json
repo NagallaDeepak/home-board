@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T21:07:45.868297+00:00",
+ "updatedAt": "2026-10-28T00:39:23.438922+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 52.1,
-    "feels": 47.5,
-    "hum": 49,
-    "wind": 2.6,
+    "t": 42.2,
+    "feels": 36.4,
+    "hum": 64,
+    "wind": 4.5,
     "code": 0
    },
    "days": [
     {
      "date": "2026-10-27",
      "hi": 56.1,
-     "lo": 39.0,
+     "lo": 37.7,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
@@ -27,7 +27,7 @@
     {
      "date": "2026-10-28",
      "hi": 56.7,
-     "lo": 32.0,
+     "lo": 31.7,
      "code": 3,
      "rain": 3,
      "rainMm": 0.0,
@@ -40,25 +40,25 @@
      "code": 0,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 33.3
+     "gustMph": 32.4
     },
     {
      "date": "2026-10-30",
-     "hi": 66.5,
-     "lo": 50.6,
+     "hi": 67.3,
+     "lo": 51.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 32.9
+     "gustMph": 32.2
     },
     {
      "date": "2026-10-31",
-     "hi": 54.5,
-     "lo": 44.3,
+     "hi": 54.2,
+     "lo": 44.2,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 25.9
+     "gustMph": 27.3
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 24.6,
-    "feels": 25.4,
-    "hum": 65,
-    "wind": 8.1,
+    "t": 23.0,
+    "feels": 24.1,
+    "hum": 74,
+    "wind": 7.5,
     "code": 3
    },
    "days": [
     {
      "date": "2026-10-28",
-     "hi": 30.1,
-     "lo": 23.7,
-     "code": 53,
+     "hi": 27.2,
+     "lo": 23.0,
+     "code": 51,
      "rain": 31,
-     "rainMm": 2.0,
-     "gustMph": 28.0
+     "rainMm": 1.1,
+     "gustMph": 31.3
     },
     {
      "date": "2026-10-29",
-     "hi": 30.1,
-     "lo": 23.6,
+     "hi": 31.2,
+     "lo": 23.2,
      "code": 51,
-     "rain": 21,
-     "rainMm": 0.2,
-     "gustMph": 25.1
+     "rain": 10,
+     "rainMm": 0.3,
+     "gustMph": 25.3
     },
     {
      "date": "2026-10-30",
-     "hi": 32.2,
-     "lo": 23.5,
+     "hi": 32.5,
+     "lo": 23.6,
      "code": 53,
-     "rain": 67,
-     "rainMm": 3.1,
-     "gustMph": 14.3
+     "rain": 63,
+     "rainMm": 1.8,
+     "gustMph": 15.0
     },
     {
      "date": "2026-10-31",
-     "hi": 31.3,
-     "lo": 22.8,
-     "code": 51,
-     "rain": 59,
-     "rainMm": 2.8,
-     "gustMph": 17.2
+     "hi": 31.4,
+     "lo": 23.3,
+     "code": 55,
+     "rain": 67,
+     "rainMm": 5.6,
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-01",
-     "hi": 30.0,
-     "lo": 22.4,
+     "hi": 29.2,
+     "lo": 21.5,
      "code": 53,
-     "rain": 71,
-     "rainMm": 3.0,
-     "gustMph": 18.3
+     "rain": 66,
+     "rainMm": 6.3,
+     "gustMph": 17.0
     }
    ],
    "alert": null
@@ -130,83 +130,90 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.2,
-    "feels": 25.1,
-    "hum": 89,
-    "wind": 17.4,
-    "code": 51
+    "t": 23.4,
+    "feels": 22.7,
+    "hum": 91,
+    "wind": 23.4,
+    "code": 55
    },
    "days": [
     {
      "date": "2026-10-28",
-     "hi": 27.8,
-     "lo": 23.9,
-     "code": 95,
-     "rain": 92,
-     "rainMm": 14.3,
-     "gustMph": 33.6
+     "hi": 25.5,
+     "lo": 23.1,
+     "code": 82,
+     "rain": 99,
+     "rainMm": 61.2,
+     "gustMph": 47.2
     },
     {
      "date": "2026-10-29",
-     "hi": 32.0,
-     "lo": 25.1,
+     "hi": 31.0,
+     "lo": 24.6,
      "code": 51,
-     "rain": 34,
+     "rain": 22,
      "rainMm": 0.5,
-     "gustMph": 21.9
+     "gustMph": 17.2
     },
     {
      "date": "2026-10-30",
-     "hi": 31.2,
-     "lo": 25.8,
-     "code": 53,
-     "rain": 49,
-     "rainMm": 1.5,
-     "gustMph": 14.8
+     "hi": 30.8,
+     "lo": 25.4,
+     "code": 51,
+     "rain": 36,
+     "rainMm": 0.2,
+     "gustMph": 17.4
     },
     {
      "date": "2026-10-31",
-     "hi": 30.8,
-     "lo": 25.0,
+     "hi": 30.3,
+     "lo": 24.6,
      "code": 95,
-     "rain": 77,
-     "rainMm": 2.6,
-     "gustMph": 16.1
+     "rain": 82,
+     "rainMm": 8.2,
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-01",
-     "hi": 31.6,
-     "lo": 24.5,
-     "code": 51,
-     "rain": 80,
-     "rainMm": 1.5,
-     "gustMph": 19.0
+     "hi": 30.6,
+     "lo": 24.0,
+     "code": 95,
+     "rain": 72,
+     "rainMm": 11.7,
+     "gustMph": 21.9
     }
    ],
-   "alert": null
+   "alert": "Wed: wind gusts up to 47 mph · Wed: heavy rain, about 61 mm"
   }
  ],
  "news": {
   "andhra": [
    {
+    "headline": "Cyclone Arnab's landfall process continues along Andhra coast | LIVE",
+    "summary": "The northern spiral band of the cyclone has further entered the land, and the landfall process is expected to continue for the next three hours, IMD said",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+    "time": "2026-10-28T05:10:01+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Very severe cyclonic storm ‘Arnab’ begins landfall near Narsapur; Vizag battered by rain",
+    "summary": "IMD experts said the landfall process may go on for a long time, and they can indicate the tentative landfall point only after the process is over",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+    "time": "2026-10-28T03:15:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Arnab: Flights, trains cancelled as heavy showers batters Andhra Pradesh; southern Odisha on edge",
+    "summary": "Cyclone Arnab set to make landfall around dawn on ; A.P. cancels several flights, trains, brings 30,000 fishing boats ashore; Odisha shuts ghat roads, imposes transport curbs, and begins massive evacuation",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-flights-trains-cancelled-as-rain-batters-ap-30000-boats-brought-ashore-southern-odisha-on-edge/article71632559.ece",
+    "time": "2026-10-28T01:47:46+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Cyclone Arnab: heavy rain brings Vizag to standstill; civic agencies on high alert",
     "summary": "Fallen trees, waterlogged roads and power interruptions add to disruption; bus services cancelled while beaches remain closed; Visakhapatnam district receives 147.9 mm of rain between 8.30 a.m. and 9 p.m.",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece",
     "time": "2026-10-28T00:16:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone ‘Arnab’: Flights, trains cancelled as rain batters A.P.; 30,000 boats brought ashore; southern Odisha on edge",
-    "summary": "Cyclone Arnab set to make landfall around dawn on Wednesday; A.P. cancels several flights, trains, brings 30,000 fishing boats ashore; Odisha shuts ghat roads, imposes transport curbs, and begins massive evacuation",
-    "link": "https://www.thehindu.com/news/national/cyclone-arnab-flights-trains-cancelled-as-rain-batters-ap-30000-boats-brought-ashore-southern-odisha-on-edge/article71632559.ece",
-    "time": "2026-10-27T23:56:08+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone ‘Arnab’ LIVE updates | Storm 140 km from Kakinada; highest danger signal hoisted at Kakinada port",
-    "summary": "Winds in coastal districts could gust to 110 kmph by Tuesday night and 150 kmph as Cyclone Arnab crosses the coast on Wednesday",
-    "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-    "time": "2026-10-27T23:41:20+05:30",
     "source": "The Hindu"
    },
    {
@@ -221,13 +228,6 @@
     "summary": "Chief Minister N. Chandrababu Naidu says 290 cyclone shelters set up and 84,396 people evacuated to safer locations; 65-year-old man dies at Mangalapalem after coming in contact with snapped live electrical wires;…",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-very-heavy-rainfall-batters-northern-districts-of-ap-one-dead/article71632422.ece",
     "time": "2026-10-27T23:31:46+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "CITU urges voters to support Left party candidates in GVMC polls",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/citu-urges-voters-to-support-left-party-candidates-in-gvmc-polls/article71632867.ece",
-    "time": "2026-10-27T23:27:49+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "CPI forms human chain in Delhi demanding CEC’s resignation and rollback of SIR",
-    "summary": "CPI general secretary D. Raja said Mr. Kumar had ‘lost the confidence of the people’ and that his continuation as Chief Election Commissioner posed a threat to the credibility of the electoral process",
-    "link": "https://www.thehindu.com/news/national/cpi-forms-human-chain-in-delhi-demanding-cecs-resignation-and-rollback-of-sir/article71631271.ece",
-    "time": "2026-10-28T01:40:32+05:30",
+    "headline": "Cyclone Arnab's landfall process continues along Andhra coast | LIVE",
+    "summary": "The northern spiral band of the cyclone has further entered the land, and the landfall process is expected to continue for the next three hours, IMD said",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+    "time": "2026-10-28T05:10:01+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
-    "summary": "Joint declaration calls for a two-state solution to Israel-Palestinan conflict; asserts the right of the Palestinian people to self-determination, freedom, and an independent, sovereign state",
-    "link": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece",
-    "time": "2026-10-28T01:35:58+05:30",
+    "headline": "Very severe cyclonic storm ‘Arnab’ begins landfall near Narsapur; Vizag battered by rain",
+    "summary": "IMD experts said the landfall process may go on for a long time, and they can indicate the tentative landfall point only after the process is over",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+    "time": "2026-10-28T03:15:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Noted dancer Sreedevi Rajan passes away at 84",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/noted-dancer-sreedevi-rajan-passes-away-at-84/article71632139.ece",
-    "time": "2026-10-28T01:16:02+05:30",
+    "headline": "Former BJP MP Dharmendra Kashyap joins Samajwadi Party",
+    "summary": "After joining SP, Dharmendra Kashyap alleged that the law and order situation in Uttar Pradesh has collapsed and that members of backward communities were being denied justice",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/former-bjp-mp-dharmendra-kashyap-joins-samajwadi-party/article71632603.ece",
+    "time": "2026-10-28T03:00:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Fouled waters: On Rajasthan’s river pollution",
-    "summary": "River pollution from industrial effluents indicates state failure",
-    "link": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
-    "time": "2026-10-28T01:15:12+05:30",
+    "headline": "Bihar CM orders probe into legal notice served to RJD MP Sudhakar Singh by Kundan Krishnan",
+    "summary": "On October 15, Sudhakar Singh wrote to the Bihar CM about a defamation notice of ₹5 crore sent by Kundan Krishnan, asking whether the Bihar government endorse the notice",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-orders-probe-into-legal-notice-served-to-rjd-mp-sudhakar-singh-by-kundan-krishnan/article71632093.ece",
+    "time": "2026-10-28T02:34:59+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Are coronary stents necessary?",
-    "summary": "There is a crucial distinction between stenting as a life-saving measure to medical treatment via stenting because a narrowing of blood vessels is seen on an angiogram",
-    "link": "https://www.thehindu.com/opinion/op-ed/are-coronary-stents-necessary/article71633062.ece",
-    "time": "2026-10-28T00:51:03+05:30",
+    "headline": "Bihar MLC results: BJP win one seat, counting underway on remaining seven",
+    "summary": "As per initial reports from the counting centre, Janata Dal (United) candidate Neeraj Kumar is trailing in Patna graduate constituency which remained the hot seat due to boycott of Mokama MLA Anant Singh",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece",
+    "time": "2026-10-28T02:04:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Singareni seeks Angul Collector’s support for road laying to transport coal from Naini",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/singareni-seeks-angul-collectors-support-for-road-laying-to-transport-coal-from-naini/article71632515.ece",
-    "time": "2026-10-28T00:49:46+05:30",
+    "headline": "Cyclone Arnab: Flights, trains cancelled as heavy showers batters Andhra Pradesh; southern Odisha on edge",
+    "summary": "Cyclone Arnab set to make landfall around dawn on ; A.P. cancels several flights, trains, brings 30,000 fishing boats ashore; Odisha shuts ghat roads, imposes transport curbs, and begins massive evacuation",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-flights-trains-cancelled-as-rain-batters-ap-30000-boats-brought-ashore-southern-odisha-on-edge/article71632559.ece",
+    "time": "2026-10-28T01:47:46+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+    "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+    "time": "2026-10-27T17:17:57-04:00",
+    "source": "NPR"
+   },
    {
     "headline": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
     "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
@@ -328,16 +335,16 @@
     "source": "NPR"
    },
    {
-    "headline": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-    "summary": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
-    "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+    "headline": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+    "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
     "time": "2026-10-27T05:00:00-04:00",
     "source": "NPR"
    },
    {
-    "headline": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-    "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
-    "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+    "headline": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+    "summary": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
     "time": "2026-10-27T05:00:00-04:00",
     "source": "NPR"
    },
@@ -354,21 +361,35 @@
     "link": "https://www.npr.org/2026/10/27/nx-s1-6018541/michigan-voters-election-fatigue-campaign-rhetoric",
     "time": "2026-10-27T04:45:44-04:00",
     "source": "NPR"
-   },
-   {
-    "headline": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
-    "summary": "The Chesapeake Bay, home to blue crabs and striped bass, has a new apex predator: the blue catfish. It's invasive and voracious. It's also delicious, which officials hope might help save the bay.",
-    "link": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
-    "time": "2026-10-26T16:09:15-04:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-    "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+    "headline": "Watch: What happens now after close vote in Israeli election?",
+    "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+    "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+    "time": "2026-10-28T00:04:29+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+    "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
     "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
-    "time": "2026-10-27T21:06:21+00:00",
+    "time": "2026-10-27T23:41:23+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+    "time": "2026-10-27T22:11:08+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+    "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo",
+    "time": "2026-10-27T21:09:12+00:00",
     "source": "BBC News"
    },
    {
@@ -379,31 +400,10 @@
     "source": "BBC News"
    },
    {
-    "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
-    "time": "2026-10-27T20:19:53+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Dutch zookeeper dies after being mauled in leopard enclosure",
-    "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
-    "time": "2026-10-27T19:30:37+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-    "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo",
-    "time": "2026-10-27T19:01:16+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-    "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
-    "time": "2026-10-27T18:43:41+00:00",
+    "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
+    "time": "2026-10-27T20:42:38+00:00",
     "source": "BBC News"
    }
   ]
