@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T16:21:29.588246+00:00",
+ "updatedAt": "2026-10-29T21:19:26.596570+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 62.5,
-    "feels": 57.3,
-    "hum": 62,
-    "wind": 11.9,
+    "t": 64.2,
+    "feels": 60.1,
+    "hum": 56,
+    "wind": 8.6,
     "code": 0
    },
    "days": [
     {
      "date": "2026-10-29",
-     "hi": 66.3,
+     "hi": 69.2,
      "lo": 41.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 22.4
+     "gustMph": 23.5
     },
     {
      "date": "2026-10-30",
-     "hi": 65.2,
-     "lo": 45.4,
+     "hi": 67.0,
+     "lo": 45.3,
      "code": 3,
-     "rain": 9,
+     "rain": 3,
      "rainMm": 0.0,
      "gustMph": 30.0
     },
     {
      "date": "2026-10-31",
      "hi": 53.4,
-     "lo": 40.2,
+     "lo": 38.2,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 30.2
+     "gustMph": 30.0
     },
     {
      "date": "2026-11-01",
-     "hi": 58.4,
-     "lo": 42.2,
+     "hi": 57.9,
+     "lo": 41.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.5
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-02",
-     "hi": 65.3,
-     "lo": 48.0,
+     "hi": 65.6,
+     "lo": 48.1,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 25.9
+     "gustMph": 28.0
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 25.7,
-    "feels": 28.8,
-    "hum": 69,
-    "wind": 2.3,
-    "code": 1
+    "t": 23.4,
+    "feels": 27.4,
+    "hum": 85,
+    "wind": 1.1,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-10-29",
-     "hi": 29.4,
-     "lo": 22.0,
-     "code": 3,
-     "rain": 2,
-     "rainMm": 0.0,
-     "gustMph": 23.5
-    },
-    {
      "date": "2026-10-30",
-     "hi": 31.6,
+     "hi": 30.8,
      "lo": 22.8,
-     "code": 51,
+     "code": 55,
      "rain": 93,
-     "rainMm": 1.9,
+     "rainMm": 3.5,
      "gustMph": 13.4
     },
     {
      "date": "2026-10-31",
-     "hi": 31.0,
-     "lo": 23.0,
-     "code": 53,
+     "hi": 30.5,
+     "lo": 21.6,
+     "code": 80,
      "rain": 97,
-     "rainMm": 1.7,
-     "gustMph": 13.0
+     "rainMm": 2.2,
+     "gustMph": 16.1
     },
     {
      "date": "2026-11-01",
-     "hi": 29.8,
-     "lo": 23.5,
-     "code": 51,
+     "hi": 28.7,
+     "lo": 22.6,
+     "code": 80,
      "rain": 55,
-     "rainMm": 0.7,
-     "gustMph": 16.8
+     "rainMm": 3.2,
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-02",
-     "hi": 30.5,
-     "lo": 22.2,
-     "code": 55,
+     "hi": 28.9,
+     "lo": 21.9,
+     "code": 53,
      "rain": 78,
-     "rainMm": 6.0,
-     "gustMph": 17.9
+     "rainMm": 3.9,
+     "gustMph": 19.9
+    },
+    {
+     "date": "2026-11-03",
+     "hi": 28.1,
+     "lo": 21.6,
+     "code": 53,
+     "rain": 60,
+     "rainMm": 3.0,
+     "gustMph": 24.4
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.6,
-    "feels": 30.4,
-    "hum": 88,
-    "wind": 3.7,
-    "code": 0
+    "t": 25.1,
+    "feels": 31.2,
+    "hum": 96,
+    "wind": 0.8,
+    "code": 2
    },
    "days": [
     {
-     "date": "2026-10-29",
-     "hi": 30.8,
-     "lo": 23.9,
-     "code": 3,
-     "rain": 36,
-     "rainMm": 0.0,
-     "gustMph": 19.9
-    },
-    {
      "date": "2026-10-30",
-     "hi": 31.5,
-     "lo": 24.6,
-     "code": 53,
+     "hi": 31.1,
+     "lo": 24.9,
+     "code": 55,
      "rain": 92,
-     "rainMm": 1.3,
-     "gustMph": 20.6
+     "rainMm": 1.4,
+     "gustMph": 17.9
     },
     {
      "date": "2026-10-31",
      "hi": 30.7,
-     "lo": 24.4,
-     "code": 55,
+     "lo": 24.7,
+     "code": 95,
      "rain": 84,
-     "rainMm": 2.0,
-     "gustMph": 16.6
+     "rainMm": 2.4,
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-01",
      "hi": 30.8,
-     "lo": 24.0,
-     "code": 53,
+     "lo": 24.1,
+     "code": 3,
      "rain": 69,
-     "rainMm": 1.3,
-     "gustMph": 14.5
+     "rainMm": 0.0,
+     "gustMph": 13.6
     },
     {
      "date": "2026-11-02",
-     "hi": 29.9,
-     "lo": 23.1,
-     "code": 80,
+     "hi": 28.2,
+     "lo": 24.2,
+     "code": 81,
      "rain": 89,
-     "rainMm": 11.1,
-     "gustMph": 26.2
+     "rainMm": 9.5,
+     "gustMph": 28.2
+    },
+    {
+     "date": "2026-11-03",
+     "hi": 25.4,
+     "lo": 22.6,
+     "code": 95,
+     "rain": 70,
+     "rainMm": 38.7,
+     "gustMph": 25.9
     }
    ],
    "alert": null
@@ -189,137 +189,144 @@
  "news": {
   "andhra": [
    {
-    "headline": "Flash floods leave AP-Odisha border villages inundated, traffic on NH-16 disrupted",
+    "headline": "Saras mela resumes after remaining closed on Wednesday",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/flash-floods-leave-ap-odisha-border-villages-inundated-traffic-on-nh-16-disrupted/article71639316.ece",
-    "time": "2026-10-29T21:47:00+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/saras-mela-resumes-after-remaining-closed-on-wednesday/article71641489.ece",
+    "time": "2026-10-30T00:52:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lorry driver gets seven days jail for hitting Vizianagaram Collector’s car",
+    "headline": "Ex-Mayor Bhagyalakshmi appeals to voters to give her another opportunity",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lorry-driver-gets-seven-days-jail-for-hitting-vizianagaram-collectors-car/article71641667.ece",
-    "time": "2026-10-29T21:43:27+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ex-mayor-bhagyalakshmi-appeals-to-voters-to-give-her-another-opportunity/article71641446.ece",
+    "time": "2026-10-30T00:52:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Pulivendula elections: TDP aims to break YSRCP’s long-standing family-led dominance",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/pulivendula-elections-tdp-aims-to-break-ysrcps-long-standing-family-led-dominance/article71639738.ece",
-    "time": "2026-10-29T21:33:29+05:30",
+    "headline": "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "summary": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+    "time": "2026-10-30T00:48:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Police tighten security ahead of polls in Chittoor, Sri Sathya Sai districts",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-tighten-security-ahead-of-polls-in-chittoor-and-sri-sathya-sai-districts/article71640511.ece",
-    "time": "2026-10-29T21:28:38+05:30",
+    "headline": "36,351 police personnel deployed for ULB polls in Andhra Pradesh",
+    "summary": "Security arrangements will be monitored by 34 Superintendents of Police and 52 additional SPs",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/36351-police-personnel-deployed-for-ulb-polls-in-andhra-pradesh/article71641135.ece",
+    "time": "2026-10-29T23:36:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "A.P. power infra loss estimated at ₹500-crore; restoration works complete in 4,765 Arnab-hit villages",
-    "summary": "Inspecting the cyclone-hit areas, Gottipati Ravi Kumar says government has intensified emergency repairs to the damaged infrastructure, with special focus on Palakollu, Bhimavaram and Narsapur, which bore the brunt of…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/power-sector-suffers-500-crore-damage-due-to-cyclone-arnab-says-minister/article71641231.ece",
-    "time": "2026-10-29T21:26:37+05:30",
+    "headline": "Local body polls: Andhra Pradesh CM Naidu insists on alliance dharma, warns rebels of suspension",
+    "summary": "Naidu tells District in-charge Ministers to resolve any disputes among teh cadres without delay",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-cm-naidu-insists-on-alliance-dharma-warns-rebels-of-suspension/article71641233.ece",
+    "time": "2026-10-29T23:31:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Tirupati district tightens security for free, fair local elections",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-district-tightens-security-for-free-fair-local-elections/article71640941.ece",
-    "time": "2026-10-29T21:20:18+05:30",
+    "headline": "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
+    "summary": "Formed over Andaman Sea, the low-pressure area may strengthen over the next three days and approach Andhra Pradesh coast, says IMD",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/coastal-andhra-pradesh-may-receive-heavy-rain-from-november-1-as-low-pressure-area-brewing-over-bay-of-bengal-revised-copy-for-print/article71640142.ece",
+    "time": "2026-10-29T23:29:45+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Four arrested in CPI (M) leader Samineni Rama Rao’s murder case in Khammam",
+    "headline": "ACB, Food Safety and Drug Control teams inspect NIMS amid corruption allegations",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/four-arrested-in-cpi-m-leader-samineni-rama-raos-murder-case-in-khammam/article71641720.ece",
-    "time": "2026-10-29T21:42:20+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/acb-food-safety-and-drug-control-teams-inspect-nims-amid-corruption-allegations/article71642065.ece",
+    "time": "2026-10-30T00:37:08+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "KTR flays govt. for holding public hearing on Musi river project",
+    "headline": "SIR deadline for Telangana extended to November 30, 2026",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ktr-flays-govt-for-holding-public-hearing-on-musi-river-project/article71641849.ece",
-    "time": "2026-10-29T21:39:50+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/sir-deadline-for-telangana-extended-to-november-30-2026/article71642273.ece",
+    "time": "2026-10-29T23:54:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "HYDRAA clears encroachments on 12 acres of RK Puram lake",
+    "headline": "37% of pre-SIR Form-6 applications rejected due to absence of declaration form",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hydraa-clears-encroachments-on-12-acres-of-rk-puram-lake/article71641137.ece",
-    "time": "2026-10-29T21:26:24+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece",
+    "time": "2026-10-29T23:50:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "After 23-year legal battle, Telangana government secures protection for land worth thousands of crores",
-    "summary": "Supreme Court dismisses appeals over 550 acres of Miyapur government land",
-    "link": "https://www.thehindu.com/news/national/telangana/after-23-year-legal-battle-telangana-government-secures-protection-for-land-worth-thousands-of-crores/article71641650.ece",
-    "time": "2026-10-29T21:25:37+05:30",
+    "headline": "Invest in Telangana and thrive, CM tells business heads",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/invest-in-telangana-and-thrive-cm-tells-business-heads/article71642007.ece",
+    "time": "2026-10-29T22:10:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Woman booked for murder of teenage daughter and trying to pass it off as suicide",
+    "headline": "Telangana sends 2K staff, material to A.P. for power supply restoration work",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/woman-booked-for-murder-of-teenage-daughter-and-trying-to-pass-it-off-as-suicide/article71641425.ece",
-    "time": "2026-10-29T20:49:44+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece",
+    "time": "2026-10-29T22:07:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "‘Robust monitoring needed to ensure SC/ST sub-plan funds reach intended beneficiaries’",
+    "headline": "Awareness session on kidney, urological conditions held in Nizamabad",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/robust-monitoring-needed-to-ensure-scst-sub-plan-funds-reach-intended-beneficiaries/article71640978.ece",
-    "time": "2026-10-29T20:49:23+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/awareness-session-on-kidney-urological-conditions-held-in-nizamabad/article71640618.ece",
+    "time": "2026-10-29T21:55:16+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "37% of pre-SIR Form-6 applications rejected due to absence of declaration form",
+    "headline": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and…",
+    "summary": "Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece",
+    "time": "2026-10-30T02:07:30+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
+    "summary": "Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece",
+    "time": "2026-10-30T01:49:37+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+    "summary": "No sky lanterns allowed without formal permission from the fire department, says DGP West Bengal",
+    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-warns-of-strict-action-against-c-on-diwali-chhath/article71641136.ece",
+    "time": "2026-10-30T01:43:08+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+    "summary": "The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights”",
+    "link": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece",
+    "time": "2026-10-30T01:27:12+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Hike to help farmers, says CM; Ashok accuses govt. of placing burden on people",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece",
-    "time": "2026-10-29T21:44:04+05:30",
+    "link": "https://www.thehindu.com/news/national/karnataka/hike-to-help-farmers-says-cm-ashok-accuses-govt-of-placing-burden-on-people/article71641665.ece",
+    "time": "2026-10-30T01:05:52+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lorry driver gets seven days jail for hitting Vizianagaram Collector’s car",
+    "headline": "3,000 LED street lights to be installed in Vellore, Tiruvannamalai",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lorry-driver-gets-seven-days-jail-for-hitting-vizianagaram-collectors-car/article71641667.ece",
-    "time": "2026-10-29T21:43:27+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "NoRKA Care enrolment portal launched for Non-Resident Keralites",
-    "summary": "Existing members can renew their health and accident insurance policies, while new applicants can register for the scheme until November 30, 2026; the web portal and the updated mobile application allow NRKs from…",
-    "link": "https://www.thehindu.com/news/national/kerala/norka-care-enrolment-portal-launched-for-non-resident-keralites/article71641087.ece",
-    "time": "2026-10-29T21:42:45+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Four arrested in CPI (M) leader Samineni Rama Rao’s murder case in Khammam",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/four-arrested-in-cpi-m-leader-samineni-rama-raos-murder-case-in-khammam/article71641720.ece",
-    "time": "2026-10-29T21:42:20+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "KTR flays govt. for holding public hearing on Musi river project",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ktr-flays-govt-for-holding-public-hearing-on-musi-river-project/article71641849.ece",
-    "time": "2026-10-29T21:39:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Supreme Court calls for financial institutions to compensate digital arrest victims",
-    "summary": "The Bench stressed that the proposed regulatory framework must provide for suitable compensation to victims where financial institutions are found to have failed in their due diligence obligations",
-    "link": "https://www.thehindu.com/news/national/sc-calls-for-mandatory-compensation-to-digital-fraud-victims-in-case-of-banks-due-diligence/article71640230.ece",
-    "time": "2026-10-29T21:36:26+05:30",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/3000-led-street-lights-to-be-installed-in-vellore-tiruvannamalai/article71640686.ece",
+    "time": "2026-10-30T01:03:13+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Even birds get jet lagged, study shows",
+    "summary": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
+    "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+    "time": "2026-10-29T14:00:00-04:00",
+    "source": "NPR"
+   },
    {
     "headline": "With days to go before the midterms, data shows the U.S. economy is doing well",
     "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
@@ -354,35 +361,35 @@
     "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
     "time": "2026-10-28T17:15:09-04:00",
     "source": "NPR"
-   },
-   {
-    "headline": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-    "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
-    "time": "2026-10-28T14:07:33-04:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
-    "time": "2026-10-29T15:47:20+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
     "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
     "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no",
-    "time": "2026-10-29T15:15:05+00:00",
+    "time": "2026-10-29T20:15:05+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+    "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo",
+    "time": "2026-10-29T20:05:57+00:00",
     "source": "BBC News"
    },
    {
     "headline": "EU chief lays out vision for new Canada partnership at Montreal summit",
     "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
-    "time": "2026-10-29T15:14:34+00:00",
+    "time": "2026-10-29T17:02:59+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
+    "time": "2026-10-29T15:47:20+00:00",
     "source": "BBC News"
    },
    {
@@ -397,13 +404,6 @@
     "summary": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
     "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
     "time": "2026-10-29T14:49:25+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-    "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko",
-    "time": "2026-10-29T14:17:35+00:00",
     "source": "BBC News"
    }
   ]
