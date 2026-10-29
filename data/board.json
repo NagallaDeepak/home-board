@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T23:24:15.879333+00:00",
+ "updatedAt": "2026-10-29T02:39:03.424054+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,11 +8,11 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 46.4,
-    "feels": 42.3,
-    "hum": 83,
-    "wind": 4.8,
-    "code": 2
+    "t": 42.8,
+    "feels": 37.9,
+    "hum": 85,
+    "wind": 5.2,
+    "code": 0
    },
    "days": [
     {
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-10-29",
-     "hi": 66.3,
-     "lo": 40.4,
+     "hi": 66.4,
+     "lo": 40.6,
      "code": 0,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 23.9
+     "gustMph": 24.8
     },
     {
      "date": "2026-10-30",
-     "hi": 65.0,
-     "lo": 50.2,
+     "hi": 63.1,
+     "lo": 50.3,
      "code": 3,
-     "rain": 12,
+     "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 29.8
+     "gustMph": 30.9
     },
     {
      "date": "2026-10-31",
-     "hi": 54.3,
-     "lo": 43.9,
+     "hi": 54.2,
+     "lo": 43.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 29.1
+     "gustMph": 27.1
     },
     {
      "date": "2026-11-01",
-     "hi": 59.4,
-     "lo": 45.0,
+     "hi": 57.4,
+     "lo": 44.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 18.3
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.4,
-    "feels": 24.0,
-    "hum": 80,
-    "wind": 7.4,
-    "code": 1
+    "t": 23.3,
+    "feels": 24.7,
+    "hum": 74,
+    "wind": 7.5,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-10-29",
-     "hi": 30.1,
-     "lo": 22.1,
+     "hi": 29.4,
+     "lo": 21.9,
      "code": 3,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 24.8
+     "gustMph": 24.4
     },
     {
      "date": "2026-10-30",
-     "hi": 31.9,
-     "lo": 23.3,
+     "hi": 31.5,
+     "lo": 22.8,
      "code": 51,
      "rain": 69,
      "rainMm": 2.3,
-     "gustMph": 16.3
+     "gustMph": 15.2
     },
     {
      "date": "2026-10-31",
-     "hi": 32.9,
-     "lo": 22.7,
-     "code": 53,
+     "hi": 30.9,
+     "lo": 22.4,
+     "code": 80,
      "rain": 69,
-     "rainMm": 1.5,
-     "gustMph": 17.7
+     "rainMm": 6.2,
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-01",
-     "hi": 30.6,
-     "lo": 23.3,
-     "code": 51,
+     "hi": 29.9,
+     "lo": 22.1,
+     "code": 53,
      "rain": 63,
-     "rainMm": 0.9,
-     "gustMph": 16.6
+     "rainMm": 1.4,
+     "gustMph": 15.2
     },
     {
      "date": "2026-11-02",
-     "hi": 32.0,
-     "lo": 23.2,
-     "code": 53,
+     "hi": 31.0,
+     "lo": 22.4,
+     "code": 80,
      "rain": 78,
-     "rainMm": 2.7,
-     "gustMph": 18.1
+     "rainMm": 8.4,
+     "gustMph": 17.7
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.2,
-    "feels": 26.3,
-    "hum": 80,
-    "wind": 8.5,
-    "code": 0
+    "t": 26.2,
+    "feels": 29.7,
+    "hum": 79,
+    "wind": 6.4,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-10-29",
-     "hi": 30.9,
-     "lo": 24.0,
+     "hi": 30.6,
+     "lo": 23.8,
      "code": 51,
      "rain": 34,
-     "rainMm": 0.4,
-     "gustMph": 18.8
+     "rainMm": 0.2,
+     "gustMph": 21.5
     },
     {
      "date": "2026-10-30",
-     "hi": 31.6,
-     "lo": 25.0,
-     "code": 95,
+     "hi": 31.2,
+     "lo": 24.7,
+     "code": 80,
      "rain": 72,
      "rainMm": 2.0,
-     "gustMph": 15.0
+     "gustMph": 16.1
     },
     {
      "date": "2026-10-31",
-     "hi": 30.3,
-     "lo": 24.6,
-     "code": 55,
+     "hi": 31.2,
+     "lo": 24.8,
+     "code": 51,
      "rain": 84,
-     "rainMm": 1.7,
-     "gustMph": 17.2
+     "rainMm": 1.0,
+     "gustMph": 16.8
     },
     {
      "date": "2026-11-01",
-     "hi": 31.3,
-     "lo": 23.8,
+     "hi": 31.1,
+     "lo": 24.0,
      "code": 51,
      "rain": 49,
-     "rainMm": 0.3,
-     "gustMph": 16.6
+     "rainMm": 0.4,
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-02",
-     "hi": 30.0,
-     "lo": 24.9,
-     "code": 55,
+     "hi": 30.5,
+     "lo": 25.2,
+     "code": 95,
      "rain": 85,
-     "rainMm": 6.3,
-     "gustMph": 24.4
+     "rainMm": 6.6,
+     "gustMph": 27.3
     }
    ],
    "alert": null
@@ -189,17 +189,24 @@
  "news": {
   "andhra": [
    {
+    "headline": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "summary": "At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+    "time": "2026-10-29T07:44:25+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "summary": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+    "time": "2026-10-29T07:03:35+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Hunker down: On Cyclone Arnab, its landfall",
     "summary": "Proactive governance kept the casualties low after Cyclone Arnab",
     "link": "https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece",
     "time": "2026-10-29T01:30:31+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-    "summary": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
-    "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
-    "time": "2026-10-29T00:15:54+05:30",
     "source": "The Hindu"
    },
    {
@@ -222,16 +229,30 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/5-dead-as-cyclone-arnab-batters-north-andhra-with-heavy-rain/article71636779.ece",
     "time": "2026-10-28T22:03:26+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Vizianagaram Collector, staff unhurt after lorry hits official vehicle",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-collector-staff-unhurt-after-lorry-hits-official-vehicle/article71636715.ece",
-    "time": "2026-10-28T21:29:08+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "Railways to turn off charging points in trains during night",
+    "summary": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours,…",
+    "link": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+    "time": "2026-10-29T02:11:32+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Kavitha threatens to block census operations over OBC column demand",
+    "summary": "Hyderabad Declaration adopts nine resolutions on caste census, reservations",
+    "link": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece",
+    "time": "2026-10-29T00:34:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Manufacturers told to focus on value addition, design-led innovation, tech ownership",
+    "summary": "Speakers at the inaugural session of a CII conference on advanced manufacturing said this underscoring the need for India to move beyond manufacturing scale",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+    "time": "2026-10-28T23:19:24+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Former MLC moves HC questioning ‘prohibitory list’ of lands, says government targeting BRS leaders",
     "summary": "",
@@ -252,74 +273,60 @@
     "link": "https://www.thehindu.com/news/cities/Hyderabad/malkajgiri-mp-eatala-rajendra-seeks-pms-intervention-to-resolve-jawaharnagar-landfill-crisis/article71637356.ece",
     "time": "2026-10-28T21:51:26+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/social-media-users-trash-telangana-ceos-claims-on-sir-call-the-process-a-sham/article71636775.ece",
-    "time": "2026-10-28T21:41:51+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "BJP demands ₹15,000-acre relief for farmers",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bjp-demands-15000-acre-relief-for-farmers/article71637248.ece",
-    "time": "2026-10-28T21:41:48+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bhatti seeks political consensus on drought preparedness",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bhatti-seeks-political-consensus-on-drought-preparedness/article71637368.ece",
-    "time": "2026-10-28T21:41:29+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
-    "summary": "The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance",
-    "link": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece",
-    "time": "2026-10-29T03:05:29+05:30",
+    "headline": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "summary": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+    "time": "2026-10-29T07:55:12+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
-    "summary": "Brijmohan Shrivastav claimed that the previously raised queries about her appointment as the national president were still unresolved",
-    "link": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece",
-    "time": "2026-10-29T02:53:18+05:30",
+    "headline": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "summary": "At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+    "time": "2026-10-29T07:44:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
-    "summary": "She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece",
-    "time": "2026-10-29T02:32:02+05:30",
+    "headline": "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+    "summary": "Several people disputed the CEO’s claim that Booth Level Officers had conducted house-to-house visits, while others complained that they had not received enumeration forms",
+    "link": "https://www.thehindu.com/news/national/telangana/social-media-users-trash-telangana-ceos-claims-on-sir-call-the-process-a-sham/article71636775.ece",
+    "time": "2026-10-29T07:25:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Pakistan minister invites Punjab CM Mann",
-    "summary": "Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in…",
-    "link": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece",
-    "time": "2026-10-29T02:27:21+05:30",
+    "headline": "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+    "summary": "Karnataka Conduct of Government Litigation Act, 2023, prescribes that officers must stick to the period of limitation fixed to prefer appeals, review or revision against a court verdict, the Bench said, noting that none…",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hcflags-irony-law-meant-to-curb-red-tapism-bogged-down-it/article71636393.ece",
+    "time": "2026-10-29T07:24:23+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bihar MLC polls: Upper caste candidates dominate election results",
-    "summary": "The Opposition Congress party which had put up its candidates on five seats has failed to win even a single seat in the elections",
-    "link": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece",
-    "time": "2026-10-29T02:19:49+05:30",
+    "headline": "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+    "summary": "The RSS Friends, which provided a Georgia address in the registration document, listed Rashtriya Swayamsevak Sangh, Keshavkunj, New Delhi as its “foreign principal”",
+    "link": "https://www.thehindu.com/news/international/rss-friends-registers-in-us-to-step-up-outreach-correct-inaccuracies/article71638780.ece",
+    "time": "2026-10-29T07:23:56+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Railways to turn off charging points in trains during night",
-    "summary": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours,…",
-    "link": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
-    "time": "2026-10-29T02:11:32+05:30",
+    "headline": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+    "summary": "Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade…",
+    "link": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+    "time": "2026-10-29T07:19:39+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
+    "summary": "El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+    "time": "2026-10-28T22:20:45-04:00",
+    "source": "NPR"
+   },
    {
     "headline": "Trump administration wants to remove regulations on a super planet-heating gas",
     "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
@@ -354,13 +361,6 @@
     "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
     "time": "2026-10-28T05:00:00-04:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-    "summary": "President Donald Trump said that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-    "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-    "time": "2026-10-28T02:15:31-04:00",
-    "source": "NPR"
    }
   ],
   "world": [
@@ -368,7 +368,7 @@
     "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
     "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-    "time": "2026-10-28T23:21:48+00:00",
+    "time": "2026-10-29T01:14:01+00:00",
     "source": "BBC News"
    },
    {
