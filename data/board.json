@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T21:19:26.596570+00:00",
+ "updatedAt": "2026-10-30T01:15:44.961003+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,9 +8,9 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 64.2,
-    "feels": 60.1,
-    "hum": 56,
+    "t": 56.8,
+    "feels": 52.8,
+    "hum": 74,
     "wind": 8.6,
     "code": 0
    },
@@ -26,10 +26,10 @@
     },
     {
      "date": "2026-10-30",
-     "hi": 67.0,
+     "hi": 68.8,
      "lo": 45.3,
      "code": 3,
-     "rain": 3,
+     "rain": 1,
      "rainMm": 0.0,
      "gustMph": 30.0
     },
@@ -44,8 +44,8 @@
     },
     {
      "date": "2026-11-01",
-     "hi": 57.9,
-     "lo": 41.7,
+     "hi": 59.0,
+     "lo": 41.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -53,8 +53,8 @@
     },
     {
      "date": "2026-11-02",
-     "hi": 65.6,
-     "lo": 48.1,
+     "hi": 65.8,
+     "lo": 48.3,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.4,
-    "feels": 27.4,
+    "t": 22.9,
+    "feels": 26.3,
     "hum": 85,
-    "wind": 1.1,
-    "code": 0
+    "wind": 2.6,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-10-30",
-     "hi": 30.8,
-     "lo": 22.8,
-     "code": 55,
-     "rain": 93,
-     "rainMm": 3.5,
-     "gustMph": 13.4
+     "hi": 30.7,
+     "lo": 22.6,
+     "code": 80,
+     "rain": 82,
+     "rainMm": 3.0,
+     "gustMph": 14.5
     },
     {
      "date": "2026-10-31",
-     "hi": 30.5,
-     "lo": 21.6,
+     "hi": 29.8,
+     "lo": 21.9,
      "code": 80,
-     "rain": 97,
-     "rainMm": 2.2,
-     "gustMph": 16.1
+     "rain": 90,
+     "rainMm": 1.8,
+     "gustMph": 17.7
     },
     {
      "date": "2026-11-01",
-     "hi": 28.7,
-     "lo": 22.6,
-     "code": 80,
-     "rain": 55,
-     "rainMm": 3.2,
-     "gustMph": 21.5
+     "hi": 28.6,
+     "lo": 22.7,
+     "code": 55,
+     "rain": 65,
+     "rainMm": 1.9,
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-02",
-     "hi": 28.9,
-     "lo": 21.9,
+     "hi": 30.3,
+     "lo": 22.1,
      "code": 53,
-     "rain": 78,
-     "rainMm": 3.9,
-     "gustMph": 19.9
+     "rain": 90,
+     "rainMm": 0.9,
+     "gustMph": 19.5
     },
     {
      "date": "2026-11-03",
-     "hi": 28.1,
-     "lo": 21.6,
+     "hi": 27.6,
+     "lo": 22.0,
      "code": 53,
-     "rain": 60,
-     "rainMm": 3.0,
-     "gustMph": 24.4
+     "rain": 63,
+     "rainMm": 3.9,
+     "gustMph": 24.2
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.1,
-    "feels": 31.2,
-    "hum": 96,
-    "wind": 0.8,
-    "code": 2
+    "t": 25.6,
+    "feels": 31.7,
+    "hum": 94,
+    "wind": 1.3,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-10-30",
-     "hi": 31.1,
+     "hi": 30.6,
      "lo": 24.9,
-     "code": 55,
-     "rain": 92,
-     "rainMm": 1.4,
-     "gustMph": 17.9
+     "code": 80,
+     "rain": 98,
+     "rainMm": 1.9,
+     "gustMph": 18.8
     },
     {
      "date": "2026-10-31",
-     "hi": 30.7,
-     "lo": 24.7,
+     "hi": 30.5,
+     "lo": 24.1,
      "code": 95,
-     "rain": 84,
-     "rainMm": 2.4,
-     "gustMph": 15.7
+     "rain": 92,
+     "rainMm": 2.0,
+     "gustMph": 14.5
     },
     {
      "date": "2026-11-01",
-     "hi": 30.8,
-     "lo": 24.1,
-     "code": 3,
-     "rain": 69,
-     "rainMm": 0.0,
-     "gustMph": 13.6
+     "hi": 30.9,
+     "lo": 24.2,
+     "code": 51,
+     "rain": 59,
+     "rainMm": 1.0,
+     "gustMph": 14.8
     },
     {
      "date": "2026-11-02",
-     "hi": 28.2,
-     "lo": 24.2,
-     "code": 81,
-     "rain": 89,
-     "rainMm": 9.5,
-     "gustMph": 28.2
+     "hi": 27.8,
+     "lo": 24.0,
+     "code": 95,
+     "rain": 97,
+     "rainMm": 12.2,
+     "gustMph": 25.1
     },
     {
      "date": "2026-11-03",
-     "hi": 25.4,
-     "lo": 22.6,
-     "code": 95,
-     "rain": 70,
-     "rainMm": 38.7,
-     "gustMph": 25.9
+     "hi": 25.2,
+     "lo": 23.4,
+     "code": 55,
+     "rain": 84,
+     "rainMm": 11.1,
+     "gustMph": 20.4
     }
    ],
    "alert": null
@@ -188,6 +188,13 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "summary": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+    "time": "2026-10-30T06:02:08+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Saras mela resumes after remaining closed on Wednesday",
     "summary": "",
@@ -200,13 +207,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/ex-mayor-bhagyalakshmi-appeals-to-voters-to-give-her-another-opportunity/article71641446.ece",
     "time": "2026-10-30T00:52:06+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-    "summary": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
-    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
-    "time": "2026-10-30T00:48:27+05:30",
     "source": "The Hindu"
    },
    {
@@ -277,45 +277,45 @@
   ],
   "india": [
    {
-    "headline": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and…",
-    "summary": "Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece",
-    "time": "2026-10-30T02:07:30+05:30",
+    "headline": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "summary": "BJP BLAs submit nearly 68% of Form 7s seeking deletions as ‘objector’ in Mustafabad, all against Muslim electors citing ‘absent/permanently shifted’ or ‘death’",
+    "link": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece",
+    "time": "2026-10-30T06:05:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
-    "summary": "Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers",
-    "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece",
-    "time": "2026-10-30T01:49:37+05:30",
+    "headline": "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "summary": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
+    "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
+    "time": "2026-10-30T06:02:08+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
-    "summary": "No sky lanterns allowed without formal permission from the fire department, says DGP West Bengal",
-    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-warns-of-strict-action-against-c-on-diwali-chhath/article71641136.ece",
-    "time": "2026-10-30T01:43:08+05:30",
+    "headline": "Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+    "summary": "During the entire Legislative Council election, Lalan Singh did not even campaign in support of Neeraj, but rather gave moral support to Anant Singh, who was campaigning against Neeraj",
+    "link": "https://www.thehindu.com/news/national/bihar/will-repay-political-debt-with-interest-neeraj-kumar-on-lalan-singh/article71641017.ece",
+    "time": "2026-10-30T05:56:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
-    "summary": "The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights”",
-    "link": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece",
-    "time": "2026-10-30T01:27:12+05:30",
+    "headline": "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+    "summary": "Anantnag is the third major district with a sizable number of lawyers in J&K after Jammu and Srinagar",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/district-magistrate-declares-anantnag-bar-elections-null-and-void-cites-violations-of-official-orders/article71641241.ece",
+    "time": "2026-10-30T05:48:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hike to help farmers, says CM; Ashok accuses govt. of placing burden on people",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/hike-to-help-farmers-says-cm-ashok-accuses-govt-of-placing-burden-on-people/article71641665.ece",
-    "time": "2026-10-30T01:05:52+05:30",
+    "headline": "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+    "summary": "Indranil Sen served as the tourism and culture minister during the Mamata Banerjee era",
+    "link": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-sent-to-13-days-police-custody/article71640831.ece",
+    "time": "2026-10-30T05:28:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "3,000 LED street lights to be installed in Vellore, Tiruvannamalai",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/3000-led-street-lights-to-be-installed-in-vellore-tiruvannamalai/article71640686.ece",
-    "time": "2026-10-30T01:03:13+05:30",
+    "headline": "When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life",
+    "summary": "Sonia Gandhi had come to India to marry Rajiv Gandhi, then a pilot with no political ambitions, and expected to build a private life with her husband and their two children",
+    "link": "https://www.thehindu.com/news/national/when-politics-chose-me-sonia-gandhis-2007-speech-offered-a-glimpse-into-her-personal-life/article71642500.ece",
+    "time": "2026-10-30T03:51:38+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,10 +365,31 @@
   ],
   "world": [
    {
+    "headline": "Young athlete and former minister among victims of Spain train crash",
+    "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+    "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo",
+    "time": "2026-10-29T21:33:35+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
     "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
     "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no",
-    "time": "2026-10-29T20:15:05+00:00",
+    "time": "2026-10-29T21:31:12+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Watch: What leaked audio reveals about Spain train crash",
+    "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+    "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo",
+    "time": "2026-10-29T20:50:25+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+    "time": "2026-10-29T20:21:54+00:00",
     "source": "BBC News"
    },
    {
@@ -383,27 +404,6 @@
     "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
     "time": "2026-10-29T17:02:59+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
-    "time": "2026-10-29T15:47:20+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-    "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o",
-    "time": "2026-10-29T14:58:28+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
-    "summary": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
-    "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
-    "time": "2026-10-29T14:49:25+00:00",
     "source": "BBC News"
    }
   ]
