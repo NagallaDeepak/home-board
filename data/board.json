@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T23:28:32.147165+00:00",
+ "updatedAt": "2026-10-31T02:40:17.131189+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,39 +8,39 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 54.0,
-    "feels": 44.2,
+    "t": 50.2,
+    "feels": 42.0,
     "hum": 46,
-    "wind": 14.8,
+    "wind": 9.8,
     "code": 0
    },
    "days": [
     {
      "date": "2026-10-30",
      "hi": 71.9,
-     "lo": 47.9,
+     "lo": 48.8,
      "code": 3,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 34.0
+     "gustMph": 33.6
     },
     {
      "date": "2026-10-31",
-     "hi": 52.6,
-     "lo": 35.9,
-     "code": 1,
+     "hi": 53.6,
+     "lo": 36.9,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 30.4
+     "gustMph": 28.6
     },
     {
      "date": "2026-11-01",
-     "hi": 59.2,
-     "lo": 31.1,
+     "hi": 57.7,
+     "lo": 31.2,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-02",
@@ -49,7 +49,7 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.2
+     "gustMph": 23.7
     },
     {
      "date": "2026-11-03",
@@ -58,7 +58,7 @@
      "code": 3,
      "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 24.8
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.6,
-    "feels": 25.9,
-    "hum": 86,
-    "wind": 2.8,
-    "code": 1
+    "t": 23.5,
+    "feels": 27.1,
+    "hum": 84,
+    "wind": 2.2,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-10-31",
-     "hi": 31.0,
-     "lo": 22.3,
-     "code": 55,
+     "hi": 30.3,
+     "lo": 21.2,
+     "code": 80,
      "rain": 100,
-     "rainMm": 3.4,
-     "gustMph": 15.4
+     "rainMm": 6.5,
+     "gustMph": 17.4
     },
     {
      "date": "2026-11-01",
-     "hi": 30.0,
-     "lo": 22.1,
-     "code": 80,
+     "hi": 29.6,
+     "lo": 22.2,
+     "code": 53,
      "rain": 90,
-     "rainMm": 4.1,
-     "gustMph": 19.5
+     "rainMm": 1.3,
+     "gustMph": 15.2
     },
     {
      "date": "2026-11-02",
-     "hi": 29.8,
-     "lo": 21.9,
-     "code": 80,
+     "hi": 30.5,
+     "lo": 22.1,
+     "code": 55,
      "rain": 80,
-     "rainMm": 3.6,
-     "gustMph": 16.8
+     "rainMm": 3.8,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-03",
-     "hi": 30.2,
-     "lo": 22.3,
-     "code": 51,
+     "hi": 30.1,
+     "lo": 22.1,
+     "code": 53,
      "rain": 76,
-     "rainMm": 1.5,
-     "gustMph": 19.7
+     "rainMm": 3.3,
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-04",
-     "hi": 30.5,
-     "lo": 21.9,
+     "hi": 30.6,
+     "lo": 21.6,
      "code": 51,
      "rain": 59,
-     "rainMm": 0.3,
-     "gustMph": 16.3
+     "rainMm": 1.2,
+     "gustMph": 19.0
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.7,
-    "feels": 30.5,
-    "hum": 97,
-    "wind": 1.6,
-    "code": 53
+    "t": 26.5,
+    "feels": 32.0,
+    "hum": 89,
+    "wind": 4.2,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-10-31",
-     "hi": 31.1,
-     "lo": 24.2,
+     "hi": 30.9,
+     "lo": 24.5,
      "code": 80,
      "rain": 87,
-     "rainMm": 4.4,
-     "gustMph": 20.4
-    },
-    {
-     "date": "2026-11-01",
-     "hi": 30.9,
-     "lo": 24.4,
-     "code": 95,
-     "rain": 92,
-     "rainMm": 4.3,
+     "rainMm": 3.0,
      "gustMph": 16.6
     },
     {
-     "date": "2026-11-02",
-     "hi": 28.4,
-     "lo": 24.5,
-     "code": 96,
+     "date": "2026-11-01",
+     "hi": 30.4,
+     "lo": 24.4,
+     "code": 80,
      "rain": 92,
-     "rainMm": 7.4,
-     "gustMph": 26.4
+     "rainMm": 4.4,
+     "gustMph": 14.8
+    },
+    {
+     "date": "2026-11-02",
+     "hi": 28.9,
+     "lo": 24.2,
+     "code": 95,
+     "rain": 92,
+     "rainMm": 8.3,
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-03",
-     "hi": 26.4,
-     "lo": 24.5,
+     "hi": 26.5,
+     "lo": 25.0,
      "code": 81,
      "rain": 89,
-     "rainMm": 72.9,
-     "gustMph": 47.6
+     "rainMm": 17.1,
+     "gustMph": 37.1
     },
     {
      "date": "2026-11-04",
-     "hi": 31.3,
-     "lo": 24.2,
+     "hi": 31.6,
+     "lo": 24.4,
      "code": 53,
      "rain": 55,
      "rainMm": 2.4,
-     "gustMph": 23.0
+     "gustMph": 26.4
     }
    ],
    "alert": null
@@ -277,45 +277,45 @@
   ],
   "india": [
    {
-    "headline": "Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan",
-    "summary": "The highest voter turnout was recorded at 84.37% in Jaipur district’s Rampura Dabri",
-    "link": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece",
-    "time": "2026-10-31T03:39:43+05:30",
+    "headline": "INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+    "time": "2026-10-31T08:06:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "On JD(U) 23rd foundation day, party gives credit to Nitish for Bihar’s development",
-    "summary": "JD(U) State president pointed out that while the term “Bihari” had become synonymous with contempt and neglect before 2005, Nitish Kumar, through his efforts, restored honour and self-respect to Bihar and its people",
-    "link": "https://www.thehindu.com/news/national/bihar/on-jdu-23rd-foundation-day-party-gives-credit-to-nitish-for-bihars-development/article71645034.ece",
-    "time": "2026-10-31T03:32:50+05:30",
+    "headline": "India slams global energy disruptions through sanctions, chokepoints",
+    "summary": "The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact",
+    "link": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
+    "time": "2026-10-31T07:03:55+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Deeply distressing to see ambulances stranded, students missing classes during convoy movement in Kashmir: Sakina Itoo",
-    "summary": "Sakina Ittoo appealed to L-G Sinha “to explore practical traffic management measures that uphold essential security protocols while ensuring uninterrupted passage for ambulances and minimising public inconvenience.”",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/deeply-distressing-to-see-ambulances-stranded-students-missing-classes-during-convoy-movement-in-kashmirsakina-itoo/article71646375.ece",
-    "time": "2026-10-31T02:42:39+05:30",
+    "headline": "The great escape from Theni jail",
+    "summary": "On October 26, a group of 17 remand prisoners hatched a plan to escape from the Theni district jail under the cover of darkness. All of them were apprehended within 42 hours in a massive search operation involving…",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/the-great-escape-from-tamil-nadus-theni-jail/article71645449.ece",
+    "time": "2026-10-31T07:01:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
-    "summary": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece",
-    "time": "2026-10-31T02:18:34+05:30",
+    "headline": "Jaishankar holds bilateral meetings with Foreign Ministers from G20 nations",
+    "summary": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
+    "link": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+    "time": "2026-10-31T06:21:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "GSLV places next-generation navigation satellite NVS-03 into orbit",
-    "summary": "The NVS-03, with a mission life of 12 years, is expected to restore the functioning of the NavIC constellation; satellite carries an indigenous atomic clock, along with procured atomic clocks",
-    "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
-    "time": "2026-10-31T02:08:44+05:30",
+    "headline": "NVS-03 launched successfully; satellite placed in intended orbit | Highlights",
+    "summary": "NVS-03 satellite is equipped with an indigenous atomic clock alongside procured atomic clocks",
+    "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+    "time": "2026-10-31T06:11:29+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Failed relationships cannot turn consensual sex into rape: Supreme Court",
-    "summary": "Court distinguishes between consent allegedly obtained through deception and regret over consensual intimacy after a relationship ends",
-    "link": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece",
-    "time": "2026-10-31T02:04:39+05:30",
+    "headline": "Ex-bureaucrat moves Delhi HC against ‘large-scale’ CAPF deployment during protests",
+    "summary": "The PIL seeks directions to the authorities to disclose details of requisitions made by the Delhi Police and the sanction and extension order of the Union Ministry of Home Affairs (MHA)",
+    "link": "https://www.thehindu.com/news/cities/Delhi/ex-bureaucrat-moves-delhi-high-court-against-large-scale-capf-deployment-during-protests/article71645606.ece",
+    "time": "2026-10-31T05:48:43+05:30",
     "source": "The Hindu"
    }
   ],
@@ -349,61 +349,61 @@
     "source": "NPR"
    },
    {
-    "headline": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-    "summary": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
-    "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+    "headline": "On what anatomical feature was Trump fixated this week? The quiz knows — do you?",
+    "summary": "Hint: He likes them big (and he cannot lie).",
+    "link": "https://www.npr.org/2026/10/30/g-s1-150445/trump-midterms-ai-china-star-trek-dhs-news-quiz",
     "time": "2026-10-30T05:00:00-04:00",
     "source": "NPR"
    },
    {
-    "headline": "Here are the Senate races to watch ahead of Election Day",
-    "summary": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.",
-    "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+    "headline": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+    "summary": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
+    "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
     "time": "2026-10-30T05:00:00-04:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-    "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-    "time": "2026-10-30T22:20:52+00:00",
+    "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+    "time": "2026-10-31T02:12:19+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
-    "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
-    "time": "2026-10-30T22:11:52+00:00",
+    "headline": "The Indian chef who brought curry to America - then vanished",
+    "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+    "link": "https://www.bbc.co.uk/news/articles/crm941n0413o",
+    "time": "2026-10-31T02:02:16+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-    "time": "2026-10-30T21:13:14+00:00",
+    "headline": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+    "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+    "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
+    "time": "2026-10-31T01:32:33+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-    "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
-    "time": "2026-10-30T20:55:18+00:00",
+    "headline": "Global nature talks reach deal but money remains an issue",
+    "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+    "time": "2026-10-31T01:27:05+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Police deployed during stand-off over control of top Poland court",
     "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
-    "time": "2026-10-30T20:52:01+00:00",
+    "time": "2026-10-31T01:11:43+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-    "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-    "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
-    "time": "2026-10-30T20:41:51+00:00",
+    "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+    "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+    "time": "2026-10-31T00:40:43+00:00",
     "source": "BBC News"
    }
   ]
