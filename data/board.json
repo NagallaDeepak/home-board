@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T22:46:17.833741+00:00",
+ "updatedAt": "2026-11-01T01:52:44.674894+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 46.0,
-    "feels": 38.7,
-    "hum": 37,
-    "wind": 5.1,
+    "t": 40.1,
+    "feels": 33.5,
+    "hum": 51,
+    "wind": 3.8,
     "code": 0
    },
    "days": [
     {
      "date": "2026-10-31",
      "hi": 54.9,
-     "lo": 37.7,
+     "lo": 37.3,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
@@ -27,15 +27,15 @@
     {
      "date": "2026-11-01",
      "hi": 59.1,
-     "lo": 30.7,
+     "lo": 30.8,
      "code": 0,
-     "rain": 1,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 17.0
     },
     {
      "date": "2026-11-02",
-     "hi": 65.7,
+     "hi": 66.1,
      "lo": 40.1,
      "code": 3,
      "rain": 2,
@@ -44,21 +44,21 @@
     },
     {
      "date": "2026-11-03",
-     "hi": 66.5,
-     "lo": 52.3,
+     "hi": 66.0,
+     "lo": 52.2,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 25.3
+     "gustMph": 27.5
     },
     {
      "date": "2026-11-04",
-     "hi": 68.8,
+     "hi": 69.6,
      "lo": 55.4,
      "code": 3,
      "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 27.3
+     "gustMph": 30.6
     }
    ],
    "alert": null
@@ -70,56 +70,56 @@
    "unit": "C",
    "now": {
     "t": 22.9,
-    "feels": 26.5,
+    "feels": 26.6,
     "hum": 90,
-    "wind": 3.1,
-    "code": 1
+    "wind": 2.9,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-01",
      "hi": 30.7,
-     "lo": 22.5,
-     "code": 51,
-     "rain": 76,
-     "rainMm": 1.0,
-     "gustMph": 20.1
+     "lo": 22.3,
+     "code": 53,
+     "rain": 78,
+     "rainMm": 2.1,
+     "gustMph": 17.9
     },
     {
      "date": "2026-11-02",
-     "hi": 30.8,
+     "hi": 30.9,
      "lo": 22.4,
-     "code": 95,
-     "rain": 88,
-     "rainMm": 9.4,
-     "gustMph": 20.1
+     "code": 80,
+     "rain": 96,
+     "rainMm": 3.8,
+     "gustMph": 21.7
     },
     {
      "date": "2026-11-03",
-     "hi": 29.7,
-     "lo": 22.2,
+     "hi": 29.1,
+     "lo": 22.5,
      "code": 51,
-     "rain": 56,
-     "rainMm": 0.6,
-     "gustMph": 21.9
+     "rain": 58,
+     "rainMm": 1.1,
+     "gustMph": 21.0
     },
     {
      "date": "2026-11-04",
-     "hi": 26.5,
-     "lo": 21.1,
-     "code": 53,
-     "rain": 57,
-     "rainMm": 4.2,
-     "gustMph": 22.1
+     "hi": 29.5,
+     "lo": 22.2,
+     "code": 55,
+     "rain": 69,
+     "rainMm": 3.1,
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-05",
-     "hi": 26.3,
-     "lo": 21.1,
+     "hi": 27.4,
+     "lo": 21.5,
      "code": 53,
-     "rain": 51,
-     "rainMm": 4.5,
-     "gustMph": 17.0
+     "rain": 66,
+     "rainMm": 3.6,
+     "gustMph": 18.1
     }
    ],
    "alert": null
@@ -130,64 +130,71 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.1,
-    "feels": 30.4,
-    "hum": 95,
-    "wind": 3.9,
-    "code": 2
+    "t": 26.1,
+    "feels": 31.8,
+    "hum": 93,
+    "wind": 3.8,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-01",
      "hi": 30.9,
-     "lo": 24.9,
-     "code": 95,
-     "rain": 37,
-     "rainMm": 4.7,
-     "gustMph": 16.3
+     "lo": 25.1,
+     "code": 51,
+     "rain": 57,
+     "rainMm": 0.9,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-02",
-     "hi": 28.9,
-     "lo": 25.2,
-     "code": 53,
-     "rain": 88,
-     "rainMm": 2.8,
-     "gustMph": 28.2
+     "hi": 29.2,
+     "lo": 24.9,
+     "code": 95,
+     "rain": 90,
+     "rainMm": 12.4,
+     "gustMph": 30.2
     },
     {
      "date": "2026-11-03",
-     "hi": 25.7,
-     "lo": 24.1,
-     "code": 96,
-     "rain": 87,
-     "rainMm": 220.8,
-     "gustMph": 62.9
+     "hi": 25.4,
+     "lo": 23.6,
+     "code": 95,
+     "rain": 96,
+     "rainMm": 210.6,
+     "gustMph": 72.5
     },
     {
      "date": "2026-11-04",
-     "hi": 27.5,
-     "lo": 23.7,
-     "code": 95,
-     "rain": 73,
-     "rainMm": 28.0,
-     "gustMph": 20.6
+     "hi": 28.0,
+     "lo": 23.0,
+     "code": 81,
+     "rain": 90,
+     "rainMm": 19.8,
+     "gustMph": 32.2
     },
     {
      "date": "2026-11-05",
      "hi": 29.4,
-     "lo": 23.6,
-     "code": 53,
-     "rain": 80,
-     "rainMm": 1.8,
-     "gustMph": 15.9
+     "lo": 23.1,
+     "code": 95,
+     "rain": 83,
+     "rainMm": 24.3,
+     "gustMph": 16.1
     }
    ],
-   "alert": "Tue: wind gusts up to 63 mph · Tue: heavy rain, about 221 mm"
+   "alert": "Tue: wind gusts up to 72 mph · Tue: heavy rain, about 211 mm"
   }
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+    "summary": "Elections in eight Municipalities and Nagar Panchayats — Allagadda, Dachepalli, Darsi, Gurajala, Kamalapuram, Piduguralla, Proddatur and Rayachoti — were unanimous, with both chairpersons and ward members elected…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
+    "time": "2026-11-01T06:49:50+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Arrangements in place for polling in 222 wards across NTR districts",
     "summary": "Inspecting the election materials, Collector says a total of 1,104 polling stations have been set up to enable voters to exercise their franchise freely",
@@ -221,13 +228,6 @@
     "summary": "Depression over southeast Bay of Bengal likely to intensify into a cyclone by November 1; officials told to monitor its movement every six hours and expedite restoration works in cyclone-hit areas",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-calls-for-high-alert-as-another-cyclone-threat-looms-over-andhra-pradesh/article71649991.ece",
     "time": "2026-10-31T22:13:34+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "App launched for effective coordination during election bandobust",
-    "summary": "Anantapur district police say around 1,500 police personnel and all polling stations have been integrated into a single digital system to ensure effective police coordination",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/app-launched-for-effective-coordination-during-election-bandobust/article71648398.ece",
-    "time": "2026-10-31T21:14:14+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,45 +277,45 @@
   ],
   "india": [
    {
+    "headline": "INDIA Bloc to hold mega rally against CEC, SIR today; leaders, supporters begin arriving in Delhi | LIVE",
+    "summary": "INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls",
+    "link": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece",
+    "time": "2026-11-01T06:57:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+    "summary": "Elections in eight Municipalities and Nagar Panchayats — Allagadda, Dachepalli, Darsi, Gurajala, Kamalapuram, Piduguralla, Proddatur and Rayachoti — were unanimous, with both chairpersons and ward members elected…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
+    "time": "2026-11-01T06:49:50+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "In Punjab, the highway to 2027",
+    "summary": "The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high.…",
+    "link": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece",
+    "time": "2026-11-01T04:50:22+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "IIT Bombay student death: Parents seek CBI investigation",
+    "summary": "The petition alleged that police had failed to probe the case with the seriousness it merits and, hence, sought the probe to be monitored by a retired judge",
+    "link": "https://www.thehindu.com/news/cities/mumbai/iit-student-death-sahil-wakodes-parents-move-bombay-hc-seeking-cbi-sit-probe/article71649160.ece",
+    "time": "2026-11-01T04:26:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements",
+    "summary": "The FDA said on October 30 that its proceedings against three actors had ended and that the matter would go before the Joint Commissioner for adjudication",
+    "link": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
+    "time": "2026-11-01T03:51:59+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
     "summary": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
     "link": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
     "time": "2026-11-01T03:09:30+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "In his first visit, BJP’s Bihar in-charge Harish Dwivedi stresses on strengthening the party",
-    "summary": "Dwivedi gave guidance on strengthening the organisation through regular meetings and effective public outreach campaigns",
-    "link": "https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece",
-    "time": "2026-11-01T02:28:03+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
-    "summary": "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
-    "time": "2026-11-01T02:27:53+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Akhilesh pitches Gorakhpur vs Kashi narrative, eyes inroads among Brahmins, business community",
-    "summary": "Akhilesh Yadav is attempting to make inroads among Brahmins and the Bania community by accusing the Chief Minister and his regime of being anti-Brahmins and Banias",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece",
-    "time": "2026-11-01T01:57:22+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Devotees worried over conduct of Kandasashti festival at Kandakottam temple",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/chennai/devotees-worried-over-conduct-of-kandasashti-festival-at-kandakottam-temple/article71650165.ece",
-    "time": "2026-11-01T01:35:01+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "We did not buy peace; we established peace in J&K: L-G Manoj Sinha on UT Foundation Day",
-    "summary": "L-G Manoj Sinha said terror, separatism and stone-pelting have given way to democracy, development and public participation after Article 370 was removed",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece",
-    "time": "2026-11-01T01:21:12+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,6 +365,27 @@
   ],
   "world": [
    {
+    "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+    "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+    "link": "https://www.bbc.co.uk/news/articles/c893z699q401o",
+    "time": "2026-11-01T00:55:06+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+    "time": "2026-11-01T00:12:07+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+    "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
+    "time": "2026-10-31T23:06:13+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
     "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
@@ -383,27 +404,6 @@
     "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
     "time": "2026-10-31T19:22:26+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-    "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-    "time": "2026-10-31T17:53:35+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Emotional reunions with loved ones for Oleshky evacuees",
-    "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-    "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo",
-    "time": "2026-10-31T16:55:47+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-    "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
-    "time": "2026-10-31T15:16:20+00:00",
     "source": "BBC News"
    }
   ]
