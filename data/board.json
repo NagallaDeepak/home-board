@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T20:14:14.626927+00:00",
+ "updatedAt": "2026-11-01T23:45:47.510515+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,44 +8,44 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 57.9,
-    "feels": 50.7,
-    "hum": 35,
-    "wind": 7.4,
+    "t": 47.0,
+    "feels": 40.9,
+    "hum": 52,
+    "wind": 4.9,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-01",
-     "hi": 58.0,
+     "hi": 58.1,
      "lo": 29.5,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-02",
-     "hi": 69.0,
-     "lo": 40.5,
-     "code": 3,
-     "rain": 5,
-     "rainMm": 0.0,
-     "gustMph": 21.5
-    },
-    {
-     "date": "2026-11-03",
-     "hi": 67.8,
-     "lo": 47.2,
+     "hi": 69.6,
+     "lo": 41.6,
      "code": 3,
      "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 16.7
+     "gustMph": 19.0
+    },
+    {
+     "date": "2026-11-03",
+     "hi": 68.5,
+     "lo": 45.5,
+     "code": 3,
+     "rain": 3,
+     "rainMm": 0.0,
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-04",
-     "hi": 67.2,
-     "lo": 52.6,
+     "hi": 67.8,
+     "lo": 53.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -53,11 +53,11 @@
     },
     {
      "date": "2026-11-05",
-     "hi": 66.4,
-     "lo": 55.7,
-     "code": 51,
-     "rain": 22,
-     "rainMm": 0.1,
+     "hi": 66.5,
+     "lo": 55.1,
+     "code": 3,
+     "rain": 29,
+     "rainMm": 0.0,
      "gustMph": 21.0
     }
    ],
@@ -69,11 +69,11 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 24.0,
-    "feels": 27.6,
-    "hum": 83,
-    "wind": 3.3,
-    "code": 2
+    "t": 23.5,
+    "feels": 26.7,
+    "hum": 84,
+    "wind": 4.2,
+    "code": 3
    },
    "days": [
     {
@@ -90,7 +90,7 @@
      "hi": 26.7,
      "lo": 22.2,
      "code": 80,
-     "rain": 73,
+     "rain": 79,
      "rainMm": 6.9,
      "gustMph": 28.2
     },
@@ -99,7 +99,7 @@
      "hi": 24.9,
      "lo": 21.6,
      "code": 53,
-     "rain": 78,
+     "rain": 90,
      "rainMm": 7.6,
      "gustMph": 28.4
     },
@@ -108,7 +108,7 @@
      "hi": 27.6,
      "lo": 21.1,
      "code": 53,
-     "rain": 74,
+     "rain": 59,
      "rainMm": 2.5,
      "gustMph": 17.0
     },
@@ -117,7 +117,7 @@
      "hi": 28.8,
      "lo": 21.2,
      "code": 51,
-     "rain": 65,
+     "rain": 49,
      "rainMm": 0.3,
      "gustMph": 13.6
     }
@@ -130,11 +130,11 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 26.7,
-    "feels": 30.0,
-    "hum": 81,
-    "wind": 9.6,
-    "code": 3
+    "t": 24.7,
+    "feels": 28.1,
+    "hum": 93,
+    "wind": 9.9,
+    "code": 51
    },
    "days": [
     {
@@ -151,7 +151,7 @@
      "hi": 26.8,
      "lo": 23.4,
      "code": 81,
-     "rain": 100,
+     "rain": 99,
      "rainMm": 16.1,
      "gustMph": 20.4
     },
@@ -169,7 +169,7 @@
      "hi": 30.5,
      "lo": 23.6,
      "code": 55,
-     "rain": 85,
+     "rain": 75,
      "rainMm": 5.3,
      "gustMph": 11.4
     },
@@ -178,7 +178,7 @@
      "hi": 30.8,
      "lo": 23.7,
      "code": 53,
-     "rain": 96,
+     "rain": 71,
      "rainMm": 3.3,
      "gustMph": 15.2
     }
@@ -277,10 +277,24 @@
   ],
   "india": [
    {
+    "headline": "AMU’s wants women on campus, not at the ballot box",
+    "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal…",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+    "time": "2026-11-02T04:40:26+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Even as unemployment falls, lack of ‘decent work’ in India",
     "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
     "link": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
-    "time": "2026-11-02T00:57:03+05:30",
+    "time": "2026-11-02T04:37:19+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+    "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of…",
+    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+    "time": "2026-11-02T04:21:05+05:30",
     "source": "The Hindu"
    },
    {
@@ -298,28 +312,28 @@
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
-    "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of…",
-    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-02T00:38:22+05:30",
-    "source": "The Hindu"
-   },
-   {
     "headline": "Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami",
     "summary": "The party’s performance in the recent bypoll in Dharapuram and Madurantakam Assembly constituencies, and preparations for its general council and executive committee meetings, expected to be conducted in December this…",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece",
     "time": "2026-11-02T00:34:20+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Litigants will not be entitled to refund of court fees if disputes get settled out of court after commencement of trial, rules Madras High Court",
-    "summary": "Justice P.B. Balaji refuses to follow Supreme Court’s 2017 verdict in M.C. Subramaniam’s case and instead follows the top court’s 2010 judgment in Afcons Infrastructure case",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/litigants-will-not-be-entitled-to-refund-of-court-fees-if-disputes-get-settled-out-of-court-after-commencement-of-trial-rules-madras-high-court/article71653425.ece",
-    "time": "2026-11-02T00:26:12+05:30",
-    "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Democrats are running on affordability. Are voters buying it?",
+    "summary": "Republicans started the year believing tax cuts would benefit them in the midterms. Instead other affordability issues are driving voters to Democrats.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6024693/democrats-are-running-on-affordability-are-voters-buying-it",
+    "time": "2026-11-01T17:25:28-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Willie the pony treats hospital patients with medicine for the soul",
+    "summary": "Sometimes hospitals invite special guests to come visit patients in an effort to boost spirits. One \"mane\" attraction at an Ohio hospital is Willie Nelson- the pony.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6003808/willie-the-pony-treats-hospital-patients-with-medicine-for-the-soul",
+    "time": "2026-11-01T17:25:27-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "How to think about the midterms — and the political moment the country is in",
     "summary": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
@@ -347,35 +361,21 @@
     "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
     "time": "2026-11-01T08:00:00-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Here's how to watch election night as the polls close, hour-by-hour",
-    "summary": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
-    "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-    "time": "2026-11-01T05:00:00-04:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-    "summary": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties…",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-    "time": "2026-11-01T04:20:19-04:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
-    "time": "2026-11-01T20:11:26+00:00",
+    "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+    "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+    "time": "2026-11-01T21:55:01+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-    "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
-    "time": "2026-11-01T19:48:17+00:00",
+    "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+    "time": "2026-11-01T21:16:45+00:00",
     "source": "BBC News"
    },
    {
