@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T01:52:44.674894+00:00",
+ "updatedAt": "2026-11-01T08:45:48.791974+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 40.1,
-    "feels": 33.5,
-    "hum": 51,
-    "wind": 3.8,
+    "t": 31.5,
+    "feels": 25.0,
+    "hum": 84,
+    "wind": 4.7,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-10-31",
-     "hi": 54.9,
-     "lo": 37.3,
-     "code": 0,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 26.6
-    },
-    {
      "date": "2026-11-01",
-     "hi": 59.1,
-     "lo": 30.8,
+     "hi": 58.0,
+     "lo": 29.7,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-02",
-     "hi": 66.1,
-     "lo": 40.1,
+     "hi": 70.4,
+     "lo": 40.5,
      "code": 3,
-     "rain": 2,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 25.1
+     "gustMph": 19.9
     },
     {
      "date": "2026-11-03",
-     "hi": 66.0,
-     "lo": 52.2,
+     "hi": 67.8,
+     "lo": 52.7,
      "code": 3,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 27.5
+     "gustMph": 25.9
     },
     {
      "date": "2026-11-04",
-     "hi": 69.6,
-     "lo": 55.4,
+     "hi": 70.0,
+     "lo": 55.3,
      "code": 3,
-     "rain": 3,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 30.6
+     "gustMph": 25.9
+    },
+    {
+     "date": "2026-11-05",
+     "hi": 69.2,
+     "lo": 55.6,
+     "code": 0,
+     "rain": 26,
+     "rainMm": 0.0,
+     "gustMph": 23.3
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.9,
-    "feels": 26.6,
-    "hum": 90,
-    "wind": 2.9,
-    "code": 2
+    "t": 31.1,
+    "feels": 33.9,
+    "hum": 50,
+    "wind": 5.7,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-01",
-     "hi": 30.7,
-     "lo": 22.3,
-     "code": 53,
-     "rain": 78,
-     "rainMm": 2.1,
-     "gustMph": 17.9
-    },
-    {
-     "date": "2026-11-02",
-     "hi": 30.9,
+     "hi": 31.1,
      "lo": 22.4,
-     "code": 80,
-     "rain": 96,
-     "rainMm": 3.8,
+     "code": 51,
+     "rain": 88,
+     "rainMm": 1.0,
      "gustMph": 21.7
     },
     {
+     "date": "2026-11-02",
+     "hi": 30.3,
+     "lo": 22.6,
+     "code": 53,
+     "rain": 88,
+     "rainMm": 1.7,
+     "gustMph": 23.9
+    },
+    {
      "date": "2026-11-03",
-     "hi": 29.1,
-     "lo": 22.5,
-     "code": 51,
-     "rain": 58,
-     "rainMm": 1.1,
-     "gustMph": 21.0
+     "hi": 26.0,
+     "lo": 21.8,
+     "code": 53,
+     "rain": 73,
+     "rainMm": 4.5,
+     "gustMph": 29.3
     },
     {
      "date": "2026-11-04",
-     "hi": 29.5,
-     "lo": 22.2,
-     "code": 55,
-     "rain": 69,
-     "rainMm": 3.1,
-     "gustMph": 26.2
+     "hi": 25.1,
+     "lo": 21.1,
+     "code": 95,
+     "rain": 64,
+     "rainMm": 62.7,
+     "gustMph": 37.1
     },
     {
      "date": "2026-11-05",
-     "hi": 27.4,
-     "lo": 21.5,
-     "code": 53,
-     "rain": 66,
-     "rainMm": 3.6,
-     "gustMph": 18.1
+     "hi": 26.1,
+     "lo": 20.8,
+     "code": 81,
+     "rain": 57,
+     "rainMm": 35.7,
+     "gustMph": 23.0
     }
    ],
    "alert": null
@@ -130,108 +130,122 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 26.1,
-    "feels": 31.8,
-    "hum": 93,
-    "wind": 3.8,
-    "code": 1
+    "t": 31.3,
+    "feels": 35.5,
+    "hum": 61,
+    "wind": 6.9,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-01",
-     "hi": 30.9,
-     "lo": 25.1,
+     "hi": 31.3,
+     "lo": 25.2,
      "code": 51,
-     "rain": 57,
-     "rainMm": 0.9,
-     "gustMph": 16.6
+     "rain": 41,
+     "rainMm": 0.3,
+     "gustMph": 17.7
     },
     {
      "date": "2026-11-02",
      "hi": 29.2,
-     "lo": 24.9,
+     "lo": 23.8,
      "code": 95,
-     "rain": 90,
-     "rainMm": 12.4,
-     "gustMph": 30.2
+     "rain": 84,
+     "rainMm": 17.0,
+     "gustMph": 28.0
     },
     {
      "date": "2026-11-03",
-     "hi": 25.4,
+     "hi": 25.7,
      "lo": 23.6,
      "code": 95,
-     "rain": 96,
-     "rainMm": 210.6,
-     "gustMph": 72.5
+     "rain": 98,
+     "rainMm": 58.8,
+     "gustMph": 27.5
     },
     {
      "date": "2026-11-04",
-     "hi": 28.0,
+     "hi": 27.7,
      "lo": 23.0,
-     "code": 81,
+     "code": 95,
      "rain": 90,
-     "rainMm": 19.8,
-     "gustMph": 32.2
+     "rainMm": 25.6,
+     "gustMph": 25.3
     },
     {
      "date": "2026-11-05",
-     "hi": 29.4,
-     "lo": 23.1,
+     "hi": 30.1,
+     "lo": 24.0,
      "code": 95,
-     "rain": 83,
-     "rainMm": 24.3,
-     "gustMph": 16.1
+     "rain": 85,
+     "rainMm": 4.2,
+     "gustMph": 21.5
     }
    ],
-   "alert": "Tue: wind gusts up to 72 mph · Tue: heavy rain, about 211 mm"
+   "alert": "Tue: heavy rain, about 59 mm"
   }
  ],
  "news": {
   "andhra": [
    {
-    "headline": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
-    "summary": "Elections in eight Municipalities and Nagar Panchayats — Allagadda, Dachepalli, Darsi, Gurajala, Kamalapuram, Piduguralla, Proddatur and Rayachoti — were unanimous, with both chairpersons and ward members elected…",
+    "headline": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; 37.13% turnout by 1 p.m. | LIVE",
+    "summary": "Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
-    "time": "2026-11-01T06:49:50+05:30",
+    "time": "2026-11-01T13:45:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Arrangements in place for polling in 222 wards across NTR districts",
-    "summary": "Inspecting the election materials, Collector says a total of 1,104 polling stations have been set up to enable voters to exercise their franchise freely",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/arrangements-in-place-for-polling-in-222-wards-across-ntr-districts/article71650331.ece",
-    "time": "2026-10-31T23:39:10+05:30",
+    "headline": "Anantapur chainsaw attack: A.P. Minister Nara Lokesh says Class 10 girl stable after bleeding controlled",
+    "summary": "The Minister said that the medical team at Manipal Hospital stabilised the girl’s condition with blood transfusions and supportive treatment",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
+    "time": "2026-11-01T13:42:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Class 10 girl attacked with chainsaw in classroom in Anantapur; perpetrator nabbed within hours",
-    "summary": "Victim shifted to Bengaluru for better treatment; perpetrator, a close relative of the victim, was arrested at Dharmavaram railway station within hours of the incident",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
-    "time": "2026-10-31T23:29:38+05:30",
+    "headline": "Depression intensifies into deep depression over Bay of Bengal",
+    "summary": "The system is likely to further intensify into a severe cyclonic storm over the westcentral Bay of Bengal on November 2",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bay-of-bengal-deep-depression-cyclonic-storm-andhra-pradesh-november-1-2026-updates/article71652131.ece",
+    "time": "2026-11-01T12:09:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "After ‘Arnab’, Andhra Pradesh may face another severe cyclonic storm",
-    "summary": "The depression over Bay of Bengal is likely to intensify into a severe cyclonic storm by November 2; landfall is expected between Narsapur and Nellore on November 3, with maximum wind speed of 120 kmph",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
-    "time": "2026-10-31T23:04:37+05:30",
+    "headline": "Urban local body elections begin in Andhra Pradesh",
+    "summary": "State Election Commissioner Anil Chandra Punetha and his team of officers are personally monitoring the conduct of the elections, for which elaborate arrangements were made, including the installation of CCTV cameras…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections/article71651976.ece",
+    "time": "2026-11-01T11:30:59+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Understanding author’s thoughts, emotions crucial in translation, says former Chief Justice",
-    "summary": "Taking part in the book release of Telugu translation of Rabindranath Tagore’s Gitanjali, N.V. Ramana says the hallmark of a good translator is the ability to present great literature in simple and accessible language…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/understanding-authors-thoughts-emotions-crucial-in-translation-says-former-chief-justice/article71650286.ece",
-    "time": "2026-10-31T22:23:15+05:30",
+    "headline": "Vehicles torched ahead of polls in Pulivendula",
+    "summary": "The incident happened around midnight near the orchard belonging to Madhusudhan Reddy, where three cars, ten motorcycles and a tractor were fully burnt",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vehicles-torched-ahead-of-polls-in-pulivendula/article71652147.ece",
+    "time": "2026-11-01T11:14:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Naidu calls for high alert as another cyclone threat looms over Andhra Pradesh",
-    "summary": "Depression over southeast Bay of Bengal likely to intensify into a cyclone by November 1; officials told to monitor its movement every six hours and expedite restoration works in cyclone-hit areas",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-calls-for-high-alert-as-another-cyclone-threat-looms-over-andhra-pradesh/article71649991.ece",
-    "time": "2026-10-31T22:13:34+05:30",
+    "headline": "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace",
+    "summary": "According to booth-level officials, voter turnout was thin between 7 a.m. and 8 a.m., with only a handful of people visiting several polling stations during the first hour",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/vizag-reports-334-voting-in-first-two-hours-voter-participation-in-core-urban-areas-yet-to-gather-pace-pics-by-raju/article71652100.ece",
+    "time": "2026-11-01T11:11:42+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "FSSAI licences suspended of 14 Hyderabad restaurants including Shah Ghouse, Hotel Nayaab; Taj Falaknuma gets show cause notice",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-14-hyderabad-restaurants-including-shah-ghouse-hotel-nayaab-taj-falaknuma-gets-show-cause-notice/article71650097.ece",
+    "time": "2026-11-01T08:35:04+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Govt. sanctions special funds for alternative drinking water sources amid El Nino concerns",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/govt-sanctions-special-funds-for-alternative-drinking-water-supply-amid-el-nino-concerns/article71649284.ece",
+    "time": "2026-10-31T22:55:54+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "43 women rescued in illegal human egg harvesting racket in Hyderabad",
     "summary": "Police examine alleged recruitment of women across States, suspected use of rented premises and links with fertility centres and ART banks in Hyderabad",
@@ -259,63 +273,49 @@
     "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-govt-announces-maximum-retail-price-of-three-fine-rice-varieties-between-66-and-79-per-kg/article71650444.ece",
     "time": "2026-10-31T22:06:21+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Kendriya Grihmantri Dakshata Padak-2026 for police inspector of Karimnagar Police Commissionerate",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/kendriya-grihmantri-dakshata-padak-2026-for-police-inspector-of-karimnagar-police-commissionerate/article71650426.ece",
-    "time": "2026-10-31T21:48:49+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana SIR: Social audit tracks down 23% deleted voters in Secunderabad Cantonment constituency",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-sir-social-audit-tracks-down-23-deleted-voters-in-secunderabad-cantonment-constituency/article71650182.ece",
-    "time": "2026-10-31T21:44:16+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "INDIA Bloc to hold mega rally against CEC, SIR today; leaders, supporters begin arriving in Delhi | LIVE",
-    "summary": "INDA bloc's 'public impeachment' of CEC Gyanesh Kumar featured accounts from voters who alleged that their names had been deleted from electoral rolls",
-    "link": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece",
-    "time": "2026-11-01T06:57:53+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
-    "summary": "Elections in eight Municipalities and Nagar Panchayats — Allagadda, Dachepalli, Darsi, Gurajala, Kamalapuram, Piduguralla, Proddatur and Rayachoti — were unanimous, with both chairpersons and ward members elected…",
+    "headline": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; 37.13% turnout by 1 p.m. | LIVE",
+    "summary": "Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
-    "time": "2026-11-01T06:49:50+05:30",
+    "time": "2026-11-01T13:45:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "In Punjab, the highway to 2027",
-    "summary": "The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high.…",
-    "link": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece",
-    "time": "2026-11-01T04:50:22+05:30",
+    "headline": "Uttarakhand chopper crash: Mortal remains of all six victims recovered, sent to Rishikesh AIIMS",
+    "summary": "Officials said that after completing the necessary formalities, the mortal remains were sent to the All India Institute of Medical Sciences (AIIMS), Rishikesh, by helicopter",
+    "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chopper-crash-mortal-remains-of-all-six-victims-recovered-sent-to-rishikesh-aiims/article71652291.ece",
+    "time": "2026-11-01T13:44:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "IIT Bombay student death: Parents seek CBI investigation",
-    "summary": "The petition alleged that police had failed to probe the case with the seriousness it merits and, hence, sought the probe to be monitored by a retired judge",
-    "link": "https://www.thehindu.com/news/cities/mumbai/iit-student-death-sahil-wakodes-parents-move-bombay-hc-seeking-cbi-sit-probe/article71649160.ece",
-    "time": "2026-11-01T04:26:18+05:30",
+    "headline": "Mysuru City Corporation collects ₹210 crore in property tax so far this year: Yathindra Siddaramaiah",
+    "summary": "Mysuru City Corporation had set a target of collecting ₹286.72 crore in property tax during 2026-27",
+    "link": "https://www.thehindu.com/news/national/karnataka/mysuru-city-corporation-collects-210-crore-in-property-tax-so-far-this-year-yathindra-siddaramaiah/article71652335.ece",
+    "time": "2026-11-01T13:43:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements",
-    "summary": "The FDA said on October 30 that its proceedings against three actors had ended and that the matter would go before the Joint Commissioner for adjudication",
-    "link": "https://www.thehindu.com/news/national/maharashtra/actor-ajay-devgn-moves-high-court-against-fda-notice-over-vimal-elaichi-ads/article71648172.ece",
-    "time": "2026-11-01T03:51:59+05:30",
+    "headline": "Foolish drama, will be final nail in coffin of Congress' political future: Nadda",
+    "summary": "Union Minister Nadda alleged that the protest was part of a well-thought-out conspiracy to surrender democracy to anarchy and disorder",
+    "link": "https://www.thehindu.com/news/national/foolish-drama-will-be-final-nail-in-coffin-of-congress-political-future-nadda/article71652408.ece",
+    "time": "2026-11-01T13:42:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
-    "summary": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
-    "link": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
-    "time": "2026-11-01T03:09:30+05:30",
+    "headline": "Anantapur chainsaw attack: A.P. Minister Nara Lokesh says Class 10 girl stable after bleeding controlled",
+    "summary": "The Minister said that the medical team at Manipal Hospital stabilised the girl’s condition with blood transfusions and supportive treatment",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
+    "time": "2026-11-01T13:42:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Six Indian tourists stranded in Nepal, rescue efforts underway",
+    "summary": "The Indian tourists had ventured into the area despite warnings from security personnel and the Nepali guide accompanying them, says an official",
+    "link": "https://www.thehindu.com/news/national/indian-tourists-stranded-in-nepal-rescue-efforts/article71652398.ece",
+    "time": "2026-11-01T13:38:25+05:30",
     "source": "The Hindu"
    }
   ],
@@ -342,16 +342,16 @@
     "source": "NPR"
    },
    {
-    "headline": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-    "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
-    "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+    "headline": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+    "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+    "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
     "time": "2026-10-31T05:00:00-04:00",
     "source": "NPR"
    },
    {
-    "headline": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-    "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
-    "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+    "headline": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+    "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
     "time": "2026-10-31T05:00:00-04:00",
     "source": "NPR"
    },
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
+    "headline": "Shops looted as German cost of living protests turn violent",
+    "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+    "time": "2026-11-01T08:43:00+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "India's opposition holds mega rally seeking election chief's resignation",
+    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+    "time": "2026-11-01T07:00:55+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+    "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo",
+    "time": "2026-11-01T06:03:57+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+    "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+    "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo",
+    "time": "2026-11-01T05:26:02+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+    "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+    "time": "2026-11-01T01:37:26+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
     "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
     "link": "https://www.bbc.co.uk/news/articles/c893z699q401o",
     "time": "2026-11-01T00:55:06+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
-    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
-    "time": "2026-11-01T00:12:07+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-    "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
-    "time": "2026-10-31T23:06:13+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-    "time": "2026-10-31T22:11:45+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Thousands demonstrate in Paris as protests spread across Europe",
-    "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-    "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-    "time": "2026-10-31T21:29:01+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-    "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
-    "time": "2026-10-31T19:22:26+00:00",
     "source": "BBC News"
    }
   ]
