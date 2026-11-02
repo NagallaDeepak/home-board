@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T23:45:47.510515+00:00",
+ "updatedAt": "2026-11-02T04:39:13.755314+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,10 +8,10 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 47.0,
-    "feels": 40.9,
-    "hum": 52,
-    "wind": 4.9,
+    "t": 42.7,
+    "feels": 36.5,
+    "hum": 72,
+    "wind": 6.6,
     "code": 0
    },
    "days": [
@@ -22,25 +22,25 @@
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-02",
-     "hi": 69.6,
-     "lo": 41.6,
+     "hi": 70.6,
+     "lo": 40.2,
      "code": 3,
      "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 19.0
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-03",
-     "hi": 68.5,
-     "lo": 45.5,
+     "hi": 71.8,
+     "lo": 47.7,
      "code": 3,
-     "rain": 3,
+     "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 19.0
     },
     {
      "date": "2026-11-04",
@@ -49,16 +49,16 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 22.1
+     "gustMph": 23.9
     },
     {
      "date": "2026-11-05",
      "hi": 66.5,
      "lo": 55.1,
      "code": 3,
-     "rain": 29,
+     "rain": 33,
      "rainMm": 0.0,
-     "gustMph": 21.0
+     "gustMph": 23.7
     }
    ],
    "alert": null
@@ -69,60 +69,60 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.5,
-    "feels": 26.7,
-    "hum": 84,
-    "wind": 4.2,
-    "code": 3
+    "t": 27.8,
+    "feels": 29.3,
+    "hum": 60,
+    "wind": 8.6,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-02",
-     "hi": 29.5,
-     "lo": 23.2,
+     "hi": 28.8,
+     "lo": 22.9,
      "code": 53,
-     "rain": 88,
-     "rainMm": 2.1,
-     "gustMph": 27.7
+     "rain": 74,
+     "rainMm": 2.8,
+     "gustMph": 27.3
     },
     {
      "date": "2026-11-03",
-     "hi": 26.7,
-     "lo": 22.2,
-     "code": 80,
-     "rain": 79,
-     "rainMm": 6.9,
-     "gustMph": 28.2
+     "hi": 25.7,
+     "lo": 22.0,
+     "code": 53,
+     "rain": 83,
+     "rainMm": 7.7,
+     "gustMph": 26.8
     },
     {
      "date": "2026-11-04",
-     "hi": 24.9,
-     "lo": 21.6,
-     "code": 53,
-     "rain": 90,
-     "rainMm": 7.6,
+     "hi": 25.2,
+     "lo": 20.9,
+     "code": 95,
+     "rain": 82,
+     "rainMm": 31.2,
      "gustMph": 28.4
     },
     {
      "date": "2026-11-05",
-     "hi": 27.6,
+     "hi": 27.2,
      "lo": 21.1,
-     "code": 53,
-     "rain": 59,
-     "rainMm": 2.5,
-     "gustMph": 17.0
+     "code": 55,
+     "rain": 74,
+     "rainMm": 2.6,
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-06",
-     "hi": 28.8,
+     "hi": 27.9,
      "lo": 21.2,
      "code": 51,
-     "rain": 49,
-     "rainMm": 0.3,
-     "gustMph": 13.6
+     "rain": 71,
+     "rainMm": 0.6,
+     "gustMph": 14.1
     }
    ],
-   "alert": null
+   "alert": "Wed: rain expected, about 31 mm"
   },
   {
    "id": "vijayawada",
@@ -130,108 +130,122 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.7,
-    "feels": 28.1,
-    "hum": 93,
-    "wind": 9.9,
-    "code": 51
+    "t": 26.7,
+    "feels": 30.9,
+    "hum": 89,
+    "wind": 10.0,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-02",
-     "hi": 28.9,
-     "lo": 24.2,
+     "hi": 29.2,
+     "lo": 23.3,
      "code": 95,
-     "rain": 92,
-     "rainMm": 11.2,
-     "gustMph": 32.2
+     "rain": 100,
+     "rainMm": 22.5,
+     "gustMph": 31.5
     },
     {
      "date": "2026-11-03",
      "hi": 26.8,
-     "lo": 23.4,
-     "code": 81,
-     "rain": 99,
-     "rainMm": 16.1,
-     "gustMph": 20.4
+     "lo": 22.8,
+     "code": 95,
+     "rain": 100,
+     "rainMm": 25.4,
+     "gustMph": 23.0
     },
     {
      "date": "2026-11-04",
-     "hi": 28.8,
-     "lo": 23.9,
-     "code": 95,
-     "rain": 90,
-     "rainMm": 6.8,
-     "gustMph": 17.7
+     "hi": 26.9,
+     "lo": 23.7,
+     "code": 80,
+     "rain": 96,
+     "rainMm": 13.9,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-05",
-     "hi": 30.5,
-     "lo": 23.6,
-     "code": 55,
-     "rain": 75,
-     "rainMm": 5.3,
-     "gustMph": 11.4
+     "hi": 30.4,
+     "lo": 23.1,
+     "code": 96,
+     "rain": 84,
+     "rainMm": 12.5,
+     "gustMph": 19.2
     },
     {
      "date": "2026-11-06",
-     "hi": 30.8,
-     "lo": 23.7,
-     "code": 53,
-     "rain": 71,
-     "rainMm": 3.3,
-     "gustMph": 15.2
+     "hi": 30.9,
+     "lo": 23.5,
+     "code": 95,
+     "rain": 69,
+     "rainMm": 3.0,
+     "gustMph": 19.7
     }
    ],
-   "alert": null
+   "alert": "Mon: rain expected, about 22 mm · Tue: rain expected, about 25 mm"
   }
  ],
  "news": {
   "andhra": [
    {
-    "headline": "A.P. seeks assistance from Tamil Nadu, Karnataka for cyclone power restoration",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-seeks-assistance-from-tamil-nadu-karnataka-for-cyclone-power-restoration/article71653981.ece",
-    "time": "2026-11-01T23:56:34+05:30",
+    "headline": "Cyclone Murasu LIVE updates: System intensifies into ‘Severe Cyclonic Storm’, to make landfall on Nov. 3 morning",
+    "summary": "Chennai and Tiruvallur District Collectors have announced that schools and colleges will be closed on Monday",
+    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+    "time": "2026-11-02T09:01:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Voters prioritise candidates over development in local polls in Vijayawada",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/voters-prioritise-candidates-over-development-in-local-polls-in-vijayawada/article71653653.ece",
-    "time": "2026-11-01T23:53:27+05:30",
+    "headline": "Bapatla administration gears up to tackle Cyclone Murasu",
+    "summary": "The Bapatla District Collector directed all departments to remain alert and coordinate their response to the impending weather conditions",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-administration-gears-up-to-tackle-cyclone-murasu/article71655155.ece",
+    "time": "2026-11-02T09:00:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "GVMC polls: smooth polling experience for senior citizens, first-time voters",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/gvmc-polls-smooth-polling-experience-for-senior-citizens-first-time-voters/article71653537.ece",
-    "time": "2026-11-01T23:51:40+05:30",
+    "headline": "Holiday declared for educational institutions in Guntur",
+    "summary": "The holiday applies to educational institutions under all managements",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/holiday-declared-for-educational-institutions-in-guntur/article71655143.ece",
+    "time": "2026-11-02T08:56:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-declares-november-2-holiday-for-schools-colleges-over-cyclone-murasu/article71654088.ece",
-    "time": "2026-11-01T23:40:01+05:30",
+    "headline": "Cyclonic storm Murasu to make landfall close to Ongole",
+    "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+    "time": "2026-11-02T08:54:16+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
-    "summary": "Polling across 13 municipal corporations and 79 municipalities and nagar panchayats ends amid sporadic violence. The SEC puts the overall polling percentage at 48.03 by 3 p.m., reports 275 FIRs in connection with 40…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece",
-    "time": "2026-11-01T23:37:07+05:30",
+    "headline": "‘Murasu’ strengthens into Severe Cyclonic Storm",
+    "summary": "The system may continue to move northwestwards and cross south Andhra Pradesh coast",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
+    "time": "2026-11-02T07:01:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "SEC orders repolling in four wards across three ULBs",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/sec-orders-repolling-in-four-wards-across-three-ulbs/article71653960.ece",
-    "time": "2026-11-01T23:29:57+05:30",
+    "headline": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
+    "summary": "Isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall on Monday, November 2; Chennai District Collector S. Malathi Helen announced holiday for schools…",
+    "link": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+    "time": "2026-11-02T06:56:34+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "El Nino: Telangana employees seek five-day work week",
+    "summary": "Telangana State Government employees said implementation of five working days a week can save water, power, reduce pollution on roads and enhance efficiency of the employees",
+    "link": "https://www.thehindu.com/news/national/telangana/el-nino-hyderabad-employees-seek-five-day-work-week/article71652504.ece",
+    "time": "2026-11-01T23:17:48+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Traffic restrictions in place across central Hyderabad on November 2; BJP padayatra from BJR Statue to MJ Market",
+    "summary": "People travelling to Nampally Railway Station, Kachiguda Railway Station and Shamshabad airport were advised to start early",
+    "link": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-place-across-central-hyderabad-for-bjp-padayatra-on-november-2/article71653037.ece",
+    "time": "2026-11-01T23:16:46+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Two arrested for selling marijuana in Patancheru",
     "summary": "",
@@ -259,63 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/kendriya-grihmantri-dakshata-padak-2026-for-police-inspector-of-karimnagar-police-commissionerate/article71650426.ece",
     "time": "2026-11-01T21:50:17+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Inter-State gang cheating farmers busted in Adilabad, five arrested",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/inter-state-gang-cheating-farmers-busted-in-adilabad-five-arrested/article71653834.ece",
-    "time": "2026-11-01T21:43:33+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Collector directs officials to expedite Warangal super-speciality hospital works",
-    "summary": "The hospital project has missed several deadlines, including the proposed launch of outpatient services on October 20",
-    "link": "https://www.thehindu.com/news/national/telangana/collector-directs-officials-to-expedite-warangal-super-speciality-hospital-works/article71653368.ece",
-    "time": "2026-11-01T21:39:13+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "AMU’s wants women on campus, not at the ballot box",
-    "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal…",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
-    "time": "2026-11-02T04:40:26+05:30",
+    "headline": "Writer-jurist Jinadatta Desai passes away at 93",
+    "summary": "Post retirement, Dr. Desai served as the Chairman of Bharatesh Education Trust for several years",
+    "link": "https://www.thehindu.com/news/national/karnataka/writer-jurist-jinadatta-desai-passes-away-at-93/article71652345.ece",
+    "time": "2026-11-02T10:01:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Even as unemployment falls, lack of ‘decent work’ in India",
-    "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
-    "link": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
-    "time": "2026-11-02T04:37:19+05:30",
+    "headline": "Church attacked in West Bengal during inauguration ceremony",
+    "summary": "Local police from the Basanti Police Station have said that prima facie it looked like an internal feud between two Christian groups in the area",
+    "link": "https://www.thehindu.com/news/national/west-bengal/church-attacked-in-west-bengal-during-inauguration-ceremony/article71655288.ece",
+    "time": "2026-11-02T10:00:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
-    "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of…",
-    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-02T04:21:05+05:30",
+    "headline": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
+    "summary": "The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data",
+    "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece",
+    "time": "2026-11-02T09:59:06+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Parcel explosion in Latur: Two gun shop owners among four booked",
+    "summary": "One person was seriously injured in the incident, which occurred on the morning of October 31, when parcels were being unloaded from a tempo on Vilasrao Deshmukh Marg",
+    "link": "https://www.thehindu.com/news/national/maharashtra/parcel-explosion-in-latur-two-gun-shop-owners-among-four-booked/article71655289.ece",
+    "time": "2026-11-02T09:53:06+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Digi Yatra trials start at 7 airports for international passengers",
+    "summary": "It will be available on a trial basis for Indian nationals holding e-passports for select international flights of Air India and IndiGo",
+    "link": "https://www.thehindu.com/news/national/digi-yatra-trials-start-at-7-airports-for-international-passengers/article71655283.ece",
+    "time": "2026-11-02T09:48:47+05:30",
     "source": "The Hindu"
    },
    {
     "headline": "Slow recovery: On the ISRO’s GSLV-F18 mission",
     "summary": "ISRO needs more human and material resources to fulfil its mandate",
     "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-    "time": "2026-11-02T00:53:27+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Dwindling support: On the U.S. and the Cuban embargo",
-    "summary": "India and the world must stand up against the bullying of Cuba by the U.S.",
-    "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
-    "time": "2026-11-02T00:46:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami",
-    "summary": "The party’s performance in the recent bypoll in Dharapuram and Madurantakam Assembly constituencies, and preparations for its general council and executive committee meetings, expected to be conducted in December this…",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece",
-    "time": "2026-11-02T00:34:20+05:30",
+    "time": "2026-11-02T09:37:41+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,6 +365,34 @@
   ],
   "world": [
    {
+    "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+    "time": "2026-11-02T01:45:42+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+    "time": "2026-11-02T01:18:27+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Democrats have high hopes for midterms, but polls have let them down before",
+    "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+    "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+    "time": "2026-11-02T00:25:12+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+    "time": "2026-11-02T00:15:30+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
@@ -372,38 +400,10 @@
     "source": "BBC News"
    },
    {
-    "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
-    "time": "2026-11-01T21:16:45+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Peaceful protests in Germany spiral into violence and looting",
     "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
     "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo",
     "time": "2026-11-01T18:51:56+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
-    "time": "2026-11-01T17:56:47+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Lindsay Clancy is back in court - where will her case go next?",
-    "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
-    "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
-    "time": "2026-11-01T17:29:08+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
-    "time": "2026-11-01T17:06:32+00:00",
     "source": "BBC News"
    }
   ]
