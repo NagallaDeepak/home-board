@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T13:07:49.492516+00:00",
+ "updatedAt": "2026-11-02T22:24:50.019363+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 47.4,
-    "feels": 43.0,
-    "hum": 76,
-    "wind": 4.7,
+    "t": 60.5,
+    "feels": 54.3,
+    "hum": 36,
+    "wind": 6.2,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-02",
-     "hi": 69.9,
+     "hi": 71.3,
      "lo": 40.5,
      "code": 3,
-     "rain": 2,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-03",
-     "hi": 72.6,
-     "lo": 46.6,
+     "hi": 73.8,
+     "lo": 45.5,
      "code": 3,
      "rain": 9,
      "rainMm": 0.0,
-     "gustMph": 15.2
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-04",
-     "hi": 69.8,
-     "lo": 54.9,
+     "hi": 70.6,
+     "lo": 46.3,
      "code": 3,
-     "rain": 0,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 27.7
+     "gustMph": 27.3
     },
     {
      "date": "2026-11-05",
-     "hi": 68.9,
-     "lo": 56.7,
-     "code": 51,
-     "rain": 22,
-     "rainMm": 0.1,
-     "gustMph": 30.0
+     "hi": 69.2,
+     "lo": 56.6,
+     "code": 3,
+     "rain": 20,
+     "rainMm": 0.0,
+     "gustMph": 28.9
     },
     {
      "date": "2026-11-06",
-     "hi": 62.3,
-     "lo": 58.1,
+     "hi": 64.7,
+     "lo": 60.3,
      "code": 81,
-     "rain": 54,
-     "rainMm": 23.4,
-     "gustMph": 30.0
+     "rain": 63,
+     "rainMm": 9.2,
+     "gustMph": 21.9
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 24.1,
-    "feels": 27.0,
-    "hum": 80,
-    "wind": 5.2,
+    "t": 22.5,
+    "feels": 24.7,
+    "hum": 81,
+    "wind": 4.5,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-02",
-     "hi": 28.5,
-     "lo": 22.9,
-     "code": 51,
-     "rain": 71,
-     "rainMm": 0.2,
-     "gustMph": 24.6
-    },
-    {
      "date": "2026-11-03",
-     "hi": 27.8,
-     "lo": 21.9,
-     "code": 81,
-     "rain": 53,
-     "rainMm": 6.1,
-     "gustMph": 23.3
+     "hi": 29.0,
+     "lo": 22.2,
+     "code": 95,
+     "rain": 62,
+     "rainMm": 7.8,
+     "gustMph": 25.5
     },
     {
      "date": "2026-11-04",
-     "hi": 28.1,
-     "lo": 22.4,
-     "code": 51,
-     "rain": 61,
-     "rainMm": 1.2,
-     "gustMph": 32.4
+     "hi": 28.7,
+     "lo": 21.8,
+     "code": 80,
+     "rain": 80,
+     "rainMm": 3.0,
+     "gustMph": 26.8
     },
     {
      "date": "2026-11-05",
-     "hi": 27.0,
+     "hi": 26.9,
      "lo": 21.8,
      "code": 51,
-     "rain": 62,
-     "rainMm": 1.2,
-     "gustMph": 20.4
+     "rain": 56,
+     "rainMm": 1.3,
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-06",
-     "hi": 29.4,
+     "hi": 29.6,
      "lo": 21.3,
      "code": 51,
-     "rain": 65,
-     "rainMm": 1.5,
+     "rain": 59,
+     "rainMm": 2.1,
      "gustMph": 16.6
+    },
+    {
+     "date": "2026-11-07",
+     "hi": 29.7,
+     "lo": 21.0,
+     "code": 2,
+     "rain": 45,
+     "rainMm": 0.0,
+     "gustMph": 18.6
     }
    ],
    "alert": null
@@ -130,196 +130,203 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 26.7,
-    "feels": 29.7,
-    "hum": 80,
-    "wind": 10.5,
-    "code": 3
+    "t": 24.0,
+    "feels": 26.0,
+    "hum": 96,
+    "wind": 15.3,
+    "code": 95
    },
    "days": [
     {
-     "date": "2026-11-02",
-     "hi": 29.1,
-     "lo": 24.2,
-     "code": 81,
-     "rain": 98,
-     "rainMm": 10.1,
-     "gustMph": 26.8
-    },
-    {
      "date": "2026-11-03",
-     "hi": 24.9,
+     "hi": 25.1,
      "lo": 23.6,
      "code": 95,
      "rain": 100,
-     "rainMm": 162.7,
-     "gustMph": 50.1
+     "rainMm": 224.6,
+     "gustMph": 30.4
     },
     {
      "date": "2026-11-04",
-     "hi": 27.7,
-     "lo": 23.3,
+     "hi": 25.8,
+     "lo": 23.2,
      "code": 95,
-     "rain": 98,
-     "rainMm": 18.1,
-     "gustMph": 36.0
+     "rain": 96,
+     "rainMm": 75.4,
+     "gustMph": 23.7
     },
     {
      "date": "2026-11-05",
-     "hi": 30.0,
-     "lo": 23.3,
+     "hi": 29.8,
+     "lo": 23.6,
      "code": 95,
-     "rain": 91,
-     "rainMm": 11.5,
-     "gustMph": 20.6
+     "rain": 85,
+     "rainMm": 3.0,
+     "gustMph": 16.8
     },
     {
      "date": "2026-11-06",
      "hi": 30.8,
-     "lo": 23.4,
-     "code": 53,
-     "rain": 78,
+     "lo": 23.6,
+     "code": 51,
+     "rain": 75,
+     "rainMm": 1.4,
+     "gustMph": 16.6
+    },
+    {
+     "date": "2026-11-07",
+     "hi": 30.0,
+     "lo": 23.6,
+     "code": 95,
+     "rain": 84,
      "rainMm": 3.0,
-     "gustMph": 16.3
+     "gustMph": 17.4
     }
    ],
-   "alert": "Tue: wind gusts up to 50 mph · Tue: heavy rain, about 163 mm"
+   "alert": "Tue: heavy rain, about 225 mm · Wed: heavy rain, about 75 mm"
   }
  ],
  "news": {
   "andhra": [
    {
-    "headline": "Cyclone Murasu: TTD steps up safety measures in Tirumala to ensure hassle-free darshan",
-    "summary": "Additional EO directs officials to expedite darshan arrangements, provide sheltered Annaprasadam distribution, monitor vulnerable ghat-road stretches and keep medical teams on alert to ensure pilgrim safety",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-ttd-steps-up-safety-measures-in-tirumala-to-ensure-hassle-free-darshan/article71656659.ece",
-    "time": "2026-11-02T18:28:31+05:30",
+    "headline": "Severe Cyclone Murasu: Landfall commences near Ongole",
+    "summary": "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph; he same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+    "time": "2026-11-03T03:07:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu Live updates: Cyclone Murasu landfall expected between Nellore and Narsapur in Andhra Pradesh tonight",
-    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone 'Murasu' intensifies; at least 19 domestic flights were cancelled across three airports- Vijayawada, Tirupati and Visakhapatnam- in Andhra Pradesh",
+    "headline": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
+    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
     "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-02T18:05:13+05:30",
+    "time": "2026-11-03T03:02:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu: CM directs officials to brace for flood into Bapatla district",
-    "summary": "Heavy inflows are expected through irrigation canals from upstream districts for four days",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-cm-directs-officials-to-brace-for-flood-into-bapatla-district/article71656069.ece",
-    "time": "2026-11-02T16:47:48+05:30",
+    "headline": "Cyclonic storm Murasu to make landfall close to Ongole",
+    "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+    "time": "2026-11-03T02:42:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Anantapur chainsaw attack: A.P. Minister Nara Lokesh says Class 10 girl stable after bleeding controlled",
-    "summary": "The Minister said that the medical team at Manipal Hospital stabilised the girl’s condition with blood transfusions and supportive treatment",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-chainsaw-attack-ap-minister-nara-lokesh-says-class-10-girl-stable-after-bleeding-controlled/article71651991.ece",
-    "time": "2026-11-02T16:32:22+05:30",
+    "headline": "Craft Council of A.P. receives praise for providing platform for weavers, artisans",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/brahmani-praises-craft-council-of-ap-for-providing-a-platform-for-weavers-artisans/article71657598.ece",
+    "time": "2026-11-03T00:36:16+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu: List of flights cancelled to and from Chennai, Visakhapatnam, Vijayawada",
-    "summary": "Cyclone Murasu comes just days after Cyclone Arnab made landfall in Andhra Pradesh on October 27,2026.",
-    "link": "https://www.thehindu.com/news/national/cyclone-murasu-full-list-of-flights-cancelled-and-affected/article71655519.ece",
-    "time": "2026-11-02T16:16:50+05:30",
+    "headline": "Palnadu on high alert as Cyclone Murasu to bring heavy rain",
+    "summary": "The cyclone's impact is expected to be significant in the district on November 2 and 3, and people have been advised to remain vigilant; Collector instructs all departments to remain prepared and take precautionary…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/palnadu-on-high-alert-as-cyclone-murasu-threatens-heavy-rain/article71656303.ece",
+    "time": "2026-11-03T00:35:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu: Seven fishermen caught in rough seas rescued in Nellore",
-    "summary": "Their boat drifted towards Patakadapalem after its engine failed in rough seas",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasuseven-fishermen-caught-in-rough-seas-rescued-in-nellore/article71656131.ece",
-    "time": "2026-11-02T16:10:09+05:30",
+    "headline": "VMC Commissioner calls for transparent vote counting process",
+    "summary": "Taking part in a meeting, Dhyanachandra H.M. explains the duties of returning officers, the responsibilities of staff working under their supervision, arrangements for counting tables, the vote-counting procedure and…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vmc-commissioner-calls-for-smooth-transparent-vote-counting-for-ulb-elections/article71657540.ece",
+    "time": "2026-11-03T00:32:54+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Water supply disruption in parts of Hyderabad on November 3 and 4",
+    "headline": "Sanction 2,000 Indiramma houses per Assembly constituency within a week: Telangana Housing MD",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/water-supply-disruption-in-parts-of-hyderabad-on-november-3-and-4/article71656662.ece",
-    "time": "2026-11-02T18:19:38+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/sanction-2000-indiramma-houses-in-a-week-telangana-housing-md/article71657862.ece",
+    "time": "2026-11-02T23:56:21+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Oocyte racket in Telangana: Women paid ₹20,000 as operators made around ₹3 lakh per cycle",
-    "summary": "Police probe alleged exploitation of 43 women, including possible forged consent documents and illegal commissions, while examining recruitment networks, payment trails and the role of IVF and fertility centres in…",
-    "link": "https://www.thehindu.com/news/national/telangana/oocyte-extraction-racket-women-paid-20000-as-operators-made-around-3-lakh-per-cycle/article71653455.ece",
-    "time": "2026-11-02T17:13:59+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Union Minister urges real estate sector to pass GST benefits to homebuyers",
+    "headline": "Amit Shah backs SIR, alleges three crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/kishan-reddy-urges-real-estate-sector-to-pass-gst-benefits-to-homebuyers/article71653642.ece",
-    "time": "2026-11-02T17:07:24+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
+    "time": "2026-11-02T23:11:39+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BJP conspiring to delete 20 crore votes, says Telangana CM Revanth",
+    "headline": "Ponnam asks BJP to reveal foreign nationals number identified in SIR",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bjp-conspiring-to-delete-20-crore-votes-says-cm-revanth/article71653693.ece",
-    "time": "2026-11-02T17:02:10+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/ponnam-asks-bjp-to-reveal-foreign-nationals-number-identified-in-sir/article71658034.ece",
+    "time": "2026-11-02T22:46:10+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "37% of pre-SIR Form-6 applications rejected due to absence of declaration form",
-    "summary": "Electoral officials attributed the rejections to non-submission of declaration form along with Form-6",
-    "link": "https://www.thehindu.com/news/national/telangana/37-of-pre-sir-form-6-applications-rejected-due-to-absence-of-declaration-form/article71640758.ece",
-    "time": "2026-11-02T16:35:42+05:30",
+    "headline": "HYDRAA removes encroachments in Fox Sagar lake FTL",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/hydraa-removes-encroachments-in-fox-sagar-lake-ftl/article71657835.ece",
+    "time": "2026-11-02T22:34:05+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Union Home Minister Amit Shah in Hyderabad for padayatra",
-    "summary": "Slogan of the rally is ‘Let us safeguard democracy - let us end anarchism’",
-    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-in-hyderabad-for-padayatra/article71656185.ece",
-    "time": "2026-11-02T16:31:55+05:30",
+    "headline": "Revanth Reddy calls for world-class, permanent facilities for Khelo India Games",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-reddy-calls-for-world-class-permanent-facilities-for-khelo-india-games/article71658068.ece",
+    "time": "2026-11-02T22:32:09+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "IFHE Hyderabad confers degrees on over 4,000 graduates at its 16th convocation",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/ifhe-hyderabads-16th-convocation-confers-degrees-on-over-4000-graduates/article71657787.ece",
+    "time": "2026-11-02T22:20:19+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Railways intensify security ahead of Deepavali, warn against carrying firecrackers",
-    "summary": "Additional RPF personnel have been deployed at entry and exit points, platforms and other crowded areas to regulate queues, manage crowds and enhance security",
-    "link": "https://www.thehindu.com/news/cities/chennai/railways-intensify-security-ahead-of-deepavali-warn-against-carrying-firecrackers/article71656633.ece",
-    "time": "2026-11-02T18:36:01+05:30",
+    "headline": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+    "summary": "Tejashwi Yadav has been continuously criticising the Samrat Choudhary-led National Democratic Alliance (NDA) government, claiming it to be “on the verge of bankruptcy”",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudharys-appeal-to-give-up-free-electricity-triggers-row/article71656585.ece",
+    "time": "2026-11-03T03:39:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Mysuru Science Centre: Yaduveer seeks early Centre’s nod",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/mysuru-science-centre-yaduveer-seeks-early-centres-nod/article71656553.ece",
-    "time": "2026-11-02T18:35:26+05:30",
+    "headline": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
+    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
+    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+    "time": "2026-11-03T03:32:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Three Assam natives assaulted over ‘spicy noodles’ at Electronics City eatery",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/three-assam-natives-assaulted-over-spicy-noodles-at-electronics-city-eatery/article71656798.ece",
-    "time": "2026-11-02T18:34:35+05:30",
+    "headline": "Severe Cyclone Murasu: Landfall commences near Ongole",
+    "summary": "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph; he same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+    "time": "2026-11-03T03:07:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Mata Amritanandamayi on two-day visit to Mysuru",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/mata-amritanandamayi-on-two-day-visit-to-mysuru/article71656851.ece",
-    "time": "2026-11-02T18:33:24+05:30",
+    "headline": "Cyclonic storm Murasu to make landfall close to Ongole",
+    "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+    "time": "2026-11-03T02:42:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "DMK seeks DVAC inquiry into Minister Rajmohan’s allegation of being offered bribery for post",
-    "summary": "‘The Minister did not report the offer to the DVAC or any other law enforcement agency; he made it public only on November 1, without disclosing the identity of the person who made the offer,’ said I. Paranathaman",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-seeks-dvac-inquiry-into-minister-rajmohans-allegation-of-being-offered-bribery-for-post/article71656918.ece",
-    "time": "2026-11-02T18:32:33+05:30",
+    "headline": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
+    "summary": "The measures follow deficient rainfall in parts of Maharashtra during 2026, prompting the government to declare drought in talukas identified under the Kharif season’s Trigger-1 assessment",
+    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+    "time": "2026-11-03T02:35:56+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Congress seeks arrest of playwright Addanda C. Cariappa over remarks on Mahatma Gandhi",
-    "summary": "A group of activists had earlier lodged a police complaint against the playwright over the same issue and smeared ink on his face. A case was registered against the protesters as well.",
-    "link": "https://www.thehindu.com/news/national/karnataka/congress-seeks-arrest-of-playwright-addanda-c-cariappa-over-remarks-on-mahatma-gandhi/article71656594.ece",
-    "time": "2026-11-02T18:32:20+05:30",
+    "headline": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
+    "summary": "Targeting the Congress for “trying to spread anarchy in the entire country, by targeting constitutional institutions of the country” BJP president Nitin Nabin said had the Congress fought for the issues of the people,…",
+    "link": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
+    "time": "2026-11-03T02:20:15+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Is America really that polarized? The answer might be a surprise",
+    "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+    "time": "2026-11-02T15:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
     "summary": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
     "time": "2026-11-01T12:57:58-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-    "summary": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-    "time": "2026-11-01T12:33:21-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Shop freezers in six European countries hit by suspected cyber-attack",
-    "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-    "time": "2026-11-02T12:54:33+00:00",
+    "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+    "time": "2026-11-02T21:10:04+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Ryanair says it may freeze workers' pay and raise airfares",
-    "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
-    "time": "2026-11-02T12:22:10+00:00",
+    "headline": "US midterms campaign 'shattering' spending records to be most expensive ever",
+    "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+    "time": "2026-11-02T20:54:44+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Uganda begins withdrawing troops from Somalia after 20 years",
-    "summary": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
-    "time": "2026-11-02T12:05:34+00:00",
+    "headline": "Man guilty of stealing cash from farm owned by South African president",
+    "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
+    "time": "2026-11-02T20:08:51+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Five arrested after South African farmer shot and tortured",
-    "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-    "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo",
-    "time": "2026-11-02T10:48:47+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Nine killed as small jet crashes on Florida street",
-    "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+    "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+    "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
     "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
-    "time": "2026-11-02T09:10:19+00:00",
+    "time": "2026-11-02T19:58:34+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Popular Australian children's author jailed over child exploitation offences",
-    "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-    "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o",
-    "time": "2026-11-02T08:03:39+00:00",
+    "headline": "What Florida jet audio and flight data tells us about its final moments",
+    "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+    "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o",
+    "time": "2026-11-02T19:49:22+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Trump to remove Rwanda and South Africa from US trade deal",
+    "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+    "time": "2026-11-02T19:33:10+00:00",
     "source": "BBC News"
    }
   ]
