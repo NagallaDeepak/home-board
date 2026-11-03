@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T22:24:50.019363+00:00",
+ "updatedAt": "2026-11-03T03:36:30.157093+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,11 +8,11 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 60.5,
-    "feels": 54.3,
-    "hum": 36,
-    "wind": 6.2,
-    "code": 0
+    "t": 53.4,
+    "feels": 47.7,
+    "hum": 50,
+    "wind": 5.6,
+    "code": 3
    },
    "days": [
     {
@@ -22,43 +22,43 @@
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-03",
-     "hi": 73.8,
-     "lo": 45.5,
+     "hi": 75.0,
+     "lo": 48.1,
      "code": 3,
      "rain": 9,
      "rainMm": 0.0,
-     "gustMph": 15.0
+     "gustMph": 16.1
     },
     {
      "date": "2026-11-04",
-     "hi": 70.6,
-     "lo": 46.3,
+     "hi": 73.4,
+     "lo": 52.0,
      "code": 3,
-     "rain": 4,
+     "rain": 5,
      "rainMm": 0.0,
-     "gustMph": 27.3
+     "gustMph": 28.0
     },
     {
      "date": "2026-11-05",
-     "hi": 69.2,
-     "lo": 56.6,
+     "hi": 71.2,
+     "lo": 57.8,
      "code": 3,
-     "rain": 20,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 28.9
+     "gustMph": 30.2
     },
     {
      "date": "2026-11-06",
-     "hi": 64.7,
-     "lo": 60.3,
-     "code": 81,
-     "rain": 63,
-     "rainMm": 9.2,
-     "gustMph": 21.9
+     "hi": 65.1,
+     "lo": 57.5,
+     "code": 61,
+     "rain": 75,
+     "rainMm": 2.8,
+     "gustMph": 23.0
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.5,
-    "feels": 24.7,
-    "hum": 81,
-    "wind": 4.5,
+    "t": 25.4,
+    "feels": 27.2,
+    "hum": 66,
+    "wind": 6.1,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-03",
-     "hi": 29.0,
-     "lo": 22.2,
-     "code": 95,
-     "rain": 62,
-     "rainMm": 7.8,
-     "gustMph": 25.5
+     "hi": 28.6,
+     "lo": 22.3,
+     "code": 55,
+     "rain": 57,
+     "rainMm": 3.9,
+     "gustMph": 27.1
     },
     {
      "date": "2026-11-04",
-     "hi": 28.7,
+     "hi": 26.8,
      "lo": 21.8,
-     "code": 80,
-     "rain": 80,
-     "rainMm": 3.0,
-     "gustMph": 26.8
+     "code": 53,
+     "rain": 77,
+     "rainMm": 3.5,
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-05",
-     "hi": 26.9,
+     "hi": 28.0,
      "lo": 21.8,
      "code": 51,
-     "rain": 56,
-     "rainMm": 1.3,
-     "gustMph": 20.6
+     "rain": 61,
+     "rainMm": 1.0,
+     "gustMph": 17.7
     },
     {
      "date": "2026-11-06",
-     "hi": 29.6,
-     "lo": 21.3,
+     "hi": 29.1,
+     "lo": 21.2,
      "code": 51,
-     "rain": 59,
-     "rainMm": 2.1,
-     "gustMph": 16.6
+     "rain": 67,
+     "rainMm": 0.8,
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-07",
-     "hi": 29.7,
-     "lo": 21.0,
-     "code": 2,
-     "rain": 45,
-     "rainMm": 0.0,
-     "gustMph": 18.6
+     "hi": 29.8,
+     "lo": 21.1,
+     "code": 51,
+     "rain": 57,
+     "rainMm": 3.0,
+     "gustMph": 17.4
     }
    ],
    "alert": null
@@ -130,120 +130,127 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.0,
-    "feels": 26.0,
+    "t": 24.6,
+    "feels": 27.7,
     "hum": 96,
-    "wind": 15.3,
-    "code": 95
+    "wind": 12.3,
+    "code": 53
    },
    "days": [
     {
      "date": "2026-11-03",
-     "hi": 25.1,
+     "hi": 25.4,
      "lo": 23.6,
      "code": 95,
      "rain": 100,
-     "rainMm": 224.6,
-     "gustMph": 30.4
+     "rainMm": 73.8,
+     "gustMph": 29.5
     },
     {
      "date": "2026-11-04",
-     "hi": 25.8,
-     "lo": 23.2,
+     "hi": 26.5,
+     "lo": 22.9,
      "code": 95,
-     "rain": 96,
-     "rainMm": 75.4,
-     "gustMph": 23.7
+     "rain": 90,
+     "rainMm": 77.4,
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-05",
      "hi": 29.8,
-     "lo": 23.6,
+     "lo": 23.2,
      "code": 95,
-     "rain": 85,
-     "rainMm": 3.0,
-     "gustMph": 16.8
+     "rain": 86,
+     "rainMm": 6.5,
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-06",
-     "hi": 30.8,
-     "lo": 23.6,
-     "code": 51,
-     "rain": 75,
-     "rainMm": 1.4,
-     "gustMph": 16.6
+     "hi": 30.6,
+     "lo": 23.5,
+     "code": 95,
+     "rain": 81,
+     "rainMm": 2.1,
+     "gustMph": 16.3
     },
     {
      "date": "2026-11-07",
-     "hi": 30.0,
-     "lo": 23.6,
+     "hi": 30.6,
+     "lo": 23.7,
      "code": 95,
-     "rain": 84,
-     "rainMm": 3.0,
-     "gustMph": 17.4
+     "rain": 82,
+     "rainMm": 3.9,
+     "gustMph": 14.5
     }
    ],
-   "alert": "Tue: heavy rain, about 225 mm · Wed: heavy rain, about 75 mm"
+   "alert": "Tue: heavy rain, about 74 mm · Wed: heavy rain, about 77 mm"
   }
  ],
  "news": {
   "andhra": [
    {
+    "headline": "Cyclone Murasu LIVE updates: No power disruptions reported as cyclone makes landfall near Kothapatnam",
+    "summary": "A.P. CM Chandrababu Naidu directed officials to ensure that people in cyclone-affected areas did not venture onto roads and to take all necessary precautions to prevent loss of life and minimise property damage",
+    "link": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
+    "time": "2026-11-03T08:10:43+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "No power disruptions reported as Cyclone Murasu makes landfall near Kothapatnam in Prakasam dist.",
+    "summary": "During the teleconference, Collectors briefed Andhra Pradesh CM Chandrababu Naidu on the ground situation and relief measures",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-power-disruptions-reported-as-cyclone-murasu-makes-landfall-near-kothapatnam-in-prakasam-dist/article71658516.ece",
+    "time": "2026-11-03T07:57:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Murasu nears A.P. coast, heavy rain alert issued",
+    "summary": "The India Meteorological Department (IMD) said the storm is likely to move with a “wind speed of 100 to 110 kmph (and) gusting up to 120 kmph between Nellore and Narasapur”.",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-nears-ap-coast-heavy-rain-alert-issued/article71657418.ece",
+    "time": "2026-11-03T07:51:39+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Murasu brings deluge to parched Prakasam district",
+    "summary": "A red alert is in place for the districts of Tirupati, Nandyal and Palnadu for November 3, 2026 and an orange alert for 11 other districts",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-brings-deluge-to-parched-prakasam-district/article71659210.ece",
+    "time": "2026-11-03T07:47:17+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Murasu highlights: CM Naidu holds teleconference with District Collectors as landfall process continues",
+    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
+    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+    "time": "2026-11-03T06:46:04+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Severe Cyclone Murasu: Landfall commences near Ongole",
     "summary": "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph; he same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
-    "time": "2026-11-03T03:07:25+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
-    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-03T03:02:44+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclonic storm Murasu to make landfall close to Ongole",
-    "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
-    "time": "2026-11-03T02:42:07+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Craft Council of A.P. receives praise for providing platform for weavers, artisans",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/brahmani-praises-craft-council-of-ap-for-providing-a-platform-for-weavers-artisans/article71657598.ece",
-    "time": "2026-11-03T00:36:16+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Palnadu on high alert as Cyclone Murasu to bring heavy rain",
-    "summary": "The cyclone's impact is expected to be significant in the district on November 2 and 3, and people have been advised to remain vigilant; Collector instructs all departments to remain prepared and take precautionary…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/palnadu-on-high-alert-as-cyclone-murasu-threatens-heavy-rain/article71656303.ece",
-    "time": "2026-11-03T00:35:09+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "VMC Commissioner calls for transparent vote counting process",
-    "summary": "Taking part in a meeting, Dhyanachandra H.M. explains the duties of returning officers, the responsibilities of staff working under their supervision, arrangements for counting tables, the vote-counting procedure and…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vmc-commissioner-calls-for-smooth-transparent-vote-counting-for-ulb-elections/article71657540.ece",
-    "time": "2026-11-03T00:32:54+05:30",
+    "time": "2026-11-03T05:00:28+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
+    "headline": "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
+    "time": "2026-11-03T01:48:19+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "BJP rally leaves Hyderabad bus commuters stranded",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/bjp-rally-leaves-hyderabad-bus-commuters-stranded/article71657512.ece",
+    "time": "2026-11-02T23:58:39+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Sanction 2,000 Indiramma houses per Assembly constituency within a week: Telangana Housing MD",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/telangana/sanction-2000-indiramma-houses-in-a-week-telangana-housing-md/article71657862.ece",
     "time": "2026-11-02T23:56:21+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Amit Shah backs SIR, alleges three crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
-    "time": "2026-11-02T23:11:39+05:30",
     "source": "The Hindu"
    },
    {
@@ -266,56 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/revanth-reddy-calls-for-world-class-permanent-facilities-for-khelo-india-games/article71658068.ece",
     "time": "2026-11-02T22:32:09+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "IFHE Hyderabad confers degrees on over 4,000 graduates at its 16th convocation",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ifhe-hyderabads-16th-convocation-confers-degrees-on-over-4000-graduates/article71657787.ece",
-    "time": "2026-11-02T22:20:19+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
-    "summary": "Tejashwi Yadav has been continuously criticising the Samrat Choudhary-led National Democratic Alliance (NDA) government, claiming it to be “on the verge of bankruptcy”",
-    "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudharys-appeal-to-give-up-free-electricity-triggers-row/article71656585.ece",
-    "time": "2026-11-03T03:39:27+05:30",
+    "headline": "Parts of Delhi reel under ‘severe’ level air pollution",
+    "summary": "The 24-hour average Air Quality Index (AQI) of Delhi was 330 (very poor) at 8 a.m. on November 3, 2026, as per Central Pollution Control Board (CPCB) data",
+    "link": "https://www.thehindu.com/news/cities/Delhi/parts-of-delhi-reel-under-severe-level-air-pollution/article71659331.ece",
+    "time": "2026-11-03T09:04:52+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
-    "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
-    "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "time": "2026-11-03T03:32:36+05:30",
+    "headline": "KEA to go ahead with written examination for recruitment of PU college principals in Karnataka on November 20, 22",
+    "summary": "The lecturers’ association had submitted a representation seeking postponement of the examination by one month citing lack of time for preparation",
+    "link": "https://www.thehindu.com/news/cities/Mangalore/kea-to-go-ahead-with-written-examination-for-recruitment-of-pu-college-principals-in-karnataka-on-november-20-22/article71655818.ece",
+    "time": "2026-11-03T09:00:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Severe Cyclone Murasu: Landfall commences near Ongole",
-    "summary": "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph; he same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
-    "time": "2026-11-03T03:07:25+05:30",
+    "headline": "Cyclone Murasu LIVE updates: Cyclone wreaks havoc in coastal A.P.; no power disruptions reported so far",
+    "summary": "A.P. CM Chandrababu Naidu directed officials to ensure that people in cyclone-affected areas did not venture onto roads and to take all necessary precautions to prevent loss of life and minimise property damage",
+    "link": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
+    "time": "2026-11-03T08:58:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclonic storm Murasu to make landfall close to Ongole",
-    "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
-    "time": "2026-11-03T02:42:07+05:30",
+    "headline": "Fire breaks out at HPCL Visakh Refinery; no casualties reported",
+    "summary": "Reassuring the public, Malkapuram Inspector of Police E. Narasimha Rao issued a voice message that the situation was under control",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/fire-breaks-out-at-hpcl-visakh-refinery-no-casualties-reported/article71658275.ece",
+    "time": "2026-11-03T08:55:20+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
-    "summary": "The measures follow deficient rainfall in parts of Maharashtra during 2026, prompting the government to declare drought in talukas identified under the Kharif season’s Trigger-1 assessment",
-    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
-    "time": "2026-11-03T02:35:56+05:30",
+    "headline": "Pink Line likely to be inaugurated on November 13",
+    "summary": "The claim was made by a member of Parliament, but sources in Bangalore Metro Rail Corporation Ltd (BMRCL) said they are yet to receive a communication from the Prime Minister’s Office",
+    "link": "https://www.thehindu.com/news/cities/bangalore/pink-line-likely-to-be-inaugurated-on-november-13/article71657962.ece",
+    "time": "2026-11-03T08:53:21+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
-    "summary": "Targeting the Congress for “trying to spread anarchy in the entire country, by targeting constitutional institutions of the country” BJP president Nitin Nabin said had the Congress fought for the issues of the people,…",
-    "link": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
-    "time": "2026-11-03T02:20:15+05:30",
+    "headline": "What is the role of Legislative Councils? | Explained",
+    "summary": "What is the constitutional basis for Legislative Councils in the States? What were the arguments for and against? How are members elected and nominated? What powers do Legislative Councils have in relation to…",
+    "link": "https://www.thehindu.com/news/national/what-is-the-role-of-legislative-councils-explained/article71656519.ece",
+    "time": "2026-11-03T08:48:45+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-    "time": "2026-11-02T21:10:04+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US midterms campaign 'shattering' spending records to be most expensive ever",
-    "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
-    "time": "2026-11-02T20:54:44+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Man guilty of stealing cash from farm owned by South African president",
-    "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
-    "time": "2026-11-02T20:08:51+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-    "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
-    "time": "2026-11-02T19:58:34+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "What Florida jet audio and flight data tells us about its final moments",
-    "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-    "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o",
-    "time": "2026-11-02T19:49:22+00:00",
+    "headline": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+    "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
+    "time": "2026-11-03T03:30:16+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
     "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
     "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
-    "time": "2026-11-02T19:33:10+00:00",
+    "time": "2026-11-03T03:00:36+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+    "time": "2026-11-03T01:56:27+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "North Korea denies being behind record $6.3bn Binance hack",
+    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+    "time": "2026-11-03T01:23:03+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+    "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+    "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no",
+    "time": "2026-11-03T00:09:13+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+    "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+    "time": "2026-11-03T00:08:14+00:00",
     "source": "BBC News"
    }
   ]
