@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T19:07:02.204950+00:00",
+ "updatedAt": "2026-11-04T00:05:03.744875+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 74.0,
-    "feels": 68.6,
-    "hum": 32,
-    "wind": 8.2,
-    "code": 1
+    "t": 62.3,
+    "feels": 57.1,
+    "hum": 42,
+    "wind": 6.2,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-03",
-     "hi": 74.0,
+     "hi": 74.8,
      "lo": 49.0,
      "code": 3,
-     "rain": 5,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 15.2
     },
     {
      "date": "2026-11-04",
-     "hi": 74.6,
-     "lo": 51.4,
+     "hi": 75.5,
+     "lo": 50.8,
      "code": 3,
-     "rain": 5,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 18.8
     },
     {
      "date": "2026-11-05",
-     "hi": 70.0,
-     "lo": 55.4,
+     "hi": 70.5,
+     "lo": 53.7,
      "code": 3,
-     "rain": 11,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 31.1
+     "gustMph": 28.6
     },
     {
      "date": "2026-11-06",
-     "hi": 64.0,
-     "lo": 59.4,
+     "hi": 64.5,
+     "lo": 61.5,
      "code": 82,
-     "rain": 84,
-     "rainMm": 43.0,
-     "gustMph": 28.4
+     "rain": 88,
+     "rainMm": 35.2,
+     "gustMph": 31.5
     },
     {
      "date": "2026-11-07",
      "hi": 64.6,
-     "lo": 51.5,
-     "code": 53,
-     "rain": 84,
-     "rainMm": 1.4,
-     "gustMph": 26.4
+     "lo": 56.1,
+     "code": 81,
+     "rain": 88,
+     "rainMm": 6.6,
+     "gustMph": 16.8
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.7,
-    "feels": 24.5,
-    "hum": 77,
-    "wind": 5.5,
+    "t": 21.7,
+    "feels": 24.0,
+    "hum": 83,
+    "wind": 4.0,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-04",
-     "hi": 27.0,
-     "lo": 21.5,
+     "hi": 28.4,
+     "lo": 21.7,
      "code": 53,
-     "rain": 82,
-     "rainMm": 2.7,
+     "rain": 53,
+     "rainMm": 2.3,
      "gustMph": 23.7
     },
     {
      "date": "2026-11-05",
-     "hi": 28.0,
-     "lo": 21.8,
+     "hi": 27.7,
+     "lo": 21.4,
      "code": 51,
-     "rain": 68,
-     "rainMm": 1.8,
-     "gustMph": 18.8
+     "rain": 80,
+     "rainMm": 1.5,
+     "gustMph": 21.3
     },
     {
      "date": "2026-11-06",
-     "hi": 29.4,
-     "lo": 21.7,
-     "code": 53,
-     "rain": 69,
-     "rainMm": 2.0,
-     "gustMph": 16.8
+     "hi": 28.3,
+     "lo": 21.9,
+     "code": 51,
+     "rain": 73,
+     "rainMm": 1.5,
+     "gustMph": 14.5
     },
     {
      "date": "2026-11-07",
-     "hi": 29.8,
-     "lo": 21.5,
-     "code": 51,
-     "rain": 71,
-     "rainMm": 0.3,
-     "gustMph": 16.6
+     "hi": 29.5,
+     "lo": 21.3,
+     "code": 53,
+     "rain": 65,
+     "rainMm": 2.5,
+     "gustMph": 16.8
     },
     {
      "date": "2026-11-08",
-     "hi": 30.5,
-     "lo": 20.8,
-     "code": 1,
-     "rain": 24,
+     "hi": 29.9,
+     "lo": 20.9,
+     "code": 0,
+     "rain": 18,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 18.1
     }
    ],
    "alert": null
@@ -130,64 +130,78 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.9,
-    "feels": 27.2,
-    "hum": 97,
-    "wind": 10.5,
-    "code": 80
+    "t": 24.1,
+    "feels": 27.4,
+    "hum": 94,
+    "wind": 9.4,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-04",
-     "hi": 26.0,
-     "lo": 23.3,
+     "hi": 28.4,
+     "lo": 23.0,
      "code": 95,
-     "rain": 95,
-     "rainMm": 38.9,
-     "gustMph": 20.8
+     "rain": 100,
+     "rainMm": 26.1,
+     "gustMph": 24.4
     },
     {
      "date": "2026-11-05",
-     "hi": 29.9,
+     "hi": 30.0,
      "lo": 23.0,
      "code": 95,
-     "rain": 96,
-     "rainMm": 10.0,
-     "gustMph": 15.7
+     "rain": 95,
+     "rainMm": 11.8,
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-06",
-     "hi": 30.5,
-     "lo": 23.6,
+     "hi": 30.0,
+     "lo": 23.5,
      "code": 95,
-     "rain": 91,
-     "rainMm": 3.9,
-     "gustMph": 20.4
+     "rain": 84,
+     "rainMm": 3.5,
+     "gustMph": 18.6
     },
     {
      "date": "2026-11-07",
-     "hi": 30.3,
-     "lo": 23.4,
-     "code": 53,
-     "rain": 80,
-     "rainMm": 3.6,
-     "gustMph": 15.4
+     "hi": 30.2,
+     "lo": 23.9,
+     "code": 55,
+     "rain": 88,
+     "rainMm": 6.3,
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-08",
-     "hi": 30.1,
-     "lo": 23.0,
-     "code": 95,
-     "rain": 78,
-     "rainMm": 11.1,
-     "gustMph": 14.5
+     "hi": 29.8,
+     "lo": 23.3,
+     "code": 55,
+     "rain": 86,
+     "rainMm": 5.1,
+     "gustMph": 14.8
     }
    ],
-   "alert": "Wed: rain expected, about 39 mm"
+   "alert": "Wed: rain expected, about 26 mm"
   }
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades",
+    "summary": "TDP’s Geetha Kumari wins Pulivendula municipal chairperson seat by defeating YSRCP president Y.S. Jagan Mohan Redddy’s aunt Prameelamma with a majority of 13,875 votes",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+    "time": "2026-11-04T00:56:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
+    "summary": "Internships to be incorporated into the final-year curriculum of three-year and four-year UG programmes; priority to stipend-based internships available through the Institute-Industry Connect portal",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+    "time": "2026-11-04T00:54:47+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "TDP-led alliance scores big in Vizianagaram civic polls, rebel candidate takes Nellimarla",
     "summary": "",
@@ -214,20 +228,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-registers-landslide-victory-in-konaseema-kakinada-districts/article71662417.ece",
     "time": "2026-11-03T23:46:58+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Collector reviews arrangements for MPTC, ZPTC polls in Andhra’s ASR district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-reviews-arrangements-for-mptc-zptc-polls-in-andhras-asr-district/article71662375.ece",
-    "time": "2026-11-03T23:45:01+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Emphatic win for Jana Sena Party in Pithapuram Municipality",
-    "summary": "Its Chairman contestant Daanam Lazar Babu wins by a majority of 9,235 votes; this apart, the party emerges victorious in 19 wards, while the TDP bags five and the BJP one",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/emphatic-win-for-jana-sena-party-in-pithapuram-municipality/article71662197.ece",
-    "time": "2026-11-03T23:04:06+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,63 @@
   ],
   "india": [
    {
-    "headline": "Telangana FMGs to resume peaceful protest from November 4 over stipend disparity",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-fmgs-to-resume-peaceful-protest-from-november-4-over-stipend-disparity/article71661617.ece",
-    "time": "2026-11-04T00:19:34+05:30",
+    "headline": "Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar",
+    "summary": "The mock Parliament was held at Congress president Mallikarjun Kharge’s New Delhi residence on October 31 for a “public impeachment” of Chief Election Commissioner Gyanesh Kumar",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece",
+    "time": "2026-11-04T03:18:34+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Keralam CM Satheesan says social media trends, ‘ratings race’ threaten journalistic credibility",
-    "summary": "Inaugurating the diamond jubilee celebrations of the Thiruvananthapuram Press Club, CM says established mainstream media organisations, despite their rich traditions and heritage, were increasingly following trends set…",
-    "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-social-media-trends-ratings-race-threaten-journalistic-credibility/article71662737.ece",
-    "time": "2026-11-04T00:19:15+05:30",
+    "headline": "Driver who ran over officer still absconding as M.P. Police expand search across State",
+    "summary": "Special DG Upendra Jain told The Hindu that while arresting the driver is a priority, various teams are also looking for the other three accused of an interstate illicit liquor racket",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/driver-who-ran-over-officer-still-absconding-as-mp-police-expand-search-across-state/article71661767.ece",
+    "time": "2026-11-04T03:07:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TDP-led alliance scores big in Vizianagaram civic polls, rebel candidate takes Nellimarla",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-alliance-scores-big-in-vizianagaram-civic-polls-rebel-candidate-takes-nellimarla/article71661958.ece",
-    "time": "2026-11-04T00:08:43+05:30",
+    "headline": "When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government",
+    "summary": "Justice N. Anand Venkatesh suo motu impleads Higher Education Secretary as a respondent to a batch of applications filed by him and calls for explanation by November 17",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/when-will-14-state-run-universities-get-vice-chancellors-and-syndicates-madras-high-court-asks-tn-government/article71661443.ece",
+    "time": "2026-11-04T02:48:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Assam to seek CBI probe to find flood cause; sack government employee if involved in polygamy: CM Himanta",
-    "summary": "The Assam government has decided to terminate an employee, irrespective of religion, if he is found to be involved in polygamy, Himanta Biswa Sarma said",
-    "link": "https://www.thehindu.com/news/national/assam/assam-to-seek-cbi-probe-to-find-flood-cause-sack-government-employee-if-involved-in-polygamy-cm-himanta/article71662703.ece",
-    "time": "2026-11-03T23:58:18+05:30",
+    "headline": "Iranian woman moves Madras High Court wanting to know procedure for obtaining X-Miscellaneous visa",
+    "summary": "Thirty-year-old Pegah Ansari complains of having been detained in a special camp for foreigners in Tiruchi even after she obtained bail in a criminal case booked for overstaying in India",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/iranian-woman-moves-madras-high-court-wanting-to-know-procedure-for-obtaining-x-miscellaneous-visa/article71661946.ece",
+    "time": "2026-11-04T02:13:21+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Collect saris, dhotis before Nov. 7, pensioners told",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/chennai/collect-sarees-dhotis-before-nov-7-pensioners-told/article71662144.ece",
-    "time": "2026-11-03T23:56:58+05:30",
+    "headline": "Ladakh administration asks activist Sonam Wangchuk’s wife to stop ‘unauthorised activities’ at their Leh school",
+    "summary": "On September 22, Gitanjali Angmo, wife of Mr. Wangchuk, requested the Deputy Commissioner, Leh, for the issuance of a No Objection Certificate and clearance for the proposed members of the Managing Committee of the…",
+    "link": "https://www.thehindu.com/news/national/ladakh/ladakh-administration-asks-activist-sonam-wangchuks-wife-to-stop-unauthorised-activities-at-their-leh-school/article71661914.ece",
+    "time": "2026-11-04T02:04:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Heavy rain delays VMC vote counting by five hours",
-    "summary": "Vangaveeti Radha Krishna leads in mayoral race with 1.14 lakh votes; NDA wins four municipalities in NTR district",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/heavy-rain-delays-vmc-vote-counting-by-five-hours/article71662543.ece",
-    "time": "2026-11-03T23:56:47+05:30",
+    "headline": "SIT report says charges against KSU activists in Veena George case cannot be sustained",
+    "summary": "SIT finds no grounds to sustain charges of rioting, wrongful restraint and trespass; says black flag protest is not a criminal offence; final report says KSU activists did not obstruct police or wrongfully restrain…",
+    "link": "https://www.thehindu.com/news/national/kerala/sit-report-says-charges-against-ksu-activists-in-veena-george-case-cannot-be-sustained/article71659949.ece",
+    "time": "2026-11-04T02:02:38+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Connecticut bakers are bringing joy back to election day, one cake at a time",
+    "summary": "Nicole Sousa from the Old Statehouse in Hartford, CT, discusses the history of election cakes, a sweet civic tradition dating back to 1771.",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6026494/election-cake-bake-off-hartford-connecticut",
+    "time": "2026-11-03T17:28:33-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Western Kentucky welcomes data centers in hopes they make up for coal losses",
+    "summary": "In Kentucky's former coal country, data centers are a welcome sight as people hope they will bring in money.",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6022442/western-kentucky-welcomes-data-centers-in-hopes-they-make-up-for-coal-losses",
+    "time": "2026-11-03T16:22:58-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Federal authorities investigate cause of deadly plane crash in Florida",
     "summary": "Nine people were killed Sunday when a Learjet crashed in South Florida. Federal authorities are investigating the cause of the crash that occurred during bad weather.",
@@ -342,20 +356,6 @@
     "source": "NPR"
    },
    {
-    "headline": "A new cold war: hackers target fridges across the globe",
-    "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
-    "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-    "time": "2026-11-03T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-    "summary": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
-    "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
-    "time": "2026-11-03T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
     "headline": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
     "summary": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.",
     "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
@@ -365,10 +365,31 @@
   ],
   "world": [
    {
+    "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+    "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+    "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
+    "time": "2026-11-03T23:58:36+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Spanish transport minister resigns days after deadly train crash",
+    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+    "time": "2026-11-03T22:45:59+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
+    "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no",
+    "time": "2026-11-03T21:53:38+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "Seven flights across Europe targeted by suspected bomb threats",
     "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
     "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-    "time": "2026-11-03T17:56:03+00:00",
+    "time": "2026-11-03T20:42:47+00:00",
     "source": "BBC News"
    },
    {
@@ -383,27 +404,6 @@
     "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
     "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
     "time": "2026-11-03T16:57:41+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-    "time": "2026-11-03T16:19:29+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Mining giant joins fight to stop killer toad march across Australia",
-    "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
-    "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo",
-    "time": "2026-11-03T15:05:01+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Libya's top religious authority rules against wearing Nike clothes",
-    "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-    "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no",
-    "time": "2026-11-03T14:56:46+00:00",
     "source": "BBC News"
    }
   ]
