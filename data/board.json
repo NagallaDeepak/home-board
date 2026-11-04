@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T06:51:46.239966+00:00",
+ "updatedAt": "2026-11-04T15:08:05.515757+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 55.9,
-    "feels": 52.2,
-    "hum": 62,
-    "wind": 4.7,
-    "code": 0
+    "t": 67.4,
+    "feels": 65.3,
+    "hum": 65,
+    "wind": 9.0,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-04",
-     "hi": 75.3,
-     "lo": 52.3,
-     "code": 3,
-     "rain": 2,
+     "hi": 74.7,
+     "lo": 52.9,
+     "code": 2,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 18.3
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-05",
-     "hi": 74.2,
-     "lo": 54.8,
-     "code": 3,
-     "rain": 22,
-     "rainMm": 0.0,
-     "gustMph": 29.1
+     "hi": 73.3,
+     "lo": 54.6,
+     "code": 51,
+     "rain": 13,
+     "rainMm": 0.4,
+     "gustMph": 29.3
     },
     {
      "date": "2026-11-06",
-     "hi": 64.6,
-     "lo": 60.5,
+     "hi": 65.2,
+     "lo": 59.9,
      "code": 82,
-     "rain": 93,
-     "rainMm": 24.4,
-     "gustMph": 33.8
+     "rain": 76,
+     "rainMm": 71.4,
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-07",
-     "hi": 61.6,
-     "lo": 53.9,
-     "code": 82,
-     "rain": 93,
-     "rainMm": 24.0,
-     "gustMph": 36.2
+     "hi": 63.5,
+     "lo": 53.8,
+     "code": 81,
+     "rain": 76,
+     "rainMm": 11.3,
+     "gustMph": 31.8
     },
     {
      "date": "2026-11-08",
-     "hi": 53.9,
-     "lo": 47.3,
-     "code": 80,
-     "rain": 19,
-     "rainMm": 6.3,
-     "gustMph": 31.5
+     "hi": 56.3,
+     "lo": 47.2,
+     "code": 53,
+     "rain": 31,
+     "rainMm": 2.2,
+     "gustMph": 26.8
     }
    ],
-   "alert": "Fri: rain expected, about 24 mm"
+   "alert": "Fri: heavy rain, about 71 mm"
   },
   {
    "id": "hyderabad",
@@ -69,55 +69,55 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 28.3,
-    "feels": 30.1,
-    "hum": 56,
-    "wind": 8.5,
-    "code": 51
+    "t": 24.7,
+    "feels": 26.4,
+    "hum": 69,
+    "wind": 6.3,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-04",
      "hi": 28.7,
      "lo": 21.4,
-     "code": 51,
-     "rain": 22,
-     "rainMm": 1.6,
+     "code": 3,
+     "rain": 25,
+     "rainMm": 0.0,
      "gustMph": 23.7
     },
     {
      "date": "2026-11-05",
-     "hi": 29.5,
-     "lo": 21.0,
-     "code": 51,
-     "rain": 68,
-     "rainMm": 1.1,
-     "gustMph": 18.1
+     "hi": 29.0,
+     "lo": 21.1,
+     "code": 53,
+     "rain": 76,
+     "rainMm": 1.6,
+     "gustMph": 19.2
     },
     {
      "date": "2026-11-06",
-     "hi": 29.6,
-     "lo": 22.3,
+     "hi": 29.0,
+     "lo": 21.6,
      "code": 53,
-     "rain": 73,
-     "rainMm": 2.8,
-     "gustMph": 17.2
-    },
-    {
-     "date": "2026-11-07",
-     "hi": 29.5,
-     "lo": 21.4,
-     "code": 53,
-     "rain": 59,
-     "rainMm": 1.7,
+     "rain": 71,
+     "rainMm": 1.9,
      "gustMph": 17.0
     },
     {
+     "date": "2026-11-07",
+     "hi": 29.6,
+     "lo": 21.5,
+     "code": 80,
+     "rain": 39,
+     "rainMm": 4.6,
+     "gustMph": 19.2
+    },
+    {
      "date": "2026-11-08",
-     "hi": 29.9,
-     "lo": 20.3,
-     "code": 0,
-     "rain": 18,
+     "hi": 29.5,
+     "lo": 20.2,
+     "code": 1,
+     "rain": 8,
      "rainMm": 0.0,
      "gustMph": 19.0
     }
@@ -130,280 +130,280 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 28.7,
-    "feels": 32.9,
-    "hum": 75,
-    "wind": 8.5,
+    "t": 24.6,
+    "feels": 29.5,
+    "hum": 97,
+    "wind": 5.2,
     "code": 51
    },
    "days": [
     {
      "date": "2026-11-04",
-     "hi": 28.8,
-     "lo": 22.8,
-     "code": 80,
-     "rain": 97,
-     "rainMm": 6.3,
+     "hi": 28.6,
+     "lo": 23.2,
+     "code": 95,
+     "rain": 100,
+     "rainMm": 9.9,
      "gustMph": 22.8
     },
     {
      "date": "2026-11-05",
-     "hi": 29.3,
-     "lo": 22.8,
-     "code": 80,
-     "rain": 90,
-     "rainMm": 5.4,
-     "gustMph": 13.9
+     "hi": 28.9,
+     "lo": 22.5,
+     "code": 95,
+     "rain": 89,
+     "rainMm": 29.5,
+     "gustMph": 13.0
     },
     {
      "date": "2026-11-06",
-     "hi": 30.1,
-     "lo": 23.5,
-     "code": 55,
-     "rain": 88,
-     "rainMm": 1.8,
-     "gustMph": 15.4
+     "hi": 30.7,
+     "lo": 23.7,
+     "code": 53,
+     "rain": 84,
+     "rainMm": 1.9,
+     "gustMph": 14.8
     },
     {
      "date": "2026-11-07",
-     "hi": 30.0,
+     "hi": 30.6,
      "lo": 23.4,
      "code": 95,
-     "rain": 86,
-     "rainMm": 3.9,
-     "gustMph": 15.4
+     "rain": 84,
+     "rainMm": 5.0,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-08",
-     "hi": 29.8,
-     "lo": 23.4,
-     "code": 80,
-     "rain": 90,
-     "rainMm": 4.8,
-     "gustMph": 13.2
+     "hi": 30.2,
+     "lo": 23.3,
+     "code": 53,
+     "rain": 75,
+     "rainMm": 2.4,
+     "gustMph": 15.7
     }
    ],
-   "alert": null
+   "alert": "Thu: rain expected, about 30 mm"
   }
  ],
  "news": {
   "andhra": [
    {
+    "headline": "Security heightened in Guntur district as 13 ZPTC, 193 MPTC go to polls today",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/security-heightened-for-guntur-mptc-zptc-polls/article71665111.ece",
+    "time": "2026-11-04T20:32:47+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Race for TTD Chairman’s post gathers pace",
+    "summary": "With the term of the existing board coming to an end, the names of several leaders are doing the rounds in political circles, and Chief Minister Chandrababu Naidu is likely to take the final call after consultations…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/race-for-ttd-chairmans-post-gathers-pace/article71665355.ece",
+    "time": "2026-11-04T20:32:10+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TTD to develop its Water and Food Analysis Lab into a model facility",
+    "summary": "Laboratory plays a vital role in monitoring food safety and drinking water quality at Tirumala, where annaprasadam, laddu production and water supply cater to large numbers of devotees every day, says TTD Additional…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-develop-its-water-and-food-analysis-lab-into-a-model-facility/article71665856.ece",
+    "time": "2026-11-04T20:29:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "APSPDCL deploys over 2,000 staff for restoration works after cyclone damage",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apspdcl-deploys-over-2000-staff-for-restoration-worksafter-cyclone-damage/article71665781.ece",
+    "time": "2026-11-04T20:09:03+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Cyclone Murasu: All 70 gates of Prakasam Barrage opened; 71,000 cusecs released into Krishna",
     "summary": "The inflows come largely from the Keesara, Munneru and Budameru streams after heavy rain in NTR district",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-all-70-gates-of-prakasam-barrage-opened-71000-cusecs-released-into-krishna/article71663867.ece",
-    "time": "2026-11-04T11:37:53+05:30",
+    "time": "2026-11-04T20:04:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Civic poll verdict describes coalition government’s rule, says Pawan Kalyan",
-    "summary": "The Jana Sena president thanks voters and says the strong support for his party is especially valuable",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/civic-poll-verdict-describes-coalition-governments-rule-says-pawan-kalyan/article71662414.ece",
-    "time": "2026-11-04T11:31:37+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades",
-    "summary": "TDP’s Geetha Kumari wins Pulivendula municipal chairperson seat by defeating YSRCP president Y.S. Jagan Mohan Redddy’s aunt Prameelamma with a majority of 13,875 votes",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
-    "time": "2026-11-04T00:56:42+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
-    "summary": "Internships to be incorporated into the final-year curriculum of three-year and four-year UG programmes; priority to stipend-based internships available through the Institute-Industry Connect portal",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
-    "time": "2026-11-04T00:54:47+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "TDP-led alliance scores big in Vizianagaram civic polls, rebel candidate takes Nellimarla",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-alliance-scores-big-in-vizianagaram-civic-polls-rebel-candidate-takes-nellimarla/article71661958.ece",
-    "time": "2026-11-04T00:08:43+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Heavy rain delays VMC vote counting by five hours",
-    "summary": "Vangaveeti Radha Krishna leads in mayoral race with 1.14 lakh votes; NDA wins four municipalities in NTR district",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/heavy-rain-delays-vmc-vote-counting-by-five-hours/article71662543.ece",
-    "time": "2026-11-03T23:56:47+05:30",
+    "headline": "Andhra Pradesh SEC reviews cyclone impact as MPTCs, ZPTCs go to polls today",
+    "summary": "Around 2.61 crore voters to exercise franchise at 31,460 polling stations; decisions on polling in cyclone-hit areas will be taken based on ground-level reports, says Punetha",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-reviews-cyclone-impact-as-mptcs-zptcs-go-to-polls-today/article71665247.ece",
+    "time": "2026-11-04T20:03:27+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Cyclone Murasu impact on Telangana | Extremely heavy overnight rain in Bhadradri and Khammam",
-    "summary": "Showers continue in Bhadradri Kothagudem on November 4",
-    "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece",
-    "time": "2026-11-04T12:11:40+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana CM asks Irrigation officials to continue dialogue with Maharashtra on Tummidihatti barrage",
+    "headline": "BRS has no moral right to speak on Godavari waters: Anil Eravathri",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-asks-irrigation-officials-to-continue-dialogue-with-maharashtra-on-tummidihatti-barrage/article71661841.ece",
-    "time": "2026-11-04T11:33:43+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/brs-has-no-moral-right-to-speak-on-godavari-waters-anil-eravathri/article71666495.ece",
+    "time": "2026-11-04T20:30:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana’s groundwater levels drop further in a month as rain deficit soars; lowest in Vikarabad, Hyderabad periphery",
-    "summary": "The State received 628 mm rainfall against 831 normal rainfall. While 11 districts recorded normal rainfall ( -19% to -3%), 22 districts recorded deficit (-20% to -50%)",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-groundwater-levels-drop-further-in-a-month-as-rain-deficit-soars/article71663854.ece",
-    "time": "2026-11-04T11:23:33+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Hyderabad Water Board urges more citizens to turn water warriors",
+    "headline": "TGSRTC conductor Pravalika’s death triggers protests across Khammam region; attempt-to-murder case altered to murder",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-water-board-urges-more-citizens-to-turn-water-warriors/article71661274.ece",
-    "time": "2026-11-04T11:23:28+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/tgsrtc-conductor-pravalikas-death-triggers-protests-across-khammam-region-attempt-to-murder-case-altered-to-murder/article71666207.ece",
+    "time": "2026-11-04T20:22:00+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister",
-    "summary": "Minister for Health C. Damodar Raja Narasimha says Telangana government has expanded cancer treatment services to all 33 districts in the State",
-    "link": "https://www.thehindu.com/news/national/telangana/cancer-registry-in-telangana-has-logged-35000-cases-government-advisor-informs-minister/article71661195.ece",
-    "time": "2026-11-04T10:23:41+05:30",
+    "headline": "20 transgender aspirants get four-month coaching for Telangana Police recruitment",
+    "summary": "Malkajgiri Police Commissionerate launches programme with ₹3.50 lakh government assistance for coaching and hostel accommodation",
+    "link": "https://www.thehindu.com/news/national/telangana/20-transgender-aspirants-get-four-month-coaching-for-telangana-police-recruitment/article71666104.ece",
+    "time": "2026-11-04T20:19:08+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana SIR: ‘Not one illegal immigrant found on Hyderabad district’s electoral rolls’",
+    "headline": "Amit Shah unaware of Telangana’s political realities: Chamala",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-sir-not-one-illegal-immigrant-found-on-hyderabad-districts-electoral-rolls/article71662812.ece",
-    "time": "2026-11-04T08:46:32+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/amit-shah-unaware-of-telanganas-political-realities-chamala/article71665711.ece",
+    "time": "2026-11-04T20:17:25+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Ponnam pays tributes to RTC conductor who succumbed to injuries, post attack",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/ponnam-pays-tributes-to-rtc-conductor-who-succumbed-to-injuries-post-attack/article71665469.ece",
+    "time": "2026-11-04T20:14:57+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Telangana Tourism showcases heritage and culture at WTM London 2026, seeks global spotlight",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-tourism-showcases-heritage-and-culture-at-wtm-london-2026-seeks-global-spotlight/article71665925.ece",
+    "time": "2026-11-04T19:35:59+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Cyclone Murasu impact on Telangana | Extremely heavy overnight rain in Bhadradri and Khammam",
-    "summary": "Showers continue in Bhadradri Kothagudem on November 4",
-    "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece",
-    "time": "2026-11-04T12:11:40+05:30",
+    "headline": "Security heightened in Guntur district as 13 ZPTC, 193 MPTC go to polls today",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/security-heightened-for-guntur-mptc-zptc-polls/article71665111.ece",
+    "time": "2026-11-04T20:32:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Urologists work as casualty medical officers in emergency depts. owing to lack of vacancies across T.N.",
-    "summary": "Sources say no new posts had been created in urology departments over the years. Several government medical college hospitals have only one urologist, while those in Karur, Sivagangai, Tiruppur, Tiruvannamalai,…",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/urologists-work-as-casualty-medical-officers-in-emergency-depts-owing-to-lack-of-appropriate-vacancies-across-tn/article71636838.ece",
-    "time": "2026-11-04T12:11:15+05:30",
+    "headline": "'You became MP in 2024, so will you resign?': Ravi Shankar Prasad to Rahul Gandhi",
+    "summary": "Addressing a gathering during a conclave organised by the BJP over the anti-Sikh riots, the former Union minister and MP Prasad slammed Mr. Gandhi for questioning the special intensive revision of electoral rolls",
+    "link": "https://www.thehindu.com/news/national/punjab/you-became-mp-in-2024-so-will-you-resign-ravi-shankar-prasad-to-rahul-gandhi/article71665886.ece",
+    "time": "2026-11-04T20:32:38+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "₹4,805.24 crore spent under five guarantee schemes in Raichur",
-    "summary": "Former MLA P.T. Parameshwar Naik informed that the largest share of the funds was allocated to the Gruha Lakshmi scheme, under which ₹2,744.81 crore was disbursed",
-    "link": "https://www.thehindu.com/news/national/karnataka/480524-crore-spent-under-five-guarantee-schemes-in-raichur/article71661424.ece",
-    "time": "2026-11-04T12:08:39+05:30",
+    "headline": "KRRS backs milk price hike, opposes criticism",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/krrs-backs-milk-price-hike-opposes-criticism/article71665761.ece",
+    "time": "2026-11-04T20:32:12+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Jammu and Kashmir: History’s lessons and perils of political management",
-    "summary": "CM Omar Abdullah, who has governed J&K as a Union Territory for over two years, faces a dissent-like situation within his party over claims that legislators are being sidelined in the functioning of the government",
-    "link": "https://www.thehindu.com/opinion/op-ed/jammu-and-kashmir-historys-lessons-and-perils-of-political-management/article71664106.ece",
-    "time": "2026-11-04T12:06:20+05:30",
+    "headline": "Race for TTD Chairman’s post gathers pace",
+    "summary": "With the term of the existing board coming to an end, the names of several leaders are doing the rounds in political circles, and Chief Minister Chandrababu Naidu is likely to take the final call after consultations…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/race-for-ttd-chairmans-post-gathers-pace/article71665355.ece",
+    "time": "2026-11-04T20:32:10+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Supreme Court judgment questions two-child norm with falling fertility rate",
-    "summary": "The Court noted that India’s total fertility rate has fallen from 3 to 1.9. A total rate of 2.1, known as the replacement rate, would allow one generation to completely replace itself",
-    "link": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece",
-    "time": "2026-11-04T11:59:10+05:30",
+    "headline": "BRS has no moral right to speak on Godavari waters: Anil Eravathri",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/brs-has-no-moral-right-to-speak-on-godavari-waters-anil-eravathri/article71666495.ece",
+    "time": "2026-11-04T20:30:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Welfare payments will be based on voter IDs, not Aadhaar, says Panchayati Raj Minister",
-    "summary": "At present, welfare payments are linked to Aadhaar; Panchayati Raj Minister says people should now give EPIC number with biometrics",
-    "link": "https://www.thehindu.com/news/national/welfare-payments-will-be-based-on-voter-ids-not-aadhaar-says-panchayati-raj-minister/article71662258.ece",
-    "time": "2026-11-04T11:58:34+05:30",
+    "headline": "Greater focus on research must to achieve excellence in higher education, says Namoshi",
+    "summary": "He was speaking after being felicitated by Sharnbasva University on his election to the Legislative Council for a record fifth term in Kalaburagi",
+    "link": "https://www.thehindu.com/news/national/karnataka/greater-focus-on-research-must-to-achieve-excellence-in-higher-education-says-namoshi/article71665596.ece",
+    "time": "2026-11-04T20:29:54+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
-    "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+    "headline": "These 9 candidates for governor made history in the 2026 election",
+    "summary": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor.",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+    "time": "2026-11-04T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+    "summary": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
+    "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+    "time": "2026-11-04T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
+    "summary": "Democrats flipped Senate seats in Republican strongholds and won control of Congress. DNC chair Ken Martin explains why he believes voters gave his party a mandate and what comes next.",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6022528/democrats-midterm-election-results-senate-house-congress",
+    "time": "2026-11-04T04:50:37-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Nevada Attorney General Aaron Ford beats Republican incumbent for governor",
+    "summary": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He's set to become Nevada's first Black governor.",
+    "link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+    "time": "2026-11-04T04:48:40-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+    "summary": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to serve in the Senate.",
+    "link": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+    "time": "2026-11-04T02:28:02-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in big victory for Democrats",
     "summary": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years.",
     "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
     "time": "2026-11-04T01:02:31-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrats win full control of Congress, ushering in a new era of divided government",
-    "summary": "The victories in the House and Senate return Democrats to full control of Congress for the first time since 2023 and deepens the level of expected friction between them and President Trump.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-    "time": "2026-11-03T23:44:55-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
-    "summary": "Democrat Josh Turek has defeated Sen. Ashley Hinson in Iowa, according to a race call by the Associated Press.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-    "time": "2026-11-03T23:37:55-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrat David Crowley will be Wisconsin's first Black governor",
-    "summary": "Democrat David Crowley defeated Republican Congressman Tom Tiffany in a campaign that focused on \"lowering costs for working families\" and bringing more jobs to Wisconsin.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor",
-    "time": "2026-11-03T23:28:24-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Adam Hamilton becomes the first Democratic senator from Kansas in nearly a century",
-    "summary": "Democrat Adam Hamilton beat Sen. Roger Marshall, a fierce loyalist to President Trump, per a race call by the Associated Press.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151587/kansas-senate-race-hamilton-marshall",
-    "time": "2026-11-03T23:25:28-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
-    "summary": "Missouri voters defeated a measure that would have banned abortion just two years after voters legalized abortion in another vote. Voters in Missouri legalized abortion two years ago but this time the abortion ban was…",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151063/missouri-abortion-ban-transgender",
-    "time": "2026-11-03T23:25:05-05:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-    "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-    "time": "2026-11-04T06:14:20+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
-    "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-    "time": "2026-11-04T06:13:09+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-    "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
-    "time": "2026-11-04T06:07:24+00:00",
+    "headline": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+    "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
+    "time": "2026-11-04T14:35:27+00:00",
     "source": "BBC News"
    },
    {
     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
     "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
     "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
-    "time": "2026-11-04T05:39:36+00:00",
+    "time": "2026-11-04T14:17:58+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Florida Republicans fend off Democrats as state elects first black governor",
-    "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-    "time": "2026-11-04T05:04:46+00:00",
+    "headline": "Everything you need to know from the US midterm elections",
+    "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+    "time": "2026-11-04T14:05:42+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "How America voted in maps and charts",
-    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-    "time": "2026-11-04T04:47:08+00:00",
+    "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+    "time": "2026-11-04T13:33:30+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Nadal set to join Real Madrid board of directors",
+    "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+    "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
+    "time": "2026-11-04T13:21:01+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Sharp objects found in Halloween sweets in three European nations",
+    "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
+    "time": "2026-11-04T12:34:33+00:00",
     "source": "BBC News"
    }
   ]
