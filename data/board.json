@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T21:25:08.519988+00:00",
+ "updatedAt": "2026-11-05T01:40:26.521587+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,10 +8,10 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 71.3,
-    "feels": 68.0,
-    "hum": 50,
-    "wind": 9.0,
+    "t": 62.9,
+    "feels": 60.2,
+    "hum": 72,
+    "wind": 9.2,
     "code": 0
    },
    "days": [
@@ -22,46 +22,46 @@
      "code": 1,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 20.8
     },
     {
      "date": "2026-11-05",
-     "hi": 74.1,
-     "lo": 55.4,
+     "hi": 73.4,
+     "lo": 56.8,
      "code": 3,
-     "rain": 14,
+     "rain": 12,
      "rainMm": 0.0,
-     "gustMph": 27.3
+     "gustMph": 26.9
     },
     {
      "date": "2026-11-06",
      "hi": 66.1,
-     "lo": 59.6,
+     "lo": 59.8,
      "code": 82,
      "rain": 78,
-     "rainMm": 46.0,
+     "rainMm": 68.23,
      "gustMph": 30.0
     },
     {
      "date": "2026-11-07",
-     "hi": 61.0,
-     "lo": 50.1,
-     "code": 81,
+     "hi": 60.8,
+     "lo": 48.9,
+     "code": 53,
      "rain": 75,
-     "rainMm": 7.7,
+     "rainMm": 3.4,
      "gustMph": 28.6
     },
     {
      "date": "2026-11-08",
-     "hi": 50.9,
-     "lo": 45.9,
-     "code": 61,
+     "hi": 48.9,
+     "lo": 44.8,
+     "code": 53,
      "rain": 31,
-     "rainMm": 4.6,
+     "rainMm": 4.4,
      "gustMph": 28.6
     }
    ],
-   "alert": "Fri: rain expected, about 46 mm"
+   "alert": "Fri: heavy rain, about 68 mm"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.7,
-    "feels": 24.5,
+    "t": 22.0,
+    "feels": 24.7,
     "hum": 91,
-    "wind": 4.8,
-    "code": 3
+    "wind": 5.6,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-05",
-     "hi": 28.9,
+     "hi": 28.6,
      "lo": 21.7,
-     "code": 51,
-     "rain": 76,
-     "rainMm": 1.9,
-     "gustMph": 19.2
+     "code": 55,
+     "rain": 85,
+     "rainMm": 3.5,
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-06",
-     "hi": 30.1,
-     "lo": 21.4,
+     "hi": 29.5,
+     "lo": 21.1,
      "code": 53,
-     "rain": 71,
-     "rainMm": 1.5,
-     "gustMph": 17.0
-    },
-    {
-     "date": "2026-11-07",
-     "hi": 29.9,
-     "lo": 21.9,
-     "code": 51,
-     "rain": 39,
-     "rainMm": 0.9,
+     "rain": 75,
+     "rainMm": 1.9,
      "gustMph": 17.4
     },
     {
+     "date": "2026-11-07",
+     "hi": 29.6,
+     "lo": 21.8,
+     "code": 51,
+     "rain": 33,
+     "rainMm": 1.0,
+     "gustMph": 17.0
+    },
+    {
      "date": "2026-11-08",
-     "hi": 30.6,
+     "hi": 30.3,
      "lo": 20.6,
-     "code": 0,
-     "rain": 8,
+     "code": 1,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.8
+     "gustMph": 19.9
     },
     {
      "date": "2026-11-09",
-     "hi": 30.7,
-     "lo": 19.9,
+     "hi": 30.5,
+     "lo": 20.2,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.4
+     "gustMph": 19.0
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.1,
-    "feels": 28.8,
-    "hum": 97,
-    "wind": 4.8,
-    "code": 51
+    "t": 24.2,
+    "feels": 29.2,
+    "hum": 96,
+    "wind": 3.1,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-05",
-     "hi": 29.6,
-     "lo": 24.0,
-     "code": 80,
-     "rain": 89,
-     "rainMm": 4.3,
-     "gustMph": 16.8
+     "hi": 30.0,
+     "lo": 23.8,
+     "code": 51,
+     "rain": 88,
+     "rainMm": 1.2,
+     "gustMph": 18.3
     },
     {
      "date": "2026-11-06",
-     "hi": 30.7,
-     "lo": 23.8,
-     "code": 53,
-     "rain": 84,
-     "rainMm": 1.3,
-     "gustMph": 13.4
+     "hi": 30.6,
+     "lo": 23.7,
+     "code": 51,
+     "rain": 76,
+     "rainMm": 1.0,
+     "gustMph": 14.8
     },
     {
      "date": "2026-11-07",
-     "hi": 30.8,
-     "lo": 23.8,
+     "hi": 30.9,
+     "lo": 23.4,
      "code": 80,
-     "rain": 84,
-     "rainMm": 6.2,
-     "gustMph": 22.8
+     "rain": 94,
+     "rainMm": 6.8,
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-08",
-     "hi": 30.3,
-     "lo": 22.9,
-     "code": 51,
-     "rain": 75,
-     "rainMm": 2.1,
+     "hi": 30.7,
+     "lo": 23.3,
+     "code": 53,
+     "rain": 73,
+     "rainMm": 1.3,
      "gustMph": 17.9
     },
     {
      "date": "2026-11-09",
-     "hi": 30.1,
-     "lo": 22.5,
-     "code": 0,
-     "rain": 25,
+     "hi": 30.3,
+     "lo": 23.1,
+     "code": 1,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 14.5
+     "gustMph": 15.9
     }
    ],
    "alert": null
@@ -188,6 +188,13 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Helping hand: On Cyclones Arnab and Murasu",
+    "summary": "States need help to rebuild public infrastructure after damage in cyclones",
+    "link": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+    "time": "2026-11-05T01:47:28+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Celebrations among NDA alliance leaders after landslide victory",
     "summary": "",
@@ -200,13 +207,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/zptc-mptc-elections-postponed-due-to-rains-in-agency-mandals/article71667323.ece",
     "time": "2026-11-05T01:21:46+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Helping hand: On Cyclones Arnab and Murasu",
-    "summary": "States need help to rebuild public infrastructure after damage in cyclones",
-    "link": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
-    "time": "2026-11-05T00:55:20+05:30",
     "source": "The Hindu"
    },
    {
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "Recruitment for more than 11,000 posts in Bihar’s health department to begin soon",
-    "summary": "Currently, updated details of vacant positions have been sought from all 38 districts of the state. All recruitments will be conducted at the State Health Society level",
-    "link": "https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece",
-    "time": "2026-11-05T02:24:06+05:30",
+    "headline": "Mahadev app co-promoter Ravi Uppal arrested in UAE, India moves for his extradition",
+    "summary": "Authorities in Dubai arrested a 46-year-old Ravi Uppal based on an Interpol Red Notice issued by Indian probe agencies, officials told PTI",
+    "link": "https://www.thehindu.com/news/national/mahadev-app-co-promoter-ravi-uppal-arrested-in-uae-india-moves-for-his-extradition/article71668416.ece",
+    "time": "2026-11-05T07:01:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "More than 43 lakh pucca houses completed in Bihar for poor families",
-    "summary": "₹56,743.40 crore spent under PMAY-G so far in the State; of the 43 lakh houses, 36.63 lakh pucca houses built in just yearrs between FY 2016-17 & 2021-22",
-    "link": "https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece",
-    "time": "2026-11-05T02:15:59+05:30",
+    "headline": "ECI separates online Form 6, accompanying declaration for States undergoing SIR",
+    "summary": "Earlier in September, it had already withdrawn the declaration from its digital platforms in States where SIR had been completed",
+    "link": "https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece",
+    "time": "2026-11-05T06:56:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Explosion damages railway track in northern Rajasthan district",
-    "summary": "The blast, which occurred near 50 GB village, shattered two concrete railway sleepers beneath the tracks, dislodged the track clips and created a two-foot-deep crater at the site",
-    "link": "https://www.thehindu.com/news/national/rajasthan/explosion-damages-railway-track-in-northern-rajasthan-district/article71666135.ece",
-    "time": "2026-11-05T02:02:00+05:30",
+    "headline": "Raipur court grants CBI eight days custody of Sourabh Chandrakar; to be interrogated in Delhi",
+    "summary": "The development follows the recent extradition of Chandrakar from Oman to Delhi, after which he was brought to Raipur on a private flight on November 3 evening.",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/mahadev-betting-app-case-cbi-gets-8-day-custody-of-kingpin-saurabh-chandrakar/article71665795.ece",
+    "time": "2026-11-05T05:56:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "U.P. to match Assembly voter lists with Panchayat and Urban local body rolls to find missing voters",
-    "summary": "U.P. CEO office said that guidelines have been sent to all District Election Officers (DEOs), who have been told to carry out the matching thoroughly",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-to-match-assembly-voter-lists-with-panchayat-and-urban-local-body-rolls-to-find-missing-voters/article71667160.ece",
-    "time": "2026-11-05T01:53:51+05:30",
+    "headline": "BJP not giving much importance to Rajput, says Rajiv Pratap Rudy",
+    "summary": "After facing defeat from Saran Teachers seat in Council polls, JD(U) candidate Mr. Pushkar who belongs from Brahmin community has alleged that BJP betrayed and all the Rajput MPs and MLAs of Saran including Rajiv Pratap…",
+    "link": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece",
+    "time": "2026-11-05T05:53:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Helping hand: On Cyclones Arnab and Murasu",
-    "summary": "States need help to rebuild public infrastructure after damage in cyclones",
-    "link": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
-    "time": "2026-11-05T01:47:28+05:30",
+    "headline": "MP Ruhullah’s exit from NC a success of BJP, attempt to disempower people like in 1953: NC leaders",
+    "summary": "NC leader and legislator, Salman Sagar, said the BJP succeeded in Aga Syed Ruhullah’s exit from the NC and implemented the “Operation Lotus” with his help",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece",
+    "time": "2026-11-05T04:50:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Government proposes immediate suspension of manufacturing licences of substandard drugs",
-    "summary": "Proposed amendment provides for mandatory corrective measures before revocation of the suspension; suspension shall continue until the manufacturer undertakes corrective action",
-    "link": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
-    "time": "2026-11-05T01:26:53+05:30",
+    "headline": "Schools must address bullying based on gender identity, sexual orientation: High Court",
+    "summary": "The court gave directions after hearing a petition by the mother of a 16-year-old boy, a student of a prominent school in Faridabad, who died on February 24, 2022, accusing the school authorities and the headmistress of…",
+    "link": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
+    "time": "2026-11-05T03:33:44+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+    "summary": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+    "time": "2026-11-04T16:49:17-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
     "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
@@ -354,13 +361,6 @@
     "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
     "time": "2026-11-04T05:00:00-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Hakeem Jeffries is poised to become the first Black speaker of the House",
-    "summary": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
-    "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
-    "time": "2026-11-04T05:00:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
@@ -368,7 +368,7 @@
     "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
     "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
     "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-    "time": "2026-11-04T20:22:40+00:00",
+    "time": "2026-11-04T22:48:43+00:00",
     "source": "BBC News"
    },
    {
