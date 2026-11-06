@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T11:20:41.444292+00:00",
+ "updatedAt": "2026-11-06T18:15:02.751995+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -9,59 +9,59 @@
    "unit": "F",
    "now": {
     "t": 65.5,
-    "feels": 68.0,
-    "hum": 95,
-    "wind": 6.0,
-    "code": 3
+    "feels": 69.0,
+    "hum": 96,
+    "wind": 4.3,
+    "code": 55
    },
    "days": [
     {
      "date": "2026-11-06",
-     "hi": 69.0,
-     "lo": 62.8,
-     "code": 63,
-     "rain": 100,
-     "rainMm": 19.22,
+     "hi": 67.3,
+     "lo": 61.0,
+     "code": 65,
+     "rain": 98,
+     "rainMm": 43.2,
      "gustMph": 26.8
     },
     {
      "date": "2026-11-07",
-     "hi": 62.8,
-     "lo": 51.8,
-     "code": 61,
-     "rain": 73,
-     "rainMm": 6.0,
-     "gustMph": 21.0
+     "hi": 65.2,
+     "lo": 47.6,
+     "code": 65,
+     "rain": 67,
+     "rainMm": 38.0,
+     "gustMph": 23.3
     },
     {
      "date": "2026-11-08",
-     "hi": 55.3,
-     "lo": 48.5,
-     "code": 80,
-     "rain": 54,
-     "rainMm": 7.8,
-     "gustMph": 31.5
-    },
-    {
-     "date": "2026-11-09",
-     "hi": 56.4,
-     "lo": 44.4,
-     "code": 3,
-     "rain": 2,
-     "rainMm": 0.0,
+     "hi": 56.6,
+     "lo": 46.7,
+     "code": 53,
+     "rain": 57,
+     "rainMm": 2.28,
      "gustMph": 31.3
     },
     {
+     "date": "2026-11-09",
+     "hi": 56.0,
+     "lo": 44.9,
+     "code": 51,
+     "rain": 8,
+     "rainMm": 0.2,
+     "gustMph": 31.5
+    },
+    {
      "date": "2026-11-10",
-     "hi": 58.1,
-     "lo": 43.3,
+     "hi": 57.3,
+     "lo": 43.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 36.0
+     "gustMph": 33.3
     }
    ],
-   "alert": null
+   "alert": "Fri: rain expected, about 43 mm · Sat: rain expected, about 38 mm"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 27.6,
-    "feels": 29.7,
-    "hum": 58,
-    "wind": 4.5,
-    "code": 51
+    "t": 23.7,
+    "feels": 27.5,
+    "hum": 84,
+    "wind": 2.1,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-06",
      "hi": 29.5,
      "lo": 21.5,
-     "code": 53,
-     "rain": 66,
-     "rainMm": 1.6,
-     "gustMph": 15.7
+     "code": 51,
+     "rain": 61,
+     "rainMm": 0.9,
+     "gustMph": 15.2
     },
     {
      "date": "2026-11-07",
      "hi": 30.4,
-     "lo": 21.7,
+     "lo": 21.9,
      "code": 51,
-     "rain": 35,
+     "rain": 17,
      "rainMm": 0.3,
-     "gustMph": 17.2
+     "gustMph": 17.4
     },
     {
      "date": "2026-11-08",
-     "hi": 30.6,
-     "lo": 21.0,
+     "hi": 31.4,
+     "lo": 21.1,
      "code": 3,
-     "rain": 4,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 21.7
     },
     {
      "date": "2026-11-09",
-     "hi": 30.7,
-     "lo": 20.4,
+     "hi": 30.6,
+     "lo": 20.8,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.3
+     "gustMph": 19.2
     },
     {
      "date": "2026-11-10",
-     "hi": 30.3,
-     "lo": 20.3,
+     "hi": 30.5,
+     "lo": 20.8,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.2
+     "gustMph": 19.5
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 29.4,
-    "feels": 34.2,
-    "hum": 73,
-    "wind": 5.2,
+    "t": 25.0,
+    "feels": 30.0,
+    "hum": 92,
+    "wind": 3.6,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-06",
-     "hi": 31.0,
+     "hi": 31.7,
      "lo": 24.4,
      "code": 51,
-     "rain": 41,
-     "rainMm": 0.4,
-     "gustMph": 15.2
+     "rain": 40,
+     "rainMm": 0.5,
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-07",
-     "hi": 30.7,
-     "lo": 24.0,
-     "code": 53,
+     "hi": 30.9,
+     "lo": 23.5,
+     "code": 80,
      "rain": 84,
-     "rainMm": 1.0,
-     "gustMph": 16.6
+     "rainMm": 3.4,
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-08",
-     "hi": 30.5,
-     "lo": 23.6,
-     "code": 55,
-     "rain": 69,
-     "rainMm": 1.3,
-     "gustMph": 18.8
+     "hi": 30.4,
+     "lo": 23.7,
+     "code": 53,
+     "rain": 71,
+     "rainMm": 2.1,
+     "gustMph": 22.4
     },
     {
      "date": "2026-11-09",
-     "hi": 30.6,
-     "lo": 23.4,
+     "hi": 30.2,
+     "lo": 23.6,
      "code": 2,
-     "rain": 24,
+     "rain": 8,
      "rainMm": 0.0,
      "gustMph": 16.6
     },
     {
      "date": "2026-11-10",
-     "hi": 30.4,
-     "lo": 21.7,
+     "hi": 30.7,
+     "lo": 21.3,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.9
+     "gustMph": 13.2
     }
    ],
    "alert": null
@@ -189,148 +189,148 @@
  "news": {
   "andhra": [
    {
-    "headline": "APSCHE moots major overhaul of PG education in 28 State universities",
-    "summary": "A major feature of the proposed reform is a common credit framework of 80–88 credits for two-year postgraduate programmes",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-moots-major-overhaul-of-pg-education-in-28-state-universities/article71673898.ece",
-    "time": "2026-11-06T16:27:20+05:30",
+    "headline": "A.P. govt. issues comprehensive guidelines to curb illegal mining of sand and other minerals",
+    "summary": "A G.O. issued in this regard assigns clear responsibilities for various departments and provides for time-bound verification of complaints, joint field inspections, stringent enforcement measures and accountability of…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-issues-comprehensive-guidelines-to-curb-illegal-mining-of-sand-and-other-minerals/article71675167.ece",
+    "time": "2026-11-06T23:32:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Legal metrology department cracked down on traders selling rice more than stipulated prices in Vizianagaram district",
+    "headline": "Isolated rain likely in Andhra Pradesh till November 12",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/legal-metrology-department-cracked-down-on-traders-selling-rice-more-than-stipulated-prices-in-vizianagaram-district/article71673559.ece",
-    "time": "2026-11-06T16:26:24+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/isolated-rain-likely-in-andhra-pradesh-till-november-12/article71675632.ece",
+    "time": "2026-11-06T23:29:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "JSP keen on Deputy Mayor post of Vizianagaram city",
-    "summary": "Despite stiff TDP competition, JSP hopes to win the coveted post for backing a major alliance partner. According to sources, BJP, which won three divisions, is also in the race",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-keen-on-deputy-mayor-post-of-vizianagaram-city/article71673528.ece",
-    "time": "2026-11-06T16:21:08+05:30",
+    "headline": "SHRC issues notices to Anantapur Collector, Education officials over Raptadu attack",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/shrc-issues-notices-to-anantapur-collector-education-officials-over-raptadu-attack/article71675560.ece",
+    "time": "2026-11-06T23:27:51+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Over 4,200 firecracker shops permitted for Diwali in Andhra Pradesh",
-    "summary": "Traders are requested to obtain licenses online till the festival day and sell crackers in licensed shops only by following safety precautions, says Fire Services DG Venkata Ramana",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/over-4200-firecracker-shops-permitted-for-diwali-in-andhra-pradesh/article71673523.ece",
-    "time": "2026-11-06T15:54:50+05:30",
+    "headline": "Ongole boat capsize: two more bodies of T.N. fishermen wash ashore, toll rises to seven",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ongole-boat-capsize-two-more-bodies-of-tnfishermen-wash-ashore-toll-raises-to-seven/article71675331.ece",
+    "time": "2026-11-06T23:23:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Polavaram project-displaced families boycott polling, demand separate panchayat",
-    "summary": "Voters in Koruturu R&R Colony stayed away from the polling centre, demanding a separate panchayat after being placed under P. Ankampalem panchayat",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/polavaram-project-displaced-families-boycott-polling-demand-separate-panchayat/article71673264.ece",
-    "time": "2026-11-06T15:49:47+05:30",
+    "headline": "APPTD directs 161 DDOs to install QR code-based feedback posters",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apptd-directs-161-ddos-to-install-qr-code-based-feedback-posters/article71675160.ece",
+    "time": "2026-11-06T23:21:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TDP accuses Chevireddy of ‘rigging’ in Parishad polls",
-    "summary": "YSRCP alleges 'ragging' by ruling Alliance leaders at polling stations",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-accuses-chevireddy-of-rigging-in-parishad-polls/article71671238.ece",
-    "time": "2026-11-06T15:03:09+05:30",
+    "headline": "Officials told to make fool proof arrangements for CII Partnership Summit",
+    "summary": "CII Partnership Summit will be held on November 12 and 13 at the Andhra University Engineering College grounds in Visakhapatnam",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/officials-told-to-make-fool-proof-arrangements-for-cii-partnership-summit/article71675145.ece",
+    "time": "2026-11-06T23:20:46+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Gold rush chokes traffic in Hyderabad’s Panjagutta on November 6; not enough sales say jewellers",
+    "headline": "ACB detects 90 suspicious UPI transactions at LB Nagar fire station",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
-    "time": "2026-11-06T16:48:03+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/acb-detects-90-suspicious-upi-transactions-at-lb-nagar-fire-station/article71675894.ece",
+    "time": "2026-11-06T23:03:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "SCR nets record ₹1.18 crore in single-day anti-ticketless travel drive",
-    "summary": "The zone’s average daily ticket checking revenue stands at ₹33.44 lakh from around 4,373 cases",
-    "link": "https://www.thehindu.com/news/national/telangana/scr-nets-record-118-crore-in-single-day-anti-ticketless-travel-drive/article71673705.ece",
-    "time": "2026-11-06T16:22:49+05:30",
+    "headline": "Cyberabad Police explore one-way traffic system across Biodiversity, HITEC City corridors",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-police-explore-one-way-traffic-system-across-biodiversity-hitec-city-corridors/article71675124.ece",
+    "time": "2026-11-06T23:01:59+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hydrogen peroxide used to adulterate milk, seized in Ibrahimpatnam",
-    "summary": "Future City Police seized 35 kg of milk powder and one litre of hydrogen peroxide during a raid at a unit in Pocharam village",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hydrogen-peroxide-used-to-adulterate-milk-seized-in-ibrahimpatnam/article71673865.ece",
-    "time": "2026-11-06T16:01:39+05:30",
+    "headline": "Woman, critically ill son, take shelter in graveyard near Vemulawada, shifted to hospital in Sircilla",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/woman-critically-ill-son-take-shelter-in-graveyard-near-vemulawada-shifted-to-hospital-in-sircilla/article71675355.ece",
+    "time": "2026-11-06T22:52:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Groundwater levels in and around Hyderabad plummet by one metre in one month",
-    "summary": "The deepest groundwater level, among areas within Telangana ORR, was recorded in Kukatpally, and shallowest in Shaikpet",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/groundwater-levels-in-and-around-hyderabad-plummet-by-one-metre-in-one-month/article71673740.ece",
-    "time": "2026-11-06T15:54:01+05:30",
+    "headline": "Steel flyover work triggers traffic curbs near KBR Park",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/steel-flyover-work-triggers-traffic-curbs-near-kbr-park/article71674567.ece",
+    "time": "2026-11-06T22:47:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Six criminal cases booked over fake, tampered number plates in Hyderabad",
-    "summary": "Custom alterations, missing digits and temporary stickers on registration plates are prohibited. Only government-approved High-Security Registration Plates (HSRP) are legally permitted, police said.",
-    "link": "https://www.thehindu.com/news/national/telangana/six-criminal-cases-booked-over-fake-tampered-number-plates-in-hyderabad/article71671492.ece",
-    "time": "2026-11-06T12:54:48+05:30",
+    "headline": "Govt. focuses on land for augmenting resources",
+    "summary": "Deputy CM directs officials to prepare dashboard containing land details",
+    "link": "https://www.thehindu.com/news/national/telangana/govt-focuses-on-land-for-augmenting-resources/article71674929.ece",
+    "time": "2026-11-06T22:44:10+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hyderabad Metro-RTC Bus common mobility card charges dropped from ₹8,500 to ₹4,000 for monthly pass",
-    "summary": "Revised charges effective from November 8, 2026",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-metro-rtc-bus-common-pass-charges-dropped-from-8500-to-4000-for-monthly-pass/article71672847.ece",
-    "time": "2026-11-06T12:38:35+05:30",
+    "headline": "Kurnool fan walks 350 km to meet CM Revanth",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/kurnool-fan-walks-350-km-to-meet-cm-revanth/article71675330.ece",
+    "time": "2026-11-06T22:34:42+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Election Commission gives fresh opportunity to electors left out of SIR draft rolls in Delhi, six States",
-    "summary": "The directions apply to Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland",
-    "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
-    "time": "2026-11-06T16:43:44+05:30",
+    "headline": "Two USCIRF officials claim vigilante attacks on gurdwaras in India",
+    "summary": "India describes U.S. Commission on International Religious Freedom as a biased organisation that lacks credibility",
+    "link": "https://www.thehindu.com/news/national/us-commission-on-international-religious-freedom-claim-vigilante-attacks-on-india-gurdwaras/article71675663.ece",
+    "time": "2026-11-06T23:32:34+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Gauhati High Court quashes Assam activist’s NSA detention",
-    "summary": "The State government invoked the National Security Act against Pranab Doley on July 30, a day after a court granted him bail for protesting a luxury hotel project near Kaziranga National Park",
-    "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-quashes-assam-activists-nsa-detention/article71673798.ece",
-    "time": "2026-11-06T16:42:04+05:30",
+    "headline": "Fire breaks out at high-rise building in Mumbai’s Ghatkopar East; three hospitalised",
+    "summary": "Ganesh Shinde said that the fire started while the residents were using a drill to install fairy lights in their house for Deepavali, which triggered the short circuit",
+    "link": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-at-high-rise-building-in-mumbai-ghatkopar-east/article71675897.ece",
+    "time": "2026-11-06T23:32:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lab tests show ethanol blend in E20 petrol as high as 31% in Karnataka",
-    "summary": "Minister for Food, Civil Supplies and Consumer Affairs of Karnataka demands penalising OMCs, an E20 spoilage fund to compensate consumers",
-    "link": "https://www.thehindu.com/news/national/karnataka/lab-tests-show-ethanol-blend-in-petrol-is-as-high-as-31-higher-than-20-e20-petrol-in-karnataka-government/article71673683.ece",
-    "time": "2026-11-06T16:40:43+05:30",
+    "headline": "A.P. govt. issues comprehensive guidelines to curb illegal mining of sand and other minerals",
+    "summary": "A G.O. issued in this regard assigns clear responsibilities for various departments and provides for time-bound verification of complaints, joint field inspections, stringent enforcement measures and accountability of…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-issues-comprehensive-guidelines-to-curb-illegal-mining-of-sand-and-other-minerals/article71675167.ece",
+    "time": "2026-11-06T23:32:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Tourist arrivals in Keralam post modest growth; foreign footfall remains sluggish",
-    "summary": "Domestic tourist arrivals registered a 10.47% increase this year, while foreign tourist arrivals grew by just 8.3% compared to corresponding period last year",
-    "link": "https://www.thehindu.com/news/national/kerala/tourist-arrivals-in-keralam-post-modest-growth-foreign-footfall-remains-sluggish/article71673666.ece",
-    "time": "2026-11-06T16:37:33+05:30",
+    "headline": "Isolated rain likely in Andhra Pradesh till November 12",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/isolated-rain-likely-in-andhra-pradesh-till-november-12/article71675632.ece",
+    "time": "2026-11-06T23:29:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Keralam’s mangrove cover expanded in past decade despite prior decline, finds study",
-    "summary": "Study by ICAR-Central Marine Fisheries Research Institute based in Kochi compared satellite images from 2017 and 2026 to map changes in mangrove vegetation across Keralam’s coastal districts",
-    "link": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
-    "time": "2026-11-06T16:36:55+05:30",
+    "headline": "DMK demands independent probe into book procurement for Periyar Arivulagam",
+    "summary": "Former Higher Education Minister Govi. Chezhiaan issues statement after Chief Minister C. Joseph Vijay blames the erstwhile DMK government for the issue",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-demands-independent-probe-into-book-procurement-for-periyar-arivulagam/article71675492.ece",
+    "time": "2026-11-06T23:29:28+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Nora Fatehi appears in Delhi Court in extortion case involving Sukesh Chandrasekhar",
-    "summary": "Nora Fatehi appeared as a listed witness before Additional Sessions Judge Gagandeep Singh. The Court proceedings are currently underway",
-    "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-    "time": "2026-11-06T16:36:34+05:30",
+    "headline": "SHRC issues notices to Anantapur Collector, Education officials over Raptadu attack",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/shrc-issues-notices-to-anantapur-collector-education-officials-over-raptadu-attack/article71675560.ece",
+    "time": "2026-11-06T23:27:51+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
-    "headline": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-    "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+    "headline": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
+    "summary": "Plus: Heidi Klum's hand, hackers and the pope's visitor!",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
     "time": "2026-11-06T05:00:00-05:00",
     "source": "NPR"
    },
    {
-    "headline": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-    "summary": "Plus: Heidi Klum's hand, hackers and the pope's visitor!",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
+    "headline": "Why public schools nationwide are facing a massive drop in student enrollment",
+    "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
     "time": "2026-11-06T05:00:00-05:00",
     "source": "NPR"
    },
@@ -342,8 +342,8 @@
     "source": "NPR"
    },
    {
-    "headline": "A judge blocks construction of Trump's arch moments after it won federal approval",
-    "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+    "headline": "A judge blocked construction of Trump's arch at the 11th hour. What's next?",
+    "summary": "The Trump administration had hoped to begin construction immediately after a federal panel approved its arch late Thursday. Overnight, the judge issued an order blocking work for 14 days.",
     "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
     "time": "2026-11-06T00:05:43-05:00",
     "source": "NPR"
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
-    "time": "2026-11-06T10:57:30+00:00",
+    "headline": "Nigerian court rules opposition candidate cannot stand in elections",
+    "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
+    "time": "2026-11-06T17:35:55+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "AI stocks climb after trillions wiped from market values",
+    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+    "time": "2026-11-06T17:03:02+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+    "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
+    "time": "2026-11-06T16:51:01+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Four midterms takeaways for 2028 White House race",
+    "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+    "time": "2026-11-06T16:12:22+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Two dead after bus crashes in France, officials say",
     "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
     "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-    "time": "2026-11-06T10:57:14+00:00",
+    "time": "2026-11-06T15:33:52+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-    "time": "2026-11-06T09:57:04+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Trump signs order to preserve Oval Office as national monument",
-    "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-    "time": "2026-11-06T09:19:57+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Somalia's top court rejects president's term extension amid political crisis",
-    "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-    "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-    "time": "2026-11-06T08:18:10+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-    "time": "2026-11-06T07:56:19+00:00",
+    "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
+    "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+    "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
+    "time": "2026-11-06T15:30:42+00:00",
     "source": "BBC News"
    }
   ]
