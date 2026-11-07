@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T16:45:03.413284+00:00",
+ "updatedAt": "2026-11-07T20:40:20.028043+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 56.3,
-    "feels": 55.1,
-    "hum": 95,
-    "wind": 6.5,
+    "t": 55.8,
+    "feels": 55.5,
+    "hum": 94,
+    "wind": 3.9,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-07",
      "hi": 62.4,
-     "lo": 51.3,
+     "lo": 51.1,
      "code": 63,
      "rain": 83,
-     "rainMm": 10.6,
+     "rainMm": 9.1,
      "gustMph": 20.4
     },
     {
      "date": "2026-11-08",
-     "hi": 54.1,
-     "lo": 43.0,
+     "hi": 52.4,
+     "lo": 42.5,
      "code": 61,
-     "rain": 67,
-     "rainMm": 4.65,
-     "gustMph": 34.4
+     "rain": 74,
+     "rainMm": 2.8,
+     "gustMph": 33.9
     },
     {
      "date": "2026-11-09",
-     "hi": 52.7,
-     "lo": 41.9,
+     "hi": 53.0,
+     "lo": 41.1,
      "code": 51,
      "rain": 14,
-     "rainMm": 0.2,
-     "gustMph": 27.5
+     "rainMm": 0.1,
+     "gustMph": 25.7
     },
     {
      "date": "2026-11-10",
-     "hi": 56.7,
-     "lo": 44.1,
+     "hi": 55.7,
+     "lo": 44.6,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 26.2
+     "gustMph": 27.5
     },
     {
      "date": "2026-11-11",
-     "hi": 59.9,
+     "hi": 56.1,
      "lo": 46.8,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 21.7
+     "gustMph": 24.2
     }
    ],
    "alert": null
@@ -69,35 +69,26 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 24.7,
-    "feels": 26.5,
-    "hum": 64,
-    "wind": 3.5,
-    "code": 0
+    "t": 22.9,
+    "feels": 22.4,
+    "hum": 51,
+    "wind": 4.7,
+    "code": 3
    },
    "days": [
     {
-     "date": "2026-11-07",
-     "hi": 30.5,
-     "lo": 22.0,
-     "code": 51,
-     "rain": 33,
-     "rainMm": 0.3,
-     "gustMph": 16.8
-    },
-    {
      "date": "2026-11-08",
-     "hi": 30.8,
-     "lo": 21.8,
-     "code": 1,
+     "hi": 31.3,
+     "lo": 21.5,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-09",
-     "hi": 30.4,
-     "lo": 21.4,
+     "hi": 30.2,
+     "lo": 21.3,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
@@ -106,16 +97,25 @@
     {
      "date": "2026-11-10",
      "hi": 30.0,
-     "lo": 20.2,
+     "lo": 20.1,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 19.5
     },
     {
      "date": "2026-11-11",
-     "hi": 30.0,
-     "lo": 19.1,
+     "hi": 30.2,
+     "lo": 19.0,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 20.8
+    },
+    {
+     "date": "2026-11-12",
+     "hi": 29.5,
+     "lo": 19.9,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.1,
-    "feels": 30.6,
-    "hum": 92,
-    "wind": 1.5,
-    "code": 1
+    "t": 24.7,
+    "feels": 29.9,
+    "hum": 93,
+    "wind": 2.5,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-07",
-     "hi": 31.3,
-     "lo": 24.5,
-     "code": 80,
-     "rain": 86,
-     "rainMm": 2.5,
-     "gustMph": 15.4
-    },
-    {
      "date": "2026-11-08",
-     "hi": 31.2,
-     "lo": 23.7,
+     "hi": 31.4,
+     "lo": 24.0,
      "code": 51,
      "rain": 37,
-     "rainMm": 0.1,
+     "rainMm": 0.5,
      "gustMph": 14.1
     },
     {
      "date": "2026-11-09",
-     "hi": 30.8,
+     "hi": 31.0,
      "lo": 23.1,
-     "code": 2,
+     "code": 1,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 12.5
     },
     {
      "date": "2026-11-10",
-     "hi": 30.5,
-     "lo": 21.1,
+     "hi": 30.6,
+     "lo": 20.7,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-11",
-     "hi": 30.2,
-     "lo": 19.7,
+     "hi": 30.3,
+     "lo": 19.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 10.5
+     "gustMph": 11.0
+    },
+    {
+     "date": "2026-11-12",
+     "hi": 30.2,
+     "lo": 19.0,
+     "code": 0,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 11.0
     }
    ],
    "alert": null
@@ -189,49 +189,56 @@
  "news": {
   "andhra": [
    {
+    "headline": "Mathematics key to AI’s advancement, says expert",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/mathematics-key-to-ais-advancement-says-expert/article71679093.ece",
+    "time": "2026-11-07T23:35:15+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Students urged to dream big, prepare for a self-reliant India",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+    "time": "2026-11-07T23:17:05+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Pawan attributes ZPTC, MPTC poll victories to welfare, development",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+    "time": "2026-11-07T23:05:39+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "YSRCP suffers setback in Kadapa ZPTC polls",
+    "summary": "TDP wins 10 of 16 contested seats; YSRCP manages only two, both in Pulivendula constituency",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-suffers-setback-in-kadapa-zptc-polls/article71679330.ece",
+    "time": "2026-11-07T22:46:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TDP dominates Rajam constituency with major wins in ZPTC and MPTC elections",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-dominates-rajam-constituency-with-major-wins-in-zptc-and-mptc-elections/article71679167.ece",
+    "time": "2026-11-07T22:23:27+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
     "summary": "Naidu tells officials to monitor field-level relief operations, complete damage assessments at the earliest and esnure prompt financial assistance to the affected families",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
     "time": "2026-11-07T21:54:17+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh MPTC, ZPTC election results highlights: NDA continues its winning streak",
-    "summary": "The victory of NDA candidates across Andhra Pradesh is a testament to the aspirations of the people, says Roads and Buildings Minister B. C. Janardhan Reddy",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
-    "time": "2026-11-07T21:49:19+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "NDA dominates Kurnool, Nandyal ZPTC and MPTC polls; YSRCP puts up fight in Anantapur",
-    "summary": "TDP-led alliance wins 48 of 54 ZPTC seats in erstwhile combined Kurnool district and nearly 90% of MPTC seats; TDP wins 175 MPTCs and leads in 85 others in Anantapur",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-dominates-kurnool-nandyal-zptc-and-mptc-polls-ysrcp-puts-up-fight-in-anantapur/article71679089.ece",
-    "time": "2026-11-07T21:49:08+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "NDA wins large number of MPTC seats in Godavari region",
-    "summary": "Tension prevails as former MLA Jakkampudi Raja stages protest demanding recount of Korukonda ZPTC votes",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-wins-large-number-of-mptc-seats-in-godavari-region/article71679142.ece",
-    "time": "2026-11-07T21:38:29+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "YSRCP wins key ZPTC seats in Saluru",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-wins-key-zptc-seats-in-saluru/article71679077.ece",
-    "time": "2026-11-07T21:32:37+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "NDA wins eight ZPTC seats in Palnadu district",
-    "summary": "Telugu Desam Party secures six seats and Jana Sena Party wins two in eight of the 10 ZPTC constituencies after vote counting on Saturday",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-wins-eight-zptc-seats-in-palnadu-district/article71679053.ece",
-    "time": "2026-11-07T21:25:10+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "Two murder-for-gain cases cracked, four held for ‘killing’ 103-year-old, 80-year-old women",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/two-murder-for-gain-cases-cracked-four-held-for-killing-103-year-old-80-year-old-women/article71679208.ece",
+    "time": "2026-11-07T22:46:20+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Radial road from Shamshabad to Kodangal will be completed by Dec. 2027, says CM",
     "summary": "",
@@ -266,56 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/revanth-reddys-praja-balam-tour-after-sankranthi/article71678869.ece",
     "time": "2026-11-07T20:30:36+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Agents booked, five fertility centres named in Hyderabad’s illegal oocyte racket; Telangana Women’s Commission questions inaction",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/agents-booked-five-fertility-centres-named-in-hyderabads-illegal-oocyte-racket-telangana-womens-commission-questions-inaction/article71678778.ece",
-    "time": "2026-11-07T20:29:37+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Under-construction roof of school auditorium collapses in Kanjiramkulam",
+    "headline": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/under-construction-roof-of-school-auditorium-collapses-in-kanjiramkulam/article71679169.ece",
-    "time": "2026-11-07T22:09:30+05:30",
+    "link": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
+    "time": "2026-11-08T01:39:14+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rajasthan bags national award for performance in renewable energy framework",
-    "summary": "The State has an installed renewable energy capacity of 51.6 GW and a solar power capacity of 45 GW, Rajasthan Minister of State for Energy Heeralal Nagar says",
-    "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-bags-national-award-for-performance-in-renewable-energy-framework/article71678610.ece",
-    "time": "2026-11-07T22:09:02+05:30",
+    "headline": "Ten of 11 stations on Kochi metro’s Pink Line to have entry/exit from both sides of road",
+    "summary": "Terminal station at Smart City to have entry/exit only on the right hand side; foot overbridge mulled for members of the public to access the station",
+    "link": "https://www.thehindu.com/news/national/kerala/ten-of-11-stations-on-kochi-metros-pink-line-to-have-entryexit-from-both-sides-of-road/article71678672.ece",
+    "time": "2026-11-08T01:26:28+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kerala Water Authority intensifies action against encroachments on Pipeline Road",
+    "headline": "Water released from Shenbagathoppu dam due to rain",
+    "summary": "Tiruvannamalai Collector Vandhana Garg has warned residents in Cheyyar, Arani, Vandavasi, and Polur towns along Kamandalam Naganathi river against crossing the waterbody as the waterflow in the river is on the rise",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
+    "time": "2026-11-08T01:00:13+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Renovated bus terminus in Ranipet town opened for public use",
+    "summary": "Work to restore the terminus was started in 2022",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/renovated-bus-terminus-in-ranipet-town-opened-for-public-use/article71678325.ece",
+    "time": "2026-11-08T00:57:47+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-water-authority-intensifies-action-against-encroachments-on-pipeline-road/article71679186.ece",
-    "time": "2026-11-07T22:05:14+05:30",
+    "link": "https://www.thehindu.com/news/national/karnataka/greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-bengaluru-on-november-8/article71678845.ece",
+    "time": "2026-11-08T00:56:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
-    "summary": "Naidu tells officials to monitor field-level relief operations, complete damage assessments at the earliest and esnure prompt financial assistance to the affected families",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
-    "time": "2026-11-07T21:54:17+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Gyanesh Kumar will soon be forced to step down, says K.C. Venugopal",
-    "summary": "AICC general secretary accuses Prime Minister Narendra Modi and Union Home Minister Amit Shah of using the Election Commission of India to undermine the Congress and influence electoral outcomes",
-    "link": "https://www.thehindu.com/news/national/kerala/gyanesh-kumar-will-soon-be-forced-to-step-down-says-kc-venugopal/article71678914.ece",
-    "time": "2026-11-07T21:53:47+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh MPTC, ZPTC election results highlights: NDA continues its winning streak",
-    "summary": "The victory of NDA candidates across Andhra Pradesh is a testament to the aspirations of the people, says Roads and Buildings Minister B. C. Janardhan Reddy",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
-    "time": "2026-11-07T21:49:19+05:30",
+    "headline": "Two youths arrested for possessing narcotics in Vellore",
+    "summary": "The police said the duo were on their way to the railway station to go to Chennai, where they planned to sell the drugs",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-youths-arrested-for-possessing-narcotics-in-vellore/article71678328.ece",
+    "time": "2026-11-08T00:54:50+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "No clear winner after tight New Zealand general election",
-    "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-    "time": "2026-11-07T15:56:28+00:00",
+    "headline": "What we know so far after Polish gunman opens fire in Krakow main square",
+    "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+    "time": "2026-11-07T20:23:17+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-    "time": "2026-11-07T12:49:36+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Four things we learned this week about 2028 White House race",
-    "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-    "time": "2026-11-07T12:23:28+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Texas mayor instructs police to limit co-operation with ICE",
-    "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
-    "time": "2026-11-07T08:15:55+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
-    "time": "2026-11-07T07:27:44+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Paraguay's president impeached and under house arrest after bank collapse",
+    "headline": "Paraguay's former president charged after bank collapse",
     "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-    "time": "2026-11-07T07:20:00+00:00",
+    "time": "2026-11-07T19:17:22+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "US offers $20m reward for information about Iran's nuclear programme",
+    "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+    "time": "2026-11-07T18:14:38+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Gaza wedding festival sees 250 couples married at the same time",
+    "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+    "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+    "time": "2026-11-07T17:58:41+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Houthis say at least 25 killed in Saudi air strike",
+    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+    "time": "2026-11-07T17:09:24+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Italian foreign minister says hackers leaked his personal data",
+    "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+    "time": "2026-11-07T16:50:06+00:00",
     "source": "BBC News"
    }
   ]
