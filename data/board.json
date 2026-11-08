@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T14:05:22.034950+00:00",
+ "updatedAt": "2026-11-08T18:57:00.495589+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 49.5,
-    "feels": 42.7,
-    "hum": 79,
-    "wind": 12.2,
-    "code": 0
+    "t": 54.7,
+    "feels": 49.1,
+    "hum": 75,
+    "wind": 11.2,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 54.6,
-     "lo": 43.8,
+     "hi": 55.8,
+     "lo": 43.9,
      "code": 61,
      "rain": 84,
      "rainMm": 1.6,
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-09",
-     "hi": 53.0,
-     "lo": 42.9,
+     "hi": 53.9,
+     "lo": 43.1,
      "code": 3,
-     "rain": 8,
+     "rain": 28,
      "rainMm": 0.0,
-     "gustMph": 19.5
+     "gustMph": 23.7
     },
     {
      "date": "2026-11-10",
-     "hi": 56.5,
-     "lo": 45.7,
+     "hi": 56.1,
+     "lo": 40.8,
      "code": 3,
-     "rain": 0,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 27.5
+     "gustMph": 28.4
     },
     {
      "date": "2026-11-11",
-     "hi": 57.8,
+     "hi": 55.5,
      "lo": 46.9,
-     "code": 2,
-     "rain": 1,
+     "code": 3,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 27.5
+     "gustMph": 26.6
     },
     {
      "date": "2026-11-12",
-     "hi": 51.3,
-     "lo": 46.3,
-     "code": 3,
-     "rain": 24,
-     "rainMm": 0.0,
-     "gustMph": 22.8
+     "hi": 52.5,
+     "lo": 47.7,
+     "code": 80,
+     "rain": 46,
+     "rainMm": 5.6,
+     "gustMph": 25.1
     }
    ],
    "alert": null
@@ -69,10 +69,10 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 25.5,
-    "feels": 24.5,
-    "hum": 42,
-    "wind": 6.2,
+    "t": 22.9,
+    "feels": 22.7,
+    "hum": 51,
+    "wind": 4.0,
     "code": 0
    },
    "days": [
@@ -130,45 +130,45 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.8,
-    "feels": 30.0,
-    "hum": 85,
-    "wind": 5.5,
+    "t": 23.9,
+    "feels": 28.3,
+    "hum": 90,
+    "wind": 2.8,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-08",
      "hi": 31.8,
-     "lo": 23.3,
+     "lo": 23.6,
      "code": 53,
-     "rain": 59,
+     "rain": 51,
      "rainMm": 0.8,
      "gustMph": 16.1
     },
     {
      "date": "2026-11-09",
-     "hi": 30.8,
-     "lo": 23.1,
+     "hi": 31.1,
+     "lo": 23.2,
      "code": 2,
-     "rain": 0,
+     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 12.1
     },
     {
      "date": "2026-11-10",
      "hi": 30.7,
-     "lo": 20.4,
-     "code": 0,
+     "lo": 20.8,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 12.5
     },
     {
      "date": "2026-11-11",
-     "hi": 30.4,
-     "lo": 19.3,
-     "code": 2,
+     "hi": 30.2,
+     "lo": 19.1,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 11.0
@@ -176,7 +176,7 @@
     {
      "date": "2026-11-12",
      "hi": 30.2,
-     "lo": 19.2,
+     "lo": 19.4,
      "code": 1,
      "rain": 0,
      "rainMm": 0.0,
@@ -233,6 +233,13 @@
   ],
   "telangana": [
    {
+    "headline": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+    "summary": "Ministers, MLAs asked to spend festival with poor families who received houses; 2.21 lakh houses completed under scheme",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+    "time": "2026-11-08T21:54:53+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Revanth sets target of making one crore women millionaires by 2034",
     "summary": "Promises greater economic opportunities for SHG members; says women’s empowerment is central to his government’s policies",
     "link": "https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece",
@@ -266,56 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/radial-road-from-shamshabad-to-kodangal-will-be-completed-by-dec-2027-says-cm/article71678984.ece",
     "time": "2026-11-07T21:23:44+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Women from Wanaparthy villages get trained in japa care",
-    "summary": "Thirty-six bag jobs to take care of mothers and newborns",
-    "link": "https://www.thehindu.com/news/national/telangana/women-from-wanaparthy-villages-get-trained-in-japa-care/article71678739.ece",
-    "time": "2026-11-07T20:50:13+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Assam OIL facility fire: death toll rises to four as another injured dies; four suspended",
-    "summary": "OIL has instituted a high-level inquiry to probe into the incident",
-    "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece",
-    "time": "2026-11-08T19:21:26+05:30",
+    "headline": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
+    "time": "2026-11-08T23:03:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species",
-    "summary": "National Green Tribunal takes suo motu cognisance of The Hindu report",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/ngt-issues-notice-to-tirunelveli-collector-over-threats-to-tamirabharani-fish-species/article71679299.ece",
-    "time": "2026-11-08T19:06:02+05:30",
+    "headline": "P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+    "summary": "The Indian Olympic Association president alleged former archer Dola Banerjee violated the Model Code of Conduct by circulating a WhatsApp message seeking votes for four candidates ahead of Monday’s election",
+    "link": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+    "time": "2026-11-08T22:10:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "‘Dimagi Naxals’ instigating people against Constitution: PM Modi as Maoists eliminated",
-    "summary": "Celebrating Diwali with CRPF personnel in Bastar, Prime Minister Narendra Modi said the country must “identify and defeat” ideological supporters of Naxalism who have “infiltrated” parties and organisations",
-    "link": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
-    "time": "2026-11-08T19:03:39+05:30",
+    "headline": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+    "summary": "Ministers, MLAs asked to spend festival with poor families who received houses; 2.21 lakh houses completed under scheme",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+    "time": "2026-11-08T21:54:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
-    "summary": "Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
-    "link": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece",
-    "time": "2026-11-08T18:48:13+05:30",
+    "headline": "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
+    "summary": "With this development, five bodies have been traced so far in the case, while the search for the remaining two continues",
+    "link": "https://www.thehindu.com/news/cities/bangalore/rajajinagar-murders-two-more-bodies-recovered-near-chamundi-hills-in-mysuru/article71680991.ece",
+    "time": "2026-11-08T21:25:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
-    "summary": "The airport's emergency medical team rushed to the spot immediately after the incident outside the terminal building and provided first aid to the injured individual",
-    "link": "https://www.thehindu.com/news/national/maharashtra/portion-of-false-ceiling-collapses-outside-mumbai-airport-terminal-one-hurt/article71680978.ece",
-    "time": "2026-11-08T18:39:19+05:30",
+    "headline": "UK Hindu family takes legal action after school objects to boy wearing tilak",
+    "summary": "The parents of a nine-year-old boy have approached the UK High Court, alleging religious discrimination after he was prevented from wearing the sacred Tilak-Chandlo to school",
+    "link": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
+    "time": "2026-11-08T21:01:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Revanth sets target of making one crore women millionaires by 2034",
-    "summary": "Promises greater economic opportunities for SHG members; says women’s empowerment is central to his government’s policies",
-    "link": "https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece",
-    "time": "2026-11-08T18:39:14+05:30",
+    "headline": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
+    "summary": "“It is important to stem the rot before it spreads, all the more so if this book was AI-generated,” the economist said in a clarification via e-mail to The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+    "time": "2026-11-08T20:12:15+05:30",
     "source": "The Hindu"
    }
   ],
@@ -328,16 +328,16 @@
     "source": "NPR"
    },
    {
-    "headline": "In Maine, a new approach to practicing medicine in the sky",
-    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
+    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
     "time": "2026-11-08T06:00:00-05:00",
     "source": "NPR"
    },
    {
-    "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
-    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+    "headline": "One air ambulance service rethinks what it takes to practice medicine in the sky",
+    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
     "time": "2026-11-08T06:00:00-05:00",
     "source": "NPR"
    },
@@ -365,10 +365,38 @@
   ],
   "world": [
    {
-    "headline": "What we know so far after Krakow gun attack",
-    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "time": "2026-11-08T11:22:17+00:00",
+    "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+    "time": "2026-11-08T18:22:53+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+    "time": "2026-11-08T17:35:13+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
+    "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+    "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o",
+    "time": "2026-11-08T16:05:57+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Homes and temples glow across India to mark Diwali",
+    "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
+    "time": "2026-11-08T14:42:09+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Iran executes three men for 'armed unrest' after January protests",
+    "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+    "time": "2026-11-08T13:37:50+00:00",
     "source": "BBC News"
    },
    {
@@ -376,34 +404,6 @@
     "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
     "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
     "time": "2026-11-08T09:29:24+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Houthis say at least 33 killed in Saudi air strike",
-    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-    "time": "2026-11-08T04:03:12+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "The Trump coalition is shattered - what will Republicans do now?",
-    "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
-    "time": "2026-11-08T00:52:39+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-    "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-    "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
-    "time": "2026-11-08T00:48:59+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
-    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
-    "time": "2026-11-07T22:19:59+00:00",
     "source": "BBC News"
    }
   ]
