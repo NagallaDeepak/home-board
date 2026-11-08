@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T20:40:20.028043+00:00",
+ "updatedAt": "2026-11-08T00:13:34.617412+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,44 +8,44 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 55.8,
-    "feels": 55.5,
-    "hum": 94,
-    "wind": 3.9,
+    "t": 54.9,
+    "feels": 54.1,
+    "hum": 95,
+    "wind": 4.5,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-07",
      "hi": 62.4,
-     "lo": 51.1,
+     "lo": 51.6,
      "code": 63,
      "rain": 83,
-     "rainMm": 9.1,
+     "rainMm": 10.5,
      "gustMph": 20.4
     },
     {
      "date": "2026-11-08",
-     "hi": 52.4,
+     "hi": 52.3,
      "lo": 42.5,
-     "code": 61,
-     "rain": 74,
-     "rainMm": 2.8,
-     "gustMph": 33.9
+     "code": 63,
+     "rain": 84,
+     "rainMm": 7.9,
+     "gustMph": 35.6
     },
     {
      "date": "2026-11-09",
-     "hi": 53.0,
+     "hi": 52.6,
      "lo": 41.1,
-     "code": 51,
-     "rain": 14,
-     "rainMm": 0.1,
+     "code": 3,
+     "rain": 17,
+     "rainMm": 0.0,
      "gustMph": 25.7
     },
     {
      "date": "2026-11-10",
-     "hi": 55.7,
-     "lo": 44.6,
+     "hi": 56.7,
+     "lo": 44.7,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
@@ -53,10 +53,10 @@
     },
     {
      "date": "2026-11-11",
-     "hi": 56.1,
+     "hi": 57.2,
      "lo": 46.8,
      "code": 3,
-     "rain": 1,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 24.2
     }
@@ -69,10 +69,10 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.9,
-    "feels": 22.4,
-    "hum": 51,
-    "wind": 4.7,
+    "t": 21.7,
+    "feels": 21.0,
+    "hum": 52,
+    "wind": 4.8,
     "code": 3
    },
    "days": [
@@ -130,10 +130,10 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.7,
-    "feels": 29.9,
-    "hum": 93,
-    "wind": 2.5,
+    "t": 24.2,
+    "feels": 29.1,
+    "hum": 94,
+    "wind": 2.6,
     "code": 0
    },
    "days": [
@@ -142,7 +142,7 @@
      "hi": 31.4,
      "lo": 24.0,
      "code": 51,
-     "rain": 37,
+     "rain": 33,
      "rainMm": 0.5,
      "gustMph": 14.1
     },
@@ -151,7 +151,7 @@
      "hi": 31.0,
      "lo": 23.1,
      "code": 1,
-     "rain": 4,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 12.5
     },
@@ -178,7 +178,7 @@
      "hi": 30.2,
      "lo": 19.0,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 11.0
     }
@@ -277,49 +277,70 @@
   ],
   "india": [
    {
-    "headline": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
-    "time": "2026-11-08T01:39:14+05:30",
+    "headline": "A bridge between past and present",
+    "summary": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian…",
+    "link": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+    "time": "2026-11-08T04:42:10+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Ten of 11 stations on Kochi metro’s Pink Line to have entry/exit from both sides of road",
-    "summary": "Terminal station at Smart City to have entry/exit only on the right hand side; foot overbridge mulled for members of the public to access the station",
-    "link": "https://www.thehindu.com/news/national/kerala/ten-of-11-stations-on-kochi-metros-pink-line-to-have-entryexit-from-both-sides-of-road/article71678672.ece",
-    "time": "2026-11-08T01:26:28+05:30",
+    "headline": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
+    "summary": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran",
+    "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+    "time": "2026-11-08T03:53:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Water released from Shenbagathoppu dam due to rain",
-    "summary": "Tiruvannamalai Collector Vandhana Garg has warned residents in Cheyyar, Arani, Vandavasi, and Polur towns along Kamandalam Naganathi river against crossing the waterbody as the waterflow in the river is on the rise",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
-    "time": "2026-11-08T01:00:13+05:30",
+    "headline": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
+    "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
+    "link": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+    "time": "2026-11-08T03:36:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Renovated bus terminus in Ranipet town opened for public use",
-    "summary": "Work to restore the terminus was started in 2022",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/renovated-bus-terminus-in-ranipet-town-opened-for-public-use/article71678325.ece",
-    "time": "2026-11-08T00:57:47+05:30",
+    "headline": "42 days of SRFTI protest; classes suspended till December 11",
+    "summary": "Students send message of resistance and fight for justice on Deepavali",
+    "link": "https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece",
+    "time": "2026-11-08T03:29:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-bengaluru-on-november-8/article71678845.ece",
-    "time": "2026-11-08T00:56:57+05:30",
+    "headline": "Presidency University expels student for allegedly defacing Vivekananda poster",
+    "summary": "The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action",
+    "link": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
+    "time": "2026-11-08T02:55:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Two youths arrested for possessing narcotics in Vellore",
-    "summary": "The police said the duo were on their way to the railway station to go to Chennai, where they planned to sell the drugs",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/two-youths-arrested-for-possessing-narcotics-in-vellore/article71678328.ece",
-    "time": "2026-11-08T00:54:50+05:30",
+    "headline": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
+    "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece",
+    "time": "2026-11-08T02:43:02+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "The surprising and often forgotten history of economic populism in Texas",
+    "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+    "time": "2026-11-07T17:12:07-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Oklahoma tribes says proposed legal changes puts ancestral lands in Ohio at risk",
+    "summary": "The Trump administration has proposed changes to the National Historic Preservation Act that could endanger historic sites that are significant to tribal nations across the country. Oklahoma tribes say that puts…",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
+    "time": "2026-11-07T17:12:02-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Housing affordability after the midterm elections",
+    "summary": "Housing affordability was a big issue for voters who helped sweep Democrats into power this week. Tackling it will take time.",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6029653/housing-affordability-after-the-midterm-elections",
+    "time": "2026-11-07T17:12:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Democrats plan to widen their probes of fatal ICE shootings",
     "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents…",
@@ -340,35 +361,21 @@
     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
     "time": "2026-11-07T05:00:00-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-    "summary": "Plus: Heidi Klum's hand, hackers and the pope's visitor!",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
-    "time": "2026-11-06T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Why public schools nationwide are facing a massive drop in student enrollment",
-    "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-    "time": "2026-11-06T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Former Army medic reflects on his toughest moments helping the wounded",
-    "summary": "Twenty years ago, Army Staff Sergeant Phillip Trezza deployed to Iraq as a medic. He speaks with his teenage daughter about some of his toughest moments.",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
-    "time": "2026-11-06T04:46:06-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "What we know so far after Polish gunman opens fire in Krakow main square",
-    "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+    "headline": "What we know so far after Krakow gun attack",
+    "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "time": "2026-11-07T20:23:17+00:00",
+    "time": "2026-11-07T22:58:49+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+    "time": "2026-11-07T22:19:59+00:00",
     "source": "BBC News"
    },
    {
@@ -397,13 +404,6 @@
     "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
     "time": "2026-11-07T17:09:24+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Italian foreign minister says hackers leaked his personal data",
-    "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
-    "time": "2026-11-07T16:50:06+00:00",
     "source": "BBC News"
    }
   ]
