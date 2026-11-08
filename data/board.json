@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T00:13:34.617412+00:00",
+ "updatedAt": "2026-11-08T06:30:42.851057+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 54.9,
-    "feels": 54.1,
+    "t": 49.8,
+    "feels": 47.4,
     "hum": 95,
-    "wind": 4.5,
+    "wind": 4.8,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-07",
-     "hi": 62.4,
-     "lo": 51.6,
-     "code": 63,
-     "rain": 83,
-     "rainMm": 10.5,
-     "gustMph": 20.4
-    },
-    {
      "date": "2026-11-08",
-     "hi": 52.3,
-     "lo": 42.5,
-     "code": 63,
-     "rain": 84,
-     "rainMm": 7.9,
-     "gustMph": 35.6
+     "hi": 54.8,
+     "lo": 42.7,
+     "code": 61,
+     "rain": 67,
+     "rainMm": 6.2,
+     "gustMph": 32.4
     },
     {
      "date": "2026-11-09",
-     "hi": 52.6,
-     "lo": 41.1,
+     "hi": 52.2,
+     "lo": 41.8,
      "code": 3,
-     "rain": 17,
+     "rain": 7,
      "rainMm": 0.0,
-     "gustMph": 25.7
+     "gustMph": 22.8
     },
     {
      "date": "2026-11-10",
-     "hi": 56.7,
-     "lo": 44.7,
-     "code": 3,
-     "rain": 1,
-     "rainMm": 0.0,
-     "gustMph": 27.5
-    },
-    {
-     "date": "2026-11-11",
-     "hi": 57.2,
-     "lo": 46.8,
+     "hi": 56.5,
+     "lo": 45.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.2
+     "gustMph": 23.7
+    },
+    {
+     "date": "2026-11-11",
+     "hi": 58.6,
+     "lo": 46.2,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 21.7
+    },
+    {
+     "date": "2026-11-12",
+     "hi": 55.9,
+     "lo": 49.2,
+     "code": 53,
+     "rain": 23,
+     "rainMm": 1.2,
+     "gustMph": 26.2
     }
    ],
    "alert": null
@@ -69,34 +69,34 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.7,
-    "feels": 21.0,
-    "hum": 52,
-    "wind": 4.8,
-    "code": 3
+    "t": 29.7,
+    "feels": 30.0,
+    "hum": 31,
+    "wind": 6.5,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 31.3,
-     "lo": 21.5,
+     "hi": 30.3,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.5
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-09",
-     "hi": 30.2,
-     "lo": 21.3,
+     "hi": 30.0,
+     "lo": 20.8,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.1
+     "gustMph": 19.7
     },
     {
      "date": "2026-11-10",
-     "hi": 30.0,
+     "hi": 29.6,
      "lo": 20.1,
      "code": 0,
      "rain": 0,
@@ -105,21 +105,21 @@
     },
     {
      "date": "2026-11-11",
-     "hi": 30.2,
-     "lo": 19.0,
-     "code": 0,
+     "hi": 30.0,
+     "lo": 18.7,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.8
+     "gustMph": 18.8
     },
     {
      "date": "2026-11-12",
-     "hi": 29.5,
-     "lo": 19.9,
+     "hi": 29.2,
+     "lo": 19.6,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.1
+     "gustMph": 19.0
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.2,
-    "feels": 29.1,
-    "hum": 94,
-    "wind": 2.6,
-    "code": 0
+    "t": 30.8,
+    "feels": 36.0,
+    "hum": 62,
+    "wind": 5.0,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 31.4,
-     "lo": 24.0,
+     "hi": 31.1,
+     "lo": 24.2,
      "code": 51,
-     "rain": 33,
-     "rainMm": 0.5,
-     "gustMph": 14.1
+     "rain": 43,
+     "rainMm": 0.3,
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-09",
-     "hi": 31.0,
-     "lo": 23.1,
-     "code": 1,
+     "hi": 30.6,
+     "lo": 22.9,
+     "code": 2,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 12.5
+     "gustMph": 13.2
     },
     {
      "date": "2026-11-10",
-     "hi": 30.6,
-     "lo": 20.7,
+     "hi": 30.4,
+     "lo": 20.4,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.4
+     "gustMph": 13.6
     },
     {
      "date": "2026-11-11",
-     "hi": 30.3,
-     "lo": 19.4,
+     "hi": 30.0,
+     "lo": 19.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.0
+     "gustMph": 9.6
     },
     {
      "date": "2026-11-12",
-     "hi": 30.2,
-     "lo": 19.0,
+     "hi": 30.3,
+     "lo": 19.3,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.0
+     "gustMph": 11.9
     }
    ],
    "alert": null
@@ -188,6 +188,20 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "News in Frames: Many twists in the monsoon’s tale",
+    "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the…",
+    "link": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
+    "time": "2026-11-08T10:35:16+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+    "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+    "time": "2026-11-08T02:20:38+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Mathematics key to AI’s advancement, says expert",
     "summary": "",
@@ -214,20 +228,6 @@
     "summary": "TDP wins 10 of 16 contested seats; YSRCP manages only two, both in Pulivendula constituency",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-suffers-setback-in-kadapa-zptc-polls/article71679330.ece",
     "time": "2026-11-07T22:46:23+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "TDP dominates Rajam constituency with major wins in ZPTC and MPTC elections",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-dominates-rajam-constituency-with-major-wins-in-zptc-and-mptc-elections/article71679167.ece",
-    "time": "2026-11-07T22:23:27+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
-    "summary": "Naidu tells officials to monitor field-level relief operations, complete damage assessments at the earliest and esnure prompt financial assistance to the affected families",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
-    "time": "2026-11-07T21:54:17+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "A bridge between past and present",
-    "summary": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian…",
-    "link": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
-    "time": "2026-11-08T04:42:10+05:30",
+    "headline": "Village anti-drug committee member shot in Punjab’s Barnala, injured",
+    "summary": "Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified",
+    "link": "https://www.thehindu.com/news/national/punjab/village-anti-drug-committee-member-shot-in-punjabs-barnala-injured/article71680598.ece",
+    "time": "2026-11-08T11:40:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
-    "summary": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran",
-    "link": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
-    "time": "2026-11-08T03:53:43+05:30",
+    "headline": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+    "summary": "Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency",
+    "link": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+    "time": "2026-11-08T11:39:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
-    "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
-    "link": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
-    "time": "2026-11-08T03:36:02+05:30",
+    "headline": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
+    "summary": "The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said",
+    "link": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece",
+    "time": "2026-11-08T11:34:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "42 days of SRFTI protest; classes suspended till December 11",
-    "summary": "Students send message of resistance and fight for justice on Deepavali",
-    "link": "https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece",
-    "time": "2026-11-08T03:29:57+05:30",
+    "headline": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
+    "summary": "The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman",
+    "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece",
+    "time": "2026-11-08T11:10:14+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Presidency University expels student for allegedly defacing Vivekananda poster",
-    "summary": "The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action",
-    "link": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
-    "time": "2026-11-08T02:55:09+05:30",
+    "headline": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+    "summary": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet",
+    "link": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+    "time": "2026-11-08T11:06:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
-    "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece",
-    "time": "2026-11-08T02:43:02+05:30",
+    "headline": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
+    "summary": "As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece",
+    "time": "2026-11-08T11:02:18+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+    "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+    "time": "2026-11-07T19:19:52-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "The surprising and often forgotten history of economic populism in Texas",
     "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
@@ -354,21 +361,21 @@
     "link": "https://www.npr.org/2026/11/07/nx-s1-6030790/from-ac-to-pa-hvac-tech-chris-donisi-wins-contest-to-become-the-voice-of-logan-airport",
     "time": "2026-11-07T07:41:06-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-    "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-    "time": "2026-11-07T05:00:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
+    "headline": "Houthis say at least 33 killed in Saudi air strike",
+    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+    "time": "2026-11-08T04:03:12+00:00",
+    "source": "BBC News"
+   },
+   {
     "headline": "What we know so far after Krakow gun attack",
-    "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+    "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "time": "2026-11-07T22:58:49+00:00",
+    "time": "2026-11-08T01:47:41+00:00",
     "source": "BBC News"
    },
    {
@@ -387,7 +394,7 @@
    },
    {
     "headline": "US offers $20m reward for information about Iran's nuclear programme",
-    "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+    "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
     "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
     "time": "2026-11-07T18:14:38+00:00",
     "source": "BBC News"
@@ -397,13 +404,6 @@
     "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
     "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
     "time": "2026-11-07T17:58:41+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Houthis say at least 25 killed in Saudi air strike",
-    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-    "time": "2026-11-07T17:09:24+00:00",
     "source": "BBC News"
    }
   ]
