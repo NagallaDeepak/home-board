@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T06:30:42.851057+00:00",
+ "updatedAt": "2026-11-08T14:05:22.034950+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 49.8,
-    "feels": 47.4,
-    "hum": 95,
-    "wind": 4.8,
-    "code": 3
+    "t": 49.5,
+    "feels": 42.7,
+    "hum": 79,
+    "wind": 12.2,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 54.8,
-     "lo": 42.7,
+     "hi": 54.6,
+     "lo": 43.8,
      "code": 61,
-     "rain": 67,
-     "rainMm": 6.2,
-     "gustMph": 32.4
+     "rain": 84,
+     "rainMm": 1.6,
+     "gustMph": 31.8
     },
     {
      "date": "2026-11-09",
-     "hi": 52.2,
-     "lo": 41.8,
+     "hi": 53.0,
+     "lo": 42.9,
      "code": 3,
-     "rain": 7,
+     "rain": 8,
      "rainMm": 0.0,
-     "gustMph": 22.8
+     "gustMph": 19.5
     },
     {
      "date": "2026-11-10",
      "hi": 56.5,
-     "lo": 45.4,
+     "lo": 45.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.7
+     "gustMph": 27.5
     },
     {
      "date": "2026-11-11",
-     "hi": 58.6,
-     "lo": 46.2,
-     "code": 3,
-     "rain": 0,
+     "hi": 57.8,
+     "lo": 46.9,
+     "code": 2,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 21.7
+     "gustMph": 27.5
     },
     {
      "date": "2026-11-12",
-     "hi": 55.9,
-     "lo": 49.2,
-     "code": 53,
-     "rain": 23,
-     "rainMm": 1.2,
-     "gustMph": 26.2
+     "hi": 51.3,
+     "lo": 46.3,
+     "code": 3,
+     "rain": 24,
+     "rainMm": 0.0,
+     "gustMph": 22.8
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 29.7,
-    "feels": 30.0,
-    "hum": 31,
-    "wind": 6.5,
+    "t": 25.5,
+    "feels": 24.5,
+    "hum": 42,
+    "wind": 6.2,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 30.3,
-     "lo": 21.2,
+     "hi": 30.5,
+     "lo": 21.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-09",
-     "hi": 30.0,
-     "lo": 20.8,
+     "hi": 30.2,
+     "lo": 21.0,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.7
+     "gustMph": 19.0
     },
     {
      "date": "2026-11-10",
-     "hi": 29.6,
-     "lo": 20.1,
+     "hi": 30.0,
+     "lo": 20.4,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.5
+     "gustMph": 19.9
     },
     {
      "date": "2026-11-11",
-     "hi": 30.0,
-     "lo": 18.7,
-     "code": 1,
+     "hi": 30.2,
+     "lo": 19.4,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 18.8
     },
     {
      "date": "2026-11-12",
-     "hi": 29.2,
-     "lo": 19.6,
+     "hi": 29.6,
+     "lo": 19.8,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.0
+     "gustMph": 18.6
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 30.8,
-    "feels": 36.0,
-    "hum": 62,
-    "wind": 5.0,
-    "code": 3
+    "t": 25.8,
+    "feels": 30.0,
+    "hum": 85,
+    "wind": 5.5,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-08",
-     "hi": 31.1,
-     "lo": 24.2,
-     "code": 51,
-     "rain": 43,
-     "rainMm": 0.3,
-     "gustMph": 14.3
+     "hi": 31.8,
+     "lo": 23.3,
+     "code": 53,
+     "rain": 59,
+     "rainMm": 0.8,
+     "gustMph": 16.1
     },
     {
      "date": "2026-11-09",
-     "hi": 30.6,
-     "lo": 22.9,
+     "hi": 30.8,
+     "lo": 23.1,
      "code": 2,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 12.1
     },
     {
      "date": "2026-11-10",
-     "hi": 30.4,
+     "hi": 30.7,
      "lo": 20.4,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.6
+     "gustMph": 12.5
     },
     {
      "date": "2026-11-11",
-     "hi": 30.0,
-     "lo": 19.2,
-     "code": 3,
+     "hi": 30.4,
+     "lo": 19.3,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 9.6
+     "gustMph": 11.0
     },
     {
      "date": "2026-11-12",
-     "hi": 30.3,
-     "lo": 19.3,
-     "code": 0,
+     "hi": 30.2,
+     "lo": 19.2,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.9
+     "gustMph": 10.5
     }
    ],
    "alert": null
@@ -192,7 +192,7 @@
     "headline": "News in Frames: Many twists in the monsoon’s tale",
     "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the…",
     "link": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
-    "time": "2026-11-08T10:35:16+05:30",
+    "time": "2026-11-08T12:03:24+05:30",
     "source": "The Hindu"
    },
    {
@@ -233,6 +233,27 @@
   ],
   "telangana": [
    {
+    "headline": "Revanth sets target of making one crore women millionaires by 2034",
+    "summary": "Promises greater economic opportunities for SHG members; says women’s empowerment is central to his government’s policies",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece",
+    "time": "2026-11-08T18:39:14+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Telangana celebrates Deepavali with traditional fervour; Guv visits Bhagya Lakshmi temple",
+    "summary": "Governor Shiv Pratap Shukla, Chief Minister A. Revanth Reddy, Union Coal Minister G. Kishan Reddy, Union Minister of State for Home Bandi Sanjay Kumar and other leaders greeted the people on the occasion",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-celebrates-deepavali-with-traditional-fervour-guv-visits-bhagya-lakshmi-temple/article71680833.ece",
+    "time": "2026-11-08T15:45:47+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Revanth challenges KCR for debate on Kaleshwaram, El Niño and Godavari waters in the special Assembly session",
+    "summary": "Chief Minister A. Revanth Reddy alleged that the previous government had neglected drinking and irrigation water requirements in the region while prioritising the Kaleshwaram project over the Pranahita project",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-challenges-kcr-for-debate-on-kaleshwaram-el-nino-and-godavari-waters-in-the-special-assembly-session/article71678434.ece",
+    "time": "2026-11-08T07:46:08+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Two murder-for-gain cases cracked, four held for ‘killing’ 103-year-old, 80-year-old women",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/telangana/two-murder-for-gain-cases-cracked-four-held-for-killing-103-year-old-80-year-old-women/article71679208.ece",
@@ -252,74 +273,81 @@
     "link": "https://www.thehindu.com/news/national/telangana/women-from-wanaparthy-villages-get-trained-in-japa-care/article71678739.ece",
     "time": "2026-11-07T20:50:13+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Bhatti releases poster for State Education Conference",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bhatti-releases-poster-for-state-education-conference/article71678896.ece",
-    "time": "2026-11-07T20:44:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana plans modern storage infra for paddy to protect ryots’ interests",
-    "summary": "Minister for Civil Supplies N. Uttam Kumar Reddy says the move would also prevent farmers from going for distress sales, sell paddy when they good good price",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-plans-modern-storage-infra-for-paddy-to-protect-ryots-interests/article71678433.ece",
-    "time": "2026-11-07T20:42:01+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Revanth Reddy’s Praja Balam tour after Sankranthi",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/revanth-reddys-praja-balam-tour-after-sankranthi/article71678869.ece",
-    "time": "2026-11-07T20:30:36+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Village anti-drug committee member shot in Punjab’s Barnala, injured",
-    "summary": "Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified",
-    "link": "https://www.thehindu.com/news/national/punjab/village-anti-drug-committee-member-shot-in-punjabs-barnala-injured/article71680598.ece",
-    "time": "2026-11-08T11:40:40+05:30",
+    "headline": "Assam OIL facility fire: death toll rises to four as another injured dies; four suspended",
+    "summary": "OIL has instituted a high-level inquiry to probe into the incident",
+    "link": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece",
+    "time": "2026-11-08T19:21:26+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
-    "summary": "Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency",
-    "link": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
-    "time": "2026-11-08T11:39:18+05:30",
+    "headline": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species",
+    "summary": "National Green Tribunal takes suo motu cognisance of The Hindu report",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/ngt-issues-notice-to-tirunelveli-collector-over-threats-to-tamirabharani-fish-species/article71679299.ece",
+    "time": "2026-11-08T19:06:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
-    "summary": "The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said",
-    "link": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece",
-    "time": "2026-11-08T11:34:11+05:30",
+    "headline": "‘Dimagi Naxals’ instigating people against Constitution: PM Modi as Maoists eliminated",
+    "summary": "Celebrating Diwali with CRPF personnel in Bastar, Prime Minister Narendra Modi said the country must “identify and defeat” ideological supporters of Naxalism who have “infiltrated” parties and organisations",
+    "link": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece",
+    "time": "2026-11-08T19:03:39+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
-    "summary": "The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman",
-    "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece",
-    "time": "2026-11-08T11:10:14+05:30",
+    "headline": "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
+    "summary": "Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
+    "link": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece",
+    "time": "2026-11-08T18:48:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
-    "summary": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet",
-    "link": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
-    "time": "2026-11-08T11:06:06+05:30",
+    "headline": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
+    "summary": "The airport's emergency medical team rushed to the spot immediately after the incident outside the terminal building and provided first aid to the injured individual",
+    "link": "https://www.thehindu.com/news/national/maharashtra/portion-of-false-ceiling-collapses-outside-mumbai-airport-terminal-one-hurt/article71680978.ece",
+    "time": "2026-11-08T18:39:19+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
-    "summary": "As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece",
-    "time": "2026-11-08T11:02:18+05:30",
+    "headline": "Revanth sets target of making one crore women millionaires by 2034",
+    "summary": "Promises greater economic opportunities for SHG members; says women’s empowerment is central to his government’s policies",
+    "link": "https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece",
+    "time": "2026-11-08T18:39:14+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Homelessness in the U.S. dropped again. HUD and housing advocates differ on why",
+    "summary": "Homelessness in the U.S. has dropped for the second year in a row, two analyses found. But the Trump administration and homeless advocates credit different reasons for the decline.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033391/homelessness-in-the-u-s-dropped-again-hud-and-housing-advocates-differ-on-why",
+    "time": "2026-11-08T08:16:10-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "In Maine, a new approach to practicing medicine in the sky",
+    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "time": "2026-11-08T06:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
+    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+    "time": "2026-11-08T06:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+    "summary": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+    "time": "2026-11-08T02:35:29-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
     "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
@@ -333,37 +361,23 @@
     "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
     "time": "2026-11-07T17:12:07-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Oklahoma tribes says proposed legal changes puts ancestral lands in Ohio at risk",
-    "summary": "The Trump administration has proposed changes to the National Historic Preservation Act that could endanger historic sites that are significant to tribal nations across the country. Oklahoma tribes say that puts…",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
-    "time": "2026-11-07T17:12:02-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Housing affordability after the midterm elections",
-    "summary": "Housing affordability was a big issue for voters who helped sweep Democrats into power this week. Tackling it will take time.",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6029653/housing-affordability-after-the-midterm-elections",
-    "time": "2026-11-07T17:12:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrats plan to widen their probes of fatal ICE shootings",
-    "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents…",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-    "time": "2026-11-07T08:19:09-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "From AC to PA: HVAC tech Chris Donisi wins contest to become the voice of Logan Airport",
-    "summary": "HVAC technician Chris Donisi won a competition to be the public address voice of Boston's Logan International Airport.",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6030790/from-ac-to-pa-hvac-tech-chris-donisi-wins-contest-to-become-the-voice-of-logan-airport",
-    "time": "2026-11-07T07:41:06-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
+   {
+    "headline": "What we know so far after Krakow gun attack",
+    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+    "time": "2026-11-08T11:22:17+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "How the deadly shooting in Krakow unfolded",
+    "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+    "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
+    "time": "2026-11-08T09:29:24+00:00",
+    "source": "BBC News"
+   },
    {
     "headline": "Houthis say at least 33 killed in Saudi air strike",
     "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
@@ -372,10 +386,17 @@
     "source": "BBC News"
    },
    {
-    "headline": "What we know so far after Krakow gun attack",
-    "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "time": "2026-11-08T01:47:41+00:00",
+    "headline": "The Trump coalition is shattered - what will Republicans do now?",
+    "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+    "time": "2026-11-08T00:52:39+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+    "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+    "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
+    "time": "2026-11-08T00:48:59+00:00",
     "source": "BBC News"
    },
    {
@@ -383,27 +404,6 @@
     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
     "time": "2026-11-07T22:19:59+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Paraguay's former president charged after bank collapse",
-    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-    "time": "2026-11-07T19:17:22+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US offers $20m reward for information about Iran's nuclear programme",
-    "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
-    "time": "2026-11-07T18:14:38+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Gaza wedding festival sees 250 couples married at the same time",
-    "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-    "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
-    "time": "2026-11-07T17:58:41+00:00",
     "source": "BBC News"
    }
   ]
