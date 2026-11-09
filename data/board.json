@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T10:05:47.754583+00:00",
+ "updatedAt": "2026-11-09T20:57:00.092154+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 43.7,
-    "feels": 38.5,
-    "hum": 81,
-    "wind": 5.9,
+    "t": 52.4,
+    "feels": 47.6,
+    "hum": 66,
+    "wind": 6.3,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-09",
-     "hi": 55.2,
-     "lo": 42.9,
-     "code": 3,
-     "rain": 11,
-     "rainMm": 0.0,
-     "gustMph": 24.2
+     "hi": 55.5,
+     "lo": 42.4,
+     "code": 51,
+     "rain": 8,
+     "rainMm": 0.1,
+     "gustMph": 26.4
     },
     {
      "date": "2026-11-10",
-     "hi": 51.3,
-     "lo": 38.9,
+     "hi": 50.9,
+     "lo": 38.7,
      "code": 3,
      "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 23.9
+     "gustMph": 23.7
     },
     {
      "date": "2026-11-11",
-     "hi": 53.4,
-     "lo": 44.6,
+     "hi": 54.9,
+     "lo": 38.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.8
+     "gustMph": 25.7
     },
     {
      "date": "2026-11-12",
-     "hi": 50.9,
-     "lo": 43.7,
-     "code": 51,
-     "rain": 51,
-     "rainMm": 0.1,
-     "gustMph": 25.5
+     "hi": 52.5,
+     "lo": 45.4,
+     "code": 81,
+     "rain": 40,
+     "rainMm": 19.0,
+     "gustMph": 38.0
     },
     {
      "date": "2026-11-13",
-     "hi": 53.0,
-     "lo": 46.5,
+     "hi": 47.3,
+     "lo": 36.6,
      "code": 82,
-     "rain": 66,
-     "rainMm": 34.2,
-     "gustMph": 32.9
+     "rain": 55,
+     "rainMm": 21.3,
+     "gustMph": 39.8
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 29.3,
-    "feels": 27.9,
-    "hum": 30,
-    "wind": 5.7,
-    "code": 1
+    "t": 21.8,
+    "feels": 20.5,
+    "hum": 45,
+    "wind": 4.7,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-09",
-     "hi": 29.5,
-     "lo": 20.6,
-     "code": 1,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 18.1
-    },
-    {
      "date": "2026-11-10",
-     "hi": 29.7,
-     "lo": 19.4,
-     "code": 1,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 19.2
-    },
-    {
-     "date": "2026-11-11",
-     "hi": 29.8,
-     "lo": 19.6,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 18.6
-    },
-    {
-     "date": "2026-11-12",
-     "hi": 29.4,
-     "lo": 19.9,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 19.5
-    },
-    {
-     "date": "2026-11-13",
-     "hi": 29.4,
-     "lo": 19.2,
+     "hi": 30.1,
+     "lo": 20.2,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 21.7
+    },
+    {
+     "date": "2026-11-11",
+     "hi": 30.1,
+     "lo": 20.0,
+     "code": 1,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 21.3
+    },
+    {
+     "date": "2026-11-12",
+     "hi": 29.7,
+     "lo": 20.2,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 20.8
+    },
+    {
+     "date": "2026-11-13",
+     "hi": 30.5,
+     "lo": 19.5,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.9
+    },
+    {
+     "date": "2026-11-14",
+     "hi": 31.0,
+     "lo": 21.0,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 17.7
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 30.6,
-    "feels": 33.5,
-    "hum": 52,
-    "wind": 3.3,
-    "code": 1
+    "t": 21.7,
+    "feels": 23.8,
+    "hum": 79,
+    "wind": 3.2,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-09",
-     "hi": 30.9,
-     "lo": 23.3,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.6
-    },
-    {
      "date": "2026-11-10",
-     "hi": 30.5,
-     "lo": 20.9,
-     "code": 0,
+     "hi": 30.8,
+     "lo": 20.7,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 10.1
     },
     {
      "date": "2026-11-11",
-     "hi": 30.2,
-     "lo": 19.2,
-     "code": 3,
+     "hi": 30.6,
+     "lo": 19.3,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 10.7
+     "gustMph": 11.4
     },
     {
      "date": "2026-11-12",
-     "hi": 30.1,
-     "lo": 19.5,
+     "hi": 30.6,
+     "lo": 19.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 8.7
+     "gustMph": 11.2
     },
     {
      "date": "2026-11-13",
-     "hi": 30.1,
-     "lo": 21.0,
+     "hi": 31.0,
+     "lo": 21.5,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 17.7
+    },
+    {
+     "date": "2026-11-14",
+     "hi": 31.2,
+     "lo": 22.5,
      "code": 3,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 16.6
     }
    ],
    "alert": null
@@ -189,120 +189,141 @@
  "news": {
   "andhra": [
    {
-    "headline": "Andhra Pradesh plans major overhaul of postgraduate education across 28 universities | Explained",
-    "summary": "Proposed reforms seek to move beyond conventional, examination-orientated degrees towards interdisciplinary learning, industry exposure, research and emerging technologies",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-plans-major-overhaul-of-postgraduate-education-across-28-universities/article71681649.ece",
-    "time": "2026-11-09T13:14:24+05:30",
+    "headline": "Raptadu chainsaw attack victim’s condition improving, says A.P. Health Minister",
+    "summary": "Dressing has been changed for injuries on her head, neck, face, arms, and back. The wounds are healing well and she is responding positively to the treatment, says Satya Kumar Yadav",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-chainsaw-attack-victims-condition-improving-says-ap-health-minister/article71683834.ece",
+    "time": "2026-11-09T23:47:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NDA seals YSRCP’s fate in rural local body polls by winning 499 ZPTC and 5,861 MPTC seats",
-    "summary": "State Election Commission set the stage for elections to Gram Panchayats in three phases i.e on November 26 and 29 and December 2, for which the Commission will issue notifications on November 13, 16 and 19",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-seals-ysrcps-fate-in-rural-local-body-polls-by-winning-499-zptc-and-5861-mptc-seats/article71681314.ece",
-    "time": "2026-11-09T08:27:31+05:30",
+    "headline": "APSDRF rescues eight, evacuates 341 during Cyclone Arnab relief efforts",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsdrf-rescues-eight-evacuates-341-during-cyclone-arnab-relief-efforts/article71683550.ece",
+    "time": "2026-11-09T23:41:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "News in Frames: Many twists in the monsoon’s tale",
-    "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the…",
-    "link": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
-    "time": "2026-11-08T12:03:24+05:30",
+    "headline": "Legal awareness rally held to mark National Legal Services Day",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/legal-awareness-rally-held-to-mark-national-legal-services-day/article71683660.ece",
+    "time": "2026-11-09T22:29:37+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Remain accessible to people, Visakhapatnam MP tells Corporators",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/remain-accessible-to-people-visakhapatnam-mp-tells-corporators/article71683570.ece",
+    "time": "2026-11-09T22:25:20+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Srisailam gears up for ‘Karthika Masam’ festivities from November 10",
+    "summary": "Temple management officials say ‘Sparsha Darshan’ will be suspended on Saturdays, Sundays, Mondays, and other auspicious festival days, while it will be permitted during specific time slots on other days",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-gears-up-for-karthika-masam-festivities-from-november-10/article71682566.ece",
+    "time": "2026-11-09T22:14:01+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "A.P. cities record dip in AQI after Deepavali; Visakhapatnam worst hit",
+    "summary": "Visakhapatnam and Rajamahendravaram in “poor” category a day after festival; pulmonologist advises masks for vulnerable groups",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cities-record-dip-in-aqi-after-deepavali-visakhapatnam-worst-hit/article71683401.ece",
+    "time": "2026-11-09T22:04:24+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Hyderabad: Retired banker’s sketch puts Ladki-Ka-Pul’s one-way traffic plan in motion",
-    "summary": "Hyderabad police say the one-way loops may offer hassle-free experience for commuters with reduced honking; explore this traffic arrangement across the city",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-retired-bankers-sketch-puts-ladki-ka-puls-one-way-traffic-plan-in-motion/article71678714.ece",
-    "time": "2026-11-09T15:16:55+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana feels chill in the air; lowest of 14.7°C in Adilabad",
+    "headline": "Telangana High Court sentences Ranga Reddy Collector to six months’ imprisonment for wilful disobedience in a contempt case",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-feels-chill-in-the-air-lowest-of-147c-in-adilabad/article71681865.ece",
-    "time": "2026-11-09T14:01:34+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/hc-awards-six-month-imprisonment-to-ranga-reddy-district-collector/article71683763.ece",
+    "time": "2026-11-09T22:22:54+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Three killed as mini truck rams stationary tipper on Hyderabad’s ORR",
-    "summary": "Occupants of the mini-truck were returning from a tree-planting programme in the Shamshabad-Muchintal area",
-    "link": "https://www.thehindu.com/news/national/telangana/three-killed-as-mini-truck-rams-stationary-tipper-on-hyderabads-orr/article71681718.ece",
-    "time": "2026-11-09T13:16:03+05:30",
+    "headline": "Six, including sarpanch, injured in stray dog attack in Rekonda village of Karimnagar district",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/six-including-sarpanch-injured-in-stray-dog-attack-in-rekonda-village-of-karimnagar-district/article71683667.ece",
+    "time": "2026-11-09T22:05:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Air of Deepavali celebrations lingers in Hyderabad with AQI remaining at hazardous levels",
-    "summary": "The air quality in Hyderabad deteriorated in the night itself with particulate matter 2.5 reaching 392 micrograms per cubic meter (μg/m³) at 9.30 p.m. and the Air Quality Index averaged 509",
-    "link": "https://www.thehindu.com/news/national/telangana/air-of-deepavali-celebrations-lingers-in-hyderabad-with-aqi-remaining-at-hazardous-levels/article71681358.ece",
-    "time": "2026-11-09T11:48:14+05:30",
+    "headline": "Congress government paying ₹80,000 crore per year for debts left behind by KCR: Revanth",
+    "summary": "The Chief Minister promised to bring Krishna waters to Kodangal by December and irrigate its parched lands",
+    "link": "https://www.thehindu.com/news/national/telangana/congress-government-paying-80000-crore-per-year-for-debts-left-behind-by-kcr-revanth/article71683710.ece",
+    "time": "2026-11-09T21:58:00+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Children make up nearly half of Deepavali eye-injury cases at Hyderabad hospital",
-    "summary": "Doctors say most patients were treated without surgery, but eight children require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk…",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/children-make-up-nearly-half-of-deepavali-eye-injury-cases-at-hyderabad-hospital/article71681416.ece",
-    "time": "2026-11-09T10:31:00+05:30",
+    "headline": "Rice from millers to local retailers: Telangana Civil Supplies Department’s new measure to control prices",
+    "summary": "Officials strongly advised middlemen against creating rumours on rice shortage to increase prices",
+    "link": "https://www.thehindu.com/news/national/telangana/rice-from-millers-to-local-retailers-telangana-civil-supplies-departments-new-measure-to-control-prices/article71682724.ece",
+    "time": "2026-11-09T21:45:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Series of fire incidents at firecracker shops, godowns mar Deepavali in Hyderabad",
-    "summary": "A fire broke out at a plastic manufacturing unit in Katedan Industrial Area and subsequently spread to a neighbouring plywood unit, prompting the deployment of three fire engines",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/series-of-fire-incidents-at-firecracker-shops-godowns-mar-deepavali-in-hyderabad/article71681217.ece",
-    "time": "2026-11-09T09:11:19+05:30",
+    "headline": "Two teenagers arrested for robbing pedestrians at knife-point near Durgam Cheruvu Metro station",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/two-teenagers-arrested-for-robbing-pedestrians-at-knife-point-near-durgam-cheruvu-metro-station/article71683253.ece",
+    "time": "2026-11-09T21:37:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Father-daughter duo killed as tractor-trolley hits car in Husnabad",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/father-daughter-duo-killed-as-tractor-trolley-hits-car-in-husnabad/article71683294.ece",
+    "time": "2026-11-09T21:36:17+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Cases booked on all seen attackers in Kalighat clash, West Bengal CM says",
-    "summary": "‘Those who tried to slap police, raised their fists and hurled threats have been booked under various sections. Police personnel were injured and were obstructed in discharging their official duty,’ says CM Adhikari",
-    "link": "https://www.thehindu.com/news/national/west-bengal/cases-booked-on-all-seen-attackers-in-kalighat-clash-west-bengal-cm-says/article71682106.ece",
-    "time": "2026-11-09T15:31:33+05:30",
+    "headline": "Building over Srinagar’s future",
+    "summary": "Suspend the FAR and land-use exemptions, along with Section 22, until they are brought within the Master Plan framework and subjected to public objections",
+    "link": "https://www.thehindu.com/opinion/op-ed/building-over-srinagars-future/article71682424.ece",
+    "time": "2026-11-10T00:52:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Man involved in ‘repeated’ criminal activities held under PSA in Doda",
-    "summary": "Five cases have been registered against Riaz Ahmed over the years, the police said, and he has been lodged in Bhaderwah district jail",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/man-involved-in-repeated-criminal-activities-held-under-psa-in-doda/article71682048.ece",
-    "time": "2026-11-09T15:30:33+05:30",
+    "headline": "Wayanad conservationist N. Badusha wins environmental award",
+    "summary": "The award, instituted in memory of Kamarudeen, a noted environmentalist and former Reader in the Department of Botany at the University of Kerala, carries a cash prize of ₹25,000, a citation, and a plaque.",
+    "link": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece",
+    "time": "2026-11-10T00:43:39+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’",
-    "summary": "When asked about air quality data in Delhi missing in several monitoring stations, Kapil Mishra said that the government will look into the issue within an hour and inform the media about it",
-    "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-quality-data-manipulation/article71681459.ece",
-    "time": "2026-11-09T15:30:31+05:30",
+    "headline": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
+    "summary": "Missing PM2.5 data for several hours on CPCB website understated city’s pollution levels: experts; 227 PM2.5 observations were missing across 59 stations; govt. will look into it: Mishra",
+    "link": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
+    "time": "2026-11-10T00:32:58+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Police step up drive against traffic rule violations in Kozhikode city",
-    "summary": "Over 200 vehicle owners fined as part of intensified checks against lane traffic violations and obstructive driving along free left lanes",
-    "link": "https://www.thehindu.com/news/national/kerala/police-step-up-drive-against-traffic-rule-violations-in-kozhikode-city/article71681522.ece",
-    "time": "2026-11-09T15:28:41+05:30",
+    "headline": "Ahead of Abu Dhabi peace talks, Modi speaks to Zelenskyy; Jaishankar speaks to Lavrov",
+    "summary": "India is ready to mediate to establish grain safety agreement for “food corridors”, says Ukrainian President Zelenskyy",
+    "link": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece",
+    "time": "2026-11-10T00:21:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Delhi AQI: What is PM2.5 and the row over air pollution data post Deepavali?",
-    "summary": "Congress leader Ajay Maken flagged the non-availability of PM 2.5 readings at 25 of Delhi’s 39 air quality monitoring stations on the night of Deepavali",
-    "link": "https://www.thehindu.com/news/cities/Delhi/delhi-aqi-today-air-pollution-what-is-pm-25-row-after-diwali-deepavali/article71681783.ece",
-    "time": "2026-11-09T15:27:03+05:30",
+    "headline": "Five persons, including four girls, drown in irrigation tank in Tiruvannamalai",
+    "summary": "The deceased were identified as a staff nurse and four inmates of a government-recognised children’s home for girls",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-including-four-girls-drown-in-irrigation-tank-in-tiruvannamalai/article71682584.ece",
+    "time": "2026-11-10T00:20:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Delhi chokes after Deepavali as smog pushes air quality into ‘severe’ category",
-    "summary": "A thick blanket of smog engulfed Delhi after Deepavali celebrations, with air quality deteriorating sharply across the capital. Several monitoring stations recorded severe pollution levels, with AQI crossing 400 in…",
-    "link": "https://www.thehindu.com/videos/delhi-chokes-after-deepavali-as-smog-pushes-air-quality-into-severe-category/article71682120.ece",
-    "time": "2026-11-09T15:26:54+05:30",
+    "headline": "APSDRF rescues eight, evacuates 341 during Cyclone Arnab relief efforts",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsdrf-rescues-eight-evacuates-341-during-cyclone-arnab-relief-efforts/article71683550.ece",
+    "time": "2026-11-10T00:20:20+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
-    "headline": "Democrats won big. Can they lower your grocery bill?",
-    "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+    "headline": "Democrats won big on issues like immigration. But ICE still has the money",
+    "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
     "time": "2026-11-09T05:00:00-05:00",
     "source": "NPR"
    },
@@ -314,10 +335,17 @@
     "source": "NPR"
    },
    {
-    "headline": "Democrats won big on issues like immigration. But ICE still has the money",
-    "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+    "headline": "Democrats won big. Can they lower your grocery bill?",
+    "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
     "time": "2026-11-09T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+    "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+    "time": "2026-11-08T19:17:43-05:00",
     "source": "NPR"
    },
    {
@@ -328,61 +356,54 @@
     "source": "NPR"
    },
    {
-    "headline": "This podcast explores explores why things made by hand are so special",
+    "headline": "This podcast explores why things made by hand are so special",
     "summary": "NPR's Rob Schmitz speaks with Sam Dingman, host of The Analogs podcast from NPR member station KJZZ.",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6029394/this-podcast-explores-explores-why-things-made-by-hand-are-so-special",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6029394/this-podcast-explores-why-things-made-by-hand-are-so-special",
     "time": "2026-11-08T17:04:12-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "SS United States, a historic ship will be sunk to create an artificial reef",
-    "summary": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
-    "time": "2026-11-08T08:34:34-05:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
-    "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
-    "time": "2026-11-09T08:49:17+00:00",
+    "headline": "Turkey steel factory blast kills at least 17 people",
+    "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
+    "time": "2026-11-09T20:42:04+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
-    "time": "2026-11-09T08:16:57+00:00",
+    "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+    "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
+    "time": "2026-11-09T20:23:14+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Krakow shooting suspect has died in hospital, police say",
-    "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
-    "time": "2026-11-09T07:26:09+00:00",
+    "headline": "France accuses Iran of supermarket fridge hacking",
+    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+    "time": "2026-11-09T20:20:08+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-    "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-    "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko",
-    "time": "2026-11-09T07:10:11+00:00",
+    "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+    "time": "2026-11-09T19:58:01+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-    "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "time": "2026-11-09T06:01:52+00:00",
+    "headline": "Russia's leading independent newspaper closes after eviction",
+    "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+    "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go",
+    "time": "2026-11-09T18:08:07+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Inside the French drug gangs recruiting children to kill",
-    "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-    "time": "2026-11-09T06:00:26+00:00",
+    "headline": "Trump questions midterm elections integrity after previously accepting results",
+    "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
+    "time": "2026-11-09T17:47:29+00:00",
     "source": "BBC News"
    }
   ]
