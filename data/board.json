@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T11:31:12.034298+00:00",
+ "updatedAt": "2026-11-10T19:22:47.475933+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 42.7,
-    "feels": 37.5,
-    "hum": 82,
-    "wind": 5.6,
-    "code": 2
+    "t": 54.5,
+    "feels": 48.9,
+    "hum": 61,
+    "wind": 8.3,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-10",
-     "hi": 55.1,
+     "hi": 54.6,
      "lo": 41.8,
      "code": 3,
-     "rain": 1,
+     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 20.8
     },
     {
      "date": "2026-11-11",
-     "hi": 51.2,
-     "lo": 40.1,
+     "hi": 51.7,
+     "lo": 40.3,
      "code": 3,
-     "rain": 1,
+     "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 21.9
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-12",
-     "hi": 52.8,
-     "lo": 47.2,
-     "code": 80,
-     "rain": 71,
-     "rainMm": 8.9,
-     "gustMph": 18.8
+     "hi": 52.7,
+     "lo": 40.3,
+     "code": 81,
+     "rain": 84,
+     "rainMm": 25.1,
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-13",
-     "hi": 50.1,
-     "lo": 48.7,
+     "hi": 50.5,
+     "lo": 38.7,
      "code": 81,
-     "rain": 74,
-     "rainMm": 44.1,
-     "gustMph": 25.3
+     "rain": 88,
+     "rainMm": 27.0,
+     "gustMph": 36.7
     },
     {
      "date": "2026-11-14",
-     "hi": 49.1,
-     "lo": 39.1,
-     "code": 80,
-     "rain": 47,
-     "rainMm": 11.9,
-     "gustMph": 18.3
+     "hi": 41.4,
+     "lo": 38.6,
+     "code": 51,
+     "rain": 56,
+     "rainMm": 3.9,
+     "gustMph": 21.7
     }
    ],
-   "alert": null
+   "alert": "Thu: rain expected, about 25 mm"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 27.9,
-    "feels": 25.4,
-    "hum": 26,
-    "wind": 7.0,
+    "t": 22.2,
+    "feels": 21.5,
+    "hum": 47,
+    "wind": 3.5,
     "code": 2
    },
    "days": [
     {
-     "date": "2026-11-10",
-     "hi": 29.7,
-     "lo": 19.6,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 21.9
-    },
-    {
      "date": "2026-11-11",
-     "hi": 29.9,
-     "lo": 19.7,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 20.8
-    },
-    {
-     "date": "2026-11-12",
-     "hi": 29.6,
-     "lo": 20.0,
+     "hi": 30.1,
+     "lo": 20.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.4
+     "gustMph": 21.0
+    },
+    {
+     "date": "2026-11-12",
+     "hi": 30.0,
+     "lo": 20.4,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 21.0
     },
     {
      "date": "2026-11-13",
-     "hi": 30.8,
-     "lo": 19.5,
+     "hi": 30.2,
+     "lo": 19.9,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-14",
-     "hi": 31.3,
-     "lo": 20.9,
-     "code": 51,
+     "hi": 30.1,
+     "lo": 20.0,
+     "code": 1,
      "rain": 2,
-     "rainMm": 0.3,
-     "gustMph": 13.9
+     "rainMm": 0.0,
+     "gustMph": 15.9
+    },
+    {
+     "date": "2026-11-15",
+     "hi": 30.9,
+     "lo": 19.8,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 16.3
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 28.1,
-    "feels": 30.6,
-    "hum": 57,
+    "t": 21.2,
+    "feels": 22.6,
+    "hum": 74,
     "wind": 3.4,
-    "code": 1
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-10",
-     "hi": 30.8,
-     "lo": 20.8,
-     "code": 1,
+     "date": "2026-11-11",
+     "hi": 30.7,
+     "lo": 19.7,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.6
+     "gustMph": 10.1
     },
     {
-     "date": "2026-11-11",
-     "hi": 30.5,
-     "lo": 19.5,
+     "date": "2026-11-12",
+     "hi": 30.7,
+     "lo": 20.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 11.0
     },
     {
-     "date": "2026-11-12",
-     "hi": 30.5,
-     "lo": 19.5,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 11.4
-    },
-    {
      "date": "2026-11-13",
-     "hi": 30.7,
-     "lo": 22.0,
-     "code": 3,
-     "rain": 6,
+     "hi": 30.8,
+     "lo": 22.1,
+     "code": 1,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 18.8
+     "gustMph": 16.8
     },
     {
      "date": "2026-11-14",
-     "hi": 30.9,
-     "lo": 23.0,
-     "code": 2,
+     "hi": 30.7,
+     "lo": 22.0,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 14.5
+    },
+    {
+     "date": "2026-11-15",
+     "hi": 30.5,
+     "lo": 21.8,
+     "code": 3,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 16.3
+     "gustMph": 12.5
     }
    ],
    "alert": null
@@ -189,133 +189,133 @@
  "news": {
   "andhra": [
    {
-    "headline": "Local body elections were not held in a democratic way: MLC Duvvada Srinivas",
-    "summary": "He said that the candidates of Opposition parties faced many difficulties during the filing of nominations, scrutiny of certificates, election day and the counting process",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-elections-were-not-held-in-a-democratic-way-mlc-duvvada-srinivas/article71685343.ece",
-    "time": "2026-11-10T16:50:38+05:30",
+    "headline": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece",
+    "time": "2026-11-10T23:36:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "APTF demands withdrawal of SLOs appointed for SA-1 examinations",
-    "summary": "APTF State president Chennupati Manjula and general secretary K. Basava Linga Rao submitted a memorandum to Commissioner of School Education Tameem Ansariya, urging her to cancel the appointments",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/aptf-demands-withdrawal-of-slos-appointed-for-sa-1-examinations/article71685186.ece",
-    "time": "2026-11-10T16:44:07+05:30",
+    "headline": "CID unearth webland scam, four arrested",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cid-unearth-webland-scam-four-arrested/article71687260.ece",
+    "time": "2026-11-10T23:29:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CPI, CPI(M) to protest alleged election irregularities on November 11",
-    "summary": "CPI(M) State secretary V. Srinivasa Rao alleged that the State government had used the police to suppress opposition parties and that the State Election Commission had failed to ensure free and peaceful elections",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-cpim-to-protest-alleged-election-irregularities-on-november-11/article71685671.ece",
-    "time": "2026-11-10T16:42:53+05:30",
+    "headline": "Suspension of senior IPS officer extended to March 2027",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/suspension-of-senior-ips-officer-extended-to-march-2027/article71687242.ece",
+    "time": "2026-11-10T23:24:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TDP keen to contest for Rajam municipal chairperson’s post as elections will be held after a gap of two decades",
-    "summary": "Several TDP local leaders submitted a representation to TDP MLA Kondru Murali Mohan to convey their opinion to the party high command since TDP has the legitimate right to contest for chairperson’s post in the backdrop…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-keen-to-contest-for-rajam-municipal-chairpersons-post-as-elections-will-be-held-after-a-gap-of-two-decades/article71685092.ece",
-    "time": "2026-11-10T16:37:49+05:30",
+    "headline": "Andhra Pradesh weighs making father’s name optional in official documents",
+    "summary": "State consultation calls for a child-friendly policy to ensure that children of single parents, sex workers, divorced couples and orphans are not denied education, identity documents or welfare benefits",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
+    "time": "2026-11-10T23:20:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Andhra government expected to make significant allocations for Neradi barrage to be constructed on Vamsadhara river",
-    "summary": "According to BRR Vamsadhara Project Chairman Aravala Ravindrababu, the State government which had given an administrative sanction for ₹461 crores a couple of months back, may give additional sanctions in the next budget",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-government-expected-to-make-significant-allocations-for-neradi-barrage-to-be-constructed-on-vamsadhara-river/article71685074.ece",
-    "time": "2026-11-10T14:52:45+05:30",
+    "headline": "TDP-led NDA dominates Tirupati district in ZPTC/MPTC elections",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-nda-dominates-tirupati-district-in-zptcmptc-elctions/article71686572.ece",
+    "time": "2026-11-10T23:16:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Andhra teachers’ associations flag anomalies in new service rules",
-    "summary": "The associations said they had repeatedly requested the government to frame comprehensive and uniform service rules for Government and Panchayat Raj teachers in the wake of the Presidential Order, 2025",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-teachers-associations-flag-anomalies-in-new-service-rules/article71685163.ece",
-    "time": "2026-11-10T14:37:27+05:30",
+    "headline": "Cyclone-hit villages in Prakasam district remain without electricity",
+    "summary": "The villagers are going to the nearest urban centre to charge their mobile phones at a cost of ₹10 per charge and are facing difficulties in meeting their daily needs, including access to drinking water and arranging…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
+    "time": "2026-11-10T22:40:14+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "CISCE announces ICSE and ISC 2027 examination timetable",
-    "summary": "ICSE (Class 10) examinations from February 15 and ISC (Class 12) from February 9",
-    "link": "https://www.thehindu.com/news/national/telangana/cisce-announces-icse-and-isc-2027-examination-timetable/article71685678.ece",
-    "time": "2026-11-10T16:34:00+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana RTC to improve passenger information services, security at 86 bus stations",
-    "summary": "The transformation plan includes installing CCTV cameras, and providing contact numbers to help passengers access information about Telangana RTC bus services",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-rtc-to-improve-passenger-information-services-security-at-86-bus-stations/article71685521.ece",
-    "time": "2026-11-10T15:21:01+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Hyderabad gears up for Chhath Puja from November 13-16, 2026",
-    "summary": "Bihar Association urges civic bodies to make arrangements with focus on sanitation and hygiene. Telangana government directs civic bodies and disaster management authorities to facilitate Chhath Puja at 28 locations…",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece",
-    "time": "2026-11-10T14:54:21+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "U.S. healthcare tech firm opens AI engineering centre in Hyderabad, to hire 1,000",
+    "headline": "Cheating case accused alleges custodial torture, OU police deny allegations",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/us-healthcare-tech-firm-opens-ai-engineering-centre-to-hire-1000/article71683360.ece",
-    "time": "2026-11-10T14:26:27+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/cheating-case-accused-alleges-custodial-torture-ou-police-deny-allegations/article71687238.ece",
+    "time": "2026-11-10T22:49:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Census-2027 Phase-II dates in Telangana announced: self-enumeration from January 10-24",
+    "headline": "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/census-2027-phase-ii-dates-in-telangana-announced-self-enumeration-from-january-10-24/article71683491.ece",
-    "time": "2026-11-10T14:23:56+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
+    "time": "2026-11-10T22:34:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana High Court sentences Ranga Reddy Collector to six months’ imprisonment for wilful disobedience in a contempt case",
+    "headline": "Telangana to host Bharat Summit on November 13 and 14",
+    "summary": "Global leaders and policymakers from 70 countries expected to attend; Kharge, Rahul and Priyanka invited, says Congress’ Foreign Affairs Department chairman Salman Khurshid",
+    "link": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
+    "time": "2026-11-10T22:32:34+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Government plans curbs on film promotions and commercial events in educational institutions",
+    "summary": "The proposed guidelines are expected to restrict the use of educational institution premises for non-academic, political film promotions and unrelated commercial events",
+    "link": "https://www.thehindu.com/news/national/telangana/government-plans-curbs-on-film-promotions-and-commercial-events-in-educational-institutions/article71687136.ece",
+    "time": "2026-11-10T21:52:28+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "‘Integrity is paramount, don’t forget your roots’, Revanth tells new DSPs",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hc-awards-six-month-imprisonment-to-ranga-reddy-district-collector/article71683763.ece",
-    "time": "2026-11-10T14:18:06+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/integrity-is-paramount-dont-forget-your-roots-revanth-tells-new-dsps/article71686953.ece",
+    "time": "2026-11-10T21:42:40+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Sugarcane farmers urge industries for at least ₹5,000 per tonne",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/sugarcane-farmers-urge-industries-for-at-least-5000-per-tonne/article71686896.ece",
+    "time": "2026-11-10T21:17:42+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "TDP keen to contest for Rajam municipal chairperson’s post as elections will be held after a gap of two decades",
-    "summary": "Several TDP local leaders submitted a representation to TDP MLA Kondru Murali Mohan to convey their opinion to the party high command since TDP has the legitimate right to contest for chairperson’s post in the backdrop…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-keen-to-contest-for-rajam-municipal-chairpersons-post-as-elections-will-be-held-after-a-gap-of-two-decades/article71685092.ece",
-    "time": "2026-11-10T16:52:59+05:30",
+    "headline": "Civil police officer injured in attack by detained man in Keralam’s Kochi",
+    "summary": "The officer was injured after a man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands while he was being taken in a police vehicle for medical examination",
+    "link": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+    "time": "2026-11-11T00:45:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Local body elections were not held in a democratic way: MLC Duvvada Srinivas",
-    "summary": "He said that the candidates of Opposition parties faced many difficulties during the filing of nominations, scrutiny of certificates, election day and the counting process",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-elections-were-not-held-in-a-democratic-way-mlc-duvvada-srinivas/article71685343.ece",
-    "time": "2026-11-10T16:50:38+05:30",
+    "headline": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
+    "summary": "She claims to have been deboarded from a Singapore-bound airplane and picked up from the airport by the police without showing any summons, warrant, court order or Look Out Circular",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+    "time": "2026-11-11T00:42:33+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "In veiled dig at Satheesan, UDF convener Adoor Prakash questions delay in convening meeting of ruling front",
-    "summary": "Asked why UDF has not met recently, Adoor Prakash says the question should be directed to its chairman, a post held by Chief Minister V.D. Satheesan",
-    "link": "https://www.thehindu.com/news/national/kerala/in-veiled-dig-at-satheesan-udf-convener-adoor-prakash-questions-delay-in-convening-meeting-of-ruling-front/article71685846.ece",
-    "time": "2026-11-10T16:46:07+05:30",
+    "headline": "Focus on Tamil during Kandasashthi: Minister",
+    "summary": "He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham",
+    "link": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
+    "time": "2026-11-11T00:33:54+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Women engineers take the helm at Chennai Metrowater",
-    "summary": "Their rise reflects a gradual change in an organisation where women were once largely assigned to execution and office work. The milestone comes at a time when women account for 56% of the agency’s workforce",
-    "link": "https://www.thehindu.com/news/cities/chennai/women-engineers-take-the-helm-at-chennai-metrowater/article71670343.ece",
-    "time": "2026-11-10T16:45:21+05:30",
+    "headline": "Tamil Nadu police step-up surveillance on habitual offenders",
+    "summary": "443 accused persons arrested in Statewide drive against rowdyism",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-police-step-up-surveillance-on-habitual-offenders/article71686338.ece",
+    "time": "2026-11-11T00:27:16+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "APTF demands withdrawal of SLOs appointed for SA-1 examinations",
-    "summary": "APTF State president Chennupati Manjula and general secretary K. Basava Linga Rao submitted a memorandum to Commissioner of School Education Tameem Ansariya, urging her to cancel the appointments",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/aptf-demands-withdrawal-of-slos-appointed-for-sa-1-examinations/article71685186.ece",
-    "time": "2026-11-10T16:44:07+05:30",
+    "headline": "Keralam at 70: holding a mirror to India",
+    "summary": "At a time when majoritarian nationalism encompasses large parts of India, Keralam at 70 is still offering a vision of secularism and pluralism",
+    "link": "https://www.thehindu.com/opinion/op-ed/keralam-at-70-holding-a-mirror-to-india/article71687272.ece",
+    "time": "2026-11-11T00:26:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CPI, CPI(M) to protest alleged election irregularities on November 11",
-    "summary": "CPI(M) State secretary V. Srinivasa Rao alleged that the State government had used the police to suppress opposition parties and that the State Election Commission had failed to ensure free and peaceful elections",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-cpim-to-protest-alleged-election-irregularities-on-november-11/article71685671.ece",
-    "time": "2026-11-10T16:42:53+05:30",
+    "headline": "Recent repairs on OMR come undone",
+    "summary": "The Sholinganallur junction has a particularly bad patch that is riddled with potholes",
+    "link": "https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
+    "time": "2026-11-11T00:19:27+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Police officer dies and another injured after backpack explosion in Oviedo",
-    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
-    "time": "2026-11-10T11:25:46+00:00",
+    "headline": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+    "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+    "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o",
+    "time": "2026-11-10T18:35:35+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Trump says more US attacks on Iran 'highly unlikely'",
-    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
-    "time": "2026-11-10T09:40:31+00:00",
+    "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
+    "time": "2026-11-10T18:33:51+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Watch: Man smashes Chinese government building with excavator",
-    "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-    "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o",
-    "time": "2026-11-10T09:37:15+00:00",
+    "headline": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o",
+    "time": "2026-11-10T18:04:18+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-    "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+    "headline": "Why are these purple flowers shutting down streets in Sydney?",
+    "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+    "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o",
+    "time": "2026-11-10T18:03:52+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "US federal authorities could have prevented Epstein crimes, report finds",
+    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
+    "time": "2026-11-10T17:59:02+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "First day of Ukraine peace talks constructive, Zelensky says",
+    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-    "time": "2026-11-10T09:07:00+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-    "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-    "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo",
-    "time": "2026-11-10T08:39:05+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-    "time": "2026-11-10T08:23:21+00:00",
+    "time": "2026-11-10T17:29:36+00:00",
     "source": "BBC News"
    }
   ]
