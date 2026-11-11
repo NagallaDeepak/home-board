@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T06:55:48.860477+00:00",
+ "updatedAt": "2026-11-11T14:57:22.859589+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 44.5,
-    "feels": 39.2,
-    "hum": 77,
-    "wind": 5.9,
+    "t": 49.3,
+    "feels": 42.9,
+    "hum": 61,
+    "wind": 8.1,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-11",
-     "hi": 53.7,
-     "lo": 40.3,
+     "hi": 53.3,
+     "lo": 40.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
@@ -26,42 +26,42 @@
     },
     {
      "date": "2026-11-12",
-     "hi": 50.1,
-     "lo": 39.0,
-     "code": 81,
-     "rain": 72,
-     "rainMm": 31.13,
-     "gustMph": 28.0
+     "hi": 50.4,
+     "lo": 40.6,
+     "code": 63,
+     "rain": 94,
+     "rainMm": 8.8,
+     "gustMph": 28.2
     },
     {
      "date": "2026-11-13",
-     "hi": 51.8,
-     "lo": 36.9,
-     "code": 81,
-     "rain": 95,
-     "rainMm": 31.2,
-     "gustMph": 38.3
+     "hi": 45.8,
+     "lo": 35.8,
+     "code": 73,
+     "rain": 94,
+     "rainMm": 19.53,
+     "gustMph": 36.2
     },
     {
      "date": "2026-11-14",
-     "hi": 43.6,
-     "lo": 37.0,
-     "code": 71,
-     "rain": 44,
-     "rainMm": 7.6,
-     "gustMph": 23.9
+     "hi": 39.4,
+     "lo": 37.3,
+     "code": 53,
+     "rain": 30,
+     "rainMm": 4.8,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-15",
-     "hi": 48.8,
-     "lo": 37.4,
-     "code": 2,
-     "rain": 6,
+     "hi": 45.7,
+     "lo": 35.3,
+     "code": 3,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 22.8
+     "gustMph": 18.1
     }
    ],
-   "alert": "Thu: rain expected, about 31 mm · Fri: rain expected, about 31 mm"
+   "alert": null
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 29.3,
-    "feels": 28.5,
-    "hum": 25,
-    "wind": 7.6,
+    "t": 25.0,
+    "feels": 24.2,
+    "hum": 41,
+    "wind": 4.7,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-11",
-     "hi": 29.7,
-     "lo": 19.8,
+     "hi": 29.9,
+     "lo": 19.5,
      "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.7
+     "gustMph": 22.4
     },
     {
      "date": "2026-11-12",
-     "hi": 29.6,
+     "hi": 30.0,
      "lo": 20.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-13",
-     "hi": 29.7,
-     "lo": 19.9,
-     "code": 1,
+     "hi": 29.9,
+     "lo": 20.1,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.7
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-14",
-     "hi": 29.6,
-     "lo": 19.8,
+     "hi": 29.9,
+     "lo": 19.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-15",
-     "hi": 30.2,
-     "lo": 19.9,
+     "hi": 30.1,
+     "lo": 20.2,
      "code": 3,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 16.3
+     "gustMph": 16.6
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 30.0,
-    "feels": 34.4,
-    "hum": 53,
-    "wind": 3.5,
+    "t": 24.2,
+    "feels": 28.1,
+    "hum": 83,
+    "wind": 2.1,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-11",
-     "hi": 30.5,
-     "lo": 19.8,
+     "hi": 30.8,
+     "lo": 19.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.0
+     "gustMph": 11.4
     },
     {
      "date": "2026-11-12",
      "hi": 30.6,
-     "lo": 19.8,
+     "lo": 19.9,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 13.2
+    },
+    {
+     "date": "2026-11-13",
+     "hi": 30.0,
+     "lo": 21.8,
+     "code": 51,
+     "rain": 0,
+     "rainMm": 0.2,
+     "gustMph": 14.5
+    },
+    {
+     "date": "2026-11-14",
+     "hi": 30.7,
+     "lo": 21.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 13.0
     },
     {
-     "date": "2026-11-13",
-     "hi": 30.6,
-     "lo": 21.4,
-     "code": 51,
-     "rain": 0,
-     "rainMm": 0.1,
-     "gustMph": 15.7
-    },
-    {
-     "date": "2026-11-14",
-     "hi": 30.3,
-     "lo": 21.8,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 17.2
-    },
-    {
      "date": "2026-11-15",
-     "hi": 30.3,
-     "lo": 21.5,
+     "hi": 30.6,
+     "lo": 21.3,
      "code": 3,
-     "rain": 10,
+     "rain": 8,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 13.9
     }
    ],
    "alert": null
@@ -189,207 +189,221 @@
  "news": {
   "andhra": [
    {
-    "headline": "YSRCP, TDP ask cadres not to comment on Andhra Deputy CM Pawan Kalyan’s separation, respect couple’s privacy",
-    "summary": "The YSRCP and the TDP warn their social media activists against discussing the couple’s personal life",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-tdp-ask-cadres-not-to-comment-on-andhra-deputy-cm-pawan-kalyans-separation-respect-couples-privacy/article71687106.ece",
-    "time": "2026-11-11T12:01:49+05:30",
+    "headline": "Andhra Pradesh seeks wider partnership with Singapore beyond Amaravati",
+    "summary": "Lokesh proposes training programmes for teachers, Ministers and officials; seeks cooperation in digital governance at third JISC meeting",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-seeks-wider-partnership-with-singapore-beyond-amaravati/article71689921.ece",
+    "time": "2026-11-11T20:14:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Six Swachh Survekshan awards for Andhra Pradesh",
-    "summary": "The Municipal Administration Department has attributed the State's continued recognition in the national cleanliness rankings to various initiatives being implemented to improve sanitation and urban cleanliness across…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/six-swachh-survekshan-awards-for-andhra-pradesh/article71688236.ece",
-    "time": "2026-11-11T11:41:47+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Low pressure likely over Andaman Sea around November 13",
-    "summary": "Under its influence, squally weather, with the wind speed gusting up to 60 kmph, is likely over Andaman Sea and Southeast Bay of Bengal on November 14 and 15",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-likely-over-andaman-sea-around-november-13/article71686782.ece",
-    "time": "2026-11-11T10:38:40+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
-    "summary": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
-    "time": "2026-11-11T02:49:51+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
+    "headline": "BJP stronger in East Godavari after Success in ULBs, MPTC, ZPTC polls: MP",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece",
-    "time": "2026-11-10T23:36:25+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-stronger-in-east-godavari-after-success-in-ulbs-mptc-zptc-polls-mp/article71689720.ece",
+    "time": "2026-11-11T20:13:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Visakhapatnam gets a facelift ahead of CII summit",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gets-a-facelift-ahead-of-cii-summit/article71687118.ece",
-    "time": "2026-11-10T23:31:10+05:30",
+    "headline": "Andhra Pradesh secures six Swachh Survekshan awards",
+    "summary": "Narayana credits Swachh Andhra programme for improved performance; State’s share of national awards rises from 12.5% to 25%",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-six-swachh-survekshan-awards/article71690223.ece",
+    "time": "2026-11-11T20:11:17+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TTD Additional EO directs officials to improve pilgrim facilities",
+    "summary": "Addressing a review meeting, Venkaiah Chowdary stressed the need to improve cleanliness and basic amenities at accommodation complexes",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-additional-eo-directs-officials-to-improve-pilgrim-facilities/article71689712.ece",
+    "time": "2026-11-11T20:07:03+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "BJP welcomes Union Cabinet decisions on farmers, MSMEs",
+    "summary": "Madhav hails fertilizer subsidy, credit support for small businesses and approval for Yuge Yugeen Bharat National Museum",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-welcomes-union-cabinet-decisions-on-farmers-msmes/article71689932.ece",
+    "time": "2026-11-11T20:02:25+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Call to prioritise safe drinking water across Chittoor villages",
+    "summary": "Chittoor Collector says that special focus will be on SC/ST hamlets and minority habitations, in addition to urban slums with strained water systems",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/call-to-prioritise-safe-drinking-water-across-chittoor-villages/article71689708.ece",
+    "time": "2026-11-11T19:57:34+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Only 2% commuters in Cyberabad’s IT Hub take public transport, 82% move in personal vehicles",
-    "summary": "Using shared transport vehicles and aligning hybrid work schedules were some of the measures reccommended to corporates by Cyberabad Police",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
-    "time": "2026-11-11T11:59:26+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cheating case accused alleges custodial torture, OU police deny allegations",
+    "headline": "Hyderabad looks to twin reservoirs to shore up summer supply",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/cheating-case-accused-alleges-custodial-torture-ou-police-deny-allegations/article71687238.ece",
-    "time": "2026-11-10T22:49:49+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-looks-to-twin-reservoirs-to-shore-up-summer-supply/article71690289.ece",
+    "time": "2026-11-11T20:23:20+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
+    "headline": "51-year-old woman undergoes mechanical mitral valve replacement at Gandhi Hospital",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
-    "time": "2026-11-10T22:34:30+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/51-year-old-woman-undergoes-mechanical-mitral-valve-replacement-at-gandhi-hospital/article71689648.ece",
+    "time": "2026-11-11T20:23:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana to host Bharat Summit on November 13 and 14",
-    "summary": "Global leaders and policymakers from 70 countries expected to attend; Kharge, Rahul and Priyanka invited, says Congress’ Foreign Affairs Department chairman Salman Khurshid",
-    "link": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
-    "time": "2026-11-10T22:32:34+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Government plans curbs on film promotions and commercial events in educational institutions",
-    "summary": "The proposed guidelines are expected to restrict the use of educational institution premises for non-academic, political film promotions and unrelated commercial events",
-    "link": "https://www.thehindu.com/news/national/telangana/government-plans-curbs-on-film-promotions-and-commercial-events-in-educational-institutions/article71687136.ece",
-    "time": "2026-11-10T21:52:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "‘Integrity is paramount, don’t forget your roots’, Revanth tells new DSPs",
+    "headline": "Leaders from nearly 70 countries to attend Bharat Summit",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/integrity-is-paramount-dont-forget-your-roots-revanth-tells-new-dsps/article71686953.ece",
-    "time": "2026-11-10T21:42:40+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/leaders-from-nearly-70-countries-to-attend-bharat-summit/article71690313.ece",
+    "time": "2026-11-11T20:21:09+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Govt. intensifies efforts to introduce X+II education system from next academic year",
+    "summary": "CM expresses concern over dropout rate after Class 10 and hoped that start of Class 12 can check this",
+    "link": "https://www.thehindu.com/news/national/telangana/govt-intensifies-efforts-to-introduce-xii-education-system-from-next-academic-year/article71689924.ece",
+    "time": "2026-11-11T20:19:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Former BRS MP questions omission of Telangana Statehood stir in Sonia Gandhi’s memoir",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/former-brs-mp-questions-omission-of-telangana-statehood-stir-in-sonia-gandhis-memoir/article71690311.ece",
+    "time": "2026-11-11T20:18:17+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "CITU State unit demands Centre, State to address agrarian crisis",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/citu-state-unit-demands-centre-state-to-address-agrarian-crisis/article71690338.ece",
+    "time": "2026-11-11T20:14:31+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
-    "summary": "Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
-    "time": "2026-11-11T12:21:13+05:30",
+    "headline": "Leaders from nearly 70 countries to attend Bharat Summit",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/leaders-from-nearly-70-countries-to-attend-bharat-summit/article71690313.ece",
+    "time": "2026-11-11T20:21:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
-    "summary": "Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’",
-    "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-cm-satheesan-plays-down-issue-dismisses-charges-that-electricity-minister-was-kept-in-the-dark/article71688584.ece",
-    "time": "2026-11-11T12:16:32+05:30",
+    "headline": "Bengaluru police use AI to assess 112 emergency response",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-police-use-ai-to-assess-112-emergency-response/article71688885.ece",
+    "time": "2026-11-11T20:20:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
-    "summary": "Now, the voting will be held in 268 seats, which are set to witness a triangular fight among the BJP-led NDA, CPI(M) and the Congress",
-    "link": "https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece",
-    "time": "2026-11-11T12:09:16+05:30",
+    "headline": "Govt. intensifies efforts to introduce X+II education system from next academic year",
+    "summary": "CM expresses concern over dropout rate after Class 10 and hoped that start of Class 12 can check this",
+    "link": "https://www.thehindu.com/news/national/telangana/govt-intensifies-efforts-to-introduce-xii-education-system-from-next-academic-year/article71689924.ece",
+    "time": "2026-11-11T20:19:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Govt. prohibits export of unsorted lithium-ion battery waste, scrap",
-    "summary": "Under the earlier policy, the export of the specified category of battery waste and scrap was permitted under the ‘Free’ category. With the latest amendment, exporters will no longer be allowed to export the material…",
-    "link": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
-    "time": "2026-11-11T12:02:34+05:30",
+    "headline": "Science Fair in Tikota on Saturday",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/science-fair-in-tikota-on-saturday/article71686376.ece",
+    "time": "2026-11-11T20:19:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "YSRCP, TDP ask cadres not to comment on Andhra Deputy CM Pawan Kalyan’s separation, respect couple’s privacy",
-    "summary": "The YSRCP and the TDP warn their social media activists against discussing the couple’s personal life",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-tdp-ask-cadres-not-to-comment-on-andhra-deputy-cm-pawan-kalyans-separation-respect-couples-privacy/article71687106.ece",
-    "time": "2026-11-11T12:01:49+05:30",
+    "headline": "Hebbal Short tunnel project threatens green corridor supporting 199 bird species: Study",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/bangalore/hebbal-short-tunnel-project-threatens-green-corridor-supporting-199-bird-species-study/article71690025.ece",
+    "time": "2026-11-11T20:18:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Fake QR code to divert charity fund: Case filed against trust in Keralam",
-    "summary": "Money allegedly collected using fake QR code created in names of children suffering from Spinal Muscular Atrophy",
-    "link": "https://www.thehindu.com/news/national/kerala/fake-qr-code-to-divert-charity-fund-case-filed-against-trust-in-keralam/article71688239.ece",
-    "time": "2026-11-11T12:00:12+05:30",
+    "headline": "Former BRS MP questions omission of Telangana Statehood stir in Sonia Gandhi’s memoir",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/former-brs-mp-questions-omission-of-telangana-statehood-stir-in-sonia-gandhis-memoir/article71690311.ece",
+    "time": "2026-11-11T20:18:17+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Following big Democratic wins, these swing voters are looking for results",
+    "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+    "time": "2026-11-11T09:19:42-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "U.S. officials look to Europe to learn how to make prison better",
+    "summary": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
+    "time": "2026-11-11T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
+    "summary": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
+    "time": "2026-11-11T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Volunteer musicians play songs for veterans who are hospitalized",
+    "summary": "Volunteer musicians play for veterans and others who are hospitalized. They're part of Musicians On Call, a group that spreads the healing power of music.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+    "time": "2026-11-11T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Swatters are using AI voices to deceive 911 dispatchers, and it's only getting worse",
+    "summary": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+    "time": "2026-11-11T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Federal government failed to hold Epstein accountable, Republican committee says",
     "summary": "The Republican chair of the House Oversight Committee released a scathing report after a 15-month investigation into Jeffrey Epstein and his associates. It faulted the federal government with decades of failing to hold…",
     "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
     "time": "2026-11-10T20:51:23-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "The Democratic Party gained power across the country in the midterms. Now what?",
-    "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
-    "time": "2026-11-10T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "California voters defeat billionaire tax proposal that divided Democrats",
-    "summary": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
-    "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-    "time": "2026-11-09T22:05:39-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Supreme Court says border wall construction can continue in west Texas",
-    "summary": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-    "time": "2026-11-09T16:47:39-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-    "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
-    "time": "2026-11-11T03:44:06+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-    "time": "2026-11-11T03:26:42+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
-    "time": "2026-11-11T02:47:59+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
-    "time": "2026-11-11T02:41:16+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
     "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-    "time": "2026-11-11T01:01:20+00:00",
+    "time": "2026-11-11T14:51:26+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-    "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-    "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o",
-    "time": "2026-11-11T00:26:02+00:00",
+    "headline": "Spain sees widespread disruption in first general strike for 14 years",
+    "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+    "time": "2026-11-11T14:06:27+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+    "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o",
+    "time": "2026-11-11T13:25:47+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+    "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo",
+    "time": "2026-11-11T13:24:29+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+    "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o",
+    "time": "2026-11-11T12:53:11+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+    "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
+    "time": "2026-11-11T12:30:29+00:00",
     "source": "BBC News"
    }
   ]
