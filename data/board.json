@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T19:22:47.475933+00:00",
+ "updatedAt": "2026-11-11T00:10:58.308601+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 54.5,
-    "feels": 48.9,
-    "hum": 61,
-    "wind": 8.3,
-    "code": 1
+    "t": 46.5,
+    "feels": 40.7,
+    "hum": 74,
+    "wind": 7.2,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-10",
-     "hi": 54.6,
+     "hi": 54.1,
      "lo": 41.8,
-     "code": 3,
+     "code": 2,
      "rain": 4,
      "rainMm": 0.0,
      "gustMph": 20.8
     },
     {
      "date": "2026-11-11",
-     "hi": 51.7,
-     "lo": 40.3,
+     "hi": 53.2,
+     "lo": 40.1,
      "code": 3,
-     "rain": 3,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 20.4
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-12",
-     "hi": 52.7,
-     "lo": 40.3,
+     "hi": 52.8,
+     "lo": 40.1,
      "code": 81,
-     "rain": 84,
-     "rainMm": 25.1,
+     "rain": 68,
+     "rainMm": 24.28,
      "gustMph": 26.2
     },
     {
      "date": "2026-11-13",
-     "hi": 50.5,
-     "lo": 38.7,
-     "code": 81,
+     "hi": 52.5,
+     "lo": 38.3,
+     "code": 55,
      "rain": 88,
-     "rainMm": 27.0,
+     "rainMm": 5.2,
      "gustMph": 36.7
     },
     {
      "date": "2026-11-14",
-     "hi": 41.4,
-     "lo": 38.6,
-     "code": 51,
-     "rain": 56,
-     "rainMm": 3.9,
+     "hi": 42.3,
+     "lo": 38.1,
+     "code": 53,
+     "rain": 47,
+     "rainMm": 5.1,
      "gustMph": 21.7
     }
    ],
-   "alert": "Thu: rain expected, about 25 mm"
+   "alert": "Thu: rain expected, about 24 mm"
   },
   {
    "id": "hyderabad",
@@ -69,11 +69,11 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.2,
-    "feels": 21.5,
-    "hum": 47,
-    "wind": 3.5,
-    "code": 2
+    "t": 20.5,
+    "feels": 19.9,
+    "hum": 54,
+    "wind": 3.4,
+    "code": 0
    },
    "days": [
     {
@@ -108,7 +108,7 @@
      "hi": 30.1,
      "lo": 20.0,
      "code": 1,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.9
     },
@@ -117,7 +117,7 @@
      "hi": 30.9,
      "lo": 19.8,
      "code": 3,
-     "rain": 0,
+     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 16.3
     }
@@ -130,10 +130,10 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 21.2,
-    "feels": 22.6,
-    "hum": 74,
-    "wind": 3.4,
+    "t": 19.8,
+    "feels": 21.8,
+    "hum": 86,
+    "wind": 2.7,
     "code": 0
    },
    "days": [
@@ -160,7 +160,7 @@
      "hi": 30.8,
      "lo": 22.1,
      "code": 1,
-     "rain": 4,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 16.8
     },
@@ -169,7 +169,7 @@
      "hi": 30.7,
      "lo": 22.0,
      "code": 3,
-     "rain": 0,
+     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 14.5
     },
@@ -178,7 +178,7 @@
      "hi": 30.5,
      "lo": 21.8,
      "code": 3,
-     "rain": 4,
+     "rain": 6,
      "rainMm": 0.0,
      "gustMph": 12.5
     }
@@ -188,6 +188,13 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
+    "summary": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+    "time": "2026-11-11T02:49:51+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
     "summary": "",
@@ -222,16 +229,16 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-nda-dominates-tirupati-district-in-zptcmptc-elctions/article71686572.ece",
     "time": "2026-11-10T23:16:50+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclone-hit villages in Prakasam district remain without electricity",
-    "summary": "The villagers are going to the nearest urban centre to charge their mobile phones at a cost of ₹10 per charge and are facing difficulties in meeting their daily needs, including access to drinking water and arranging…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
-    "time": "2026-11-10T22:40:14+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+    "time": "2026-11-11T01:03:58+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Cheating case accused alleges custodial torture, OU police deny allegations",
     "summary": "",
@@ -266,56 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/integrity-is-paramount-dont-forget-your-roots-revanth-tells-new-dsps/article71686953.ece",
     "time": "2026-11-10T21:42:40+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Sugarcane farmers urge industries for at least ₹5,000 per tonne",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/sugarcane-farmers-urge-industries-for-at-least-5000-per-tonne/article71686896.ece",
-    "time": "2026-11-10T21:17:42+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Civil police officer injured in attack by detained man in Keralam’s Kochi",
-    "summary": "The officer was injured after a man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands while he was being taken in a police vehicle for medical examination",
-    "link": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
-    "time": "2026-11-11T00:45:41+05:30",
+    "headline": "Bihar CM suspends 15 officers for negligence of duty",
+    "summary": "Nine officers of Revenue and Land Reforms Department (RLRD) four officers from the Public Health Engineering Department and one officer each from the Rural Development Department and the Urban Development Department…",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-suspends-15-officers-for-negligence-of-duty/article71686309.ece",
+    "time": "2026-11-11T04:19:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
-    "summary": "She claims to have been deboarded from a Singapore-bound airplane and picked up from the airport by the police without showing any summons, warrant, court order or Look Out Circular",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
-    "time": "2026-11-11T00:42:33+05:30",
+    "headline": "Producers welcome proposal for minimum sustainable price for tea",
+    "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the…",
+    "link": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
+    "time": "2026-11-11T04:00:20+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Focus on Tamil during Kandasashthi: Minister",
-    "summary": "He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham",
-    "link": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
-    "time": "2026-11-11T00:33:54+05:30",
+    "headline": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
+    "time": "2026-11-11T03:54:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Tamil Nadu police step-up surveillance on habitual offenders",
-    "summary": "443 accused persons arrested in Statewide drive against rowdyism",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-police-step-up-surveillance-on-habitual-offenders/article71686338.ece",
-    "time": "2026-11-11T00:27:16+05:30",
+    "headline": "Bihar Cabinet hikes 3% DA for employees, pensioners",
+    "summary": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
+    "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
+    "time": "2026-11-11T03:12:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Keralam at 70: holding a mirror to India",
-    "summary": "At a time when majoritarian nationalism encompasses large parts of India, Keralam at 70 is still offering a vision of secularism and pluralism",
-    "link": "https://www.thehindu.com/opinion/op-ed/keralam-at-70-holding-a-mirror-to-india/article71687272.ece",
-    "time": "2026-11-11T00:26:22+05:30",
+    "headline": "Hemant Soren recommends CBI probe into Nisha Bhagat’s death case",
+    "summary": "Leader of the Opposition in Jharkhand Legislative Assembly Babulal Marandi on November 7 demanded a CBI investigation into the death of social activist Nisha Bhagat",
+    "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-recommends-cbi-probe-into-nisha-bhagats-death-case/article71687391.ece",
+    "time": "2026-11-11T03:07:28+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Recent repairs on OMR come undone",
-    "summary": "The Sholinganallur junction has a particularly bad patch that is riddled with potholes",
-    "link": "https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
-    "time": "2026-11-11T00:19:27+05:30",
+    "headline": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
+    "summary": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+    "time": "2026-11-11T02:49:51+05:30",
     "source": "The Hindu"
    }
   ],
@@ -340,70 +340,49 @@
     "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
     "time": "2026-11-09T16:47:39-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Democrats won big on issues like immigration. But ICE still has the money",
-    "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
-    "time": "2026-11-09T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "On wild Cumberland Island, a land swap proposal stirs controversy",
-    "summary": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
-    "time": "2026-11-09T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrats won big. Can they lower your grocery bill?",
-    "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-    "time": "2026-11-09T05:00:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-    "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-    "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o",
-    "time": "2026-11-10T18:35:35+00:00",
+    "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+    "time": "2026-11-10T22:52:15+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
-    "time": "2026-11-10T18:33:51+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o",
-    "time": "2026-11-10T18:04:18+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Why are these purple flowers shutting down streets in Sydney?",
-    "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-    "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o",
-    "time": "2026-11-10T18:03:52+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US federal authorities could have prevented Epstein crimes, report finds",
-    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
-    "time": "2026-11-10T17:59:02+00:00",
+    "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
+    "time": "2026-11-10T22:17:45+00:00",
     "source": "BBC News"
    },
    {
     "headline": "First day of Ukraine peace talks constructive, Zelensky says",
     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-    "time": "2026-11-10T17:29:36+00:00",
+    "time": "2026-11-10T21:21:55+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Why does Australia want Brits to swap Sydney for the outback?",
+    "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
+    "time": "2026-11-10T21:17:00+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Spain's king and queen attend memorial service for rail crash victims",
+    "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo",
+    "time": "2026-11-10T20:46:40+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "US federal authorities could have prevented Epstein crimes, report finds",
+    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
+    "time": "2026-11-10T20:36:58+00:00",
     "source": "BBC News"
    }
   ]
