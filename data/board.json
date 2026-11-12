@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T10:40:44.326124+00:00",
+ "updatedAt": "2026-11-12T18:42:13.860856+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 43.5,
-    "feels": 38.5,
-    "hum": 82,
-    "wind": 5.3,
-    "code": 2
+    "t": 52.3,
+    "feels": 48.6,
+    "hum": 80,
+    "wind": 6.5,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-12",
-     "hi": 52.9,
+     "hi": 53.4,
      "lo": 41.4,
-     "code": 63,
-     "rain": 67,
-     "rainMm": 10.55,
-     "gustMph": 29.1
+     "code": 61,
+     "rain": 86,
+     "rainMm": 4.7,
+     "gustMph": 29.3
     },
     {
      "date": "2026-11-13",
-     "hi": 45.7,
-     "lo": 34.4,
-     "code": 63,
-     "rain": 84,
-     "rainMm": 10.5,
-     "gustMph": 29.5
+     "hi": 46.3,
+     "lo": 37.6,
+     "code": 61,
+     "rain": 88,
+     "rainMm": 9.9,
+     "gustMph": 29.8
     },
     {
      "date": "2026-11-14",
-     "hi": 46.4,
-     "lo": 38.9,
+     "hi": 45.5,
+     "lo": 34.9,
      "code": 3,
-     "rain": 33,
+     "rain": 11,
      "rainMm": 0.0,
-     "gustMph": 17.4
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-15",
-     "hi": 47.5,
-     "lo": 36.5,
+     "hi": 47.7,
+     "lo": 37.6,
      "code": 3,
-     "rain": 1,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.6
+     "gustMph": 23.5
     },
     {
      "date": "2026-11-16",
-     "hi": 48.8,
-     "lo": 37.0,
+     "hi": 49.8,
+     "lo": 36.9,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.7
+     "gustMph": 17.4
     }
    ],
    "alert": null
@@ -69,10 +69,10 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 28.9,
-    "feels": 27.4,
-    "hum": 31,
-    "wind": 6.8,
+    "t": 22.5,
+    "feels": 22.7,
+    "hum": 56,
+    "wind": 3.3,
     "code": 0
    },
    "days": [
@@ -83,43 +83,43 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-13",
-     "hi": 30.1,
-     "lo": 19.8,
+     "hi": 30.2,
+     "lo": 20.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 16.3
     },
     {
      "date": "2026-11-14",
-     "hi": 30.3,
-     "lo": 19.9,
+     "hi": 30.4,
+     "lo": 20.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.0
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-15",
-     "hi": 30.5,
-     "lo": 20.5,
+     "hi": 30.8,
+     "lo": 21.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-16",
      "hi": 30.1,
-     "lo": 20.8,
+     "lo": 20.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 17.9
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 30.1,
-    "feels": 32.2,
-    "hum": 49,
-    "wind": 3.7,
-    "code": 1
+    "t": 22.7,
+    "feels": 25.9,
+    "hum": 86,
+    "wind": 3.2,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-12",
-     "hi": 30.9,
+     "hi": 31.1,
      "lo": 20.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-13",
-     "hi": 29.7,
-     "lo": 22.0,
+     "hi": 30.1,
+     "lo": 21.7,
      "code": 51,
-     "rain": 11,
-     "rainMm": 0.6,
-     "gustMph": 15.0
+     "rain": 35,
+     "rainMm": 0.9,
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-14",
-     "hi": 30.7,
-     "lo": 21.8,
+     "hi": 30.6,
+     "lo": 21.9,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 12.1
     },
     {
      "date": "2026-11-15",
-     "hi": 30.8,
-     "lo": 20.8,
+     "hi": 30.5,
+     "lo": 20.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.5
+     "gustMph": 11.6
     },
     {
      "date": "2026-11-16",
-     "hi": 30.6,
-     "lo": 20.2,
+     "hi": 30.2,
+     "lo": 20.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 13.4
+     "gustMph": 13.0
     }
    ],
    "alert": null
@@ -189,137 +189,158 @@
  "news": {
   "andhra": [
    {
-    "headline": "Minor fire at Srikalahasti temple kitchen contained, no major damage",
-    "summary": "Kitchen staff tried to bring the fire under control, but when it began to go beyond their ability to manage, the panicked workers rushed out of the building, thereby averting a mishap",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/minor-fire-at-srikalahasti-temple-kitchen-contained-no-major-damage/article71692901.ece",
-    "time": "2026-11-12T15:57:18+05:30",
+    "headline": "Free entry for children at Vizag zoo on November 14",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/free-entry-for-children-at-vizag-zoo-on-november-14/article71693557.ece",
+    "time": "2026-11-13T00:00:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Library inaugurated at Bapatla Collectorate",
-    "summary": "District Collector V. Vinod Kumar says government employees should update their knowledge alongside discharging their official responsibilities",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/library-inaugurated-at-bapatla-collectorate/article71689916.ece",
-    "time": "2026-11-12T15:45:05+05:30",
+    "headline": "Central team to visit districts affected by Murasu cyclone",
+    "summary": "The team is scheduled to inspect four cyclone-affected districts of Palnadu, Bapatla, Eluru and East Godavari",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/central-team-to-visit-districts-affected-by-murasu-cyclone/article71693913.ece",
+    "time": "2026-11-12T23:41:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CII Partnership Summit: Vizianagaram likely to attract more investments due to Bhogapuram airport, officials say",
-    "summary": "The government has recently given its nod for Reliance Industries Limited for the construction of its data centre in Bhogapuram and the project is expected to attract nearly ₹1 lakh crore investments",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cii-partnership-summit-vizianagaram-likely-to-attract-more-investments-due-to-bhogapuram-airport-officials-say/article71692154.ece",
-    "time": "2026-11-12T13:30:56+05:30",
+    "headline": "DRDL Director highlights importance of indigenous research",
+    "summary": "Signing an MoU with Siddhartha Academy of Higher Education, Ankathi Raju urges students and faculty to actively take up research activities, innovation and technology development to contribute towards national missions",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/drdl-director-highlights-importance-of-indigenous-research/article71694291.ece",
+    "time": "2026-11-12T23:39:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-    "summary": "Mr. Lokesh urged corporate leaders to move beyond setting up manufacturing units and relocate their primary corporate headquarters to Andhra Pradesh, citing superior quality of life, skilled talent pipelines, and…",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
-    "time": "2026-11-12T13:15:41+05:30",
+    "headline": "CPI seeks probe into ‘poll discrepancies’",
+    "summary": "Ramakrishna demands resignation of Chief Election Commissioner Gyanesh Kumar, accusing him of favouring BJP and RSS",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-seeks-probe-into-poll-discrepancies/article71693773.ece",
+    "time": "2026-11-12T23:39:38+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam",
-    "summary": "The leaders try their hand at tribal art and taste Araku Coffee before the summit’s inaugural session",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/piyush-goyal-naidu-pawan-kalyan-tour-andhra-pradesh-pavilion-at-cii-partnership-summit-in-visakhapatnam/article71692472.ece",
-    "time": "2026-11-12T12:21:20+05:30",
+    "headline": "Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh",
+    "summary": "Investments include a ₹67,000-crore Green Hyperscale Data Centre in Anakapalli, ₹11,000-crore polysilicon and metallurgical silicon manufacturing facilities in Anakapalli and Nellore; and ₹1,500-crore permanent magnet…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
+    "time": "2026-11-12T23:30:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Union Minister opens ‘Promenade’ at Vizag port; lays foundation stone for ₹560 cr. projects",
-    "summary": "Mr Sonowal said that Visakhapatnam was blessed with a beautiful natural setting and had the potential to become a major economic and maritime hub",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/union-minister-opens-promenade-at-vizag-port-lays-foundation-stone-for-560-cr-projects/article71690652.ece",
-    "time": "2026-11-12T07:48:58+05:30",
+    "headline": "CPI(M) seeks withdrawal of proposed Water Regulatory Commission",
+    "summary": "Party alleges it will privatise drinking and irrigation water, impose an additional financial burden on people and adversely affect agriculture",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-withdrawal-of-proposed-water-regulatory-commission/article71693756.ece",
+    "time": "2026-11-12T23:15:57+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Telangana ACB searches at properties linked to Irrigation Dept Engineer in DA case",
+    "headline": "Khammam MP proposes two works worth ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-acb-conducts-searches-at-properties-linked-with-irrigation-dept-engineer-in-da-case/article71692940.ece",
-    "time": "2026-11-12T15:35:20+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/khammam-mp-proposes-two-works-worth-50-lakh-under-mplads-to-promote-eco-tourism-at-srinivasagiri/article71694976.ece",
+    "time": "2026-11-12T23:59:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Complete Koheda Fruit Market works by June 2, 2028; first phase by March, 2027: Telangana Agriculture Minister",
+    "headline": "TIMS hospitals will be fully operational by June 2, says Chief Minister",
+    "summary": "New Osmania Hospital to begin services by December 2027; unified recruitment policy for three TIMS hospitals",
+    "link": "https://www.thehindu.com/news/national/telangana/tims-hospitals-will-be-fully-operational-by-june-2-says-chief-minister/article71695185.ece",
+    "time": "2026-11-12T23:02:32+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Police bust interstate vape supply network in Hyderabad, man arrested",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/complete-koheda-fruit-market-works-by-june-2-2028-first-phase-by-march-2027-telangana-agriculture-minister/article71692925.ece",
-    "time": "2026-11-12T14:47:18+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/police-bust-interstate-vape-supply-network-in-hyderabad-man-arrested/article71694589.ece",
+    "time": "2026-11-12T22:45:55+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Temperatures drop further in Telangana; lowest of 11.3°C in Sangareddy",
-    "summary": "The minimum temperatures in Telangana 33 districts were less than 15.2°C",
-    "link": "https://www.thehindu.com/news/national/telangana/temperatures-drop-further-in-telangana-lowest-of-113c-in-sangareddy/article71692815.ece",
-    "time": "2026-11-12T13:59:13+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Why are fertility centres in Hyderabad in crosshairs over human egg harvesting? | Explained",
-    "summary": "The police have arrested a number of people including the persons who had rented the premises and were liaisoning with the fertility centres. The Health and Medical Department has issued notices to 13 ART centres out of…",
-    "link": "https://www.thehindu.com/news/national/telangana/why-are-fertility-centres-in-hyderabad-in-crosshairs-over-human-egg-harvesting-explained/article71692345.ece",
-    "time": "2026-11-12T12:51:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "TGPCB panel calls for action against construction companies over environmental violations",
+    "headline": "Hyderabad Police launch AI platform to map accused persons and criminal networks",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/tgpcb-panel-calls-for-action-against-construction-companies-over-environmental-violations/article71690253.ece",
-    "time": "2026-11-12T12:26:41+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-launch-ai-platform-to-map-accused-persons-and-criminal-networks/article71694633.ece",
+    "time": "2026-11-12T22:37:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "First phase of Musi rejuvenation to begin shortly, says Telangana CM Revanth after inaugurating Thammidikunta Lake",
-    "summary": "The Chief Minister said Thammidikunta lake would become a new destination alongside Shilparamam and called for developing a lake economy around it",
-    "link": "https://www.thehindu.com/news/national/telangana/first-phase-of-musi-rejuvenation-to-begin-shortly-says-telangana-cm-revath/article71690889.ece",
-    "time": "2026-11-12T12:10:02+05:30",
+    "headline": "TG-Genco achieves all-time high thermal power generation of 6,088 MW on November 11",
+    "summary": "Commissioning of the Fifth Unit of YTPS targeted for December, Energy Dept, Genco officials along with BHEL executives visit power station",
+    "link": "https://www.thehindu.com/news/national/telangana/tg-genco-achieves-all-time-high-thermal-power-generation-of-6088-mw-on-november-11/article71694837.ece",
+    "time": "2026-11-12T22:31:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Body of newborn baby found abandoned at Dimda village in Kumram Bheem Asifabad district",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/body-of-newborn-baby-found-abandoned-at-dimda-village-in-kumram-bheem-asifabad-district/article71694794.ece",
+    "time": "2026-11-12T22:10:48+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Demolition of 'illegal' mosque in U.P.’s Sambhal village under way amid heavy police deployment",
-    "summary": "Police and revenue officials had received information from local residents over a month ago that a mosque was being constructed illegally on land meant for public use in Qutubpur Satta village",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/demolition-of-illegal-mosque-in-ups-sambhal-village-under-way-amid-heavy-police-deployment/article71693229.ece",
-    "time": "2026-11-12T16:07:26+05:30",
+    "headline": "SIT probing Veeramani case arraigns seven police officers as accused",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/sit-probing-veeramani-case-arraigns-seven-police-officers-as-accused/article71695186.ece",
+    "time": "2026-11-13T00:09:21+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Mumbai woman loses arm after alleged molestation, push from local train; suspect arrested",
-    "summary": "A commuter travelling between Borivali and Virar was allegedly pushed by a man following an argument over his inappropriate behaviour",
-    "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-woman-loses-arm-after-alleged-molestation-push-from-local-train-suspect-arrested/article71693112.ece",
-    "time": "2026-11-12T16:05:03+05:30",
+    "headline": "State to file fresh affidavit in Kerala High Court on bar licences: Excise Minister",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/kerala/state-to-file-fresh-affidavit-in-kerala-high-court-on-bar-licences-excise-minister/article71695324.ece",
+    "time": "2026-11-13T00:05:52+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kejriwal, his daughter get death threat from ‘Bishnoi gang member’; case filed in Punjab",
-    "summary": "Delhi AAP MLA Jarnail Singh alleged caller demanded ₹7 crore from Mr. Kejriwal and threatened to kill him and his daughter Harshita Kejriwal if the money was not paid",
-    "link": "https://www.thehindu.com/news/national/punjab/kejriwal-his-daughter-get-death-threat-from-bishnoi-gang-member-case-filed-in-punjab/article71693074.ece",
-    "time": "2026-11-12T16:03:44+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Major gold heist at jewellery showroom in Madurai",
+    "headline": "Major gold heist at Tanishq jewellery showroom in Madurai",
     "summary": "The heist occurred on Wednesday night at the recently opened TATA Tanishq showroom on Bypass Road",
     "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
-    "time": "2026-11-12T16:01:57+05:30",
+    "time": "2026-11-13T00:02:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Keralam govt intervenes to repatriate seafarer stranded in Iran after Pakistan authorities fail to return travel documents",
-    "summary": "Pakistani port authorities reportedly seized and failed to return passports and CDCs of crew members, including Kollam native Akshay H., aboard the Dubai- and Iran-owned vessel Palm Marine",
-    "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-intervenes-to-repatriate-seafarer-stranded-in-iran-after-pakistan-authorities-fail-to-return-travel-documents/article71693018.ece",
-    "time": "2026-11-12T15:59:32+05:30",
+    "headline": "Free entry for children at Vizag zoo on November 14",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/free-entry-for-children-at-vizag-zoo-on-november-14/article71693557.ece",
+    "time": "2026-11-13T00:00:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "T.N. BJP chief Nainar Nagenthran alleges Keralam medical waste dumped in Tenkasi",
-    "summary": "The BJP leader urged Tamil Nadu Chief Minister C. Joseph Vijay to take up the issue with his Keralam counterpart",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-bjp-chief-nainar-nagenthran-alleges-keralam-medical-waste-dumped-in-tenkasi/article71692746.ece",
-    "time": "2026-11-12T15:59:01+05:30",
+    "headline": "Brazil’s WEG chooses Dharmapuri for ₹2,000-crore global manufacturing facility",
+    "summary": "The project has the potential to generate around 3,000 jobs",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/brazils-weg-chooses-dharmapuri-for-2000-crore-global-manufacturing-facility/article71694428.ece",
+    "time": "2026-11-13T00:00:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Khammam MP proposes two works worth ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/khammam-mp-proposes-two-works-worth-50-lakh-under-mplads-to-promote-eco-tourism-at-srinivasagiri/article71694976.ece",
+    "time": "2026-11-12T23:59:32+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Casualties continue to rise after Brooklyn building collapses",
+    "summary": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+    "time": "2026-11-12T13:15:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+    "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+    "time": "2026-11-12T12:13:54-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Crews search for survivors after deadly Brooklyn building collapse",
+    "summary": "A three-story apartment building in Brooklyn collapsed, killing at least eight people and injuring two dozen others.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038673/crews-search-for-survivors-after-deadly-brooklyn-building-collapse",
+    "time": "2026-11-12T11:26:59-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "At least 23 states considered laws governing ICE and schools this year",
     "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
@@ -335,75 +356,54 @@
     "source": "NPR"
    },
    {
-    "headline": "Morning news brief",
-    "summary": "Scott Colom has won the U.S. Senate race in Mississippi, The White House is getting ready to fight new Democratic oversight, U.S.-mediated talks between Russia and Ukraine have wrapped up.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6035580/morning-news-brief",
-    "time": "2026-11-12T04:17:04-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Some states get a head start on upcoming federal hemp ban",
-    "summary": "A federal ban on Hemp-derived THC products is set to take effect in less than a month. But some states have moved to start their own ban earlier.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6035839/some-states-get-a-head-start-on-upcoming-federal-hemp-ban",
-    "time": "2026-11-12T04:13:01-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-    "summary": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-    "time": "2026-11-11T22:10:32-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Democrat Scott Colom wins Mississippi Senate race",
-    "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-    "time": "2026-11-11T18:04:51-05:00",
+    "headline": "White House warns Trump probes could be criminal. Rep. Robert Garcia won't back down",
+    "summary": "Incoming House Oversight Committee Chairman Robert Garcia says Democrats won't be intimidated by White House threats over their planned investigations: \"It's in the Constitution.\"",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037540/trump-white-house-democrats-investigations-robert-garcia",
+    "time": "2026-11-12T04:20:51-05:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "British woman missing from cruise ship in Atlantic",
-    "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-    "time": "2026-11-12T10:13:35+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-    "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+    "headline": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-    "time": "2026-11-12T10:08:38+00:00",
+    "time": "2026-11-12T18:28:59+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
-    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-    "time": "2026-11-12T10:02:32+00:00",
+    "headline": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+    "time": "2026-11-12T17:11:48+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
     "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-    "time": "2026-11-12T09:43:11+00:00",
+    "time": "2026-11-12T16:54:12+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-    "time": "2026-11-12T08:46:57+00:00",
+    "headline": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+    "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+    "time": "2026-11-12T16:52:53+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-    "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-    "time": "2026-11-12T07:59:33+00:00",
+    "headline": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+    "time": "2026-11-12T15:18:20+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+    "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
+    "time": "2026-11-12T14:12:55+00:00",
     "source": "BBC News"
    }
   ]
