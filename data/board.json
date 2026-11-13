@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T06:22:19.595301+00:00",
+ "updatedAt": "2026-11-13T14:48:27.754214+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 44.6,
-    "feels": 37.5,
-    "hum": 85,
-    "wind": 11.2,
+    "t": 37.0,
+    "feels": 30.5,
+    "hum": 88,
+    "wind": 7.2,
     "code": 51
    },
    "days": [
     {
      "date": "2026-11-13",
-     "hi": 45.9,
-     "lo": 33.1,
-     "code": 55,
-     "rain": 96,
-     "rainMm": 4.5,
-     "gustMph": 28.4
+     "hi": 46.0,
+     "lo": 34.5,
+     "code": 71,
+     "rain": 97,
+     "rainMm": 5.0,
+     "gustMph": 30.4
     },
     {
      "date": "2026-11-14",
      "hi": 43.3,
      "lo": 32.1,
      "code": 3,
-     "rain": 4,
+     "rain": 12,
      "rainMm": 0.0,
-     "gustMph": 21.5
+     "gustMph": 21.7
     },
     {
      "date": "2026-11-15",
-     "hi": 47.5,
-     "lo": 38.1,
+     "hi": 47.8,
+     "lo": 33.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.8
+     "gustMph": 24.6
     },
     {
      "date": "2026-11-16",
-     "hi": 49.7,
-     "lo": 39.4,
+     "hi": 50.1,
+     "lo": 38.6,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.9
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-17",
-     "hi": 55.9,
-     "lo": 38.1,
-     "code": 0,
+     "hi": 54.2,
+     "lo": 37.5,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 14.5
     }
    ],
    "alert": null
@@ -69,17 +69,17 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 28.6,
-    "feels": 29.4,
-    "hum": 31,
-    "wind": 3.3,
+    "t": 25.7,
+    "feels": 25.0,
+    "hum": 41,
+    "wind": 4.6,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-13",
-     "hi": 30.0,
-     "lo": 20.0,
+     "hi": 30.3,
+     "lo": 19.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -87,39 +87,39 @@
     },
     {
      "date": "2026-11-14",
-     "hi": 30.6,
-     "lo": 20.2,
+     "hi": 30.7,
+     "lo": 20.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 13.2
     },
     {
      "date": "2026-11-15",
-     "hi": 30.3,
-     "lo": 20.8,
+     "hi": 30.7,
+     "lo": 21.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-16",
-     "hi": 29.2,
-     "lo": 21.0,
+     "hi": 30.4,
+     "lo": 21.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-17",
      "hi": 30.0,
-     "lo": 21.0,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 21.0
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 29.4,
-    "feels": 33.5,
-    "hum": 62,
-    "wind": 5.6,
+    "t": 25.7,
+    "feels": 31.4,
+    "hum": 87,
+    "wind": 0.4,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-13",
-     "hi": 29.7,
-     "lo": 22.2,
+     "hi": 30.8,
+     "lo": 22.4,
      "code": 51,
-     "rain": 53,
-     "rainMm": 1.8,
+     "rain": 65,
+     "rainMm": 0.7,
      "gustMph": 15.9
     },
     {
      "date": "2026-11-14",
-     "hi": 30.6,
-     "lo": 22.2,
+     "hi": 31.0,
+     "lo": 22.0,
      "code": 3,
      "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 11.4
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-15",
-     "hi": 30.5,
-     "lo": 21.2,
+     "hi": 31.0,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.9
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-16",
-     "hi": 30.4,
-     "lo": 20.9,
+     "hi": 30.6,
+     "lo": 21.3,
      "code": 3,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 15.7
     },
     {
      "date": "2026-11-17",
-     "hi": 31.4,
-     "lo": 20.1,
+     "hi": 31.5,
+     "lo": 20.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 18.3
+     "gustMph": 15.7
     }
    ],
    "alert": null
@@ -189,221 +189,221 @@
  "news": {
   "andhra": [
    {
-    "headline": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
-    "summary": "The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/gunadala-mary-matha-utsavams-to-be-celebrated-from-february-9-to-11/article71696476.ece",
-    "time": "2026-11-13T11:25:45+05:30",
+    "headline": "Andhra Pradesh has enough water, power to meet needs of data centres, says Naidu",
+    "summary": "The proposed facilities will require around 3.50 TMCFT of water while the State can supply up to 100 TMCFT to Visakhapatnam mostly through Polavaram project, alternatives like desalination and emerging air-cooling…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-has-enough-water-power-to-meet-needs-of-data-centres-says-naidu/article71697375.ece",
+    "time": "2026-11-13T20:04:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Twin cyclone leave livelihoods in tatters",
-    "summary": "Cyclones, Arnab and Murasu, which hit the Andhra Pradesh coastline within a span of a week, delivered a severe blow to the fisherfolk communities, coconut and casuarina growers in West Godavari and Konaseema districts,…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/twin-cyclone-leave-livelihoods-in-tatters/article71695213.ece",
-    "time": "2026-11-13T07:39:23+05:30",
+    "headline": "Weather stress hits Chittoor vegetable belt, lowering quality and yield",
+    "summary": "Long dry spells and fluctuating temperatures have created unfavourable conditions for vegetable cultivation, inadequate soil moisture has affected flowering, fruit set, and size, while excessive moisture has weakened…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/weather-stress-hits-chittoor-vegetable-belt-lowering-quality-and-yield/article71697840.ece",
+    "time": "2026-11-13T20:04:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "AU signs MoU with Boston Architectural College",
+    "headline": "Vision Digital India, A.P. govt. sign MoU to set up AI training centres",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/au-signs-mou-with-boston-architectural-college/article71693444.ece",
-    "time": "2026-11-13T00:27:34+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vision-digital-india-ap-govt-sign-mou-to-set-up-ai-training-centres/article71696976.ece",
+    "time": "2026-11-13T20:01:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Free entry for children at Vizag zoo on November 14",
+    "headline": "Karthika Masam fervour begins as devotees throng Lord Shiva temples in Chittoor district",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/free-entry-for-children-at-vizag-zoo-on-november-14/article71693557.ece",
-    "time": "2026-11-13T00:00:53+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/karthika-masam-fervour-begins-as-devotees-throng-lord-shiva-temples-in-chittoor-district/article71697958.ece",
+    "time": "2026-11-13T20:00:52+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Central team to visit districts affected by Murasu cyclone",
-    "summary": "The team is scheduled to inspect four cyclone-affected districts of Palnadu, Bapatla, Eluru and East Godavari",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/central-team-to-visit-districts-affected-by-murasu-cyclone/article71693913.ece",
-    "time": "2026-11-12T23:41:46+05:30",
+    "headline": "Governments need to engage in constant dialogue with public to keep them happy, says Naidu",
+    "summary": "As expectations keep growing, conscious efforts should be made to build trust, failing which the resultant trust deficit can lead to public disturbances, as is being witnessed in Europe and other parts of the world,…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/constant-dialogue-between-governments-and-public-essential-to-keep-them-happy-says-naidu/article71697222.ece",
+    "time": "2026-11-13T19:58:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "DRDL Director highlights importance of indigenous research",
-    "summary": "Signing an MoU with Siddhartha Academy of Higher Education, Ankathi Raju urges students and faculty to actively take up research activities, innovation and technology development to contribute towards national missions",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/drdl-director-highlights-importance-of-indigenous-research/article71694291.ece",
-    "time": "2026-11-12T23:39:57+05:30",
+    "headline": "Hyderabad devotee donates ₹10 crore to TTD Trust",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/hyderabad-devotee-donates-10-crore-to-ttd-trust/article71697136.ece",
+    "time": "2026-11-13T19:57:58+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "IMD forecasts 2°C to 3°C dip in temperatures across Telangana for next two days",
-    "summary": "Health department issues flu advisory",
-    "link": "https://www.thehindu.com/news/national/telangana/imd-forecasts-2c-to-3c-dip-in-temperatures-across-telangana-for-next-two-days/article71694489.ece",
-    "time": "2026-11-13T10:34:29+05:30",
+    "headline": "Why spew venom on LoP Rahul Gandhi? Revanth asks BJP",
+    "summary": "The Chief Minister urged the BJP to participate in Bharat Summit and recalled Rajiv Gandhi’s decision to include then LoP Vajpayee in Indian delegation",
+    "link": "https://www.thehindu.com/news/national/telangana/why-spew-venom-on-lop-rahul-gandhi-revanth-asks-bjp/article71698538.ece",
+    "time": "2026-11-13T20:04:52+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Trees misidentified, misjudged, wrongly marked and felled to facilitate civil projects in Hyderabad",
-    "summary": "Over 1800 trees are being felled for an access road to the Cherlapally Railway Station, most of them not the species identified in permission copy; field inspection reveals serious irregularities",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/trees-misidentified-misjudged-wrongly-marked-and-felled-to-facilitate-civil-projects-in-hyderabad/article71690560.ece",
-    "time": "2026-11-13T10:30:01+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Four PRTS corridors proposed in Hyderabad; first phase to be completed within a year",
-    "summary": "Telangana Chief Minister said the proposed network was aimed at improving connectivity between key government, commercial and public destinations in the city",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/four-prts-corridors-proposed-in-hyderabad-first-phase-to-be-completed-within-a-year/article71695201.ece",
-    "time": "2026-11-13T08:54:52+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Softening the blow of medical costs",
-    "summary": "Medical treatment can come at a crippling cost, particularly for families with limited means. But the Chief Minister’s Relief Fund has emerged as a source of support for patients across Telangana, helping them access…",
-    "link": "https://www.thehindu.com/news/national/telangana/softening-the-blow-of-medical-costs/article71695335.ece",
-    "time": "2026-11-13T06:56:31+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "CSIR-IICT hands over indigenous ETP to Siripuram village",
+    "headline": "Patients awaiting surgeries at NIMS to be operated at MCR TIMS Sanathnagar",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/csir-iict-hands-over-indigenous-etp-to-siripuram-village/article71257404.ece",
-    "time": "2026-11-13T06:51:03+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/patients-awaiting-surgeries-at-nims-to-be-operated-at-mcr-tims-sanathnagar/article71697452.ece",
+    "time": "2026-11-13T20:01:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Gig and platform workers’ plan major rally",
-    "summary": "TGPWU office-bearer Shaik Salauddin said on Thursday that Leader of Opposition in the Lok Sabha Rahul Gandhi has been invited to join the rally",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/gig-and-platform-workers-plan-major-rally/article71693845.ece",
-    "time": "2026-11-13T06:50:56+05:30",
+    "headline": "Telangana prisons secure six ISO certifications in a first for Indian prison system",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-prisons-secure-six-iso-certifications-in-a-first-for-indian-prison-system/article71697978.ece",
+    "time": "2026-11-13T19:58:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TGSRTC announces a slew of bus pass concessions",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/tgsrtc-announces-a-slew-of-bus-pass-concessions/article71698039.ece",
+    "time": "2026-11-13T19:56:58+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Hyderabad Police arrest man for supplying mule accounts and SIM cards to cyber fraudsters",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-arrest-man-for-supplying-mule-accounts-and-sim-cards-to-cyber-fraudsters/article71698014.ece",
+    "time": "2026-11-13T19:55:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Over 200 persons apprehended by Malkajgiri SHE Teams for harassing women in October",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/over-200-persons-apprehended-by-malkajgiri-she-teams-for-harassing-women-in-october/article71698063.ece",
+    "time": "2026-11-13T19:50:09+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
-    "summary": "PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
-    "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-    "time": "2026-11-13T11:48:14+05:30",
+    "headline": "Andhra Pradesh emerges as a leader in India’s rooftop solar push: Union Minister",
+    "summary": "Pralhad Joshi says 7.86 lakh households in the State have adopted rooftop solar as India meets peak power demand of 270 GW without interruption; solar capacity rises to 175 GW",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
+    "time": "2026-11-13T20:14:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
-    "summary": "Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-issues-go-effecting-salary-hike-of-guest-lecturers-in-colleges/article71695258.ece",
-    "time": "2026-11-13T11:46:24+05:30",
+    "headline": "20-year-old IIT Roorkee student found dead in hostel room",
+    "summary": "The IIT administration informed the police that the student had been experiencing depression and attending counselling sessions for a long time",
+    "link": "https://www.thehindu.com/news/national/iit-roorkee-student-allegedly-dies-by-suicide-on-campus-probe-under-way/article71697179.ece",
+    "time": "2026-11-13T20:12:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Low-pressure area forms over southeast Bay of Bengal, likely to intensify into depression by November 15",
-    "summary": "The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
-    "link": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece",
-    "time": "2026-11-13T11:45:54+05:30",
+    "headline": "Vijay Merchant trophy cricket matches to be held in Shivamogga",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/vijay-merchant-trophy-cricket-matches-in-shivamogga/article71698524.ece",
+    "time": "2026-11-13T20:11:54+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
-    "summary": "Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
-    "link": "https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece",
-    "time": "2026-11-13T11:44:00+05:30",
+    "headline": "At least 24 die in bus-truck collision in Assam’s Kaziranga; 20 others injured",
+    "summary": "The accident occurred at Rangajan near Hathikuli Tea Estate in Kohora range on National Highway 715 when the passenger vehicle collided with the truck, a senior officer said",
+    "link": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece",
+    "time": "2026-11-13T20:08:51+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "How a mason’s son from Erode won a Medal of Excellence at WorldSkills 2026",
-    "summary": "M Surenthiran has won a Medal of Excellence in Plastering and Drywall Systems at the 48th WorldSkills Competition in China. His exposure to construction work through his father, a mason, laid the foundation for this…",
-    "link": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece",
-    "time": "2026-11-13T11:41:48+05:30",
+    "headline": "Milma’s Thiruvananthapuram regional union seeks milk price hike",
+    "summary": "TRCMPU is proposing a hike of ₹10 per litre",
+    "link": "https://www.thehindu.com/news/national/kerala/milmas-thiruvananthapuram-regional-union-seeks-milk-price-hike/article71698439.ece",
+    "time": "2026-11-13T20:08:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Why Himalayan towns need a different kind of development | Explained",
-    "summary": "Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
-    "link": "https://www.thehindu.com/news/national/why-himalayan-towns-need-a-different-kind-of-development-explained/article68502845.ece",
-    "time": "2026-11-13T11:35:50+05:30",
+    "headline": "Experts place emphasis on ‘resilient blue economy’",
+    "summary": "92nd annual meeting of the Indian Academy of Sciences opens at National Centre for Earth Science Studies, Thiruvananthapuram",
+    "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/experts-place-emphasis-on-resilient-blue-economy/article71697883.ece",
+    "time": "2026-11-13T20:07:34+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
-    "headline": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-    "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-    "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-    "time": "2026-11-12T18:36:19-05:00",
+    "headline": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+    "summary": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+    "time": "2026-11-13T08:32:23-05:00",
     "source": "NPR"
    },
    {
-    "headline": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-    "summary": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-    "time": "2026-11-12T17:45:40-05:00",
+    "headline": "Investigation into what cause deadly Brooklyn building collapse continues",
+    "summary": "Investigators are trying to find out what went wrong after an apartment building collapsed into a nearby construction site in Brooklyn, New York, killing at least eight people.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038959/investigation-into-what-cause-deadly-brooklyn-building-collapse-continues",
+    "time": "2026-11-13T06:46:55-05:00",
     "source": "NPR"
    },
    {
-    "headline": "Search and rescue at site of collapsed New York City apartment building",
-    "summary": "First responders are still searching through the rubble of a three story apartment building that collapsed in Brooklyn on Wednesday, looking for any possible survivors.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6039182/search-and-rescue-at-site-of-collapsed-new-york-city-apartment-building",
-    "time": "2026-11-12T17:22:13-05:00",
+    "headline": "Hegseth awards medal to soldier who chastised him",
+    "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+    "time": "2026-11-13T05:27:08-05:00",
     "source": "NPR"
    },
    {
-    "headline": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-    "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-    "time": "2026-11-12T13:44:00-05:00",
+    "headline": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+    "summary": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+    "time": "2026-11-13T05:01:00-05:00",
     "source": "NPR"
    },
    {
-    "headline": "Casualties continue to rise after Brooklyn building collapses",
-    "summary": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
-    "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-    "time": "2026-11-12T13:15:00-05:00",
+    "headline": "Why even a fraction of a degree can escalate climate change impacts",
+    "summary": "Countries are not meeting their goal of limiting climate change to 1.5 degrees Celsius. How much hotter the planet gets makes a profound difference for the impacts the world could see.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
+    "time": "2026-11-13T05:00:00-05:00",
     "source": "NPR"
    },
    {
-    "headline": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-    "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-    "time": "2026-11-12T12:13:54-05:00",
+    "headline": "These two voter turnout trends explain what happened across the South in the election",
+    "summary": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
+    "time": "2026-11-13T05:00:00-05:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-    "time": "2026-11-13T03:57:01+00:00",
+    "headline": "What we know about the global Microsoft outage",
+    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+    "time": "2026-11-13T14:21:26+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Australian footballers will not be charged after hotel incident, police say",
-    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
-    "time": "2026-11-13T03:02:54+00:00",
+    "headline": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+    "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko",
+    "time": "2026-11-13T12:28:28+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-    "time": "2026-11-13T02:48:29+00:00",
+    "headline": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+    "time": "2026-11-13T12:22:30+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-    "time": "2026-11-13T02:01:35+00:00",
+    "headline": "Watch: How a server outage took down Microsoft Teams and Outlook",
+    "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po",
+    "time": "2026-11-13T11:43:27+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
-    "time": "2026-11-13T00:20:24+00:00",
+    "headline": "Nigerian university in mourning after four students die at post-exam party",
+    "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
+    "time": "2026-11-13T11:37:08+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-    "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-    "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
-    "time": "2026-11-12T23:42:52+00:00",
+    "headline": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+    "time": "2026-11-13T08:20:28+00:00",
     "source": "BBC News"
    }
   ]
