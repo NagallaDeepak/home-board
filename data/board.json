@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:58:15.944847+00:00",
+ "updatedAt": "2026-11-13T06:22:19.595301+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 52.3,
-    "feels": 48.6,
-    "hum": 80,
-    "wind": 6.5,
-    "code": 3
+    "t": 44.6,
+    "feels": 37.5,
+    "hum": 85,
+    "wind": 11.2,
+    "code": 51
    },
    "days": [
     {
-     "date": "2026-11-12",
-     "hi": 53.4,
-     "lo": 41.4,
-     "code": 61,
-     "rain": 86,
-     "rainMm": 4.7,
-     "gustMph": 29.3
-    },
-    {
      "date": "2026-11-13",
-     "hi": 46.3,
-     "lo": 37.6,
-     "code": 61,
-     "rain": 88,
-     "rainMm": 9.9,
-     "gustMph": 29.8
+     "hi": 45.9,
+     "lo": 33.1,
+     "code": 55,
+     "rain": 96,
+     "rainMm": 4.5,
+     "gustMph": 28.4
     },
     {
      "date": "2026-11-14",
-     "hi": 45.5,
-     "lo": 34.9,
+     "hi": 43.3,
+     "lo": 32.1,
      "code": 3,
-     "rain": 11,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-15",
-     "hi": 47.7,
-     "lo": 37.6,
+     "hi": 47.5,
+     "lo": 38.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.5
+     "gustMph": 24.8
     },
     {
      "date": "2026-11-16",
-     "hi": 49.8,
-     "lo": 36.9,
+     "hi": 49.7,
+     "lo": 39.4,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.4
+     "gustMph": 23.9
+    },
+    {
+     "date": "2026-11-17",
+     "hi": 55.9,
+     "lo": 38.1,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.4
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.5,
-    "feels": 22.7,
-    "hum": 56,
+    "t": 28.6,
+    "feels": 29.4,
+    "hum": 31,
     "wind": 3.3,
-    "code": 0
+    "code": 3
    },
    "days": [
     {
-     "date": "2026-11-12",
-     "hi": 29.9,
+     "date": "2026-11-13",
+     "hi": 30.0,
+     "lo": 20.0,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 16.6
+    },
+    {
+     "date": "2026-11-14",
+     "hi": 30.6,
      "lo": 20.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.4
-    },
-    {
-     "date": "2026-11-13",
-     "hi": 30.2,
-     "lo": 20.0,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.3
-    },
-    {
-     "date": "2026-11-14",
-     "hi": 30.4,
-     "lo": 20.0,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.4
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-15",
-     "hi": 30.8,
-     "lo": 21.3,
+     "hi": 30.3,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.7
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-16",
-     "hi": 30.1,
-     "lo": 20.6,
+     "hi": 29.2,
+     "lo": 21.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 17.9
+    },
+    {
+     "date": "2026-11-17",
+     "hi": 30.0,
+     "lo": 21.0,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 21.3
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 22.2,
-    "feels": 25.6,
-    "hum": 90,
-    "wind": 2.9,
-    "code": 0
+    "t": 29.4,
+    "feels": 33.5,
+    "hum": 62,
+    "wind": 5.6,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-13",
-     "hi": 30.6,
+     "hi": 29.7,
      "lo": 22.2,
      "code": 51,
-     "rain": 57,
-     "rainMm": 1.0,
-     "gustMph": 14.5
+     "rain": 53,
+     "rainMm": 1.8,
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-14",
-     "hi": 30.9,
-     "lo": 22.3,
+     "hi": 30.6,
+     "lo": 22.2,
      "code": 3,
-     "rain": 8,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 11.4
     },
     {
      "date": "2026-11-15",
-     "hi": 30.8,
-     "lo": 21.0,
+     "hi": 30.5,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.0
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-16",
-     "hi": 30.7,
-     "lo": 20.7,
+     "hi": 30.4,
+     "lo": 20.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-17",
-     "hi": 31.2,
-     "lo": 19.6,
+     "hi": 31.4,
+     "lo": 20.1,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 19.0
+     "gustMph": 18.3
     }
    ],
    "alert": null
@@ -188,6 +188,20 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Gunadala Mary Matha Utsavams to be celebrated from February 9 to 11",
+    "summary": "The Utsava Committee held a meeting on November 12, and discussed on the arrangements for the festival",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/gunadala-mary-matha-utsavams-to-be-celebrated-from-february-9-to-11/article71696476.ece",
+    "time": "2026-11-13T11:25:45+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Twin cyclone leave livelihoods in tatters",
+    "summary": "Cyclones, Arnab and Murasu, which hit the Andhra Pradesh coastline within a span of a week, delivered a severe blow to the fisherfolk communities, coconut and casuarina growers in West Godavari and Konaseema districts,…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/twin-cyclone-leave-livelihoods-in-tatters/article71695213.ece",
+    "time": "2026-11-13T07:39:23+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "AU signs MoU with Boston Architectural College",
     "summary": "",
@@ -215,107 +229,93 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/drdl-director-highlights-importance-of-indigenous-research/article71694291.ece",
     "time": "2026-11-12T23:39:57+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "CPI seeks probe into ‘poll discrepancies’",
-    "summary": "Ramakrishna demands resignation of Chief Election Commissioner Gyanesh Kumar, accusing him of favouring BJP and RSS",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-seeks-probe-into-poll-discrepancies/article71693773.ece",
-    "time": "2026-11-12T23:39:38+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh",
-    "summary": "Investments include a ₹67,000-crore Green Hyperscale Data Centre in Anakapalli, ₹11,000-crore polysilicon and metallurgical silicon manufacturing facilities in Anakapalli and Nellore; and ₹1,500-crore permanent magnet…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
-    "time": "2026-11-12T23:30:03+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Khammam MP proposes two works worth ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri",
+    "headline": "IMD forecasts 2°C to 3°C dip in temperatures across Telangana for next two days",
+    "summary": "Health department issues flu advisory",
+    "link": "https://www.thehindu.com/news/national/telangana/imd-forecasts-2c-to-3c-dip-in-temperatures-across-telangana-for-next-two-days/article71694489.ece",
+    "time": "2026-11-13T10:34:29+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Trees misidentified, misjudged, wrongly marked and felled to facilitate civil projects in Hyderabad",
+    "summary": "Over 1800 trees are being felled for an access road to the Cherlapally Railway Station, most of them not the species identified in permission copy; field inspection reveals serious irregularities",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/trees-misidentified-misjudged-wrongly-marked-and-felled-to-facilitate-civil-projects-in-hyderabad/article71690560.ece",
+    "time": "2026-11-13T10:30:01+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Four PRTS corridors proposed in Hyderabad; first phase to be completed within a year",
+    "summary": "Telangana Chief Minister said the proposed network was aimed at improving connectivity between key government, commercial and public destinations in the city",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/four-prts-corridors-proposed-in-hyderabad-first-phase-to-be-completed-within-a-year/article71695201.ece",
+    "time": "2026-11-13T08:54:52+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Softening the blow of medical costs",
+    "summary": "Medical treatment can come at a crippling cost, particularly for families with limited means. But the Chief Minister’s Relief Fund has emerged as a source of support for patients across Telangana, helping them access…",
+    "link": "https://www.thehindu.com/news/national/telangana/softening-the-blow-of-medical-costs/article71695335.ece",
+    "time": "2026-11-13T06:56:31+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "CSIR-IICT hands over indigenous ETP to Siripuram village",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/khammam-mp-proposes-two-works-worth-50-lakh-under-mplads-to-promote-eco-tourism-at-srinivasagiri/article71694976.ece",
-    "time": "2026-11-12T23:59:32+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/csir-iict-hands-over-indigenous-etp-to-siripuram-village/article71257404.ece",
+    "time": "2026-11-13T06:51:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TIMS hospitals will be fully operational by June 2, says Chief Minister",
-    "summary": "New Osmania Hospital to begin services by December 2027; unified recruitment policy for three TIMS hospitals",
-    "link": "https://www.thehindu.com/news/national/telangana/tims-hospitals-will-be-fully-operational-by-june-2-says-chief-minister/article71695185.ece",
-    "time": "2026-11-12T23:02:32+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Police bust interstate vape supply network in Hyderabad, man arrested",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/police-bust-interstate-vape-supply-network-in-hyderabad-man-arrested/article71694589.ece",
-    "time": "2026-11-12T22:45:55+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Hyderabad Police launch AI platform to map accused persons and criminal networks",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-launch-ai-platform-to-map-accused-persons-and-criminal-networks/article71694633.ece",
-    "time": "2026-11-12T22:37:06+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "TG-Genco achieves all-time high thermal power generation of 6,088 MW on November 11",
-    "summary": "Commissioning of the Fifth Unit of YTPS targeted for December, Energy Dept, Genco officials along with BHEL executives visit power station",
-    "link": "https://www.thehindu.com/news/national/telangana/tg-genco-achieves-all-time-high-thermal-power-generation-of-6088-mw-on-november-11/article71694837.ece",
-    "time": "2026-11-12T22:31:53+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Body of newborn baby found abandoned at Dimda village in Kumram Bheem Asifabad district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/body-of-newborn-baby-found-abandoned-at-dimda-village-in-kumram-bheem-asifabad-district/article71694794.ece",
-    "time": "2026-11-12T22:10:48+05:30",
+    "headline": "Gig and platform workers’ plan major rally",
+    "summary": "TGPWU office-bearer Shaik Salauddin said on Thursday that Leader of Opposition in the Lok Sabha Rahul Gandhi has been invited to join the rally",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/gig-and-platform-workers-plan-major-rally/article71693845.ece",
+    "time": "2026-11-13T06:50:56+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month",
-    "summary": "SAD sources said that Mr. Badal is likely to leave for New Delhi after his rally at Raikot to meet Mr. Shah, with talks on seat sharing and finalising the alliance on the agenda",
-    "link": "https://www.thehindu.com/news/national/punjab/sukhbir-badal-likely-to-meet-amit-shah-on-november-13-sad-bjp-alliance-may-be-announced-this-month/article71694288.ece",
-    "time": "2026-11-13T04:58:55+05:30",
+    "headline": "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+    "summary": "PM Modi is scheduled to inaugurate the Pink Line at around 12.45 p.m. today. He will flag off the metro service and take a ride on the newly inaugurated stretch",
+    "link": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
+    "time": "2026-11-13T11:48:14+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bomb threat emails target BMC, Pune civic body, PNB branches; searches find nothing suspicious",
-    "summary": "“A hoax bomb threat email was received at the BMC office and PNB Bank this morning. Nothing suspicious was found. Further legal process is ongoing,” Deputy Commissioner of Police (Zone 2) Raghasudha R. said",
-    "link": "https://www.thehindu.com/news/national/maharashtra/bomb-threat-emails-target-bmc-pune-civic-body-pnb-branches-searches-find-nothing-suspicious/article71694748.ece",
-    "time": "2026-11-13T03:08:57+05:30",
+    "headline": "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
+    "summary": "Guest lecturers in government Arts and Science colleges, engineering colleges, and colleges of education will now get ₹35,000 as monthly honorarium, while those in polytechnic colleges will take home ₹30,000",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-issues-go-effecting-salary-hike-of-guest-lecturers-in-colleges/article71695258.ece",
+    "time": "2026-11-13T11:46:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TNPDCL seeks nod to procure 3,000 MW",
-    "summary": "The TNPDCL, which submitted the proposal to procure 1,500 MW to the Tamil Nadu Electricity Regulatory Commission (TNERC) in February this year, has now doubled the quantum",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tnpdcl-seeks-nod-to-procure-3000-mw/article71693793.ece",
-    "time": "2026-11-13T03:05:23+05:30",
+    "headline": "Low-pressure area forms over southeast Bay of Bengal, likely to intensify into depression by November 15",
+    "summary": "The system formed at 5:30 a.m. under the influence of an upper-air cyclonic circulation over the central Andaman Sea and adjoining Andaman and Nicobar Islands, according to the latest weather update",
+    "link": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece",
+    "time": "2026-11-13T11:45:54+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Five held for kidnapping, assaulting youth in Keralam’s Tirur",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/five-held-for-kidnapping-assaulting-youth-in-keralams-tirur/article71694235.ece",
-    "time": "2026-11-13T02:03:42+05:30",
+    "headline": "All you need to know about Jagdeep Dhankhar: 5 key facts about India’s 14th Vice-President",
+    "summary": "Jagdeep Dhankhar was born in 1951 in Rajasthan’s Jhunjhunu district, a physics graduate, he subsequently pursued a career in law",
+    "link": "https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece",
+    "time": "2026-11-13T11:44:00+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Three of Malappuram family killed in Fujairah road crash",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/three-of-malappuram-family-killed-in-fujairah-road-crash/article71694144.ece",
-    "time": "2026-11-13T02:01:19+05:30",
+    "headline": "How a mason’s son from Erode won a Medal of Excellence at WorldSkills 2026",
+    "summary": "M Surenthiran has won a Medal of Excellence in Plastering and Drywall Systems at the 48th WorldSkills Competition in China. His exposure to construction work through his father, a mason, laid the foundation for this…",
+    "link": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece",
+    "time": "2026-11-13T11:41:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule",
-    "summary": "After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022,…",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
-    "time": "2026-11-13T01:46:56+05:30",
+    "headline": "Why Himalayan towns need a different kind of development | Explained",
+    "summary": "Do cities along the Indian Himalayan Range have adequate funds and resources to manage civic issues?",
+    "link": "https://www.thehindu.com/news/national/why-himalayan-towns-need-a-different-kind-of-development-explained/article68502845.ece",
+    "time": "2026-11-13T11:35:50+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+    "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-    "time": "2026-11-12T23:34:05+00:00",
+    "time": "2026-11-13T03:57:01+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Search for British woman missing from Tui cruise in Atlantic called off",
-    "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-    "time": "2026-11-12T21:27:21+00:00",
+    "headline": "Australian footballers will not be charged after hotel incident, police say",
+    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
+    "time": "2026-11-13T03:02:54+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-    "time": "2026-11-12T21:00:42+00:00",
+    "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+    "time": "2026-11-13T02:48:29+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-    "time": "2026-11-12T20:09:16+00:00",
+    "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+    "time": "2026-11-13T02:01:35+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Jensen Huang has resigned, what's next for Nvidia?",
-    "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-    "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo",
-    "time": "2026-11-12T19:33:37+00:00",
+    "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
+    "time": "2026-11-13T00:20:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
-    "time": "2026-11-12T19:23:02+00:00",
+    "headline": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+    "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+    "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
+    "time": "2026-11-12T23:42:52+00:00",
     "source": "BBC News"
    }
   ]
