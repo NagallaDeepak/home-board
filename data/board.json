@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T01:35:27.255171+00:00",
+ "updatedAt": "2026-11-14T08:38:48.658648+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -189,6 +189,34 @@
  "news": {
   "andhra": [
    {
+    "headline": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around Nov. 16",
+    "summary": "Dry weather is likely to prevail over Coastal Andhra Pradesh, Yanam and Rayalaseema till November 16, with light to moderate rain likely at isolated places over Coastal Andhra Pradesh and Yanam on November 17",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
+    "time": "2026-11-14T12:26:14+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "From policy to talent: Amaravati Quantum Valley’s innovation blueprint",
+    "summary": "To put Amaravati among the top five global quantum hubs by 2030, competing alongside established centres in Chicago, Munich, Singapore, and Australia, Andhra Pradesh started with regulation",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/from-policy-to-talent-amaravati-quantum-valleys-innovation-blueprint/article71692805.ece",
+    "time": "2026-11-14T09:21:28+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Inside Amaravati’s pioneering leap to quantum frontier",
+    "summary": "The first major test vision of building an indigenous premier deep tech hub arrives soon as an IBM Quantum System, already en route from the U.S., will be installed on February 3, 2027, at Amaravati Quantum Valley;…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
+    "time": "2026-11-14T09:18:54+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Algae-based artificial tree to help check air pollution in Guntur",
+    "summary": "In a first-of-its-kind initiative in Andhra Pradesh, ‘Algae Tree’ draws in polluted air, absorbs carbon dioxide, and releases oxygen through natural photosynthesis",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
+    "time": "2026-11-14T08:35:01+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
     "summary": "A.P. government will implement Investment Protection Act with retrospective effect from 2024, says Chief Minister Naidu",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
@@ -201,42 +229,35 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/fee-reimbursement-dues-pushing-students-into-distress-in-andhra-says-jagan/article71697793.ece",
     "time": "2026-11-14T00:19:36+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Focus on commercial infrastructure, Sribharat tells real estate developers",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/focus-on-commercial-infrastructure-sribharat-tells-real-estate-developers/article71699276.ece",
-    "time": "2026-11-13T23:57:03+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
-    "time": "2026-11-13T23:50:57+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Navy, security agencies hold coastal defence drills off Visakhapatnam",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/navy-security-agencies-hold-coastal-defence-drills-off-visakhapatnam/article71699008.ece",
-    "time": "2026-11-13T23:44:09+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh emerges as a leader in India’s rooftop solar push: Union Minister",
-    "summary": "Pralhad Joshi says 7.86 lakh households in the State have adopted rooftop solar as India meets peak power demand of 270 GW without interruption; solar capacity rises to 175 GW",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
-    "time": "2026-11-13T23:39:47+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
    {
+    "headline": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
+    "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab…",
+    "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+    "time": "2026-11-14T13:31:45+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
+    "summary": "Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation",
+    "link": "https://www.thehindu.com/news/national/telangana/hydraa-to-take-up-stepwell-restorations-to-help-water-conservation-measures-in-hyderabad/article71701018.ece",
+    "time": "2026-11-14T11:53:41+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Electors face Form 6 and enumeration form quandary",
+    "summary": "Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6.…",
+    "link": "https://www.thehindu.com/news/national/telangana/electors-face-form-6-and-enumeration-form-quandary/article71700798.ece",
+    "time": "2026-11-14T11:44:39+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Child sexual abuse: When boys’ voices break",
     "summary": "Child sexual abuse of boys often goes unreported due to fear, shame, and stigma. Abhinay Deshpande reports from Telangana on families struggling to help their children recover and seek delayed justice",
     "link": "https://www.thehindu.com/news/national/telangana/child-sexual-abuse-when-boys-voices-break/article71692792.ece",
-    "time": "2026-11-14T01:18:27+05:30",
+    "time": "2026-11-14T09:18:31+05:30",
     "source": "The Hindu"
    },
    {
@@ -252,74 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/koti-deepotsavam-begins-today-continues-till-november-30/article71699022.ece",
     "time": "2026-11-13T23:54:52+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "‘Vartalap’: Development push in remote, erstwhile LWE-affected areas highlighted",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/vartalap-development-push-in-remote-erstwhile-lwe-affected-areas-highlighted/article71698861.ece",
-    "time": "2026-11-13T23:53:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "ICFAI honours undergraduate toppers at 16th graduation ceremony",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/icfai-honours-undergraduate-toppers-at-16th-graduation-ceremony/article71699323.ece",
-    "time": "2026-11-13T23:49:17+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "One killed, four injured as lorry rams into MLC Teenmar Mallanna’s convoy in Yadadri-Bhongir district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/one-killed-four-injured-as-lorry-rams-into-mlc-teenmar-mallannas-convoy-in-yadadri-bhongir-district/article71699346.ece",
-    "time": "2026-11-13T22:51:12+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Calcutta High Court halts demolition of ex-TMC strongman Jahangir Khan’s Falta house",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-halts-demolition-of-ex-tmc-strongman-jahangir-khans-falta-house/article71698974.ece",
-    "time": "2026-11-14T07:00:21+05:30",
+    "headline": "Series of security lapses led to burglary at Tanishq showroom in Madurai",
+    "summary": "A burglary attempt was made earlier this month as well, but it went unnoticed by the showroom authorities",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/series-of-security-lapses-led-to-burglary-at-tanishq-showroom-in-madurai/article71699245.ece",
+    "time": "2026-11-14T14:00:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "After CBI, ED arrests Mahadev betting app scam accused",
-    "summary": "“In ED custody, Saurabh Chandrakar will be confronted with the statements of his associates, digital data and documents concerning his foreign entities and evidence of commission of offence of money laundering,” an ED…",
-    "link": "https://www.thehindu.com/news/national/after-cbi-ed-arrests-mahadev-betting-app-scam-accused/article71699161.ece",
-    "time": "2026-11-14T06:04:01+05:30",
+    "headline": "CFTRI initiative aims to standardise micronutrient testing in fortified rice",
+    "summary": "NutriQA-2026 focuses on reducing variations in laboratory results and strengthening quality assurance across the country",
+    "link": "https://www.thehindu.com/news/national/karnataka/cftri-initiative-aims-to-standardise-micronutrient-testing-in-fortified-rice/article71701193.ece",
+    "time": "2026-11-14T13:58:33+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Two-year-old dies after firecracker explodes inside his mouth",
-    "summary": "The victim parents said that the boy put a pop-pop firecracker in his mouth while playing, which exploded, injuring his gums and causing bleeding",
-    "link": "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece",
-    "time": "2026-11-14T04:38:21+05:30",
+    "headline": "India supports UNGA resolution on permanent sovereignty of Palestinian people",
+    "summary": "It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian…",
+    "link": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece",
+    "time": "2026-11-14T13:46:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "File FIR against those who tarnish party’s image says Bengal BJP chief",
-    "summary": "“BJP has reached here (came to power) by keeping them out. BJP has no need to touch them,” West Bengal BJP president Samik Bhattacharya said, adding that doors of the party are closed for outsiders.",
-    "link": "https://www.thehindu.com/news/national/west-bengal/file-fir-against-those-who-tarnish-partys-image-says-bengal-bjp-chief/article71699315.ece",
-    "time": "2026-11-14T04:00:32+05:30",
+    "headline": "CRPF removes jawan from service for posting death threat to Commander on social media",
+    "summary": "The battalion’s Commanding Officer conducted an inquiry, following which the jawan was terminated from service on Friday (November 13, 2026)",
+    "link": "https://www.thehindu.com/news/national/crpf-removes-jawan-from-service-for-posting-death-threat-to-commander-on-social-media/article71701093.ece",
+    "time": "2026-11-14T13:40:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NHRC seeks Education Ministry’s response over alleged neglect of Veer Baal Diwas in schools",
-    "summary": "The NHRC acted on a complaint submitted by Sanjeev Newar of the Seva Nyay Utthan Foundation, which raised concerns about the limited awareness among school students regarding the courage and supreme sacrifice of the…",
-    "link": "https://www.thehindu.com/news/national/nhrc-seeks-education-ministrys-response-over-alleged-neglect-of-veer-baal-diwas-in-schools/article71699456.ece",
-    "time": "2026-11-14T03:52:39+05:30",
+    "headline": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
+    "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab…",
+    "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+    "time": "2026-11-14T13:31:45+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "‘John Doe’ movie review: Madhumita finds her footing with a neat, effective thriller",
-    "summary": "Arjun Das and Sanchana Natarajan bring an interesting dynamic as the leads of a compelling investigation in director Madhumita’s gripping yet predictable thriller",
-    "link": "https://www.thehindu.com/entertainment/movies/john-doe-movie-review-madhumita-arjun-das-sanchana-natarajan/article71698688.ece",
-    "time": "2026-11-14T02:35:24+05:30",
+    "headline": "TMC’s Abhishek appears at police station for questioning over social media post",
+    "summary": "An FIR was registered against the TMC MP following a complaint about his social media post in May that allegedly targeted Chief Election Commissioner Gyanesh Kumar and Gujaratis during the Assembly poll period",
+    "link": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-appears-at-police-station-for-questioning-over-social-media-post/article71701190.ece",
+    "time": "2026-11-14T13:28:51+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+    "summary": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+    "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+    "time": "2026-11-14T00:12:43-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
     "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
@@ -328,8 +335,15 @@
     "source": "NPR"
    },
    {
-    "headline": "FAA issues nationwide ground stop for all U.S. airports",
-    "summary": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
+    "headline": "What we know about the FAA nationwide ground stop",
+    "summary": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+    "time": "2026-11-13T17:27:38-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+    "summary": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
     "time": "2026-11-13T16:55:13-05:00",
     "source": "NPR"
@@ -347,23 +361,37 @@
     "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
     "time": "2026-11-13T08:32:23-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
-    "time": "2026-11-13T06:47:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Investigation into what cause deadly Brooklyn building collapse continues",
-    "summary": "Investigators are trying to find out what went wrong after an apartment building collapsed into a nearby construction site in Brooklyn, New York, killing at least eight people.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038959/investigation-into-what-cause-deadly-brooklyn-building-collapse-continues",
-    "time": "2026-11-13T06:46:55-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
+   {
+    "headline": "What we know about the longest ground stop since 9/11",
+    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+    "time": "2026-11-14T07:42:11+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Microsoft says services fully restored after day-long global outage",
+    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+    "time": "2026-11-14T06:42:27+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+    "time": "2026-11-14T05:52:31+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+    "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+    "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
+    "time": "2026-11-14T01:47:36+00:00",
+    "source": "BBC News"
+   },
    {
     "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
@@ -376,34 +404,6 @@
     "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
     "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
     "time": "2026-11-14T00:03:52+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Setback for SpaceX Starship rocket's double-catch test",
-    "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
-    "time": "2026-11-14T00:01:01+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-    "time": "2026-11-13T23:40:45+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-    "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
-    "time": "2026-11-13T23:11:51+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
-    "time": "2026-11-13T23:00:31+00:00",
     "source": "BBC News"
    }
   ]
