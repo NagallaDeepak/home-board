@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T21:12:21.779335+00:00",
+ "updatedAt": "2026-11-14T01:35:27.255171+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 40.6,
-    "feels": 35.7,
-    "hum": 82,
-    "wind": 3.9,
+    "t": 35.7,
+    "feels": 29.7,
+    "hum": 85,
+    "wind": 4.8,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-13",
      "hi": 46.0,
-     "lo": 33.3,
+     "lo": 32.6,
      "code": 71,
      "rain": 97,
      "rainMm": 4.8,
@@ -26,16 +26,16 @@
     },
     {
      "date": "2026-11-14",
-     "hi": 43.2,
+     "hi": 43.8,
      "lo": 32.1,
      "code": 3,
      "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 19.9
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-15",
-     "hi": 48.0,
+     "hi": 47.9,
      "lo": 32.5,
      "code": 3,
      "rain": 2,
@@ -44,21 +44,21 @@
     },
     {
      "date": "2026-11-16",
-     "hi": 49.5,
-     "lo": 37.7,
+     "hi": 49.7,
+     "lo": 37.6,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.7
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-17",
-     "hi": 54.0,
-     "lo": 37.2,
-     "code": 3,
+     "hi": 53.5,
+     "lo": 36.8,
+     "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.3
+     "gustMph": 14.1
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.0,
-    "feels": 22.4,
-    "hum": 58,
-    "wind": 2.9,
-    "code": 3
+    "t": 21.1,
+    "feels": 21.5,
+    "hum": 60,
+    "wind": 2.1,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-14",
-     "hi": 30.9,
-     "lo": 21.0,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.0
-    },
-    {
-     "date": "2026-11-15",
-     "hi": 30.6,
-     "lo": 21.4,
+     "hi": 30.5,
+     "lo": 20.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.2
     },
     {
-     "date": "2026-11-16",
-     "hi": 30.6,
-     "lo": 21.3,
+     "date": "2026-11-15",
+     "hi": 30.3,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.2
+     "gustMph": 16.8
+    },
+    {
+     "date": "2026-11-16",
+     "hi": 30.1,
+     "lo": 20.8,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-17",
-     "hi": 30.3,
-     "lo": 20.3,
+     "hi": 29.9,
+     "lo": 20.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.8
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-18",
-     "hi": 29.8,
-     "lo": 21.1,
+     "hi": 29.6,
+     "lo": 20.6,
      "code": 3,
-     "rain": 6,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 22.6
+     "gustMph": 23.7
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.4,
-    "feels": 26.7,
-    "hum": 85,
-    "wind": 3.8,
-    "code": 3
+    "t": 23.6,
+    "feels": 27.7,
+    "hum": 87,
+    "wind": 1.8,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-14",
-     "hi": 31.0,
-     "lo": 22.5,
+     "hi": 30.6,
+     "lo": 22.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.0
+     "gustMph": 12.1
     },
     {
      "date": "2026-11-15",
-     "hi": 31.3,
-     "lo": 21.3,
+     "hi": 31.0,
+     "lo": 21.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.2
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-16",
-     "hi": 31.2,
-     "lo": 21.5,
+     "hi": 31.1,
+     "lo": 21.8,
      "code": 3,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.0
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-17",
      "hi": 31.5,
-     "lo": 20.7,
+     "lo": 21.4,
      "code": 3,
-     "rain": 4,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-18",
      "hi": 31.4,
-     "lo": 20.9,
+     "lo": 21.2,
      "code": 3,
-     "rain": 25,
+     "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 17.2
     }
    ],
    "alert": null
@@ -203,6 +203,13 @@
     "source": "The Hindu"
    },
    {
+    "headline": "Focus on commercial infrastructure, Sribharat tells real estate developers",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/focus-on-commercial-infrastructure-sribharat-tells-real-estate-developers/article71699276.ece",
+    "time": "2026-11-13T23:57:03+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
@@ -222,16 +229,16 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
     "time": "2026-11-13T23:39:47+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "1.43 lakh farmers to be enrolled on Agri Stack in Konaseema",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/143-lakh-farmers-to-be-enrolled-on-agri-stack-in-konaseema/article71698349.ece",
-    "time": "2026-11-13T23:14:14+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "Child sexual abuse: When boys’ voices break",
+    "summary": "Child sexual abuse of boys often goes unreported due to fear, shame, and stigma. Abhinay Deshpande reports from Telangana on families struggling to help their children recover and seek delayed justice",
+    "link": "https://www.thehindu.com/news/national/telangana/child-sexual-abuse-when-boys-voices-break/article71692792.ece",
+    "time": "2026-11-14T01:18:27+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Traffic restrictions in Madhapur for Rahul Gandhi’s rally",
     "summary": "",
@@ -266,64 +273,71 @@
     "link": "https://www.thehindu.com/news/national/telangana/one-killed-four-injured-as-lorry-rams-into-mlc-teenmar-mallannas-convoy-in-yadadri-bhongir-district/article71699346.ece",
     "time": "2026-11-13T22:51:12+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Eight Army personnel injured as military truck overturns near Chevella",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/eight-army-personnel-injured-as-military-truck-overturns-near-chevella/article71699355.ece",
-    "time": "2026-11-13T22:50:41+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "The challenge of holding the Quad together",
-    "summary": "The big ticket question confronting the Quad, however, is how Donald Trump engages with the group and the broader Indo-Pacific geography",
-    "link": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
-    "time": "2026-11-14T01:27:29+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Comply with new prices of 137 anti-cancer drugs or face action, says regulator",
-    "summary": "NPPA directs State drug controllers to strictly monitor prices",
-    "link": "https://www.thehindu.com/sci-tech/health/comply-with-new-prices-of-137-anti-cancer-drugs-or-face-action-says-regulator/article71698592.ece",
-    "time": "2026-11-14T01:17:05+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
-    "summary": "A.P. government will implement Investment Protection Act with retrospective effect from 2024, says Chief Minister Naidu",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
-    "time": "2026-11-14T01:15:08+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Manipur probe panel gets sixth extension; no sign of report yet",
-    "summary": "The report is awaited even as the ethnic conflict has now spread to Kuki and Naga communities",
-    "link": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece",
-    "time": "2026-11-14T01:12:04+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Four-day Chhath festival begins in Bihar with Nahay Khay",
-    "summary": "Out of 103 ghats in Patna, 90 have been declared safe for devotees, while 13 have been termed unsafe",
-    "link": "https://www.thehindu.com/news/national/bihar/four-day-chhath-festival-begins-in-bihar-with-nahay-khay/article71698082.ece",
-    "time": "2026-11-14T01:10:13+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Man held for setting house on fire in Vellore",
+    "headline": "Calcutta High Court halts demolition of ex-TMC strongman Jahangir Khan’s Falta house",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-setting-house-on-fire-in-vellore/article71698182.ece",
-    "time": "2026-11-14T01:01:01+05:30",
+    "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-halts-demolition-of-ex-tmc-strongman-jahangir-khans-falta-house/article71698974.ece",
+    "time": "2026-11-14T07:00:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "After CBI, ED arrests Mahadev betting app scam accused",
+    "summary": "“In ED custody, Saurabh Chandrakar will be confronted with the statements of his associates, digital data and documents concerning his foreign entities and evidence of commission of offence of money laundering,” an ED…",
+    "link": "https://www.thehindu.com/news/national/after-cbi-ed-arrests-mahadev-betting-app-scam-accused/article71699161.ece",
+    "time": "2026-11-14T06:04:01+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Two-year-old dies after firecracker explodes inside his mouth",
+    "summary": "The victim parents said that the boy put a pop-pop firecracker in his mouth while playing, which exploded, injuring his gums and causing bleeding",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece",
+    "time": "2026-11-14T04:38:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "File FIR against those who tarnish party’s image says Bengal BJP chief",
+    "summary": "“BJP has reached here (came to power) by keeping them out. BJP has no need to touch them,” West Bengal BJP president Samik Bhattacharya said, adding that doors of the party are closed for outsiders.",
+    "link": "https://www.thehindu.com/news/national/west-bengal/file-fir-against-those-who-tarnish-partys-image-says-bengal-bjp-chief/article71699315.ece",
+    "time": "2026-11-14T04:00:32+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NHRC seeks Education Ministry’s response over alleged neglect of Veer Baal Diwas in schools",
+    "summary": "The NHRC acted on a complaint submitted by Sanjeev Newar of the Seva Nyay Utthan Foundation, which raised concerns about the limited awareness among school students regarding the courage and supreme sacrifice of the…",
+    "link": "https://www.thehindu.com/news/national/nhrc-seeks-education-ministrys-response-over-alleged-neglect-of-veer-baal-diwas-in-schools/article71699456.ece",
+    "time": "2026-11-14T03:52:39+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "‘John Doe’ movie review: Madhumita finds her footing with a neat, effective thriller",
+    "summary": "Arjun Das and Sanchana Natarajan bring an interesting dynamic as the leads of a compelling investigation in director Madhumita’s gripping yet predictable thriller",
+    "link": "https://www.thehindu.com/entertainment/movies/john-doe-movie-review-madhumita-arjun-das-sanchana-natarajan/article71698688.ece",
+    "time": "2026-11-14T02:35:24+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
+    "headline": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+    "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "time": "2026-11-13T17:36:45-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "FAA issues nationwide ground stop for all U.S. airports",
+    "summary": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+    "time": "2026-11-13T16:55:13-05:00",
+    "source": "NPR"
+   },
+   {
     "headline": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
     "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/the-government-says-it-will-close-a-beloved-d-c-park-sunday-will-a-judge-step-in",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
     "time": "2026-11-13T16:06:05-05:00",
     "source": "NPR"
    },
@@ -347,63 +361,49 @@
     "link": "https://www.npr.org/2026/11/13/nx-s1-6038959/investigation-into-what-cause-deadly-brooklyn-building-collapse-continues",
     "time": "2026-11-13T06:46:55-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Hegseth awards medal to soldier who chastised him",
-    "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-    "time": "2026-11-13T05:27:08-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
-    "summary": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
-    "time": "2026-11-13T05:01:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-    "time": "2026-11-13T20:49:52+00:00",
+    "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
+    "time": "2026-11-14T00:03:56+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-    "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-    "time": "2026-11-13T19:53:57+00:00",
+    "headline": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
+    "time": "2026-11-14T00:03:52+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Democratic Senate leader Schumer set to face leadership challenge",
-    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
-    "time": "2026-11-13T19:03:10+00:00",
+    "headline": "Setback for SpaceX Starship rocket's double-catch test",
+    "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+    "time": "2026-11-14T00:01:01+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-    "time": "2026-11-13T18:36:57+00:00",
+    "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+    "time": "2026-11-13T23:40:45+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "The Peruvian city that has embraced Pope Leo as one of its own",
-    "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
-    "time": "2026-11-13T18:34:45+00:00",
+    "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
+    "time": "2026-11-13T23:11:51+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-    "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-    "time": "2026-11-13T16:40:31+00:00",
+    "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+    "time": "2026-11-13T23:00:31+00:00",
     "source": "BBC News"
    }
   ]
