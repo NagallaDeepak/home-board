@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T08:38:48.658648+00:00",
+ "updatedAt": "2026-11-14T15:35:24.412747+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 35.7,
-    "feels": 29.7,
-    "hum": 85,
-    "wind": 4.8,
+    "t": 41.1,
+    "feels": 33.6,
+    "hum": 68,
+    "wind": 8.4,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-13",
-     "hi": 46.0,
-     "lo": 32.6,
-     "code": 71,
-     "rain": 97,
-     "rainMm": 4.8,
-     "gustMph": 30.4
-    },
-    {
      "date": "2026-11-14",
-     "hi": 43.8,
-     "lo": 32.1,
-     "code": 3,
-     "rain": 10,
-     "rainMm": 0.0,
-     "gustMph": 18.1
-    },
-    {
-     "date": "2026-11-15",
-     "hi": 47.9,
-     "lo": 32.5,
+     "hi": 42.9,
+     "lo": 31.8,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 26.6
+     "gustMph": 19.9
+    },
+    {
+     "date": "2026-11-15",
+     "hi": 45.0,
+     "lo": 32.2,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 28.0
     },
     {
      "date": "2026-11-16",
-     "hi": 49.7,
-     "lo": 37.6,
-     "code": 0,
+     "hi": 49.2,
+     "lo": 35.6,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.2
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-17",
-     "hi": 53.5,
-     "lo": 36.8,
-     "code": 0,
+     "hi": 54.1,
+     "lo": 37.0,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 18.8
+    },
+    {
+     "date": "2026-11-18",
+     "hi": 57.5,
+     "lo": 43.4,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 22.8
     }
    ],
    "alert": null
@@ -69,44 +69,44 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.1,
-    "feels": 21.5,
-    "hum": 60,
-    "wind": 2.1,
-    "code": 1
+    "t": 25.9,
+    "feels": 25.9,
+    "hum": 42,
+    "wind": 2.5,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-14",
      "hi": 30.5,
-     "lo": 20.6,
+     "lo": 20.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.2
+     "gustMph": 12.8
     },
     {
      "date": "2026-11-15",
-     "hi": 30.3,
-     "lo": 20.8,
+     "hi": 30.5,
+     "lo": 21.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.8
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-16",
-     "hi": 30.1,
-     "lo": 20.8,
+     "hi": 30.5,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-17",
-     "hi": 29.9,
-     "lo": 20.7,
+     "hi": 30.3,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -115,11 +115,11 @@
     {
      "date": "2026-11-18",
      "hi": 29.6,
-     "lo": 20.6,
+     "lo": 21.2,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 23.7
+     "gustMph": 24.4
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.6,
-    "feels": 27.7,
-    "hum": 87,
-    "wind": 1.8,
-    "code": 2
+    "t": 25.4,
+    "feels": 30.0,
+    "hum": 83,
+    "wind": 2.4,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-14",
-     "hi": 30.6,
-     "lo": 22.7,
+     "hi": 31.2,
+     "lo": 22.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 13.0
     },
     {
      "date": "2026-11-15",
-     "hi": 31.0,
-     "lo": 21.1,
+     "hi": 31.3,
+     "lo": 20.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 11.6
     },
     {
      "date": "2026-11-16",
-     "hi": 31.1,
-     "lo": 21.8,
+     "hi": 31.3,
+     "lo": 21.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 13.6
     },
     {
      "date": "2026-11-17",
-     "hi": 31.5,
-     "lo": 21.4,
+     "hi": 31.3,
+     "lo": 20.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 14.5
     },
     {
      "date": "2026-11-18",
-     "hi": 31.4,
-     "lo": 21.2,
+     "hi": 31.6,
+     "lo": 20.5,
      "code": 3,
      "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 17.2
+     "gustMph": 17.0
     }
    ],
    "alert": null
@@ -189,137 +189,165 @@
  "news": {
   "andhra": [
    {
-    "headline": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around Nov. 16",
-    "summary": "Dry weather is likely to prevail over Coastal Andhra Pradesh, Yanam and Rayalaseema till November 16, with light to moderate rain likely at isolated places over Coastal Andhra Pradesh and Yanam on November 17",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
-    "time": "2026-11-14T12:26:14+05:30",
+    "headline": "Speakers emphasise role of research ethics, organisational excellence at global tech conferences",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-emphasise-role-of-research-ethics-organisational-excellence-at-global-tech-conferences/article71701953.ece",
+    "time": "2026-11-14T20:59:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "From policy to talent: Amaravati Quantum Valley’s innovation blueprint",
-    "summary": "To put Amaravati among the top five global quantum hubs by 2030, competing alongside established centres in Chicago, Munich, Singapore, and Australia, Andhra Pradesh started with regulation",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/from-policy-to-talent-amaravati-quantum-valleys-innovation-blueprint/article71692805.ece",
-    "time": "2026-11-14T09:21:28+05:30",
+    "headline": "Vigilance teams inspect markets across Andhra Pradesh, seize goods worth ₹10.43 crore",
+    "summary": "294 teams inspect wholesale establishments, rice mills, warehouses and retail shops; 516 cases registered for violations, including illegal stocking and black marketing",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vigilance-teams-inspect-markets-across-andhra-pradesh-seize-goods-worth-1043-crore/article71702354.ece",
+    "time": "2026-11-14T20:55:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Inside Amaravati’s pioneering leap to quantum frontier",
-    "summary": "The first major test vision of building an indigenous premier deep tech hub arrives soon as an IBM Quantum System, already en route from the U.S., will be installed on February 3, 2027, at Amaravati Quantum Valley;…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
-    "time": "2026-11-14T09:18:54+05:30",
+    "headline": "Efforts under way to develop sports sector in Kurnool, says Bharath",
+    "summary": "Felicitating athletes from Kurnool who excelled at the recently-concluded 12th Commonwealth Karate Championships in Scotland, the Industries Minister urges students to draw inspiration from them and excel in sports…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/efforts-under-way-to-develop-sports-sector-in-kurnool-says-bharath/article71702191.ece",
+    "time": "2026-11-14T20:50:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Algae-based artificial tree to help check air pollution in Guntur",
-    "summary": "In a first-of-its-kind initiative in Andhra Pradesh, ‘Algae Tree’ draws in polluted air, absorbs carbon dioxide, and releases oxygen through natural photosynthesis",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
-    "time": "2026-11-14T08:35:01+05:30",
+    "headline": "Tirumala electric bus drivers stage protest demanding wage hike",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-electric-bus-drivers-stage-protest-demanding-wage-hike/article71702330.ece",
+    "time": "2026-11-14T20:42:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
-    "summary": "A.P. government will implement Investment Protection Act with retrospective effect from 2024, says Chief Minister Naidu",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
-    "time": "2026-11-14T01:15:08+05:30",
+    "headline": "YSRCP leaders complain to Andhra DGP over ‘offensive’ remarks on Jagan’s family",
+    "summary": "Accusing JSP supporters of making obscene remarks on social media, they allege that the police failed to register an FIR even 60 hours after receiveing a complaint",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-complain-to-andhra-dgp-over-offensive-remarks-on-jagans-family/article71702275.ece",
+    "time": "2026-11-14T20:41:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Fee reimbursement dues pushing students into distress in Andhra, says Jagan",
-    "summary": "Accusing the government of being indifferent to students' plights, the YSRCP president demands that the Chief Minister stop diverting attention from the issue and take responsibility",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/fee-reimbursement-dues-pushing-students-into-distress-in-andhra-says-jagan/article71697793.ece",
-    "time": "2026-11-14T00:19:36+05:30",
+    "headline": "Mahila Commission warns of action over online abuse of Jagan’s women family members",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/mahila-commission-warns-of-action-over-online-abuse-of-jagans-women-family-members/article71702334.ece",
+    "time": "2026-11-14T20:36:16+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
-    "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab…",
-    "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
-    "time": "2026-11-14T13:31:45+05:30",
+    "headline": "B.M. Sandeep from Karnataka appointed new AICC in-charge of Telangana",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/bm-sandeep-from-karnataka-appointed-new-aicc-in-charge-of-telangana/article71702207.ece",
+    "time": "2026-11-14T20:53:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
-    "summary": "Earlier, Akarma Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation",
-    "link": "https://www.thehindu.com/news/national/telangana/hydraa-to-take-up-stepwell-restorations-to-help-water-conservation-measures-in-hyderabad/article71701018.ece",
-    "time": "2026-11-14T11:53:41+05:30",
+    "headline": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
+    "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab…",
+    "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+    "time": "2026-11-14T20:42:44+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Veteran Telugu actor Giri Babu dies at 80",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/veteran-telugu-actor-giri-babu-dies-at-80/article71702232.ece",
+    "time": "2026-11-14T20:34:30+05:30",
     "source": "The Hindu"
    },
    {
     "headline": "Electors face Form 6 and enumeration form quandary",
     "summary": "Electors in Hyderabad’s Kukatpally and nearby constituencies face confusion after the Election Commission on November 6 announced that voters listed as ASDD could refile Enumeration Forms, even after submitting Form 6.…",
     "link": "https://www.thehindu.com/news/national/telangana/electors-face-form-6-and-enumeration-form-quandary/article71700798.ece",
-    "time": "2026-11-14T11:44:39+05:30",
+    "time": "2026-11-14T20:18:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Child sexual abuse: When boys’ voices break",
-    "summary": "Child sexual abuse of boys often goes unreported due to fear, shame, and stigma. Abhinay Deshpande reports from Telangana on families struggling to help their children recover and seek delayed justice",
-    "link": "https://www.thehindu.com/news/national/telangana/child-sexual-abuse-when-boys-voices-break/article71692792.ece",
-    "time": "2026-11-14T09:18:31+05:30",
+    "headline": "HYDRAA to take up restoration of stepwells to help water conservation measures in Hyderabad",
+    "summary": "Earlier, Akarmaa Foundation mounted an exhibition of stepwells that showed the legacy of Telangana with water and its conservation",
+    "link": "https://www.thehindu.com/news/national/telangana/hydraa-to-take-up-stepwell-restorations-to-help-water-conservation-measures-in-hyderabad/article71701018.ece",
+    "time": "2026-11-14T20:10:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Traffic restrictions in Madhapur for Rahul Gandhi’s rally",
+    "headline": "College of Defence Management organises ‘Discover India’ programme to strengthen defence diplomacy",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-madhapur-for-rahul-gandhis-rally/article71698315.ece",
-    "time": "2026-11-13T23:57:06+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Koti Deepotsavam begins today, continues till November 30",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/koti-deepotsavam-begins-today-continues-till-november-30/article71699022.ece",
-    "time": "2026-11-13T23:54:52+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/college-of-defence-management-organises-discover-india-programme-to-strengthen-defence-diplomacy/article71698917.ece",
+    "time": "2026-11-14T20:06:52+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Series of security lapses led to burglary at Tanishq showroom in Madurai",
-    "summary": "A burglary attempt was made earlier this month as well, but it went unnoticed by the showroom authorities",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/series-of-security-lapses-led-to-burglary-at-tanishq-showroom-in-madurai/article71699245.ece",
-    "time": "2026-11-14T14:00:37+05:30",
+    "headline": "Speakers emphasise role of research ethics, organisational excellence at global tech conferences",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-emphasise-role-of-research-ethics-organisational-excellence-at-global-tech-conferences/article71701953.ece",
+    "time": "2026-11-14T20:59:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CFTRI initiative aims to standardise micronutrient testing in fortified rice",
-    "summary": "NutriQA-2026 focuses on reducing variations in laboratory results and strengthening quality assurance across the country",
-    "link": "https://www.thehindu.com/news/national/karnataka/cftri-initiative-aims-to-standardise-micronutrient-testing-in-fortified-rice/article71701193.ece",
-    "time": "2026-11-14T13:58:33+05:30",
+    "headline": "Dr. Rajkumar Academy of Civil Services opens Mysuru centre",
+    "summary": "The Dr Rajkumar Academy of Civil Service, which offers its flagship IAS (UPS Civil Services), and KAS (KPSC) programmes, has opened its Mysuru centre",
+    "link": "https://www.thehindu.com/news/national/karnataka/dr-rajkumar-academy-of-civil-services-mysuru-yuva-rajkumar-dr-rajkumar-mysuru-bengaluru/article71699233.ece",
+    "time": "2026-11-14T20:59:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "India supports UNGA resolution on permanent sovereignty of Palestinian people",
-    "summary": "It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian…",
-    "link": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece",
-    "time": "2026-11-14T13:46:13+05:30",
+    "headline": "Nod for Mayilpeeli scholarship exam withdrawn",
+    "summary": "Permission given to NTU for conducting scholarship test for UP and high school students withdrawn on directions of Minister for General Education N. Samsudheen following “complaints”",
+    "link": "https://www.thehindu.com/news/national/kerala/nod-for-mayilpeeli-scholarship-exam-withdrawn/article71702398.ece",
+    "time": "2026-11-14T20:58:33+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CRPF removes jawan from service for posting death threat to Commander on social media",
-    "summary": "The battalion’s Commanding Officer conducted an inquiry, following which the jawan was terminated from service on Friday (November 13, 2026)",
-    "link": "https://www.thehindu.com/news/national/crpf-removes-jawan-from-service-for-posting-death-threat-to-commander-on-social-media/article71701093.ece",
-    "time": "2026-11-14T13:40:24+05:30",
+    "headline": "Vigilance teams inspect markets across Andhra Pradesh, seize goods worth ₹10.43 crore",
+    "summary": "294 teams inspect wholesale establishments, rice mills, warehouses and retail shops; 516 cases registered for violations, including illegal stocking and black marketing",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vigilance-teams-inspect-markets-across-andhra-pradesh-seize-goods-worth-1043-crore/article71702354.ece",
+    "time": "2026-11-14T20:55:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rahul Gandhi promises social security, insurance cover for gig workers in Telangana",
-    "summary": "Mr Gandhi said every gig worker would receive ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A social security contribution mechanism under which 1% of every transaction, including deliveries and cab…",
-    "link": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
-    "time": "2026-11-14T13:31:45+05:30",
+    "headline": "Annual conference of Society for Pathways to Sustainability to begin at Gulati Institute of Finance and Taxation on Monday",
+    "summary": "The theme of the event is ‘AGENDA 2030: Financing Strategies for Sustainable Development with Lifestyle for the Environment",
+    "link": "https://www.thehindu.com/news/national/kerala/annual-conference-of-society-for-pathways-to-sustainability-to-begin-at-gulati-institute-of-finance-and-taxation-on-monday/article71702286.ece",
+    "time": "2026-11-14T20:53:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TMC’s Abhishek appears at police station for questioning over social media post",
-    "summary": "An FIR was registered against the TMC MP following a complaint about his social media post in May that allegedly targeted Chief Election Commissioner Gyanesh Kumar and Gujaratis during the Assembly poll period",
-    "link": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-appears-at-police-station-for-questioning-over-social-media-post/article71701190.ece",
-    "time": "2026-11-14T13:28:51+05:30",
+    "headline": "B.M. Sandeep from Karnataka appointed new AICC in-charge of Telangana",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/bm-sandeep-from-karnataka-appointed-new-aicc-in-charge-of-telangana/article71702207.ece",
+    "time": "2026-11-14T20:53:11+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Stuck in airports nationwide, stranded travelers share how they're coping",
+    "summary": "People all over the country found themselves stuck in airports last night. We hear from some stranded travelers about how they're coping.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping",
+    "time": "2026-11-14T07:40:33-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
+    "summary": "There were more than 30 injuries but no fatalities after a tanker hit a cruise ship in the Port of New Orleans Friday.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
+    "time": "2026-11-14T07:40:29-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "As Democrats win big, thirst traps of male candidates take social media by storm",
+    "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+    "time": "2026-11-14T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+    "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+    "time": "2026-11-14T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
     "summary": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
@@ -333,42 +361,42 @@
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
     "time": "2026-11-13T17:36:45-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "What we know about the FAA nationwide ground stop",
-    "summary": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-    "time": "2026-11-13T17:27:38-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-    "summary": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-    "time": "2026-11-13T16:55:13-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-    "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-    "time": "2026-11-13T16:06:05-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "USMNT head coach Mauricio Pochettino is leaving for Manchester United",
-    "summary": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-    "time": "2026-11-13T08:32:23-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "What we know about the longest ground stop since 9/11",
+    "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+    "time": "2026-11-14T15:15:57+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "What we know about the ground stop and what to do if you're affected",
     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-    "time": "2026-11-14T07:42:11+00:00",
+    "time": "2026-11-14T14:20:57+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Second catch attempt for SpaceX Starship rocket",
+    "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+    "time": "2026-11-14T14:18:41+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+    "time": "2026-11-14T11:30:10+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
+    "time": "2026-11-14T10:42:20+00:00",
     "source": "BBC News"
    },
    {
@@ -376,34 +404,6 @@
     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
     "time": "2026-11-14T06:42:27+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-    "time": "2026-11-14T05:52:31+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-    "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-    "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
-    "time": "2026-11-14T01:47:36+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-    "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
-    "time": "2026-11-14T00:03:56+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-    "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
-    "time": "2026-11-14T00:03:52+00:00",
     "source": "BBC News"
    }
   ]
