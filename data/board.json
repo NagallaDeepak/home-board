@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T06:57:15.309388+00:00",
+ "updatedAt": "2026-11-15T14:37:12.195567+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -189,137 +189,144 @@
  "news": {
   "andhra": [
    {
-    "headline": "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
-    "summary": "At 5.30 a.m., the system lay centred over southeast and southwest Bay of Bengal, about 700 km west-southwest of Port Blair",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-rainfall-alerts-for-andhra-as-depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704185.ece",
-    "time": "2026-11-15T12:20:45+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bar Council of A.P. appeals to Centre not to proceed with Evening Courts proposal",
-    "summary": "It may be noted that the Central government proposed to set up Evening Courts in Andhra Pradesh, Bihar and Delhi in coordination with the respective High Courts on a pilot basis",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bar-council-of-ap-appeals-to-centre-not-to-proceed-with-evening-courts-proposal/article71704075.ece",
-    "time": "2026-11-15T09:35:16+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bhashyam schools organises sports meet",
+    "headline": "Cyclone damage: Andhra Pradesh CM urges Central team to submit report in 10 days; State puts total loss at ₹2,484 crore",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bhashyam-schools-organises-sports-meet/article71702268.ece",
-    "time": "2026-11-14T23:59:48+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-damage-andhra-pradesh-cm-urges-central-team-to-submit-report-in-10-days-state-puts-total-loss-at-2484-crore/article71704921.ece",
+    "time": "2026-11-15T20:03:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
+    "headline": "BJP confident of NDA continuing its winning streak in forthcoming A.P. local body polls, says P.V.N. Madhav",
+    "summary": "TDP, JSP and BJP have had held discussions on candidate selection and seat-sharing for elections to 23 ULBs in State, says BJP Andhra Pradesh unit president",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-confident-of-nda-continuing-its-winning-streak-in-forthcoming-ap-local-body-polls-says-pvn-madhav/article71704929.ece",
+    "time": "2026-11-15T20:02:08+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Speakers say archaeological evidence is key to restoration of ancient temples",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
-    "time": "2026-11-14T23:49:05+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-say-archaeological-evidence-is-key-to-restoration-of-ancient-temples/article71704980.ece",
+    "time": "2026-11-15T19:56:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "After Arnab and Murasu, Andhra Pradesh braces for another cyclonic storm",
-    "summary": "Cyclone may make landfall along the North Coastal Andhra Pradesh either on the night of November 19 or in the early hours of November 20, says IMD",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-    "time": "2026-11-14T23:45:49+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "VIT-A.P. researchers demonstrate low-cost photonic tech for non-invasive disease screening",
+    "headline": "Bapatla Police arrest four in jewellery shop theft case",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece",
-    "time": "2026-11-14T23:45:37+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-police-arrest-four-in-jewellery-shop-theft-case/article71705140.ece",
+    "time": "2026-11-15T19:55:33+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Land resurvey exercise: Andhra Pradesh revenue staff want reduction in workload",
+    "summary": "Employees say they are facing pressure from local body election duties, SIR of electoral rolls, cyclone-related work, census training, pattadar passbook distribution, festival duties and protocol assignments",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/land-resurvey-andhra-pradesh-revenue-staff-want-reduction-in-workload/article71704948.ece",
+    "time": "2026-11-15T19:50:15+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Award-winning Kadapa entrepreneur participates in CII meet",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/award-winning-kadapa-entrepreneur-participates-in-cii-meet/article71704984.ece",
+    "time": "2026-11-15T19:49:42+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "TGPCB recommends closures, forfeitures over dusty construction",
+    "headline": "Rajnath Singh calls for AI, robotics in Non-Destructive Testing to strengthen defence sector",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/tgpcb-recommends-closures-forfeitures-over-dusty-construction/article71702047.ece",
-    "time": "2026-11-15T02:11:50+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/rajnath-singh-calls-for-ai-robotics-in-non-destructive-testing-to-strengthen-defence-sector/article71704991.ece",
+    "time": "2026-11-15T20:02:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Six-month traffic disruption ahead as Ranigunj railway underpass work to begin in Hyderabad",
-    "summary": "The existing 13-metre carriageway will be widened to 22 metres, allowing four-way traffic movement, with an additional three metres of road space sought at Karbala Maidan to facilitate one-way movement during diversions.",
-    "link": "https://www.thehindu.com/news/national/telangana/six-month-traffic-disruption-ahead-as-ranigunj-railway-underpass-work-to-begin-in-hyderabad/article71699562.ece",
-    "time": "2026-11-15T02:07:46+05:30",
+    "headline": "Hyderabad comes together for Chhath Puja as lakhs offer prayers to setting sun",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-comes-together-for-chhath-puja-as-lakhs-offer-prayers-to-setting-sun/article71704792.ece",
+    "time": "2026-11-15T19:50:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Traffic diversions for steel flyover construction in Banjara Hills",
+    "headline": "Over 1,330 motorists caught for drunk driving across Hyderabad, Cyberabad and adjoining commissionerates",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece",
-    "time": "2026-11-15T02:06:07+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/over-1330-motorists-caught-for-drunk-driving-across-hyderabad-cyberabad-and-adjoining-commissionerates/article71704851.ece",
+    "time": "2026-11-15T19:36:48+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana Greyhounds get new shooting range at Rajendranagar",
+    "headline": "Two arrests in separate raids trace e-cigarette supply chain linking Kolkata, Hyderabad, and Karimnagar",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-greyhounds-get-new-shooting-range-at-rajendranagar/article71702096.ece",
-    "time": "2026-11-15T02:05:07+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/two-arrests-in-separate-raids-trace-e-cigarette-supply-chain-linking-kolkata-hyderabad-and-karimnagar/article71704872.ece",
+    "time": "2026-11-15T19:24:51+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Eight varieties of pharmaceutical ingredients worth ₹3.54 lakh seized in TG SAFE raid at Ameenpur firm",
+    "headline": "Modi govt. ended Naxalism, paved way for tribal development: Kishan Reddy",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/eight-varieties-of-pharmaceutical-ingredients-worth-354-lakh-seized-in-tg-safe-raid-at-ameenpur-firm/article71702513.ece",
-    "time": "2026-11-15T02:00:04+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/modi-govt-ended-naxalism-paved-way-for-tribal-development-kishan-reddy/article71704801.ece",
+    "time": "2026-11-15T19:14:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Four arrested for illegal sand extraction in Madgul",
+    "headline": "Telangana Tourism launches weekly birdwatching walks across Hyderabad",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/four-arrested-for-illegal-sand-extraction-in-madgul/article71702555.ece",
-    "time": "2026-11-15T01:57:08+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-tourism-launches-weekly-birdwatching-walks-across-hyderabad/article71704804.ece",
+    "time": "2026-11-15T19:08:02+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Massive fire at Gurugram woollens market guts around 25 shops; no injuries",
-    "summary": "An official said that a woman in the area heard a noise at around 4 a.m. and discovered that the market was on fire. She alerted others, but by then, the blaze had become massive",
-    "link": "https://www.thehindu.com/news/national/haryana/massive-fire-at-gurugram-woollens-market-guts-around-25-shops-no-injuries/article71704214.ece",
-    "time": "2026-11-15T12:11:06+05:30",
+    "headline": "BJP confident of NDA continuing its winning streak in forthcoming A.P. local body polls, says P.V.N. Madhav",
+    "summary": "TDP, JSP and BJP have had held discussions on candidate selection and seat-sharing for elections to 23 ULBs in State, says BJP Andhra Pradesh unit president",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-confident-of-nda-continuing-its-winning-streak-in-forthcoming-ap-local-body-polls-says-pvn-madhav/article71704929.ece",
+    "time": "2026-11-15T20:02:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Woman trampled to death by elephant in Hassan district in Karnataka",
-    "summary": "Many wild elephants have been roaming in parts of Belur, Sakaleshpur and Alur taluks. There have been many instances of human-elephant conflict in the district, particularly in these taluks, leading to constant tension…",
-    "link": "https://www.thehindu.com/news/national/karnataka/woman-trampled-to-death-by-elephant-in-hassan-district-in-karnataka/article71704210.ece",
-    "time": "2026-11-15T12:08:38+05:30",
+    "headline": "Rajnath Singh calls for AI, robotics in non-destructive testing to strengthen defence sector",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/rajnath-singh-calls-for-ai-robotics-in-non-destructive-testing-to-strengthen-defence-sector/article71704991.ece",
+    "time": "2026-11-15T20:00:38+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "President Murmu, PM Modi greet Jharkhand residents on State’s foundation day",
-    "summary": "Jharkhand, which is known for its pristine forests and natural resources, was created on November 15, 2000, from what was previously the southern areas of Bihar",
-    "link": "https://www.thehindu.com/news/national/leaders-greet-jharkhand-residents-on-states-foundation-day/article71704061.ece",
-    "time": "2026-11-15T11:57:32+05:30",
+    "headline": "Speakers say archaeological evidence is key to restoration of ancient temples",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-say-archaeological-evidence-is-key-to-restoration-of-ancient-temples/article71704980.ece",
+    "time": "2026-11-15T19:56:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Two cattle smugglers killed in encounter with police in Haryana",
-    "summary": "During the exchange of fire, three people sustained bullet injuries and were rushed to Nalhar Medical College. Two of the injured, identified as Sabir and Gabbar alias Hadiya, succumbed to their injuries, while Tahir is…",
-    "link": "https://www.thehindu.com/news/national/haryana/two-cattle-smugglers-killed-in-encounter-with-police-in-haryana/article71704187.ece",
-    "time": "2026-11-15T11:30:35+05:30",
+    "headline": "Minister Vanni Arasu faces flak for pursuing tiger in Mudumalai Tiger Reserve",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-faces-flak-for-pursuing-tiger-in-mudumalai-tiger-reserve/article71704393.ece",
+    "time": "2026-11-15T19:55:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
-    "summary": "Asked if the demand was of 200 seats, he replied, \"A little less than that.\" When the interviewer suggested 180 seats, Mr. Yadav said, \"Add one more,\" indicating that the Congress has sought 181 seats from the SP",
-    "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
-    "time": "2026-11-15T11:18:54+05:30",
+    "headline": "Bapatla Police arrest four in jewellery shop theft case",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-police-arrest-four-in-jewellery-shop-theft-case/article71705140.ece",
+    "time": "2026-11-15T19:55:33+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
-    "summary": "At 5.30 a.m., the system lay centred over southeast and southwest Bay of Bengal, about 700 km west-southwest of Port Blair",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-rainfall-alerts-for-andhra-as-depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704185.ece",
-    "time": "2026-11-15T11:16:46+05:30",
+    "headline": "India should become innovator, global leader in advanced tech: Rajnath Singh",
+    "summary": "Defence Minister calls for strengthening India’s indigenous Non-Destructive Testing (NDT) capabilities",
+    "link": "https://www.thehindu.com/news/national/india-should-become-innovator-global-leader-in-advanced-tech-rajnath-singh/article71705038.ece",
+    "time": "2026-11-15T19:53:34+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+    "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+    "time": "2026-11-15T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "FAA ground stop disrupts college football",
     "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
     "time": "2026-11-14T15:12:34-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-    "summary": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-    "time": "2026-11-14T11:53:04-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-    "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-    "time": "2026-11-15T03:21:04+00:00",
+    "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+    "time": "2026-11-15T14:33:59+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Iran targets US military base in Bahrain with drone attack",
+    "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "time": "2026-11-15T13:42:58+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
+    "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+    "time": "2026-11-15T13:37:45+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+    "time": "2026-11-15T11:06:32+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
     "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-    "time": "2026-11-15T02:49:45+00:00",
+    "time": "2026-11-15T09:57:25+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-    "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
-    "time": "2026-11-15T00:06:55+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Judo champion shakes up French presidential race with surprise candidacy",
-    "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
-    "time": "2026-11-15T00:06:51+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "How telecoms upgrade work sparked US flight chaos",
-    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-    "time": "2026-11-14T23:11:27+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-    "time": "2026-11-14T22:37:25+00:00",
+    "headline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+    "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
+    "time": "2026-11-15T09:26:37+00:00",
     "source": "BBC News"
    }
   ]
