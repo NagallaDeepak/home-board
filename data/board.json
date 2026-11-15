@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T00:06:36.536722+00:00",
+ "updatedAt": "2026-11-15T06:57:15.309388+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 42.2,
-    "feels": 35.1,
-    "hum": 66,
-    "wind": 7.8,
-    "code": 1
+    "t": 33.4,
+    "feels": 26.7,
+    "hum": 86,
+    "wind": 6.0,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-14",
-     "hi": 43.6,
-     "lo": 31.8,
+     "date": "2026-11-15",
+     "hi": 46.4,
+     "lo": 32.3,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 23.0
+    },
+    {
+     "date": "2026-11-16",
+     "hi": 45.8,
+     "lo": 32.2,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
      "gustMph": 21.0
     },
     {
-     "date": "2026-11-15",
-     "hi": 45.8,
-     "lo": 32.4,
-     "code": 2,
-     "rain": 2,
+     "date": "2026-11-17",
+     "hi": 55.0,
+     "lo": 37.6,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 22.4
+    },
+    {
+     "date": "2026-11-18",
+     "hi": 57.6,
+     "lo": 45.2,
+     "code": 3,
+     "rain": 0,
      "rainMm": 0.0,
      "gustMph": 23.9
     },
     {
-     "date": "2026-11-16",
-     "hi": 49.5,
-     "lo": 35.1,
-     "code": 3,
-     "rain": 2,
-     "rainMm": 0.0,
-     "gustMph": 22.8
-    },
-    {
-     "date": "2026-11-17",
-     "hi": 54.7,
-     "lo": 37.3,
-     "code": 1,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 21.7
-    },
-    {
-     "date": "2026-11-18",
-     "hi": 57.9,
-     "lo": 44.2,
+     "date": "2026-11-19",
+     "hi": 59.0,
+     "lo": 45.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.8
+     "gustMph": 25.3
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.7,
-    "feels": 22.6,
-    "hum": 51,
-    "wind": 2.6,
-    "code": 1
+    "t": 29.5,
+    "feels": 29.6,
+    "hum": 26,
+    "wind": 4.4,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-15",
-     "hi": 30.6,
-     "lo": 21.1,
+     "hi": 30.2,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.8
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-16",
-     "hi": 30.4,
-     "lo": 21.5,
+     "hi": 29.9,
+     "lo": 20.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 18.3
     },
     {
      "date": "2026-11-17",
-     "hi": 30.4,
-     "lo": 21.1,
-     "code": 2,
+     "hi": 30.0,
+     "lo": 20.7,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 22.8
     },
     {
      "date": "2026-11-18",
-     "hi": 29.9,
-     "lo": 21.0,
+     "hi": 30.5,
+     "lo": 20.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 24.4
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-19",
-     "hi": 29.4,
-     "lo": 20.6,
-     "code": 3,
+     "hi": 28.4,
+     "lo": 21.4,
+     "code": 51,
      "rain": 14,
-     "rainMm": 0.0,
-     "gustMph": 23.5
+     "rainMm": 0.3,
+     "gustMph": 25.1
     }
    ],
    "alert": null
@@ -130,35 +130,35 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 22.5,
-    "feels": 24.8,
-    "hum": 82,
-    "wind": 5.0,
-    "code": 3
+    "t": 31.0,
+    "feels": 33.4,
+    "hum": 41,
+    "wind": 4.3,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-15",
      "hi": 31.3,
-     "lo": 21.0,
+     "lo": 21.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.5
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-16",
      "hi": 31.4,
-     "lo": 21.2,
+     "lo": 22.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-17",
      "hi": 31.7,
-     "lo": 20.9,
+     "lo": 20.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -166,21 +166,21 @@
     },
     {
      "date": "2026-11-18",
-     "hi": 31.7,
-     "lo": 21.5,
-     "code": 3,
+     "hi": 29.9,
+     "lo": 21.9,
+     "code": 51,
      "rain": 14,
-     "rainMm": 0.0,
-     "gustMph": 18.6
+     "rainMm": 0.1,
+     "gustMph": 25.3
     },
     {
      "date": "2026-11-19",
-     "hi": 27.2,
+     "hi": 26.1,
      "lo": 22.1,
-     "code": 53,
+     "code": 95,
      "rain": 41,
-     "rainMm": 5.7,
-     "gustMph": 25.7
+     "rainMm": 75.6,
+     "gustMph": 56.4
     }
    ],
    "alert": null
@@ -188,6 +188,20 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
+    "summary": "At 5.30 a.m., the system lay centred over southeast and southwest Bay of Bengal, about 700 km west-southwest of Port Blair",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-rainfall-alerts-for-andhra-as-depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704185.ece",
+    "time": "2026-11-15T12:20:45+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Bar Council of A.P. appeals to Centre not to proceed with Evening Courts proposal",
+    "summary": "It may be noted that the Central government proposed to set up Evening Courts in Andhra Pradesh, Bihar and Delhi in coordination with the respective High Courts on a pilot basis",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bar-council-of-ap-appeals-to-centre-not-to-proceed-with-evening-courts-proposal/article71704075.ece",
+    "time": "2026-11-15T09:35:16+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Bhashyam schools organises sports meet",
     "summary": "",
@@ -214,20 +228,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece",
     "time": "2026-11-14T23:45:37+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Vijayawada Press Club to organise blood donation camp on November 16",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-press-club-to-organise-blood-donation-camp-on-november-16/article71702839.ece",
-    "time": "2026-11-14T23:19:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "APPCB seeks ban on plastic bottles during Godavari Pushkarams",
-    "summary": "Drinking water ATMs, refilling points and eco-friendly alternatives to plastic plates, glasses and bags proposed for the 2027 event",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/appcb-seeks-ban-on-plastic-bottles-during-godavari-pushkarams/article71702373.ece",
-    "time": "2026-11-14T22:31:15+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,63 @@
   ],
   "india": [
    {
-    "headline": "Drought-stricken Beed: Land of parched fields and broken promises",
-    "summary": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even…",
-    "link": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece",
-    "time": "2026-11-15T04:26:01+05:30",
+    "headline": "Massive fire at Gurugram woollens market guts around 25 shops; no injuries",
+    "summary": "An official said that a woman in the area heard a noise at around 4 a.m. and discovered that the market was on fire. She alerted others, but by then, the blaze had become massive",
+    "link": "https://www.thehindu.com/news/national/haryana/massive-fire-at-gurugram-woollens-market-guts-around-25-shops-no-injuries/article71704214.ece",
+    "time": "2026-11-15T12:11:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Maritime security in focus at India-Belgium naval talks",
-    "summary": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
-    "link": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
-    "time": "2026-11-15T04:00:45+05:30",
+    "headline": "Woman trampled to death by elephant in Hassan district in Karnataka",
+    "summary": "Many wild elephants have been roaming in parts of Belur, Sakaleshpur and Alur taluks. There have been many instances of human-elephant conflict in the district, particularly in these taluks, leading to constant tension…",
+    "link": "https://www.thehindu.com/news/national/karnataka/woman-trampled-to-death-by-elephant-in-hassan-district-in-karnataka/article71704210.ece",
+    "time": "2026-11-15T12:08:38+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "In Jharkhand, even jails are not safe: Babulal Marandi",
-    "summary": "Launching a sharp attack on Sorens’ government, Mr. Marandi said law and order in Jharkhand has collapsed and it raises serious questions on the functioning of the government",
-    "link": "https://www.thehindu.com/news/national/jharkhand/in-jharkhand-even-jails-are-not-safe-babulal-marandi/article71703040.ece",
-    "time": "2026-11-15T03:40:13+05:30",
+    "headline": "President Murmu, PM Modi greet Jharkhand residents on State’s foundation day",
+    "summary": "Jharkhand, which is known for its pristine forests and natural resources, was created on November 15, 2000, from what was previously the southern areas of Bihar",
+    "link": "https://www.thehindu.com/news/national/leaders-greet-jharkhand-residents-on-states-foundation-day/article71704061.ece",
+    "time": "2026-11-15T11:57:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Villagers in 25 districts cast votes for panchayat elections’ final phase in Rajasthan",
-    "summary": "The final phase polls across 25 districts for Zila Parishad and Panchayat Samiti faced EVM glitches, boycotts, and a 72% turnout",
-    "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece",
-    "time": "2026-11-15T03:22:18+05:30",
+    "headline": "Two cattle smugglers killed in encounter with police in Haryana",
+    "summary": "During the exchange of fire, three people sustained bullet injuries and were rushed to Nalhar Medical College. Two of the injured, identified as Sabir and Gabbar alias Hadiya, succumbed to their injuries, while Tahir is…",
+    "link": "https://www.thehindu.com/news/national/haryana/two-cattle-smugglers-killed-in-encounter-with-police-in-haryana/article71704187.ece",
+    "time": "2026-11-15T11:30:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Mumbai police announce traffic diversion ahead of Britain’s Prince William visit",
-    "summary": "The ceremony is hosted in Mumbai from November 16 to 18 for the sixth annual Earthshot Prize",
-    "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-announce-traffic-diversion-ahead-ofbritains-prince-william-visit/article71702944.ece",
-    "time": "2026-11-15T03:11:27+05:30",
+    "headline": "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
+    "summary": "Asked if the demand was of 200 seats, he replied, \"A little less than that.\" When the interviewer suggested 180 seats, Mr. Yadav said, \"Add one more,\" indicating that the Congress has sought 181 seats from the SP",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
+    "time": "2026-11-15T11:18:54+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
-    "summary": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
-    "link": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece",
-    "time": "2026-11-15T02:48:48+05:30",
+    "headline": "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
+    "summary": "At 5.30 a.m., the system lay centred over southeast and southwest Bay of Bengal, about 700 km west-southwest of Port Blair",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-rainfall-alerts-for-andhra-as-depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704185.ece",
+    "time": "2026-11-15T11:16:46+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "FAA ground stop disrupts college football",
+    "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+    "time": "2026-11-14T20:13:59-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+    "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+    "time": "2026-11-14T19:03:52-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
     "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
@@ -347,23 +361,37 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
     "time": "2026-11-14T11:53:04-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Stuck in airports nationwide, stranded travelers share how they're coping",
-    "summary": "People all over the country found themselves stuck in airports last night. We hear from some stranded travelers about how they're coping.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping",
-    "time": "2026-11-14T07:40:33-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
-    "summary": "There were more than 30 injuries but no fatalities after a tanker hit a cruise ship in the Port of New Orleans Friday.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
-    "time": "2026-11-14T07:40:29-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
+   {
+    "headline": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+    "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+    "time": "2026-11-15T03:21:04+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+    "time": "2026-11-15T02:49:45+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+    "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
+    "time": "2026-11-15T00:06:55+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Judo champion shakes up French presidential race with surprise candidacy",
+    "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
+    "time": "2026-11-15T00:06:51+00:00",
+    "source": "BBC News"
+   },
    {
     "headline": "How telecoms upgrade work sparked US flight chaos",
     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
@@ -376,34 +404,6 @@
     "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
     "time": "2026-11-14T22:37:25+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-    "time": "2026-11-14T22:09:40+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-    "time": "2026-11-14T20:23:06+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-    "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-    "time": "2026-11-14T19:14:33+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-    "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-    "time": "2026-11-14T19:12:25+00:00",
     "source": "BBC News"
    }
   ]
