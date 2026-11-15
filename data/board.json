@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T14:37:12.195567+00:00",
+ "updatedAt": "2026-11-15T20:10:00.556148+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 33.4,
-    "feels": 26.7,
-    "hum": 86,
-    "wind": 6.0,
-    "code": 0
+    "t": 47.0,
+    "feels": 38.2,
+    "hum": 50,
+    "wind": 10.8,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-15",
-     "hi": 46.4,
+     "hi": 48.7,
      "lo": 32.3,
      "code": 3,
-     "rain": 2,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 23.0
+     "gustMph": 25.5
     },
     {
      "date": "2026-11-16",
-     "hi": 45.8,
-     "lo": 32.2,
+     "hi": 46.5,
+     "lo": 32.1,
      "code": 3,
-     "rain": 2,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 21.0
+     "gustMph": 19.2
     },
     {
      "date": "2026-11-17",
-     "hi": 55.0,
-     "lo": 37.6,
-     "code": 0,
+     "hi": 54.9,
+     "lo": 32.2,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 22.4
+     "gustMph": 24.2
     },
     {
      "date": "2026-11-18",
-     "hi": 57.6,
-     "lo": 45.2,
+     "hi": 59.5,
+     "lo": 45.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.9
+     "gustMph": 25.7
     },
     {
      "date": "2026-11-19",
-     "hi": 59.0,
-     "lo": 45.6,
+     "hi": 60.4,
+     "lo": 45.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 25.3
+     "gustMph": 19.5
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 29.5,
-    "feels": 29.6,
-    "hum": 26,
-    "wind": 4.4,
-    "code": 0
+    "t": 22.4,
+    "feels": 22.4,
+    "hum": 53,
+    "wind": 2.9,
+    "code": 3
    },
    "days": [
     {
-     "date": "2026-11-15",
-     "hi": 30.2,
-     "lo": 20.8,
+     "date": "2026-11-16",
+     "hi": 30.3,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 17.0
     },
     {
-     "date": "2026-11-16",
-     "hi": 29.9,
-     "lo": 20.9,
+     "date": "2026-11-17",
+     "hi": 30.5,
+     "lo": 20.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.3
+     "gustMph": 21.7
     },
     {
-     "date": "2026-11-17",
+     "date": "2026-11-18",
      "hi": 30.0,
-     "lo": 20.7,
+     "lo": 20.8,
      "code": 3,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 22.8
     },
     {
-     "date": "2026-11-18",
-     "hi": 30.5,
+     "date": "2026-11-19",
+     "hi": 29.9,
      "lo": 20.6,
      "code": 3,
-     "rain": 2,
+     "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 22.6
+     "gustMph": 23.5
     },
     {
-     "date": "2026-11-19",
-     "hi": 28.4,
-     "lo": 21.4,
-     "code": 51,
-     "rain": 14,
-     "rainMm": 0.3,
-     "gustMph": 25.1
+     "date": "2026-11-20",
+     "hi": 24.3,
+     "lo": 20.8,
+     "code": 80,
+     "rain": 30,
+     "rainMm": 15.3,
+     "gustMph": 29.1
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 31.0,
-    "feels": 33.4,
-    "hum": 41,
-    "wind": 4.3,
+    "t": 22.8,
+    "feels": 25.7,
+    "hum": 80,
+    "wind": 1.8,
     "code": 2
    },
    "days": [
     {
-     "date": "2026-11-15",
-     "hi": 31.3,
-     "lo": 21.4,
+     "date": "2026-11-16",
+     "hi": 31.5,
+     "lo": 21.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 14.1
     },
     {
-     "date": "2026-11-16",
-     "hi": 31.4,
-     "lo": 22.0,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.6
-    },
-    {
      "date": "2026-11-17",
-     "hi": 31.7,
-     "lo": 20.4,
+     "hi": 31.9,
+     "lo": 20.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.0
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-18",
-     "hi": 29.9,
-     "lo": 21.9,
-     "code": 51,
+     "hi": 31.1,
+     "lo": 21.8,
+     "code": 3,
      "rain": 14,
-     "rainMm": 0.1,
-     "gustMph": 25.3
+     "rainMm": 0.0,
+     "gustMph": 22.1
     },
     {
      "date": "2026-11-19",
      "hi": 26.1,
-     "lo": 22.1,
-     "code": 95,
+     "lo": 23.3,
+     "code": 53,
      "rain": 41,
-     "rainMm": 75.6,
-     "gustMph": 56.4
+     "rainMm": 9.5,
+     "gustMph": 25.3
+    },
+    {
+     "date": "2026-11-20",
+     "hi": 25.3,
+     "lo": 22.8,
+     "code": 95,
+     "rain": 45,
+     "rainMm": 103.2,
+     "gustMph": 41.2
     }
    ],
    "alert": null
@@ -189,137 +189,144 @@
  "news": {
   "andhra": [
    {
-    "headline": "Cyclone damage: Andhra Pradesh CM urges Central team to submit report in 10 days; State puts total loss at ₹2,484 crore",
+    "headline": "Congress leader urges Amit Shah to address concerns of BCs",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-damage-andhra-pradesh-cm-urges-central-team-to-submit-report-in-10-days-state-puts-total-loss-at-2484-crore/article71704921.ece",
-    "time": "2026-11-15T20:03:07+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/congress-leader-urges-amit-shah-to-address-concerns-of-bcs/article71705438.ece",
+    "time": "2026-11-15T23:50:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BJP confident of NDA continuing its winning streak in forthcoming A.P. local body polls, says P.V.N. Madhav",
-    "summary": "TDP, JSP and BJP have had held discussions on candidate selection and seat-sharing for elections to 23 ULBs in State, says BJP Andhra Pradesh unit president",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-confident-of-nda-continuing-its-winning-streak-in-forthcoming-ap-local-body-polls-says-pvn-madhav/article71704929.ece",
-    "time": "2026-11-15T20:02:08+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Speakers say archaeological evidence is key to restoration of ancient temples",
+    "headline": "200 patients receive medical services at health camp",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-say-archaeological-evidence-is-key-to-restoration-of-ancient-temples/article71704980.ece",
-    "time": "2026-11-15T19:56:46+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece",
+    "time": "2026-11-15T23:41:57+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bapatla Police arrest four in jewellery shop theft case",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-police-arrest-four-in-jewellery-shop-theft-case/article71705140.ece",
-    "time": "2026-11-15T19:55:33+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Land resurvey exercise: Andhra Pradesh revenue staff want reduction in workload",
-    "summary": "Employees say they are facing pressure from local body election duties, SIR of electoral rolls, cyclone-related work, census training, pattadar passbook distribution, festival duties and protocol assignments",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/land-resurvey-andhra-pradesh-revenue-staff-want-reduction-in-workload/article71704948.ece",
-    "time": "2026-11-15T19:50:15+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Award-winning Kadapa entrepreneur participates in CII meet",
+    "headline": "Kadapa’s Meghasyam Madineni wins ‘Start-up Leader of the Year’ award",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/award-winning-kadapa-entrepreneur-participates-in-cii-meet/article71704984.ece",
-    "time": "2026-11-15T19:49:42+05:30",
+    "time": "2026-11-15T22:16:44+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Zimbabwe student drowns at Kakinada beach",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/zimbabwe-student-drowns-at-kakinada-beach/article71705256.ece",
+    "time": "2026-11-15T21:20:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Retired Havildar takes on veteran BJP leader in Rajamahendravaram mayoral battle",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/retired-havildar-takes-on-veteran-bjp-leader-in-rajamahendravaram-mayoral-battle/article71704943.ece",
+    "time": "2026-11-15T21:16:51+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Sri Sathya Sai Vidya Vihar students volunteer at Visakhaptnam mental health hospital",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisathyasaividyaviharstudents-volunteer-atvisakhaptnam-mental-health-hospital/article71705206.ece",
+    "time": "2026-11-15T20:59:27+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Rajnath Singh calls for AI, robotics in Non-Destructive Testing to strengthen defence sector",
+    "headline": "Hyderabad hospital performs combined heart valve procedures in single sitting",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/rajnath-singh-calls-for-ai-robotics-in-non-destructive-testing-to-strengthen-defence-sector/article71704991.ece",
-    "time": "2026-11-15T20:02:53+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+    "time": "2026-11-16T00:29:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hyderabad comes together for Chhath Puja as lakhs offer prayers to setting sun",
+    "headline": "Telangana aims to emerge as a leader in aerospace and defence sectors: Minister Sridhar Babu",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-comes-together-for-chhath-puja-as-lakhs-offer-prayers-to-setting-sun/article71704792.ece",
-    "time": "2026-11-15T19:50:22+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-aims-to-emerge-as-a-leader-in-aerospace-and-defence-sectors-minister-sridhar-babu/article71705671.ece",
+    "time": "2026-11-15T22:43:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Over 1,330 motorists caught for drunk driving across Hyderabad, Cyberabad and adjoining commissionerates",
+    "headline": "RPF personnel rescue man who fell beside moving train at Secunderabad railway station",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/over-1330-motorists-caught-for-drunk-driving-across-hyderabad-cyberabad-and-adjoining-commissionerates/article71704851.ece",
-    "time": "2026-11-15T19:36:48+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/rpf-personnel-rescue-man-who-fell-beside-moving-train-at-secunderabad-railway-station/article71705254.ece",
+    "time": "2026-11-15T22:10:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Two arrests in separate raids trace e-cigarette supply chain linking Kolkata, Hyderabad, and Karimnagar",
+    "headline": "Papers invited for SCERTs Mathematics Day for December 22",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/two-arrests-in-separate-raids-trace-e-cigarette-supply-chain-linking-kolkata-hyderabad-and-karimnagar/article71704872.ece",
-    "time": "2026-11-15T19:24:51+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/papers-invited-for-scerts-mathematics-day-for-december-22/article71705314.ece",
+    "time": "2026-11-15T22:07:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Modi govt. ended Naxalism, paved way for tribal development: Kishan Reddy",
+    "headline": "Telangana government urged to clear fee reimbursement dues of pharmacy colleges",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/modi-govt-ended-naxalism-paved-way-for-tribal-development-kishan-reddy/article71704801.ece",
-    "time": "2026-11-15T19:14:43+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-government-urged-to-clear-fee-reimbursement-dues-of-pharmacy-colleges/article71705529.ece",
+    "time": "2026-11-15T22:02:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana Tourism launches weekly birdwatching walks across Hyderabad",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-tourism-launches-weekly-birdwatching-walks-across-hyderabad/article71704804.ece",
-    "time": "2026-11-15T19:08:02+05:30",
+    "headline": "Central nod delaying several TG projects: Uttam",
+    "summary": "‘Rs 50,000 crore already spent on several irrigation projects of Telangana’",
+    "link": "https://www.thehindu.com/news/national/telangana/central-nod-delaying-several-tg-projects-uttam/article71705478.ece",
+    "time": "2026-11-15T21:32:44+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "BJP confident of NDA continuing its winning streak in forthcoming A.P. local body polls, says P.V.N. Madhav",
-    "summary": "TDP, JSP and BJP have had held discussions on candidate selection and seat-sharing for elections to 23 ULBs in State, says BJP Andhra Pradesh unit president",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-confident-of-nda-continuing-its-winning-streak-in-forthcoming-ap-local-body-polls-says-pvn-madhav/article71704929.ece",
-    "time": "2026-11-15T20:02:36+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Rajnath Singh calls for AI, robotics in non-destructive testing to strengthen defence sector",
+    "headline": "Boy electrocuted by snapped stay wire in Malappuram; Minister orders probe",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/rajnath-singh-calls-for-ai-robotics-in-non-destructive-testing-to-strengthen-defence-sector/article71704991.ece",
-    "time": "2026-11-15T20:00:38+05:30",
+    "link": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
+    "time": "2026-11-16T01:36:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Speakers say archaeological evidence is key to restoration of ancient temples",
+    "headline": "My entire life has been a struggle, says Bilkis Bano at GIO conference in Kochi",
+    "summary": "Her husband, Patel Yakub Rasool, who attended the conference, recollected the long and arduous struggle for justice she had to wage.",
+    "link": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+    "time": "2026-11-16T01:31:03+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Prince William, Princess Kate to meet Modi in New Delhi this week",
+    "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize; the visit will include an event focused on gully cricket and an engagement with the film industry",
+    "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+    "time": "2026-11-16T01:23:58+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Guest teachers in Haryana hold mock Assembly, demand regularisation",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-say-archaeological-evidence-is-key-to-restoration-of-ancient-temples/article71704980.ece",
-    "time": "2026-11-15T19:56:46+05:30",
+    "link": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
+    "time": "2026-11-16T01:21:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Minister Vanni Arasu faces flak for pursuing tiger in Mudumalai Tiger Reserve",
+    "headline": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-faces-flak-for-pursuing-tiger-in-mudumalai-tiger-reserve/article71704393.ece",
-    "time": "2026-11-15T19:55:37+05:30",
+    "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+    "time": "2026-11-16T01:21:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bapatla Police arrest four in jewellery shop theft case",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bapatla-police-arrest-four-in-jewellery-shop-theft-case/article71705140.ece",
-    "time": "2026-11-15T19:55:33+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "India should become innovator, global leader in advanced tech: Rajnath Singh",
-    "summary": "Defence Minister calls for strengthening India’s indigenous Non-Destructive Testing (NDT) capabilities",
-    "link": "https://www.thehindu.com/news/national/india-should-become-innovator-global-leader-in-advanced-tech-rajnath-singh/article71705038.ece",
-    "time": "2026-11-15T19:53:34+05:30",
+    "headline": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+    "summary": "In an aggressive tone, the Punjabi artist appeared to take a dig at the political opposition to his Aura India Tour 2026",
+    "link": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+    "time": "2026-11-16T00:57:28+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "New Orleans port sues owners of tanker involved in Mississippi crash",
+    "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+    "time": "2026-11-15T12:45:27-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
     "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6037565/why-the-governments-hurricane-helene-recovery-effort-in-north-carolina-was-so-slow",
     "time": "2026-11-14T17:35:16-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Bomb found near ethanol plant in central Illinois forces evacuations",
-    "summary": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
-    "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-    "time": "2026-11-14T15:12:34-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-    "time": "2026-11-15T14:33:59+00:00",
+    "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+    "time": "2026-11-15T19:32:39+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Iran targets US military base in Bahrain with drone attack",
-    "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-    "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-    "time": "2026-11-15T13:42:58+00:00",
+    "headline": "Ronaldinho makes comeback in Ravenna win",
+    "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
+    "time": "2026-11-15T19:31:48+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
-    "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
-    "time": "2026-11-15T13:37:45+00:00",
+    "headline": "Czechs rally against plan to switch funding of public media",
+    "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+    "time": "2026-11-15T17:23:40+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
-    "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
-    "time": "2026-11-15T11:06:32+00:00",
+    "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+    "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+    "time": "2026-11-15T15:57:03+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-    "time": "2026-11-15T09:57:25+00:00",
+    "headline": "How telecoms upgrade work sparked US flight chaos",
+    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+    "time": "2026-11-15T14:57:15+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-    "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
-    "time": "2026-11-15T09:26:37+00:00",
+    "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+    "time": "2026-11-15T14:56:21+00:00",
     "source": "BBC News"
    }
   ]
