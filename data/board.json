@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T20:10:00.556148+00:00",
+ "updatedAt": "2026-11-16T00:10:20.374550+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,11 +8,11 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 47.0,
-    "feels": 38.2,
-    "hum": 50,
-    "wind": 10.8,
-    "code": 3
+    "t": 38.5,
+    "feels": 31.7,
+    "hum": 63,
+    "wind": 5.4,
+    "code": 0
    },
    "days": [
     {
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-16",
-     "hi": 46.5,
-     "lo": 32.1,
-     "code": 3,
+     "hi": 48.0,
+     "lo": 32.2,
+     "code": 1,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 19.2
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-17",
-     "hi": 54.9,
-     "lo": 32.2,
-     "code": 2,
+     "hi": 55.1,
+     "lo": 31.9,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.2
+     "gustMph": 23.3
     },
     {
      "date": "2026-11-18",
-     "hi": 59.5,
+     "hi": 59.8,
      "lo": 45.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 25.7
+     "gustMph": 23.7
     },
     {
      "date": "2026-11-19",
-     "hi": 60.4,
-     "lo": 45.9,
+     "hi": 60.9,
+     "lo": 46.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.5
+     "gustMph": 19.9
     }
    ],
    "alert": null
@@ -69,11 +69,11 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.4,
-    "feels": 22.4,
-    "hum": 53,
-    "wind": 2.9,
-    "code": 3
+    "t": 21.3,
+    "feels": 21.0,
+    "hum": 57,
+    "wind": 4.4,
+    "code": 0
    },
    "days": [
     {
@@ -130,11 +130,11 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 22.8,
-    "feels": 25.7,
-    "hum": 80,
-    "wind": 1.8,
-    "code": 2
+    "t": 21.7,
+    "feels": 24.5,
+    "hum": 88,
+    "wind": 3.4,
+    "code": 3
    },
    "days": [
     {
@@ -277,6 +277,34 @@
   ],
   "india": [
    {
+    "headline": "13-year-old boy identified as fourth Indian killed in UAE road accident",
+    "summary": "The accident involved 23 vehicles, including trucks, and left 30 people injured",
+    "link": "https://www.thehindu.com/news/national/13-year-old-boy-identified-as-fourth-indian-killed-in-uae-road-accident/article71705974.ece",
+    "time": "2026-11-16T04:42:36+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Panchkula school attack: Ringing the school bell, raising a safety alarm",
+    "summary": "A six-year-old girl was allegedly assaulted by an eight-year-old classmate in a classroom in Panchkula, with CCTV footage capturing the attack. The incident raises concerns about school safety, supervision, and the…",
+    "link": "https://www.thehindu.com/news/national/chandigarh/six-year-old-girl-assaulted-by-classmate-in-panchkula-school-raising-a-safety-alarm/article71704911.ece",
+    "time": "2026-11-16T03:21:32+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Prince William, Princess Kate to meet PM Modi in New Delhi this week",
+    "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize ceremony; the visit will include an event focused on gully cricket and an engagement with the film industry",
+    "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
+    "time": "2026-11-16T02:40:22+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "CIAL sets up facilitation centre for Sabarimala pilgrims",
+    "summary": "Chief Minister V.D. Satheesan to inaugurate the facility on November 17",
+    "link": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+    "time": "2026-11-16T01:38:55+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Boy electrocuted by snapped stay wire in Malappuram; Minister orders probe",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
@@ -284,42 +312,21 @@
     "source": "The Hindu"
    },
    {
-    "headline": "My entire life has been a struggle, says Bilkis Bano at GIO conference in Kochi",
-    "summary": "Her husband, Patel Yakub Rasool, who attended the conference, recollected the long and arduous struggle for justice she had to wage.",
-    "link": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
-    "time": "2026-11-16T01:31:03+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Prince William, Princess Kate to meet Modi in New Delhi this week",
-    "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize; the visit will include an event focused on gully cricket and an engagement with the film industry",
-    "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
-    "time": "2026-11-16T01:23:58+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Guest teachers in Haryana hold mock Assembly, demand regularisation",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
-    "time": "2026-11-16T01:21:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
-    "time": "2026-11-16T01:21:13+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
-    "summary": "In an aggressive tone, the Punjabi artist appeared to take a dig at the political opposition to his Aura India Tour 2026",
-    "link": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
-    "time": "2026-11-16T00:57:28+05:30",
+    "headline": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
+    "summary": "India has proved its competitiveness in global rice markets and the next challenge is to make that competitiveness sustainable; the country’s rice policy needs a more differentiated production strategy that moves from…",
+    "link": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece",
+    "time": "2026-11-16T01:33:33+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+    "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+    "time": "2026-11-15T17:41:22-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "New Orleans port sues owners of tanker involved in Mississippi crash",
     "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
     "time": "2026-11-14T17:48:38-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Why the government's Hurricane Helene recovery effort in North Carolina was so slow",
-    "summary": "NPR's Rob Schmitz speaks with Blue Ridge Public Radio's Gerard Albert III about his new podcast A Man-Made Disaster.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6037565/why-the-governments-hurricane-helene-recovery-effort-in-north-carolina-was-so-slow",
-    "time": "2026-11-14T17:35:16-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-    "time": "2026-11-15T19:32:39+00:00",
+    "headline": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+    "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
+    "time": "2026-11-16T00:03:29+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Ronaldinho makes comeback in Ravenna win",
-    "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
-    "time": "2026-11-15T19:31:48+00:00",
+    "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+    "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+    "time": "2026-11-15T23:52:10+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Czechs rally against plan to switch funding of public media",
-    "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
-    "time": "2026-11-15T17:23:40+00:00",
+    "headline": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+    "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o",
+    "time": "2026-11-15T22:57:27+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-    "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-    "time": "2026-11-15T15:57:03+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "How telecoms upgrade work sparked US flight chaos",
-    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-    "time": "2026-11-15T14:57:15+00:00",
+    "headline": "Police ban protests near 10 schools and five universities in Paris",
+    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo",
+    "time": "2026-11-15T22:28:54+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-    "time": "2026-11-15T14:56:21+00:00",
+    "time": "2026-11-15T22:24:20+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Czechs rally against plan to switch funding of public media",
+    "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+    "time": "2026-11-15T21:03:40+00:00",
     "source": "BBC News"
    }
   ]
