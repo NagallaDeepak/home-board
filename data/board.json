@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T00:10:20.374550+00:00",
+ "updatedAt": "2026-11-16T07:03:38.846839+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 38.5,
-    "feels": 31.7,
-    "hum": 63,
-    "wind": 5.4,
+    "t": 34.6,
+    "feels": 28.1,
+    "hum": 80,
+    "wind": 5.2,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-15",
-     "hi": 48.7,
-     "lo": 32.3,
-     "code": 3,
-     "rain": 1,
-     "rainMm": 0.0,
-     "gustMph": 25.5
-    },
-    {
      "date": "2026-11-16",
-     "hi": 48.0,
-     "lo": 32.2,
-     "code": 1,
+     "hi": 51.2,
+     "lo": 32.3,
+     "code": 0,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 18.1
+     "gustMph": 16.8
     },
     {
      "date": "2026-11-17",
-     "hi": 55.1,
-     "lo": 31.9,
+     "hi": 53.1,
+     "lo": 32.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.3
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-18",
-     "hi": 59.8,
-     "lo": 45.4,
+     "hi": 58.7,
+     "lo": 45.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.7
+     "gustMph": 25.3
     },
     {
      "date": "2026-11-19",
-     "hi": 60.9,
-     "lo": 46.2,
+     "hi": 61.0,
+     "lo": 45.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.9
+     "gustMph": 20.1
+    },
+    {
+     "date": "2026-11-20",
+     "hi": 62.0,
+     "lo": 48.4,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 27.3
     }
    ],
    "alert": null
@@ -69,26 +69,26 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.3,
-    "feels": 21.0,
-    "hum": 57,
-    "wind": 4.4,
-    "code": 0
+    "t": 29.1,
+    "feels": 29.3,
+    "hum": 30,
+    "wind": 4.9,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-16",
-     "hi": 30.3,
-     "lo": 21.2,
+     "hi": 29.8,
+     "lo": 20.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-17",
-     "hi": 30.5,
-     "lo": 20.3,
+     "hi": 30.1,
+     "lo": 20.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -96,30 +96,30 @@
     },
     {
      "date": "2026-11-18",
-     "hi": 30.0,
-     "lo": 20.8,
+     "hi": 29.8,
+     "lo": 20.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 22.8
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-19",
      "hi": 29.9,
-     "lo": 20.6,
+     "lo": 20.3,
      "code": 3,
      "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 23.5
+     "gustMph": 22.1
     },
     {
      "date": "2026-11-20",
-     "hi": 24.3,
-     "lo": 20.8,
-     "code": 80,
+     "hi": 29.6,
+     "lo": 20.4,
+     "code": 81,
      "rain": 30,
-     "rainMm": 15.3,
-     "gustMph": 29.1
+     "rainMm": 8.4,
+     "gustMph": 23.7
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 21.7,
-    "feels": 24.5,
-    "hum": 88,
-    "wind": 3.4,
+    "t": 30.7,
+    "feels": 33.4,
+    "hum": 45,
+    "wind": 4.8,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-16",
-     "hi": 31.5,
+     "hi": 31.0,
      "lo": 21.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-17",
      "hi": 31.9,
-     "lo": 20.9,
+     "lo": 20.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-18",
-     "hi": 31.1,
-     "lo": 21.8,
+     "hi": 31.5,
+     "lo": 21.6,
      "code": 3,
      "rain": 14,
      "rainMm": 0.0,
-     "gustMph": 22.1
+     "gustMph": 18.6
     },
     {
      "date": "2026-11-19",
-     "hi": 26.1,
-     "lo": 23.3,
-     "code": 53,
+     "hi": 28.9,
+     "lo": 23.5,
+     "code": 95,
      "rain": 41,
-     "rainMm": 9.5,
-     "gustMph": 25.3
+     "rainMm": 16.1,
+     "gustMph": 23.3
     },
     {
      "date": "2026-11-20",
-     "hi": 25.3,
-     "lo": 22.8,
-     "code": 95,
+     "hi": 26.1,
+     "lo": 23.6,
+     "code": 80,
      "rain": 45,
-     "rainMm": 103.2,
-     "gustMph": 41.2
+     "rainMm": 10.5,
+     "gustMph": 38.9
     }
    ],
    "alert": null
@@ -233,6 +233,20 @@
   ],
   "telangana": [
    {
+    "headline": "Seminar at MCEME-Secunderabad explores indigenous space capabilities for military applications",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/seminar-at-mceme-secunderabad-explores-indigenous-space-capabilities-for-military-applications/article71705081.ece",
+    "time": "2026-11-16T11:47:03+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "SIO activists detained in pre-dawn swoop before Israel-T-Hub event in Hyderabad",
+    "summary": "Incidentally, the Israeli delegation’s visit and the collaboration does not show up on the schedule of T-Hub, while the schedule is reported in tech-websites.",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/sio-activists-detained-in-pre-dawn-swoop-before-israel-t-hub-event-in-hyderabad/article71706635.ece",
+    "time": "2026-11-16T11:33:30+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Hyderabad hospital performs combined heart valve procedures in single sitting",
     "summary": "",
     "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
@@ -259,67 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/papers-invited-for-scerts-mathematics-day-for-december-22/article71705314.ece",
     "time": "2026-11-15T22:07:31+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana government urged to clear fee reimbursement dues of pharmacy colleges",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-government-urged-to-clear-fee-reimbursement-dues-of-pharmacy-colleges/article71705529.ece",
-    "time": "2026-11-15T22:02:47+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Central nod delaying several TG projects: Uttam",
-    "summary": "‘Rs 50,000 crore already spent on several irrigation projects of Telangana’",
-    "link": "https://www.thehindu.com/news/national/telangana/central-nod-delaying-several-tg-projects-uttam/article71705478.ece",
-    "time": "2026-11-15T21:32:44+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "13-year-old boy identified as fourth Indian killed in UAE road accident",
-    "summary": "The accident involved 23 vehicles, including trucks, and left 30 people injured",
-    "link": "https://www.thehindu.com/news/national/13-year-old-boy-identified-as-fourth-indian-killed-in-uae-road-accident/article71705974.ece",
-    "time": "2026-11-16T04:42:36+05:30",
+    "headline": "Tamil Nadu government withdraws 600 cases against farmers and teachers",
+    "summary": "The orders follow Chief Minister C. Joseph Vijay’s suo motu announcement in the Assembly on September 2, 2026",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-withdraws-600-cases-against-farmers-and-teachers/article71707010.ece",
+    "time": "2026-11-16T12:16:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Panchkula school attack: Ringing the school bell, raising a safety alarm",
-    "summary": "A six-year-old girl was allegedly assaulted by an eight-year-old classmate in a classroom in Panchkula, with CCTV footage capturing the attack. The incident raises concerns about school safety, supervision, and the…",
-    "link": "https://www.thehindu.com/news/national/chandigarh/six-year-old-girl-assaulted-by-classmate-in-panchkula-school-raising-a-safety-alarm/article71704911.ece",
-    "time": "2026-11-16T03:21:32+05:30",
+    "headline": "Six days of restrictions in Kulgam reminiscent of 1990s, people facing collective hardships: PDP's Sartaj Madani",
+    "summary": "Parts of south Kashmir’s Kulgam were placed under restrictions following a terrorist attack on a CRPF checkpoint at Akhran",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/six-days-of-restrictions-in-kulgam-reminiscent-of-1990s-people-facing-collective-hardships-pdps-sartaj-madani/article71706987.ece",
+    "time": "2026-11-16T12:13:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Prince William, Princess Kate to meet PM Modi in New Delhi this week",
-    "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize ceremony; the visit will include an event focused on gully cricket and an engagement with the film industry",
-    "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
-    "time": "2026-11-16T02:40:22+05:30",
+    "headline": "Bat, ball and ‘kulhad’ chai: Prince William and Princess Kate’s regal morning in Mumbai",
+    "summary": "Details of the event were so closely guarded that the students taking part did not know who the visiting dignitaries were",
+    "link": "https://www.thehindu.com/news/national/prince-william-and-kate-middleton-on-three-day-india-visit-for-earthshot-prize/article71706811.ece",
+    "time": "2026-11-16T12:09:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "CIAL sets up facilitation centre for Sabarimala pilgrims",
-    "summary": "Chief Minister V.D. Satheesan to inaugurate the facility on November 17",
-    "link": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
-    "time": "2026-11-16T01:38:55+05:30",
+    "headline": "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+    "summary": "The sixth Earthshot Prize, founded by Britain’s Prince William to promote innovative climate change solutions, will be presented in Mumbai on November 17, 2026",
+    "link": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
+    "time": "2026-11-16T11:54:34+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Boy electrocuted by snapped stay wire in Malappuram; Minister orders probe",
+    "headline": "Four months after launch, Kochi’s third Ro-Ro vessel remains idle",
+    "summary": "One of the existing two vessels remains out of service after developing a snag owing to long-overdue maintenance",
+    "link": "https://www.thehindu.com/news/national/kerala/four-months-after-launch-kochis-third-ro-ro-vessel-remains-idle/article71706958.ece",
+    "time": "2026-11-16T11:50:49+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Seminar at MCEME-Secunderabad explores indigenous space capabilities for military applications",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
-    "time": "2026-11-16T01:36:43+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
-    "summary": "India has proved its competitiveness in global rice markets and the next challenge is to make that competitiveness sustainable; the country’s rice policy needs a more differentiated production strategy that moves from…",
-    "link": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece",
-    "time": "2026-11-16T01:33:33+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/seminar-at-mceme-secunderabad-explores-indigenous-space-capabilities-for-military-applications/article71705081.ece",
+    "time": "2026-11-16T11:47:03+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Flight disruptions expected to last into Monday",
+    "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+    "time": "2026-11-15T20:19:28-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Far from home. Voyager 1 is now farther than anything man has sent into space",
     "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
     "time": "2026-11-14T19:03:52-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-    "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-    "time": "2026-11-14T17:48:38-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-    "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
-    "time": "2026-11-16T00:03:29+00:00",
+    "headline": "Wife of assassinated ex-Haitian leader registers for presidential election",
+    "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+    "time": "2026-11-16T05:06:59+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Watch: New York teen reunites with cat missing after building collapse",
+    "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+    "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo",
+    "time": "2026-11-16T04:36:45+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
     "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
     "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
-    "time": "2026-11-15T23:52:10+00:00",
+    "time": "2026-11-16T03:21:56+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-    "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o",
-    "time": "2026-11-15T22:57:27+00:00",
+    "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+    "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+    "time": "2026-11-16T03:09:49+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Police ban protests near 10 schools and five universities in Paris",
-    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo",
-    "time": "2026-11-15T22:28:54+00:00",
+    "headline": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+    "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+    "time": "2026-11-16T03:08:31+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-    "time": "2026-11-15T22:24:20+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Czechs rally against plan to switch funding of public media",
-    "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
-    "time": "2026-11-15T21:03:40+00:00",
+    "time": "2026-11-16T01:47:57+00:00",
     "source": "BBC News"
    }
   ]
