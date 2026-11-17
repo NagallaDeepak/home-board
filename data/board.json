@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T17:16:26.898598+00:00",
+ "updatedAt": "2026-11-17T00:57:07.273189+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,16 +8,16 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 49.3,
-    "feels": 43.3,
-    "hum": 49,
-    "wind": 4.7,
+    "t": 38.5,
+    "feels": 32.4,
+    "hum": 74,
+    "wind": 5.2,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-16",
-     "hi": 50.1,
+     "hi": 51.4,
      "lo": 32.1,
      "code": 3,
      "rain": 1,
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-17",
-     "hi": 53.1,
-     "lo": 32.0,
+     "hi": 54.6,
+     "lo": 32.5,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 15.7
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-18",
-     "hi": 59.1,
-     "lo": 36.4,
+     "hi": 59.6,
+     "lo": 35.7,
      "code": 3,
-     "rain": 0,
+     "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 25.3
+     "gustMph": 21.9
     },
     {
      "date": "2026-11-19",
-     "hi": 60.8,
-     "lo": 46.3,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 17.7
-    },
-    {
-     "date": "2026-11-20",
-     "hi": 62.8,
-     "lo": 48.1,
+     "hi": 61.1,
+     "lo": 46.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.8
+     "gustMph": 19.0
+    },
+    {
+     "date": "2026-11-20",
+     "hi": 62.0,
+     "lo": 48.5,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 22.1
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.6,
-    "feels": 23.3,
-    "hum": 46,
-    "wind": 3.0,
-    "code": 3
+    "t": 20.7,
+    "feels": 20.6,
+    "hum": 57,
+    "wind": 2.6,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-16",
-     "hi": 29.6,
-     "lo": 20.5,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 18.1
-    },
-    {
      "date": "2026-11-17",
      "hi": 30.1,
-     "lo": 20.6,
+     "lo": 20.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.4
+     "gustMph": 20.6
     },
     {
      "date": "2026-11-18",
-     "hi": 29.6,
-     "lo": 20.9,
+     "hi": 29.4,
+     "lo": 21.0,
      "code": 3,
      "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 23.5
-    },
-    {
-     "date": "2026-11-19",
-     "hi": 29.5,
-     "lo": 20.1,
-     "code": 3,
-     "rain": 4,
      "rainMm": 0.0,
      "gustMph": 20.8
     },
     {
+     "date": "2026-11-19",
+     "hi": 29.7,
+     "lo": 19.9,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 21.0
+    },
+    {
      "date": "2026-11-20",
-     "hi": 29.3,
-     "lo": 19.1,
+     "hi": 29.4,
+     "lo": 20.8,
      "code": 51,
-     "rain": 31,
-     "rainMm": 0.9,
-     "gustMph": 19.9
+     "rain": 45,
+     "rainMm": 0.1,
+     "gustMph": 24.6
+    },
+    {
+     "date": "2026-11-21",
+     "hi": 24.1,
+     "lo": 21.1,
+     "code": 95,
+     "rain": 66,
+     "rainMm": 43.8,
+     "gustMph": 37.4
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.4,
-    "feels": 25.3,
-    "hum": 68,
-    "wind": 2.4,
+    "t": 21.5,
+    "feels": 24.1,
+    "hum": 85,
+    "wind": 2.6,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-16",
-     "hi": 31.4,
-     "lo": 21.7,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.9
-    },
-    {
      "date": "2026-11-17",
-     "hi": 31.5,
-     "lo": 20.5,
+     "hi": 31.6,
+     "lo": 21.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.0
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-18",
-     "hi": 31.3,
-     "lo": 20.8,
+     "hi": 30.8,
+     "lo": 22.5,
      "code": 3,
-     "rain": 6,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 17.4
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-19",
-     "hi": 31.0,
-     "lo": 23.0,
-     "code": 80,
-     "rain": 48,
-     "rainMm": 3.1,
-     "gustMph": 21.7
+     "hi": 29.7,
+     "lo": 24.1,
+     "code": 51,
+     "rain": 58,
+     "rainMm": 0.1,
+     "gustMph": 26.4
     },
     {
      "date": "2026-11-20",
-     "hi": 24.6,
-     "lo": 22.9,
-     "code": 55,
-     "rain": 63,
-     "rainMm": 13.0,
-     "gustMph": 31.8
+     "hi": 28.2,
+     "lo": 23.0,
+     "code": 80,
+     "rain": 72,
+     "rainMm": 14.2,
+     "gustMph": 28.4
+    },
+    {
+     "date": "2026-11-21",
+     "hi": 25.6,
+     "lo": 23.0,
+     "code": 95,
+     "rain": 75,
+     "rainMm": 69.9,
+     "gustMph": 25.7
     }
    ],
    "alert": null
@@ -188,6 +188,27 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "3,478 pregnant women identified for shifting to hospitals amid cyclone alert",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/3478-pregnant-women-identified-for-shifting-to-hospitals-amid-cyclone-alert/article71708888.ece",
+    "time": "2026-11-16T22:51:02+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclonic Storm Akvan forms over the Bay; CM tells officials to take precautionary steps",
+    "summary": "The storm may intensify into a Severe Cyclonic Storm by Tuesday evening and may cross the A.P. coast around noon on November 20; rainfall activity may begin in the State from November 18, becoming very heavy on November…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-akvan-forms-over-the-bay-cm-tells-officials-to-take-precautionary-steps/article71708721.ece",
+    "time": "2026-11-16T22:35:11+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
+    "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
+    "time": "2026-11-16T22:34:51+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
     "summary": "G.O Ms. No. 86 issued by IT Secretary covers manufacture and development of components, robot platforms, system integration, R & D, talent development and adoption eyeing end-to-end solutions",
@@ -207,27 +228,6 @@
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-dedicated-a-press-commission-to-protect-journalists/article71708842.ece",
     "time": "2026-11-16T21:44:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "BJP’s Relangi Rani Sridevi files nomination for Rajamahendravaram Mayor seat",
-    "summary": "BJP State President President P.V.N. Madhav has appealed to vote for BJP for more funds from the Centre for Godavari Pushkarams-2027.",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/bjps-relangi-rani-sridevi-files-nomination-for-rajamahendravaram-mayor-seat/article71708612.ece",
-    "time": "2026-11-16T21:30:00+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Cyclonic Storm Akvan forms over the Bay; CM tells officials to take precautionary steps",
-    "summary": "The storm may intensify into a Severe Cyclonic Storm by Tuesday evening and may cross the A.P. coast around noon on November 20; rainfall activity may begin in the State from November 18, becoming very heavy on November…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-akvan-forms-over-the-bay-cm-tells-officials-to-take-precautionary-steps/article71708721.ece",
-    "time": "2026-11-16T21:24:47+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Srisailam witnesses pilgrim rush on occasion of Karthika Monday",
-    "summary": "Devotees throng Sri Bhramaramba Mallikarjuna Swamy temple, Mahanandi, Yaganti and other temples to have darshan of Lord Shiva and light lamps in the temple premises and offer special prayers as part of the occasion",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-witnesses-pilgrim-rush-on-occasion-of-karthika-monday/article71708516.ece",
-    "time": "2026-11-16T21:21:03+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "Dancing Girl, Nizam’s jewels to move to Yuge Yugeen Bharat museum",
-    "summary": "The Yuge Yugeen Bharat Museum established at a cost of ₹3,230 crore would have the largest display area of any museum in the world",
-    "link": "https://www.thehindu.com/news/national/dancing-girl-nizams-jewels-to-move-to-yuge-yugeen-bharat-museum/article71709017.ece",
-    "time": "2026-11-16T22:37:02+05:30",
+    "headline": "BJP holds key party meeting in Mathura for Assembly polls",
+    "summary": "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+    "time": "2026-11-17T04:57:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Man arrested, house bulldozed for alleged rape of minor in Madhya Pradesh amid protests",
-    "summary": "Right-wing outfits, including Bajrang Dal and Vishwa Hindu Parishad, staged protests in Vidisha to demand strict action against the accused in the case, while local BJP MLA Mukesh Tandon supported the victim’s family",
-    "link": "https://www.thehindu.com/news/national/madhya-pradesh/man-arrested-house-bulldozed-for-alleged-rape-of-minor-in-madhya-pradesh-amid-protests/article71709102.ece",
-    "time": "2026-11-16T22:36:50+05:30",
+    "headline": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+    "summary": "The Chief Minister said his government is working to build the progressive Punjab they envision",
+    "link": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+    "time": "2026-11-17T04:27:18+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "DVAC registers criminal case over alleged irregularities in the purchase of books",
-    "summary": "The criminal case has been registered against a Chennai-based publisher and “unidentified officials” of the Directorate of Public Libraries, Anna Centenary Library, Chennai, and Periyar Arivulagam, Coimbatore",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-registers-criminal-case-over-alleged-irregularities-in-the-purchase-of-books/article71708504.ece",
-    "time": "2026-11-16T22:36:46+05:30",
+    "headline": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+    "summary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to…",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+    "time": "2026-11-17T03:36:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclonic Storm Akvan forms over the Bay; CM tells officials to take precautionary steps",
-    "summary": "The storm may intensify into a Severe Cyclonic Storm by Tuesday evening and may cross the A.P. coast around noon on November 20; rainfall activity may begin in the State from November 18, becoming very heavy on November…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-akvan-forms-over-the-bay-cm-tells-officials-to-take-precautionary-steps/article71708721.ece",
-    "time": "2026-11-16T22:35:11+05:30",
+    "headline": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+    "summary": "Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India",
+    "link": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+    "time": "2026-11-17T03:06:56+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20",
-    "summary": "Andhra fishermen, still awaiting compensation for Cyclone Arnab’s losses, are told to stay ashore till November 20",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-    "time": "2026-11-16T22:34:51+05:30",
+    "headline": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
+    "summary": "“BJP workers are being beaten up, and those beating them are also from the BJP. The police administration has turned a blind eye and is not functioning impartially,” alleged Bongaon MP Santanu Thakur",
+    "link": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+    "time": "2026-11-17T02:28:28+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cultural activists protest at Thiruvananthapuram Corporation over denial of permission to Manaveeyam Veedhi event",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/cultural-activists-protest-at-thiruvananthapuram-corporation-over-denial-of-permission-to-manaveeyam-veedhi-event/article71708740.ece",
-    "time": "2026-11-16T22:34:18+05:30",
+    "headline": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
+    "summary": "Following the death of Arup Saha, the husband of Ruma Saha — the secretary of BJP’s Panihati-1 mandal (zone), Panihati MLA Ratna Debnath said that she feels personally responsible for the death of the BJP worker",
+    "link": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+    "time": "2026-11-17T02:27:47+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Nearly two million people are behind bars in the US. How did we get here?",
+    "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+    "time": "2026-11-16T12:34:07-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
     "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
     "time": "2026-11-16T04:45:55-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Flight disruptions expected to last into Monday",
-    "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-    "time": "2026-11-15T20:19:28-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-    "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-    "time": "2026-11-16T17:07:55+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Five EU countries announce migrant deportation centre in Rwanda",
     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
     "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
-    "time": "2026-11-16T16:27:24+00:00",
+    "time": "2026-11-16T23:20:45+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
-    "time": "2026-11-16T14:58:12+00:00",
+    "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+    "time": "2026-11-16T22:21:27+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-    "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-    "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o",
-    "time": "2026-11-16T14:48:55+00:00",
+    "headline": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+    "time": "2026-11-16T21:40:07+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-    "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
-    "time": "2026-11-16T14:22:36+00:00",
+    "headline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+    "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+    "time": "2026-11-16T20:33:57+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o",
-    "time": "2026-11-16T13:40:56+00:00",
+    "headline": "Lindsay Clancy to face retrial next year for deaths of her three children",
+    "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go",
+    "time": "2026-11-16T19:30:30+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "When will we see Robert Pattinson as Bond in cinemas?",
+    "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+    "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o",
+    "time": "2026-11-16T17:18:54+00:00",
     "source": "BBC News"
    }
   ]
