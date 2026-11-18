@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T17:48:17.539603+00:00",
+ "updatedAt": "2026-11-18T23:55:07.605593+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,16 +8,16 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 61.3,
-    "feels": 54.2,
-    "hum": 45,
-    "wind": 11.0,
-    "code": 0
+    "t": 50.1,
+    "feels": 43.5,
+    "hum": 47,
+    "wind": 6.1,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-18",
-     "hi": 62.9,
+     "hi": 64.8,
      "lo": 38.9,
      "code": 45,
      "rain": 0,
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-19",
-     "hi": 63.6,
-     "lo": 35.2,
+     "hi": 64.9,
+     "lo": 36.3,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.9
+    },
+    {
+     "date": "2026-11-20",
+     "hi": 61.7,
+     "lo": 38.2,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 22.2
+    },
+    {
+     "date": "2026-11-21",
+     "hi": 56.4,
+     "lo": 47.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 14.5
     },
     {
-     "date": "2026-11-20",
-     "hi": 61.4,
-     "lo": 37.6,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 26.8
-    },
-    {
-     "date": "2026-11-21",
-     "hi": 54.9,
-     "lo": 46.8,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.8
-    },
-    {
      "date": "2026-11-22",
-     "hi": 59.4,
-     "lo": 49.0,
-     "code": 80,
-     "rain": 40,
-     "rainMm": 10.4,
-     "gustMph": 14.3
+     "hi": 58.8,
+     "lo": 48.9,
+     "code": 55,
+     "rain": 37,
+     "rainMm": 1.3,
+     "gustMph": 35.6
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.2,
-    "feels": 20.6,
-    "hum": 44,
-    "wind": 6.3,
+    "t": 19.9,
+    "feels": 18.4,
+    "hum": 53,
+    "wind": 6.2,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-18",
-     "hi": 28.7,
-     "lo": 21.2,
+     "date": "2026-11-19",
+     "hi": 28.1,
+     "lo": 19.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.7
-    },
-    {
-     "date": "2026-11-19",
-     "hi": 28.2,
-     "lo": 19.3,
-     "code": 0,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 23.0
+     "gustMph": 22.1
     },
     {
      "date": "2026-11-20",
-     "hi": 29.3,
-     "lo": 17.6,
-     "code": 0,
-     "rain": 2,
+     "hi": 29.5,
+     "lo": 17.7,
+     "code": 3,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-21",
-     "hi": 30.4,
+     "hi": 30.6,
      "lo": 18.5,
      "code": 0,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-22",
      "hi": 31.1,
-     "lo": 20.1,
+     "lo": 20.0,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.2
+     "gustMph": 16.1
+    },
+    {
+     "date": "2026-11-23",
+     "hi": 30.7,
+     "lo": 20.6,
+     "code": 0,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 16.1
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.6,
-    "feels": 25.0,
-    "hum": 58,
-    "wind": 6.8,
+    "t": 22.6,
+    "feels": 22.0,
+    "hum": 59,
+    "wind": 8.2,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-18",
-     "hi": 31.9,
-     "lo": 21.2,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 12.3
-    },
-    {
      "date": "2026-11-19",
-     "hi": 30.7,
-     "lo": 21.6,
+     "hi": 31.0,
+     "lo": 22.1,
      "code": 3,
-     "rain": 12,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 22.1
     },
     {
      "date": "2026-11-20",
-     "hi": 29.9,
-     "lo": 20.4,
+     "hi": 30.3,
+     "lo": 20.3,
      "code": 3,
-     "rain": 6,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-21",
-     "hi": 31.5,
-     "lo": 20.2,
+     "hi": 31.7,
+     "lo": 20.4,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.2
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-22",
-     "hi": 31.8,
-     "lo": 20.6,
-     "code": 0,
-     "rain": 13,
+     "hi": 31.9,
+     "lo": 20.7,
+     "code": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 12.5
+    },
+    {
+     "date": "2026-11-23",
+     "hi": 32.4,
+     "lo": 21.8,
+     "code": 45,
+     "rain": 36,
+     "rainMm": 0.0,
+     "gustMph": 14.8
     }
    ],
    "alert": null
@@ -189,45 +189,45 @@
  "news": {
   "andhra": [
    {
-    "headline": "SCoR plans 1,560 special train trips for Godavari Pushkarams",
+    "headline": "LIC pensioners demand resolution of pending issues",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/scor-plans-1560-special-train-trips-for-godavari-pushkarams/article71716255.ece",
-    "time": "2026-11-18T22:47:08+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lic-pensioners-demand-resolution-of-pending-issues/article71716319.ece",
+    "time": "2026-11-19T00:36:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Uncertainty over path of Cyclone Akvan; North A.P. and South Odisha put on alert now",
-    "summary": "According to an IMD bulletin issued at 8 p.m. on November 18, the landfall can be between Narsapur in Andhra Pradesh and Puri in Odisha on November 20 as a Severe Cyclonic Storm; experts say the system may weaken before…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/uncertainty-over-path-of-cyclone-akvan-north-ap-and-south-odisha-put-on-alert-now/article71716887.ece",
-    "time": "2026-11-18T22:21:35+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Three cyclones hit AP this month: Why is the Bay of Bengal so active? Expert explains",
-    "summary": "Why does the Bay of Bengal produce so many cyclones? Are cyclones becoming more intense because of climate change? And can meteorologists accurately predict where a cyclone will make landfall? In this interview, veteran…",
-    "link": "https://www.thehindu.com/videos/will-cyclone-akvan-hit-andhra-pradesh-or-bangladesh-the-expert-shares-his-forecast/article71715507.ece",
-    "time": "2026-11-18T22:21:15+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Huge Maoist arms dump seized near Andhra-Chhattisgarh border",
+    "headline": "GIS Day observed with lecture on avalanche flow",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/huge-maoist-arms-dump-seized-near-andhra-chhattisgarh-border/article71716637.ece",
-    "time": "2026-11-18T22:18:05+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/gis-day-observed-with-lecture-on-avalanche-flow/article71716640.ece",
+    "time": "2026-11-19T00:33:01+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "SPMVV Tirupati secures 452nd rank in Southern Asia",
+    "headline": "Women outnumber men in admissions to MBBS first year course in Andhra Pradesh",
+    "summary": "Of the total 6,929 seats filled under the State quota, women account for 61.34%, while 38.66% are men; only eight seats remain vacant",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/women-outnumber-men-in-admissions-to-mbbs-first-year-course-in-andhra-pradesh/article71716519.ece",
+    "time": "2026-11-19T00:30:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TTD plans Vaikunta Dwara Darshan for 8.34 lakh devotees this year",
+    "summary": "TTD Specified Authority approves selection of a consultancy to prepare the DPR and oversee the proposed ₹2,750-crore pilgrim township near the Alipiri-SV Zoo Park road",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-plans-vaikunta-dwara-darshan-for-834-lakh-devotees-this-year/article71716793.ece",
+    "time": "2026-11-19T00:28:12+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Japanese agency NEDO explores quantum research collaboration with SRM University-A.P.",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/spmvv-tirupati-secures-452nd-rank-in-southern-asia/article71716759.ece",
-    "time": "2026-11-18T22:05:07+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/japanese-agency-nedo-explores-quantum-research-collaboration-with-srm-university-ap/article71717023.ece",
+    "time": "2026-11-18T23:45:03+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
-    "summary": "The storm picked up speed to 7 kmph over the past six hours. It was about 580 km from Visakhapatnam, 590 km from Machilipatnam and 710 km from Gopalpur in Odisha",
-    "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
-    "time": "2026-11-18T22:04:36+05:30",
+    "headline": "Education must align with industry needs, says Adani Group Skills CEO",
+    "summary": "Addressing P.B. Siddhartha College of Arts and Science students, Robin Bhowmik stresses education should not dictate career choices, urges students to focus on developing their personal capabilities to remain…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/education-must-align-with-industry-needs-says-adani-group-skills-ceo/article71716800.ece",
+    "time": "2026-11-18T23:40:07+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "Keralam govt. issues order renaming mental health centres despite protests by psychiatrists, doctors",
-    "summary": "GO issued renaming Mental Health Centres as “Regional Institutes of Happiness and Wellness",
-    "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-issues-order-renaming-mental-health-centres-despite-protests-by-psychiatrists-doctors/article71716660.ece",
-    "time": "2026-11-18T23:09:04+05:30",
+    "headline": "BJP turns to Mathura temple issue amid cadre unease, allies’ pressure",
+    "summary": "Political observers say the renewed focus on Krishna Janmabhoomi serves as a “smokescreen” to mask simmering discontent among the party cadre over the UGC’s equity rules, SIR drive and seat sharing with alliance partners",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
+    "time": "2026-11-19T04:55:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Bihar doctor fined ₹30 lakh for leaving surgical gauze in abdomen during gallbladder surgery",
-    "summary": "The Bihar State Consumer Disputes Redressal Commission found the doctor guilty of gross medical negligence The case is related to the late Nibha Singh, a resident of Madhepura, Bihar.",
-    "link": "https://www.thehindu.com/news/national/bihar/bihar-doctor-fined-30-lakh-for-leaving-surgical-gauze-in-abdomen-during-gallbladder-surgery/article71716750.ece",
-    "time": "2026-11-18T23:06:36+05:30",
+    "headline": "Cyclone 'Akvan' updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+    "summary": "The storm picked up speed to 7 kmph over the past six hours. It was about 580 km from Visakhapatnam, 590 km from Machilipatnam and 710 km from Gopalpur in Odisha",
+    "link": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+    "time": "2026-11-19T04:43:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "HC interim orders over fertility centres",
+    "headline": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+    "summary": "Non-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around…",
+    "link": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+    "time": "2026-11-19T03:57:16+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "UEF, IIT-M join hands for Tamil Nadu Growth Conclave 2026; focus on 10 key sectors",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hc-interim-orders-over-fertility-centres/article71717326.ece",
-    "time": "2026-11-18T23:05:57+05:30",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+    "time": "2026-11-19T02:34:34+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Higher pension to 4.45 lakh applicants may cost EPFO ₹1.1 lakh crore",
-    "summary": "As on November 13, demand letters were issued to 4,45,471 applicants and pension payment orders have been issued to 1,51,874 pensioners",
-    "link": "https://www.thehindu.com/news/national/higher-pension-to-445-lakh-applicants-may-cost-epfo-11-lakh-crore/article71717109.ece",
-    "time": "2026-11-18T23:05:54+05:30",
+    "headline": "Panjab University improves its global standing in interdisciplinary scientific research",
+    "summary": "The 2027 edition of the rankings, produced by Times Higher Education in association with Schmidt Science Fellows, assessed 1,058 institutions across 102 countries and territories, compared with 911 institutions in the…",
+    "link": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+    "time": "2026-11-19T02:29:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Pioneering musician and journalist Sakuntala Narasimhan passes away",
-    "summary": "A multifaceted personality, she had the rare distinction of being a vocalist in both Carnatic and Hindustani traditions, apart from being a journalist with two PhDs in Women’s Studies and Musicology.",
-    "link": "https://www.thehindu.com/news/national/karnataka/pioneering-musician-and-journalist-sakuntala-narasimhan-dead/article71717296.ece",
-    "time": "2026-11-18T23:02:44+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
-    "summary": "The party has demanded that publisher HarperCollins withdraw two pages from the memoir, while the Congress condemned the protest and Uddhav Sena leaders hit back at the Shinde faction",
-    "link": "https://www.thehindu.com/news/national/maharashtra/eknath-shinde-tears-sonia-gandhis-book-over-savarkar-references-seeks-ban-in-maharashtra/article71717132.ece",
-    "time": "2026-11-18T23:02:24+05:30",
+    "headline": "Armed robbers loot jewellery worth more than ₹30 crore at gunpoint in Bihar’s Bettiah",
+    "summary": "According to the police, eight robbers arrived at the jewellery shop on three motorcycles and seized the mobile phone and then tied their hands.",
+    "link": "https://www.thehindu.com/news/national/bihar/armed-robbers-loot-jewellery-worth-more-than-30-crore-at-gunpoint-in-bihars-bettiah/article71717203.ece",
+    "time": "2026-11-19T02:11:58+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+    "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+    "time": "2026-11-18T13:18:16-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Got a canceled flight? 7 clever ways to get rebooked fast",
     "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
@@ -335,16 +342,16 @@
     "source": "NPR"
    },
    {
-    "headline": "She retired early to care for family. New work rules for food aid disrupted that",
-    "summary": "The Trump administration's sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+    "headline": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
+    "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
     "time": "2026-11-18T05:00:00-05:00",
     "source": "NPR"
    },
    {
-    "headline": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-    "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+    "headline": "She retired early to care for family. New work rules for food aid disrupted that",
+    "summary": "The Trump administration's sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
     "time": "2026-11-18T05:00:00-05:00",
     "source": "NPR"
    },
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/18/nx-s1-6044246/families-of-victims-of-d-c-area-midair-collision-push-for-more-safety-measures",
     "time": "2026-11-18T04:44:36-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Nvidia needs more than a new CEO. An expert offers a way forward",
-    "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
-    "time": "2026-11-18T04:43:44-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
-    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
-    "time": "2026-11-18T17:34:25+00:00",
+    "headline": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+    "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+    "time": "2026-11-18T23:44:27+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-    "time": "2026-11-18T17:34:23+00:00",
+    "headline": "The seven Anthropic founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+    "time": "2026-11-18T23:42:07+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
-    "time": "2026-11-18T17:00:40+00:00",
+    "headline": "Russian man accused of spying on US tech defence company that assists Ukraine",
+    "summary": "The suspect followed employees and and was found with fake US ID documents and two Russian passports, US prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
+    "time": "2026-11-18T23:28:03+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
-    "time": "2026-11-18T17:00:04+00:00",
+    "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "summary": "No state has ever been found guilty by an international court of committing genocide.",
+    "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+    "time": "2026-11-18T23:04:06+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
-    "time": "2026-11-18T16:44:23+00:00",
+    "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+    "time": "2026-11-18T22:34:56+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Julio Iglesias facing court investigation over alleged sexual offences",
-    "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o",
-    "time": "2026-11-18T16:33:16+00:00",
+    "headline": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+    "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+    "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo",
+    "time": "2026-11-18T22:32:47+00:00",
     "source": "BBC News"
    }
   ]
