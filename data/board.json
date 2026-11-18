@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T18:14:19.871304+00:00",
+ "updatedAt": "2026-11-18T01:08:59.127367+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,16 +8,16 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 53.8,
-    "feels": 47.3,
-    "hum": 55,
-    "wind": 8.8,
+    "t": 42.4,
+    "feels": 35.7,
+    "hum": 63,
+    "wind": 6.3,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-17",
-     "hi": 54.4,
+     "hi": 56.0,
      "lo": 30.8,
      "code": 0,
      "rain": 0,
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-18",
-     "hi": 58.4,
-     "lo": 35.8,
+     "hi": 62.5,
+     "lo": 37.4,
      "code": 3,
      "rain": 1,
      "rainMm": 0.0,
-     "gustMph": 21.9
+     "gustMph": 19.7
     },
     {
      "date": "2026-11-19",
-     "hi": 61.5,
-     "lo": 36.4,
+     "hi": 60.7,
+     "lo": 34.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.1
+     "gustMph": 19.9
     },
     {
      "date": "2026-11-20",
-     "hi": 62.0,
-     "lo": 49.2,
+     "hi": 61.4,
+     "lo": 48.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 24.6
+     "gustMph": 25.3
     },
     {
      "date": "2026-11-21",
-     "hi": 58.5,
+     "hi": 56.5,
      "lo": 47.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.3
+     "gustMph": 17.4
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.8,
-    "feels": 23.7,
-    "hum": 51,
-    "wind": 4.7,
+    "t": 21.3,
+    "feels": 20.7,
+    "hum": 59,
+    "wind": 6.5,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-17",
-     "hi": 29.9,
-     "lo": 20.2,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 21.5
-    },
-    {
      "date": "2026-11-18",
-     "hi": 29.5,
-     "lo": 21.4,
+     "hi": 29.4,
+     "lo": 21.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.4
+     "gustMph": 20.8
     },
     {
      "date": "2026-11-19",
      "hi": 28.4,
-     "lo": 19.2,
+     "lo": 19.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 25.5
+     "gustMph": 23.9
     },
     {
      "date": "2026-11-20",
-     "hi": 29.2,
+     "hi": 29.3,
      "lo": 17.9,
-     "code": 2,
+     "code": 3,
      "rain": 16,
      "rainMm": 0.0,
-     "gustMph": 15.2
+     "gustMph": 14.3
     },
     {
      "date": "2026-11-21",
-     "hi": 30.0,
-     "lo": 19.3,
-     "code": 1,
-     "rain": 20,
+     "hi": 30.5,
+     "lo": 19.7,
+     "code": 0,
+     "rain": 25,
      "rainMm": 0.0,
-     "gustMph": 13.6
+     "gustMph": 14.3
+    },
+    {
+     "date": "2026-11-22",
+     "hi": 30.8,
+     "lo": 20.6,
+     "code": 0,
+     "rain": 12,
+     "rainMm": 0.0,
+     "gustMph": 15.2
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.2,
-    "feels": 25.6,
-    "hum": 75,
-    "wind": 3.3,
-    "code": 2
+    "t": 21.7,
+    "feels": 23.8,
+    "hum": 81,
+    "wind": 3.6,
+    "code": 3
    },
    "days": [
     {
-     "date": "2026-11-17",
-     "hi": 31.7,
-     "lo": 21.6,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.2
-    },
-    {
      "date": "2026-11-18",
-     "hi": 31.9,
-     "lo": 21.2,
+     "hi": 32.1,
+     "lo": 21.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-19",
-     "hi": 30.7,
-     "lo": 22.0,
+     "hi": 30.4,
+     "lo": 21.7,
      "code": 3,
-     "rain": 22,
+     "rain": 27,
      "rainMm": 0.0,
-     "gustMph": 24.2
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-20",
-     "hi": 29.7,
-     "lo": 22.9,
+     "hi": 30.3,
+     "lo": 21.5,
      "code": 3,
-     "rain": 31,
+     "rain": 49,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-21",
-     "hi": 31.3,
-     "lo": 21.3,
-     "code": 3,
-     "rain": 17,
+     "hi": 31.8,
+     "lo": 21.1,
+     "code": 2,
+     "rain": 43,
      "rainMm": 0.0,
-     "gustMph": 10.7
+     "gustMph": 11.9
+    },
+    {
+     "date": "2026-11-22",
+     "hi": 31.9,
+     "lo": 22.1,
+     "code": 0,
+     "rain": 60,
+     "rainMm": 0.0,
+     "gustMph": 13.0
     }
    ],
    "alert": null
@@ -192,7 +192,7 @@
     "headline": "Kenyan delegation explores academic ties with Andhra University",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/kenyan-delegation-explores-academic-ties-with-andhra-university/article71713081.ece",
-    "time": "2026-11-17T23:19:28+05:30",
+    "time": "2026-11-17T23:38:27+05:30",
     "source": "The Hindu"
    },
    {
@@ -233,6 +233,20 @@
   ],
   "telangana": [
    {
+    "headline": "Ruling party MLA’s charge-sheet against govt. speaks volumes about corruption in Cong. rule: BRS",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/ruling-party-mlas-charge-sheet-against-govt-speaks-volumes-about-corruption-in-cong-rule-brs/article71712964.ece",
+    "time": "2026-11-18T01:14:12+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NGT declines to stay EC given to Musi river front project",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/ngt-declines-to-stay-ec-given-to-musi-river-front-project/article71712952.ece",
+    "time": "2026-11-18T01:11:04+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Stage set for launch of Indiramma Bima by Chief Minister at Siddipet on Thursday",
     "summary": "CM to release application for enrolment into the scheme",
     "link": "https://www.thehindu.com/news/national/telangana/stage-set-for-launch-of-indiramma-bima-by-chief-minister-at-siddipet-on-thursday/article71713217.ece",
@@ -259,63 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/land-transfer-clears-way-for-road-widening-near-kothagudem-railway-station/article71712948.ece",
     "time": "2026-11-17T22:45:25+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Students of govt. schools, colleges to get tourism exposure under Telangana Darshini",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/students-of-govt-schools-colleges-to-get-tourism-exposure-under-telangana-darshini/article71711926.ece",
-    "time": "2026-11-17T22:29:48+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "SIR schedule revised again, final publication in Telangana moved to Dec 22",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/sir-schedule-revised-again-final-publication-moved-to-dec-22/article71712786.ece",
-    "time": "2026-11-17T22:27:27+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Two flights held up at Thiruvananthapuram international airport after crane raised on flight path",
-    "summary": "The crane on the flight approach path showed up on the airport surveillance radars and the matter was reported to the air traffic control, according to airport authorities",
-    "link": "https://www.thehindu.com/news/national/kerala/two-flights-held-up-at-thiruvananthapuram-international-airport-after-crane-raised-on-flight-path/article71713222.ece",
-    "time": "2026-11-17T23:37:46+05:30",
+    "headline": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to companies",
+    "summary": "He made the statement during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+    "time": "2026-11-18T06:28:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rahul Gandhi invokes Hindu faith to defend his ‘Mama sitting on Papa’s lap’ remark",
-    "summary": "Responding to the BJP’s criticism of his remarks, Mr. Gandhi shares artwork depicting Goddess Parvati perched on Lord Shiva’s lap; says “love need not be hidden, affection is not a weakness, and equality begins with…",
-    "link": "https://www.thehindu.com/news/national/rahul-gandhi-invokes-hindu-faith-to-defend-his-mama-sitting-on-papas-lap-remark/article71713190.ece",
-    "time": "2026-11-17T23:35:52+05:30",
+    "headline": "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
+    "summary": "Jharkhand CEO K Ravi Kumar appeals to all eligible Indian citizens in the state to ensure their names are included in the electoral roll by taking part in Ek Aur Avsar (One More Opportunity) camps",
+    "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+    "time": "2026-11-18T03:52:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "A period of good governance, says CM; a betrayal of people says Pinarayi",
-    "summary": "While Satheesan sought to paint a rosy picture of good governance, development, welfare, and fulfilled promises, Pinarayi Vijayan was scathingly critical of the UDF government",
-    "link": "https://www.thehindu.com/news/national/kerala/a-period-of-good-governance-says-cm-a-betrayal-of-people-says-pinarayi/article71713172.ece",
-    "time": "2026-11-17T23:35:48+05:30",
+    "headline": "Construction activities on Kaziranga wildlife corridors flagged",
+    "summary": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
+    "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+    "time": "2026-11-18T03:14:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Prince William says Gen Z is the torchbearer of the global movement for change",
-    "summary": "Himalayan Kingdom of Bhutan, Mahindra Last Mile Mobility among the five winners of Earthshot Prize",
-    "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece",
-    "time": "2026-11-17T23:33:35+05:30",
+    "headline": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+    "summary": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
+    "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
+    "time": "2026-11-18T03:00:56+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Yaduveer, Tanveer Sait review Arjuna memorial project",
+    "headline": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
+    "summary": "The SFI leaders said they sought permission from the Kolkata Police to set up a bookstall on the College Street footpath, but police refused on November 16 evening, saying it could disrupt traffic",
+    "link": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
+    "time": "2026-11-18T01:52:19+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Elanthoor human sacrifice case: witness examination nearing final stage",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/yaduveer-tanveer-sait-review-arjuna-memorial-project/article71711540.ece",
-    "time": "2026-11-17T23:25:49+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "SC pulls up MP Sanjay Raut over remarks on CJI, says ‘seasoned politician’ should know restraint",
-    "summary": "Court was hearing criminal contempt petition filed by the Supreme Court Bar Association against Raut and journalist Nikhil Wagle over ‘objectionable’ social media posts about the CJI and the judiciary",
-    "link": "https://www.thehindu.com/news/national/sc-pulls-up-mp-sanjay-raut-over-remarks-on-cji-says-seasoned-politician-should-know-restraint/article71713195.ece",
-    "time": "2026-11-17T23:25:19+05:30",
+    "link": "https://www.thehindu.com/news/national/kerala/elanthoor-human-sacrifice-case-witness-examination-nearing-final-stage/article71712944.ece",
+    "time": "2026-11-18T01:42:44+05:30",
     "source": "The Hindu"
    }
   ],
@@ -347,63 +347,49 @@
     "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
     "time": "2026-11-16T11:28:19-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Air traffic controllers' union head on the nationwide ground stop",
-    "summary": "NPR's Steve Inskeep asks the head of the air traffic controllers' union what it was like for controllers as the FAA issued a nationwide ground stop.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop",
-    "time": "2026-11-16T06:38:58-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "These birds fly 17,000 miles every year. Climate change could make it harder",
-    "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-    "time": "2026-11-16T05:00:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-    "time": "2026-11-17T17:42:26+00:00",
+    "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+    "time": "2026-11-18T00:28:01+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "UK sanctions firms over Israeli West Bank settlements",
-    "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
-    "time": "2026-11-17T17:41:49+00:00",
+    "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+    "time": "2026-11-17T23:02:12+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-    "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo",
-    "time": "2026-11-17T17:37:04+00:00",
+    "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
+    "time": "2026-11-17T22:46:30+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo",
-    "time": "2026-11-17T17:19:57+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "US loses measles elimination status after 26 years amid record case numbers",
-    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-    "time": "2026-11-17T17:10:03+00:00",
+    "headline": "Thomas Markle charged over child sex abuse material in Philippines",
+    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
+    "time": "2026-11-17T22:44:15+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
     "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-    "time": "2026-11-17T16:56:38+00:00",
+    "time": "2026-11-17T21:24:35+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Russian military plane crashes, killing all 19 on board",
+    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+    "time": "2026-11-17T21:06:11+00:00",
     "source": "BBC News"
    }
   ]
