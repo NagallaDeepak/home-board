@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T01:08:59.127367+00:00",
+ "updatedAt": "2026-11-18T08:53:24.557658+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 42.4,
-    "feels": 35.7,
-    "hum": 63,
-    "wind": 6.3,
+    "t": 40.0,
+    "feels": 33.4,
+    "hum": 73,
+    "wind": 6.5,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-17",
-     "hi": 56.0,
-     "lo": 30.8,
-     "code": 0,
+     "date": "2026-11-18",
+     "hi": 63.6,
+     "lo": 38.3,
+     "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.9
-    },
-    {
-     "date": "2026-11-18",
-     "hi": 62.5,
-     "lo": 37.4,
-     "code": 3,
-     "rain": 1,
-     "rainMm": 0.0,
-     "gustMph": 19.7
+     "gustMph": 21.0
     },
     {
      "date": "2026-11-19",
-     "hi": 60.7,
-     "lo": 34.6,
+     "hi": 64.6,
+     "lo": 35.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.9
+     "gustMph": 15.6
     },
     {
      "date": "2026-11-20",
-     "hi": 61.4,
-     "lo": 48.4,
+     "hi": 61.1,
+     "lo": 47.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 25.3
+     "gustMph": 26.6
     },
     {
      "date": "2026-11-21",
-     "hi": 56.5,
-     "lo": 47.6,
+     "hi": 56.3,
+     "lo": 46.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.4
+     "gustMph": 17.2
+    },
+    {
+     "date": "2026-11-22",
+     "hi": 58.9,
+     "lo": 48.2,
+     "code": 3,
+     "rain": 31,
+     "rainMm": 0.0,
+     "gustMph": 19.7
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.3,
-    "feels": 20.7,
-    "hum": 59,
-    "wind": 6.5,
+    "t": 29.0,
+    "feels": 28.3,
+    "hum": 34,
+    "wind": 7.1,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-18",
-     "hi": 29.4,
-     "lo": 21.3,
+     "hi": 29.0,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.8
+     "gustMph": 21.7
     },
     {
      "date": "2026-11-19",
-     "hi": 28.4,
-     "lo": 19.1,
+     "hi": 28.3,
+     "lo": 19.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.9
+     "gustMph": 23.3
     },
     {
      "date": "2026-11-20",
-     "hi": 29.3,
-     "lo": 17.9,
+     "hi": 29.5,
+     "lo": 17.5,
      "code": 3,
-     "rain": 16,
+     "rain": 12,
      "rainMm": 0.0,
-     "gustMph": 14.3
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-21",
-     "hi": 30.5,
-     "lo": 19.7,
-     "code": 0,
-     "rain": 25,
-     "rainMm": 0.0,
-     "gustMph": 14.3
-    },
-    {
-     "date": "2026-11-22",
-     "hi": 30.8,
-     "lo": 20.6,
+     "hi": 30.4,
+     "lo": 19.4,
      "code": 0,
      "rain": 12,
      "rainMm": 0.0,
      "gustMph": 15.2
+    },
+    {
+     "date": "2026-11-22",
+     "hi": 31.1,
+     "lo": 20.2,
+     "code": 0,
+     "rain": 8,
+     "rainMm": 0.0,
+     "gustMph": 14.8
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 21.7,
-    "feels": 23.8,
-    "hum": 81,
-    "wind": 3.6,
+    "t": 32.1,
+    "feels": 32.8,
+    "hum": 34,
+    "wind": 4.8,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-18",
      "hi": 32.1,
-     "lo": 21.5,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.4
+     "gustMph": 14.1
     },
     {
      "date": "2026-11-19",
-     "hi": 30.4,
-     "lo": 21.7,
+     "hi": 30.9,
+     "lo": 21.8,
      "code": 3,
-     "rain": 27,
+     "rain": 24,
      "rainMm": 0.0,
-     "gustMph": 21.5
+     "gustMph": 21.9
     },
     {
      "date": "2026-11-20",
-     "hi": 30.3,
-     "lo": 21.5,
+     "hi": 29.8,
+     "lo": 20.0,
      "code": 3,
-     "rain": 49,
+     "rain": 25,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 13.6
     },
     {
      "date": "2026-11-21",
-     "hi": 31.8,
-     "lo": 21.1,
-     "code": 2,
-     "rain": 43,
+     "hi": 31.4,
+     "lo": 20.3,
+     "code": 1,
+     "rain": 13,
      "rainMm": 0.0,
-     "gustMph": 11.9
+     "gustMph": 11.6
     },
     {
      "date": "2026-11-22",
-     "hi": 31.9,
-     "lo": 22.1,
+     "hi": 31.8,
+     "lo": 20.8,
      "code": 0,
-     "rain": 60,
+     "rain": 41,
      "rainMm": 0.0,
-     "gustMph": 13.0
+     "gustMph": 12.1
     }
    ],
    "alert": null
@@ -189,137 +189,144 @@
  "news": {
   "andhra": [
    {
-    "headline": "Kenyan delegation explores academic ties with Andhra University",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/kenyan-delegation-explores-academic-ties-with-andhra-university/article71713081.ece",
-    "time": "2026-11-17T23:38:27+05:30",
+    "headline": "Andhra keeps 13 NDRF and 11 SDRF teams ready for Cyclone Akvan",
+    "summary": "People can call 112, 1070 or 18004250101 in an emergency, and report power cuts, fallen trees and waterlogging on WhatsApp at 95523 00009",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-keeps-13-ndrf-and-11-sdrf-teams-ready-for-cyclone-akvan/article71714707.ece",
+    "time": "2026-11-18T12:41:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Walking test, medical examination for Thanedar posts on November 30: APPSC",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/walking-test-medical-examination-for-thanedar-posts-on-november-30-appsc/article71712967.ece",
-    "time": "2026-11-17T23:12:11+05:30",
+    "headline": "PPA CEO reviews Polavaram works, asks officials to guard against cyclone",
+    "summary": "Sanjeev Vohra calls for achieving the daily construction targets without compromising the quality of works",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ppa-ceo-reviews-polavaram-works-asks-officials-to-guard-against-cyclone/article71712192.ece",
+    "time": "2026-11-18T11:34:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Akvan moves slowly, likely to intensify further by November 18 morning",
-    "summary": "Probable landfall between Visakhapatnam and Nellore; isolated heavy rain likely in Visakhapatnam, Alluri Sitharama Raju, Parvathipuram-Manyam, Srikakulam and Vizianagaram from November 18 evening",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-moves-slowly-likely-to-intensify-further-by-november-18-morning/article71712487.ece",
-    "time": "2026-11-17T23:05:17+05:30",
+    "headline": "Akvan strengthens into severe cyclonic storm, but further intensification not likely",
+    "summary": "The system may cross the A.P. coast between Nellore and Visakhapatnam as a Severe Cyclonic Storm on November 20, and not as a Very Severe Cyclonic Storm as earlier predicted",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-strengthens-into-severe-cyclonic-storm-but-further-intensification-not-likely/article71714428.ece",
+    "time": "2026-11-18T11:25:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Youth urged to focus on current affairs for competitive examinations",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/youth-urged-to-focus-on-current-affairs-for-competitive-examinations/article71713008.ece",
-    "time": "2026-11-17T22:47:12+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "YSRCP leader alleges election malpractices, seeks probe",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-alleges-election-malpractices-seeks-probe/article71712976.ece",
-    "time": "2026-11-17T22:45:22+05:30",
+    "headline": "Cyclone 'Akvan' updates: Akvan stationary, likely to move slowly north-northwestwards",
+    "summary": "The cyclonic storm is likely to move slowly north-northwestwards and intensify further into a Severe Cyclonic Storm over westcentral Bay of Bengal around November 18, 2026 morning",
+    "link": "https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece",
+    "time": "2026-11-18T06:50:04+05:30",
     "source": "The Hindu"
    },
    {
     "headline": "P.B. Siddhartha College to host international seminar on Viksit Bharat from November 19",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-to-host-international-seminar-on-viksit-bharat-from-november-19/article71712892.ece",
-    "time": "2026-11-17T22:40:18+05:30",
+    "time": "2026-11-17T23:50:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Kenyan delegation explores academic ties with Andhra University",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/kenyan-delegation-explores-academic-ties-with-andhra-university/article71713081.ece",
+    "time": "2026-11-17T23:38:27+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Ruling party MLA’s charge-sheet against govt. speaks volumes about corruption in Cong. rule: BRS",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ruling-party-mlas-charge-sheet-against-govt-speaks-volumes-about-corruption-in-cong-rule-brs/article71712964.ece",
-    "time": "2026-11-18T01:14:12+05:30",
+    "headline": "Retain corporate HQ in Mumbai, manufacture in Telangana: Sridhar Babu",
+    "summary": "Industries Minister says a dedicated officer would be assigned to every company coming from Mumbai to provide end-to-end assistance",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/retain-corporate-hq-in-mumbai-manufacture-in-telangana-sridhar-babu/article71714743.ece",
+    "time": "2026-11-18T14:04:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NGT declines to stay EC given to Musi river front project",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ngt-declines-to-stay-ec-given-to-musi-river-front-project/article71712952.ece",
-    "time": "2026-11-18T01:11:04+05:30",
+    "headline": "Three Hyderabad shopping streets feature in APAC’s retail rankings, Delhi’s Khan Market tops India’s retail streets with ₹1,875/sft rental",
+    "summary": "Jubilee Hills leads Hyderabad’s retail areas with ₹250/sft monthly rental. It is ₹230/sft in Banjara Hills and ₹225/sft in Himayatnagar",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/three-hyderabad-shopping-streets-feature-in-apacs-retail-rankings-delhis-khan-market-tops-indias-retail-streets-with-1875sft-rental/article71714808.ece",
+    "time": "2026-11-18T14:04:40+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Stage set for launch of Indiramma Bima by Chief Minister at Siddipet on Thursday",
-    "summary": "CM to release application for enrolment into the scheme",
-    "link": "https://www.thehindu.com/news/national/telangana/stage-set-for-launch-of-indiramma-bima-by-chief-minister-at-siddipet-on-thursday/article71713217.ece",
-    "time": "2026-11-17T23:08:51+05:30",
+    "headline": "CCMB study points to new way of tackling fungal infections",
+    "summary": "Fungi can gradually develop resistance to current antifungal drugs, making infections increasingly difficult to treat",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-study-points-to-new-way-of-tackling-fungal-infections/article71711826.ece",
+    "time": "2026-11-18T13:47:26+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana Housing Corporation DEE suspended for leaking information about 2BHK surprise inspections",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-housing-corporation-dee-suspended-for-leaking-information-about-2bhk-surprise-inspections/article71712983.ece",
-    "time": "2026-11-17T22:54:12+05:30",
+    "headline": "Telangana’s YTPS final unit commercial operations likely in December 2026, to further boost State’s energy sector",
+    "summary": "Telangana-Genco is implementing a comprehensive action plan to ensure full-scale generation of 4,000 MW through all five units during the coming Rabi and summer season",
+    "link": "https://www.thehindu.com/news/national/telangana/telanganas-ytps-final-unit-commercial-operations-likely-in-december-2026-to-further-boost-states-energy-sector/article71712752.ece",
+    "time": "2026-11-18T13:27:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Three Maoist dumps containing 280 BGL shells recovered in forest area near Karregutta hills",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/three-maoist-dumps-containing-280-bgl-shells-recovered-in-forest-area-near-karregutta-hills/article71711744.ece",
-    "time": "2026-11-17T22:47:15+05:30",
+    "headline": "Good, safe roads are people’s right, says Minister Komatireddy Venkat Reddy",
+    "summary": "Road development should not be measured only by the number of kilometres constructed or the size of a flyover. We must also ask whether an ordinary person can use that road safely.",
+    "link": "https://www.thehindu.com/news/national/telangana/good-safe-roads-are-peoples-right-says-minister-komatireddy-venkat-reddy/article71712436.ece",
+    "time": "2026-11-18T12:37:06+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Land transfer clears way for road widening near Kothagudem Railway Station",
-    "summary": "Alternate land handed over to Railways to create parking facility at Khammam Railway Station",
-    "link": "https://www.thehindu.com/news/national/telangana/land-transfer-clears-way-for-road-widening-near-kothagudem-railway-station/article71712948.ece",
-    "time": "2026-11-17T22:45:25+05:30",
+    "headline": "Over 400 citizens urge CM to postpone Invest Telangana Global Summit citing drought",
+    "summary": "Environmentalists, scientists, academics, civil society representatives and people’s organisations expressed concern over the reported deployment of one government officer for each delegate, arguing that administrative…",
+    "link": "https://www.thehindu.com/news/national/telangana/over-400-citizens-urge-cm-to-postpone-invest-telangana-global-summit-citing-drought/article71712667.ece",
+    "time": "2026-11-18T12:27:31+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to companies",
-    "summary": "He made the statement during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
-    "time": "2026-11-18T06:28:24+05:30",
+    "headline": "Nation salutes brave jawans: Shah after LeT terrorist killed in J&K encounter",
+    "summary": "Security forces shot dead Lateef Bhat, who was wanted for the November 11 attack on a CRPF post",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/nation-salutes-brave-jawans-shah-after-let-terrorist-killed-in-jk-encounter/article71715067.ece",
+    "time": "2026-11-18T14:18:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
-    "summary": "Jharkhand CEO K Ravi Kumar appeals to all eligible Indian citizens in the state to ensure their names are included in the electoral roll by taking part in Ek Aur Avsar (One More Opportunity) camps",
-    "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
-    "time": "2026-11-18T03:52:22+05:30",
+    "headline": "Apologised to prevent divisions among Hindus: Bageshwar Dham’s Dhirendra Shastri",
+    "summary": "Explaining his position, he said that while demons and evil forces disrupted religious rituals in ancient times, those opposing such activities today attempted to create obstacles through social media posts",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/apologised-to-prevent-divisions-among-hindus-bageshwar-dhams-dhirendra-shastri/article71715086.ece",
+    "time": "2026-11-18T14:18:13+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Construction activities on Kaziranga wildlife corridors flagged",
-    "summary": "An Eastern Assam-based environment activist writes to the Supreme Court-constituted Central Empowered Committee, highlighting the concerns",
-    "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
-    "time": "2026-11-18T03:14:11+05:30",
+    "headline": "Too soon issue draft framework for centralised assessment of CGST taxpayers: CBIC chief",
+    "summary": "The new framework is likely to be implemented from next fiscal beginning April 1, 2027",
+    "link": "https://www.thehindu.com/business/too-soon-issue-draft-framework-for-centralised-assessment-of-cgst-taxpayers-cbic-chief/article71714986.ece",
+    "time": "2026-11-18T14:13:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
-    "summary": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
-    "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
-    "time": "2026-11-18T03:00:56+05:30",
+    "headline": "RJD seeks Bihar min Ashok Choudhary's disqualification as MLC over 'office of profit'",
+    "summary": "Mr. Jha said university service rules across the country do not permit taking a lien during the probation period",
+    "link": "https://www.thehindu.com/news/national/bihar/rjd-seeks-bihar-min-ashok-choudharys-disqualification-as-mlc-over-office-of-profit/article71714978.ece",
+    "time": "2026-11-18T14:12:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
-    "summary": "The SFI leaders said they sought permission from the Kolkata Police to set up a bookstall on the College Street footpath, but police refused on November 16 evening, saying it could disrupt traffic",
-    "link": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
-    "time": "2026-11-18T01:52:19+05:30",
+    "headline": "Supreme Court declines status quo against High Court allowing interim bail to Azam Khan",
+    "summary": "Supreme Court agrees to hear ED appeal against bail on November 19",
+    "link": "https://www.thehindu.com/news/national/azam-khan-supreme-court-ed-interim-bail/article71714741.ece",
+    "time": "2026-11-18T14:08:16+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Elanthoor human sacrifice case: witness examination nearing final stage",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/kerala/elanthoor-human-sacrifice-case-witness-examination-nearing-final-stage/article71712944.ece",
-    "time": "2026-11-18T01:42:44+05:30",
+    "headline": "NEET paper leak case: Delhi court orders framing of charges against 14 accused",
+    "summary": "The Judge said the court will start the trial on a day-to-day basis from November 25",
+    "link": "https://www.thehindu.com/news/national/neet-paper-leak-case-delhi-court-orders-framing-of-charges-against-14-accused/article71714866.ece",
+    "time": "2026-11-18T14:07:36+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
+    "summary": "Secretary of State Marco Rubio sought to calm Americans as he traveled with President Trump and they prepared for key meetings with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+    "time": "2026-11-18T03:27:50-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Sen. Jack Reed says FAA needs a real plan, not just more money",
     "summary": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
@@ -333,63 +340,49 @@
     "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
     "time": "2026-11-17T05:00:00-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Nearly two million people are behind bars in the US. How did we get here?",
-    "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-    "time": "2026-11-16T12:34:07-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-    "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-    "time": "2026-11-16T11:28:19-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-    "time": "2026-11-18T00:28:01+00:00",
+    "headline": "Ghana's new $60m presidential jet sparks public outrage",
+    "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
+    "time": "2026-11-18T08:08:20+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
-    "time": "2026-11-17T23:02:12+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-    "time": "2026-11-17T22:46:30+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Thomas Markle charged over child sex abuse material in Philippines",
+    "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
     "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
     "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
-    "time": "2026-11-17T22:44:15+00:00",
+    "time": "2026-11-18T07:48:18+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-    "time": "2026-11-17T21:24:35+00:00",
+    "headline": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+    "time": "2026-11-18T07:00:25+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Russian military plane crashes, killing all 19 on board",
-    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-    "time": "2026-11-17T21:06:11+00:00",
+    "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+    "time": "2026-11-18T04:57:06+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+    "time": "2026-11-18T01:18:18+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Millions of red crabs start annual migration on Christmas Island",
+    "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+    "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o",
+    "time": "2026-11-17T23:05:39+00:00",
     "source": "BBC News"
    }
   ]
