@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T22:58:47.646881+00:00",
+ "updatedAt": "2026-11-20T03:56:03.879282+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,11 +8,11 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 50.2,
-    "feels": 44.1,
-    "hum": 53,
+    "t": 40.7,
+    "feels": 33.3,
+    "hum": 52,
     "wind": 6.1,
-    "code": 0
+    "code": 3
    },
    "days": [
     {
@@ -22,43 +22,43 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 14.8
     },
     {
      "date": "2026-11-20",
-     "hi": 64.2,
-     "lo": 39.4,
+     "hi": 65.2,
+     "lo": 37.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.8
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-21",
-     "hi": 56.9,
-     "lo": 36.2,
+     "hi": 57.0,
+     "lo": 35.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.9
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-22",
-     "hi": 58.7,
-     "lo": 48.6,
-     "code": 51,
-     "rain": 68,
-     "rainMm": 0.5,
-     "gustMph": 33.1
+     "hi": 58.9,
+     "lo": 48.7,
+     "code": 53,
+     "rain": 70,
+     "rainMm": 1.0,
+     "gustMph": 13.0
     },
     {
      "date": "2026-11-23",
-     "hi": 62.5,
-     "lo": 50.0,
+     "hi": 55.2,
+     "lo": 42.9,
      "code": 81,
-     "rain": 84,
-     "rainMm": 17.4,
-     "gustMph": 39.4
+     "rain": 90,
+     "rainMm": 32.8,
+     "gustMph": 31.5
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 19.4,
-    "feels": 18.1,
-    "hum": 51,
-    "wind": 4.1,
+    "t": 23.2,
+    "feels": 22.3,
+    "hum": 44,
+    "wind": 4.0,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-20",
-     "hi": 29.7,
-     "lo": 18.6,
+     "hi": 29.6,
+     "lo": 18.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-21",
-     "hi": 30.8,
+     "hi": 30.5,
      "lo": 21.1,
-     "code": 2,
-     "rain": 12,
+     "code": 1,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 17.4
     },
     {
      "date": "2026-11-22",
-     "hi": 31.9,
+     "hi": 31.4,
      "lo": 20.6,
      "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 12.5
     },
     {
      "date": "2026-11-23",
-     "hi": 31.7,
-     "lo": 22.2,
-     "code": 1,
+     "hi": 31.4,
+     "lo": 21.4,
+     "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 19.7
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-24",
-     "hi": 31.3,
-     "lo": 22.2,
+     "hi": 30.9,
+     "lo": 21.9,
      "code": 3,
-     "rain": 18,
+     "rain": 8,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 18.3
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.5,
-    "feels": 23.5,
-    "hum": 59,
-    "wind": 6.6,
-    "code": 1
+    "t": 26.5,
+    "feels": 27.5,
+    "hum": 57,
+    "wind": 6.4,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-20",
-     "hi": 31.0,
-     "lo": 22.8,
+     "hi": 30.7,
+     "lo": 22.7,
      "code": 3,
-     "rain": 2,
+     "rain": 8,
      "rainMm": 0.0,
-     "gustMph": 15.2
+     "gustMph": 15.7
     },
     {
      "date": "2026-11-21",
-     "hi": 31.7,
-     "lo": 21.8,
-     "code": 2,
-     "rain": 0,
+     "hi": 31.4,
+     "lo": 21.9,
+     "code": 1,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 12.5
     },
     {
      "date": "2026-11-22",
-     "hi": 32.0,
-     "lo": 21.3,
+     "hi": 31.6,
+     "lo": 21.2,
      "code": 45,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-23",
-     "hi": 32.7,
+     "hi": 32.3,
      "lo": 21.8,
-     "code": 3,
-     "rain": 27,
+     "code": 45,
+     "rain": 18,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-24",
-     "hi": 31.3,
-     "lo": 24.2,
+     "hi": 32.1,
+     "lo": 23.8,
      "code": 53,
-     "rain": 65,
-     "rainMm": 4.2,
-     "gustMph": 22.4
+     "rain": 57,
+     "rainMm": 2.1,
+     "gustMph": 20.4
     }
    ],
    "alert": null
@@ -189,49 +189,70 @@
  "news": {
   "andhra": [
    {
+    "headline": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+    "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+    "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+    "time": "2026-11-20T08:44:18+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Time to protect eroding coastlines",
+    "summary": "Nearly 31% (318.96 km) of Andhra Pradesh’s coastline is eroding, with about 91.6 km falling into the ‘high erosion’ category. While the losses are concentrated in the delta districts of Kakinada, West Godavari, and…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece",
+    "time": "2026-11-20T08:42:11+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Vizag Junior Literary Fest: Where young minds find their voice",
+    "summary": "The seventh edition of Vizag Junior Literary Fest, to be held on November 21 and 22, brings together 20 authors, illustrators and performers as children look forward to creative discoveries and author interactions",
+    "link": "https://www.thehindu.com/books/vizag-junior-literary-fest-where-young-minds-find-their-voice/article71718963.ece",
+    "time": "2026-11-20T08:24:48+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Very heavy rain lashes Srikakulam as Akvan moves closer to coast",
+    "summary": "The major rainfall activity has been concentrated in the district of Srikakulam alone, while a few stations in Vizianagaram, Anakapalli, Kakinada, Visakhapatnam, have recorded light showers",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/very-heavy-rain-lashes-srikakulam-as-akvan-moves-closer-to-coast/article71722916.ece",
+    "time": "2026-11-20T08:07:20+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
+    "summary": "Noted actor Rashmika Mandanna and former Chief Secretary to Government of Karnataka Vandita Sharma participate in the Ladies’ Day observed as part of the ongoing birth centenary celebrations of Sri Sathya Sai Baba in…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-recall-sathya-sai-babas-emphasis-on-vital-role-of-women-in-society/article71720862.ece",
+    "time": "2026-11-20T00:29:52+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "APSRTC outsourced staff allege exploitation, seek fair deal",
     "summary": "In a memoranduym submitted to APSRTC Joint Managing Director, the employees’ association highlights delayed salary payments, wage discrepancies and lack of job security",
     "link": "https://www.thehindu.com/news/cities/Vijayawada/apsrtc-outsourced-staff-allege-exploitation-seek-fair-deal/article71720870.ece",
     "time": "2026-11-20T00:23:29+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Self-reliance is key to India’s development, says Adani Group CEO",
-    "summary": "Robin Bhowmick urges youth to develop technical skills, adapt to automation and contribute to the nation’s progress",
-    "link": "https://www.thehindu.com/news/cities/Vijayawada/self-reliance-is-key-to-indias-development-says-adani-group-ceo/article71720460.ece",
-    "time": "2026-11-20T00:21:38+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Dr. NTRUHS plans AI-based courses in affiliated colleges to strengthen research collaboration",
-    "summary": "The university examining the feasibility of introducing interdisciplinary certificate and diploma programmes in emerging areas of health sciences",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntruhs-plans-ai-based-courses-in-affiliated-colleges-to-strengthen-research-collaboration/article71721220.ece",
-    "time": "2026-11-20T00:12:11+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Akvan may spare most of Andhra Pradesh; red alert issued for Srikakulam, Vizianagaram",
-    "summary": "Parvathipuram-Manyam, Visakhapatnam, Alluri Sitharama Raju and Anakapalli districts may record isolated very heavy rainfall till Friday evening, says IMD",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-may-spare-most-of-andhra-pradesh/article71721000.ece",
-    "time": "2026-11-20T00:09:51+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Tension in Pulivendula for third day as TDP, YSRCP spar over ‘poll violence’",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/pulivendula-simmers-for-third-day-as-tdp-ysrcp-spar-over-poll-violence/article71721019.ece",
-    "time": "2026-11-20T00:05:12+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Arrangements for ‘Margasira Masotsavam’ at Kanaka Mahalakshmi reviewed",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/arrangements-for-margasira-masotsavam-at-kanaka-mahalakshmi-reviewed/article71720563.ece",
-    "time": "2026-11-20T00:00:35+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "FSSAI licences suspended of two Karachi Bakery units in Hyderabad, four meat outlets over food safety violations",
+    "summary": "The action was part of a special enforcement drive conducted on Thursday (November 19, 2026) by 11 teams comprising Food Safety Officers and police personnel",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-two-karachi-bakery-units-in-hyderabad-four-meat-outlets-over-food-safety-violations/article71721101.ece",
+    "time": "2026-11-20T08:48:00+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Yadadri Thermal Power Plant: The toxic cost of power",
+    "summary": "Fly ash from the 4,000-MW Yadadri thermal plant is polluting a stream that sustains farms and fishing communities, before flowing into the Krishna river. As Telangana powers up, the fallout extends beyond the vicinity…",
+    "link": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece",
+    "time": "2026-11-20T07:56:49+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Show cause notice issued to 90 medical shops in Hyderabad over drug sale violations",
+    "summary": "The notices were issued following a special enforcement drive conducted by the drugs wing of TG SAFE, along with its enforcement wing and excise enforcement personnel",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/show-cause-notice-issued-to-90-medical-shops-in-hyderabad-over-drug-sale-violations/article71720988.ece",
+    "time": "2026-11-20T07:45:33+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "CM launches Indiramma family life insurance scheme",
     "summary": "Siddipet Govt medical college to be named after late Congress stalwart Madan Mohan",
@@ -252,70 +273,49 @@
     "link": "https://www.thehindu.com/news/national/telangana/i-am-son-of-the-soil-will-never-do-harm-to-telangana-unlike-kcr-revanth/article71721300.ece",
     "time": "2026-11-19T22:33:17+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "CM outlines State’s economic vision, seeks Centre’s support for infra projects",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/cm-outlines-states-economic-vision-seeks-centres-support-for-infra-projects/article71721174.ece",
-    "time": "2026-11-19T22:31:21+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Adilabad police foil attempt to steal donkeys, goats; five held",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/adilabad-police-foil-attempt-to-steal-donkeys-goats-five-held/article71721131.ece",
-    "time": "2026-11-19T22:17:27+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bondada inks MoU with RGUKT Basar",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/bondada-inks-mou-with-rgukt-basar/article71721046.ece",
-    "time": "2026-11-19T22:16:16+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Nearing 3 years as Rajasthan CM, Bhajan Lal Sharma seeks to assert his authority",
-    "summary": "Having entered office with virtually no administrative experience, his tenure has been a continuous tightrope walk between balancing the demands of the party’s central leadership and build authority of his own within…",
-    "link": "https://www.thehindu.com/news/national/rajasthan/as-three-year-mark-nears-bhajan-lal-sharma-seeks-to-shed-parchi-cm-tag/article71718633.ece",
-    "time": "2026-11-20T04:10:49+05:30",
+    "headline": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+    "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+    "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+    "time": "2026-11-20T09:18:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Nashik Court grants bail to Imtiaz Jaleel in TCS case on ₹50,000 bond",
-    "summary": "When Mr. Jaleel sought bail, the state opposed, but the court granted release on bond since the sections allow bail",
-    "link": "https://www.thehindu.com/news/national/maharashtra/nashik-court-grants-bail-to-imtiaz-jaleel-in-tcs-case-on-50000-bond/article71720824.ece",
-    "time": "2026-11-20T03:27:35+05:30",
+    "headline": "Shadows over Shahu’s Land: The cost of loving and living across caste",
+    "summary": "More than a century after Chhatrapati Shahu Maharaj, the ruler of Kolhapur, legalized inter-caste unions, the murder of a priest, symbolic funerals, and forced disinheritance reveal how caste prejudice is tightening its…",
+    "link": "https://www.thehindu.com/news/national/maharashtra/shadows-over-shahus-landthe-cost-of-loving-and-living-across-caste/article71719459.ece",
+    "time": "2026-11-20T09:17:23+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy",
-    "summary": "Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece",
-    "time": "2026-11-20T03:21:01+05:30",
+    "headline": "Trump-Xi-Putin trilateral: Compromised PM can never sit at this table, says Rahul Gandhi",
+    "summary": "Rahul Gandhi shared a picture from the rare three-way talks of Mr. Trump, Mr. Xi and Mr. Putin and said “a compromised PM can never sit at this table”",
+    "link": "https://www.thehindu.com/news/national/congress-leader-rahul-gandhi-on-xi-trump-putin-trilateral-meeting/article71723024.ece",
+    "time": "2026-11-20T09:16:33+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Several Bengal districts under alert as cyclone Akvan likely to bring heavy rainfall",
-    "summary": "Squally winds of 40–50 km/h, gusting to 60 km/h, along and off the West Bengal coast will prevail till Friday noon and ease afterward, with very rough sea conditions, says IMD",
-    "link": "https://www.thehindu.com/news/national/west-bengal/several-bengal-districts-under-alert-as-cyclone-akvan-likely-to-bring-heavy-rainfall/article71720970.ece",
-    "time": "2026-11-20T02:53:48+05:30",
+    "headline": "‘Sathyavan Savitri’ movie review: A contrived courtroom drama that tries too hard to be smart",
+    "summary": "In its desperation to outsmart its audience, debutant director Praveen S Vijaay’s ‘Sathyavan Savitri’ forgets that a clever argument is only as good as the evidence backing it",
+    "link": "https://www.thehindu.com/entertainment/movies/sathyavan-savitri-movie-review-keerthy-suresh-mysskin-praveen-s-vijaay-sam-cs/article71721536.ece",
+    "time": "2026-11-20T08:56:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "FIR against two former Bengal Ministers over sexual assault charges",
-    "summary": "Five former Ministers, who had been part of Mamata Banerjee’s cabinet, have been arrested since the BJP government came to power in May 2026",
-    "link": "https://www.thehindu.com/news/national/west-bengal/fir-against-two-former-bengal-ministers-over-sexual-assault-charges/article71721081.ece",
-    "time": "2026-11-20T02:05:27+05:30",
+    "headline": "Vinita Zutshi brings Kashmir’s forgotten folktales to young readers",
+    "summary": "Author and storyteller Vinita Zutshi revisits Kashmir’s oral traditions in a collection of 18 folktales, bringing its characters, customs and storytelling heritage to a new generation of readers",
+    "link": "https://www.thehindu.com/profile/author/vinita-zutshi-brings-kashmirs-forgotten-folktales-to-young-readers/article71718654.ece",
+    "time": "2026-11-20T08:52:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-    "summary": "The severe cyclonic storm is likely to cross north Andhra Pradesh and south Odisha coasts close to Gopalpur by noon on November 20",
-    "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-    "time": "2026-11-20T01:43:37+05:30",
+    "headline": "FSSAI licences suspended of two Karachi Bakery units in Hyderabad, four meat outlets over food safety violations",
+    "summary": "The action was part of a special enforcement drive conducted on Thursday (November 19, 2026) by 11 teams comprising Food Safety Officers and police personnel",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-two-karachi-bakery-units-in-hyderabad-four-meat-outlets-over-food-safety-violations/article71721101.ece",
+    "time": "2026-11-20T08:48:00+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-    "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-    "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
-    "time": "2026-11-19T22:48:22+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
-    "time": "2026-11-19T22:09:04+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-    "time": "2026-11-19T21:38:42+00:00",
+    "headline": "More climate money for Africa? Europe says use what's already pledged",
+    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
+    "time": "2026-11-20T00:54:50+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-    "time": "2026-11-19T21:21:43+00:00",
+    "time": "2026-11-20T00:50:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-    "time": "2026-11-19T20:07:02+00:00",
+    "headline": "Why Canada is embracing AI data centres while the US pushes back",
+    "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+    "time": "2026-11-20T00:13:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-    "time": "2026-11-19T17:38:22+00:00",
+    "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+    "time": "2026-11-20T00:13:21+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "How did Anthropic's stock market debut unfold?",
+    "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+    "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
+    "time": "2026-11-19T23:52:25+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Trump posthumously pardons US baseball legend Pete Rose",
+    "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+    "time": "2026-11-19T23:51:50+00:00",
     "source": "BBC News"
    }
   ]
