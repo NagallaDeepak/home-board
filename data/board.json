@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:35:47.813420+00:00",
+ "updatedAt": "2026-11-21T17:07:47.209973+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 37.7,
-    "feels": 31.5,
-    "hum": 79,
-    "wind": 5.5,
+    "t": 59.9,
+    "feels": 57.3,
+    "hum": 50,
+    "wind": 1.1,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-21",
-     "hi": 58.4,
-     "lo": 35.0,
+     "hi": 61.5,
+     "lo": 34.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.2
+     "gustMph": 12.1
     },
     {
      "date": "2026-11-22",
-     "hi": 56.4,
-     "lo": 37.7,
-     "code": 3,
-     "rain": 92,
-     "rainMm": 2.0,
-     "gustMph": 14.3
+     "hi": 56.0,
+     "lo": 38.0,
+     "code": 63,
+     "rain": 100,
+     "rainMm": 9.7,
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-23",
-     "hi": 63.2,
-     "lo": 46.8,
+     "hi": 63.1,
+     "lo": 45.8,
      "code": 63,
-     "rain": 92,
-     "rainMm": 14.75,
-     "gustMph": 34.9
+     "rain": 96,
+     "rainMm": 15.48,
+     "gustMph": 26.4
     },
     {
      "date": "2026-11-24",
-     "hi": 46.8,
-     "lo": 35.3,
+     "hi": 45.8,
+     "lo": 35.7,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.7
+     "gustMph": 23.0
     },
     {
      "date": "2026-11-25",
-     "hi": 42.8,
-     "lo": 34.0,
+     "hi": 40.4,
+     "lo": 33.2,
      "code": 3,
-     "rain": 3,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.3
+     "gustMph": 20.6
     }
    ],
    "alert": null
@@ -69,16 +69,16 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 30.0,
-    "feels": 29.5,
-    "hum": 33,
-    "wind": 4.7,
-    "code": 0
+    "t": 25.6,
+    "feels": 26.3,
+    "hum": 52,
+    "wind": 4.1,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-21",
-     "hi": 30.0,
+     "hi": 29.7,
      "lo": 20.3,
      "code": 3,
      "rain": 0,
@@ -87,39 +87,39 @@
     },
     {
      "date": "2026-11-22",
-     "hi": 32.0,
-     "lo": 20.6,
+     "hi": 31.8,
+     "lo": 20.7,
      "code": 2,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 13.6
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-23",
      "hi": 31.4,
-     "lo": 21.7,
+     "lo": 21.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.5
+     "gustMph": 17.9
     },
     {
      "date": "2026-11-24",
-     "hi": 31.1,
+     "hi": 31.5,
      "lo": 22.1,
      "code": 3,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.9
+     "gustMph": 18.6
     },
     {
      "date": "2026-11-25",
-     "hi": 29.9,
-     "lo": 21.5,
-     "code": 3,
-     "rain": 26,
-     "rainMm": 0.0,
-     "gustMph": 16.8
+     "hi": 30.4,
+     "lo": 21.7,
+     "code": 51,
+     "rain": 35,
+     "rainMm": 0.6,
+     "gustMph": 17.0
     }
    ],
    "alert": null
@@ -130,27 +130,27 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 30.9,
-    "feels": 32.6,
-    "hum": 43,
-    "wind": 3.3,
+    "t": 23.5,
+    "feels": 26.4,
+    "hum": 77,
+    "wind": 2.4,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-21",
-     "hi": 31.0,
-     "lo": 21.8,
+     "hi": 31.2,
+     "lo": 21.9,
      "code": 0,
-     "rain": 2,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.8
+     "gustMph": 13.2
     },
     {
      "date": "2026-11-22",
      "hi": 31.4,
-     "lo": 20.8,
-     "code": 2,
+     "lo": 21.2,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 11.0
@@ -158,29 +158,29 @@
     {
      "date": "2026-11-23",
      "hi": 32.5,
-     "lo": 22.4,
-     "code": 3,
+     "lo": 22.1,
+     "code": 45,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 12.1
     },
     {
      "date": "2026-11-24",
-     "hi": 32.7,
+     "hi": 32.5,
      "lo": 24.0,
      "code": 55,
-     "rain": 46,
-     "rainMm": 2.1,
-     "gustMph": 18.6
+     "rain": 65,
+     "rainMm": 5.0,
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-25",
-     "hi": 30.9,
-     "lo": 24.1,
-     "code": 55,
-     "rain": 77,
-     "rainMm": 3.9,
-     "gustMph": 20.4
+     "hi": 30.0,
+     "lo": 23.3,
+     "code": 51,
+     "rain": 83,
+     "rainMm": 1.8,
+     "gustMph": 18.8
     }
    ],
    "alert": null
@@ -189,137 +189,165 @@
  "news": {
   "andhra": [
    {
-    "headline": "Four killed in a road accident in Prakasam district",
-    "summary": "According to the police, the accident took place near Pelluru village at around 6:10 a.m",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/four-killed-in-a-road-accident-in-prakasam-district/article71727455.ece",
-    "time": "2026-11-21T13:45:31+05:30",
+    "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
+    "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
+    "time": "2026-11-21T20:53:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Srikakulam releases 15,440 cusecs as inflows moderate after cyclone floods",
-    "summary": "The district administration heaved a sigh of relief as inflows are moderate compared to inflows of nearly one lakh cusecs one month ago due to the cyclone that caused havoc in Ichchapuram and other places",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-releases-15440-cusecs-as-inflows-moderate-after-cyclone-floods/article71727552.ece",
-    "time": "2026-11-21T13:17:01+05:30",
+    "headline": "India’s first AI, Quantum University campus inaugurated in Guntur of Andhra Pradesh",
+    "summary": "National Institute of Electronics & Information Technology transit campus on the premises of Acharya Nagarjuna University to commence training programmes on December 1, 2026",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-ai-quantum-university-campus-inagurated-in-guntur-of-andhra-pradesh/article71728573.ece",
+    "time": "2026-11-21T20:45:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Aviation Minister to inaugurate two-day Vizag Junior Literary Fest November 21",
-    "summary": "Beginning Saturday, the two-day festival will feature 20 speakers and 50 sessions each day for children aged 4 to 16",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/aviation-minister-to-inaugurate-two-day-vizag-junior-literary-fest-today/article71724490.ece",
-    "time": "2026-11-21T12:59:23+05:30",
+    "headline": "Congress to organise ‘Samvidhan Raksha March’ across Andhra Pradesh on November 26",
+    "summary": "Aim is to promote constitutional values, protect democratic institutions and safeguard citizens’ voting right, says APCC vice-president Kolanukonda Shivaji",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/congress-to-organise-samvidhan-raksha-march-across-andhra-pradesh-on-november-26/article71728925.ece",
+    "time": "2026-11-21T20:42:46+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Cyclone Akvan: Heavy rain inundates low-lying areas of Ichchapuram, Sompeta in Srikakulam district",
-    "summary": "Ichchapuram records 184.6 mm in 24 hours; the Collector says leave for all officials has been cancelled for relief work",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-heavy-rain-inundates-low-lying-areas-of-ichchapuram-sompeta-in-srikakulam-district/article71723029.ece",
-    "time": "2026-11-21T10:03:22+05:30",
+    "headline": "Proactive approach attracting investors to Andhra Pradesh, says Chief Minister Chandrababu Naidu",
+    "summary": "Infrastructure and financial support being extended by the government is the reason behind it, and not ‘unfair competition’ as is being labelled by a few States, the Chief Minister asserts",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/proactive-approach-attracting-investors-to-andhra-pradesh-says-chief-minister-chandrababu-naidu/article71728294.ece",
+    "time": "2026-11-21T20:35:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hemalatha becomes first ZP Chairperson of Tirupati district",
+    "headline": "Local body election results proved that people will stand by governments that deliver: Chandrababu Naidu",
+    "summary": "The NDA has become stronger and public support for the YSRCP waned, he says, adding that the overwhelming mandate increased the responsibility of the coalition, and we will strive to fulfil our commitments",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-election-results-proved-that-people-will-stand-by-governments-that-deliver-chandrababu-naidu/article71728488.ece",
+    "time": "2026-11-21T20:31:50+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Ministers express grief over Prakasam district road accident",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/hemalatha-becomes-first-zp-chairperson-of-tirupati-district/article71725240.ece",
-    "time": "2026-11-21T08:50:26+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh bags seven national awards under PM SVANidhi scheme",
-    "summary": "Andhra Pradesh secures first rank at the national level for conducting special campaigns, second rank in loan disbursement and third in overall performance under PM SVANidhi",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-bags-seven-national-awards-under-pm-svanidhi-scheme/article71725081.ece",
-    "time": "2026-11-21T08:49:17+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ministers-express-grief-over-prakasam-district-road-accident/article71728873.ece",
+    "time": "2026-11-21T20:29:13+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "People will never forget BRS corruption: Telangana Congress president Mahesh Kumar Goud",
+    "headline": "TGSPDCL sub-engineer caught taking ₹30,000 bribe in Hyderabad",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/people-will-never-forget-brs-corruption-telangana-congress-president-mahesh-kumar-goud/article71727728.ece",
-    "time": "2026-11-21T14:06:10+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/tgspdcl-sub-engineer-caught-taking-30000-bribe-in-hyderabad/article71729010.ece",
+    "time": "2026-11-21T21:30:02+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Six to eight months traffic disruption for Hyderabad’s Ranigunj underbridge renovation",
+    "headline": "Nasha Mukt Bharat: Ramchander calls for collective fight against drug menace",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/ranigunj-underbridge-renovation-to-disrupt-traffic-for-6-8-months/article71725526.ece",
-    "time": "2026-11-21T13:22:24+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/nasha-mukt-bharat-ramchander-calls-for-collective-fight-against-drug-menace/article71728794.ece",
+    "time": "2026-11-21T21:14:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BJP in tandem with BRS to obstruct Telangana’s development: Chamala Kiran Kumar Reddy",
+    "headline": "BRS condemns attack on Meta office",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bjp-in-tandem-with-brs-to-obstruct-telanganas-development-chamala-kiran-kumar-reddy/article71727627.ece",
-    "time": "2026-11-21T13:18:29+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/brs-condemns-attack-on-meta-office/article71728994.ece",
+    "time": "2026-11-21T21:11:16+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana SAFE suspends FSSAI licences of four Hyderabad eateries over food safety violations",
-    "summary": "Inspections at the establishments in Hyderabad revealed cockroach infestation, rat droppings, unhygienic kitchen, improper segregation of vegetarian and non-vegetarian food, damaged flooring, use of synthetic food…",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-safe-suspends-fssai-licences-of-four-hyderabad-eateries-over-food-safety-violations/article71727546.ece",
-    "time": "2026-11-21T13:08:58+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Youth Congress workers detained over protest against Meta for blocking social media accounts",
-    "summary": "The IYC workers staged a demonstration against Meta in Hyderabad over alleged blocking of social media accounts. Over 21 protesters were released following a three-hour detention by police",
-    "link": "https://www.thehindu.com/news/national/telangana/youth-congress-workers-detained-over-protest-against-meta/article71727431.ece",
-    "time": "2026-11-21T13:06:15+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+    "headline": "Hyderabad gears up for Pulse Polio drive on November 22, targets 5.22 lakh children",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
-    "time": "2026-11-21T12:34:36+05:30",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-pulse-polio-drive-on-november-22-targets-522-lakh-children/article71728975.ece",
+    "time": "2026-11-21T20:45:30+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "More than 50% population uses pedestrian spaces, why focus on cars, asks panellist at IRC",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/more-than-50-population-uses-pedestrian-spaces-why-focus-on-cars-asks-panellist-at-irc/article71728849.ece",
+    "time": "2026-11-21T20:42:43+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "MBT leader petitions MEA over plight of two expats in West Asia",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/mbt-leader-petitions-mea-over-plight-of-two-expats-in-west-asia/article71728129.ece",
+    "time": "2026-11-21T20:37:54+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Karnataka to make fresh bid for ST status for Kadugolla and Hattigolla communities",
-    "summary": "The State Cabinet, chaired by CM D.K. Shivakumar on November 19, decided to renew its recommendation to the Union Government after obtaining fresh evidence through a comprehensive ethnographic study",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-make-fresh-bid-for-st-status-for-kadugolla-and-hattigolla-communities/article71727749.ece",
-    "time": "2026-11-21T14:55:56+05:30",
+    "headline": "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/raichur-is-a-treasure-trove-of-kannada-literature-says-rajappa-dalawai/article71728610.ece",
+    "time": "2026-11-21T22:25:30+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Karnataka Chief Minister to lead delegation to Japan for investment talks and urban-planning study",
-    "summary": "The visit will focus on two areas: attracting fresh investments from Japanese companies and understanding Japan’s approach to urban planning, transport, waste management, and infrastructure development",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece",
-    "time": "2026-11-21T14:55:47+05:30",
+    "headline": "Dharwad to host State-level 10K cross-country run on Nov. 29",
+    "summary": "The District Olympics Association is organising the event as part of the Rajyotsava celebrations",
+    "link": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
+    "time": "2026-11-21T22:25:26+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Rajasthan panchayat polls: BJP's urban gains fail to translate into rural support",
-    "summary": "The outcome is particularly significant as several BJP ministers faced electoral setbacks in their areas of influence",
-    "link": "https://www.thehindu.com/news/national/rajasthan/bjps-urban-gains-fail-to-win-rural-support-in-rajasthan-panchayat-polls/article71727789.ece",
-    "time": "2026-11-21T14:55:16+05:30",
+    "headline": "Political rivals, cinema veterans share spotlight at Anirudh-Kavya wedding reception",
+    "summary": "The reception brought together political rivals with Tamilaga Vettri Kazhagam president and Chief Minister C. Joseph Vijay, who is an actor-turned-politician; DMK president M.K. Stalin and AIADMK general secretary…",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/political-rivals-cinema-veterans-share-spotlight-at-anirudh-kavya-wedding-reception/article71729098.ece",
+    "time": "2026-11-21T22:15:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Thousands of govt staff, teachers lay siege to Keralam Secretariat demanding service benefits, pay revision",
-    "summary": "Protest organised by Action Council of State Employees and Teachers. Inaugurating the agitation, Opposition Leader Pinarayi Vijayan said the siege was a stern warning to State government against 'denying employees their…",
-    "link": "https://www.thehindu.com/news/national/kerala/thousands-of-govt-staff-teachers-lay-siege-to-keralam-secretariat-demanding-service-benefits-pay-revision/article71727680.ece",
-    "time": "2026-11-21T14:51:00+05:30",
+    "headline": "Taj Yelahanka, Tata Group’s 400th hotel, opens in Bengaluru",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/karnataka/taj-yelahanka-tata-groups-400th-hotel-opens-in-bengaluru/article71729251.ece",
+    "time": "2026-11-21T22:13:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Watch: PM Modi to inaugurate ₹5,500-crore Nitish Setu in Bihar",
-    "summary": "Prime Minister Narendra Modi is visiting Bihar on November 21 to inaugurate Nitish Setu, a 9.76-km-long, six-lane bridge across the Ganga built at a cost of ₹5,500 crore. Connecting Kacchi Dargah in Patna with Bidupur…",
-    "link": "https://www.thehindu.com/videos/watch-pm-modi-to-inaugurate-5500-crore-nitish-setu-in-bihar/article71727803.ece",
-    "time": "2026-11-21T14:37:33+05:30",
+    "headline": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
+    "time": "2026-11-21T22:08:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot",
-    "summary": "Nikhil Gupta pleaded guilty earlier this year to charges of murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani…",
-    "link": "https://www.thehindu.com/news/national/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot/article71725795.ece",
-    "time": "2026-11-21T14:31:11+05:30",
+    "headline": "NEET paper leak case: Delhi court frames charges against 14 accused",
+    "summary": "Special Judge Ajay Gupta framed the charges after noting the accused pleaded ‘not guilty’, with the trial set to begin on a day-to-day basis from November 25",
+    "link": "https://www.thehindu.com/news/national/neet-paper-leak-case-delhi-court-frames-charges-against-14-accused/article71728867.ece",
+    "time": "2026-11-21T21:57:02+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+    "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+    "time": "2026-11-21T08:58:33-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Jury finds man guilty in retrial over devastating 2025 Palisades fire in Los Angeles",
+    "summary": "After a mistrial earlier in the year, a new jury has found the man accused of starting the devastating 2025 Palisades fire in Los Angeles guilty.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049150/jury-finds-man-guilty-in-retrial-over-devastating-2025-palisades-fire-in-los-angeles",
+    "time": "2026-11-21T07:40:23-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+    "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+    "time": "2026-11-21T07:40:17-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+    "summary": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+    "time": "2026-11-21T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Trump's impact on an Ohio steel plant",
     "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed…",
@@ -329,81 +357,53 @@
    },
    {
     "headline": "MLK's handwritten draft of iconic speech on display for the first time",
-    "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+    "summary": "The only known handwritten draft of the Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
     "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
     "time": "2026-11-20T16:38:05-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Preppers aren't afraid of an outage",
-    "summary": "In the wake of a series of tech failures, major government network crashes and flight stoppages, many people online are looking to preppers to learn how to become self-reliant.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6044297/preppers-arent-afraid-of-an-outage",
-    "time": "2026-11-20T16:30:58-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-    "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-    "time": "2026-11-20T13:25:09-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-    "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-    "time": "2026-11-20T07:24:40-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-    "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-    "time": "2026-11-20T06:37:35-05:00",
     "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-    "time": "2026-11-21T09:27:51+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-    "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-    "time": "2026-11-21T08:10:25+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Trafalgar Square Christmas tree felled in Norway",
-    "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
-    "time": "2026-11-21T08:10:03+00:00",
+    "headline": "FBI reportedly investigating apparent hack of its criminal database",
+    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+    "time": "2026-11-21T16:35:15+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-    "time": "2026-11-21T07:31:05+00:00",
+    "time": "2026-11-21T14:54:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Man convicted of starting Palisades fire in Los Angeles",
-    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
-    "time": "2026-11-21T04:34:00+00:00",
+    "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+    "time": "2026-11-21T13:17:38+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-    "time": "2026-11-21T01:02:39+00:00",
+    "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+    "time": "2026-11-21T13:15:21+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+    "time": "2026-11-21T10:26:36+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+    "time": "2026-11-21T09:40:55+00:00",
     "source": "BBC News"
    }
   ]
