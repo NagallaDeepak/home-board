@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:07:47.209973+00:00",
+ "updatedAt": "2026-11-21T22:17:03.739248+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 59.9,
-    "feels": 57.3,
-    "hum": 50,
-    "wind": 1.1,
-    "code": 0
+    "t": 47.8,
+    "feels": 45.1,
+    "hum": 83,
+    "wind": 2.3,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-21",
-     "hi": 61.5,
+     "hi": 62.3,
      "lo": 34.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-22",
-     "hi": 56.0,
-     "lo": 38.0,
-     "code": 63,
-     "rain": 100,
-     "rainMm": 9.7,
-     "gustMph": 15.0
+     "hi": 57.6,
+     "lo": 40.6,
+     "code": 53,
+     "rain": 73,
+     "rainMm": 1.9,
+     "gustMph": 13.6
     },
     {
      "date": "2026-11-23",
-     "hi": 63.1,
-     "lo": 45.8,
+     "hi": 62.7,
+     "lo": 45.4,
      "code": 63,
-     "rain": 96,
-     "rainMm": 15.48,
-     "gustMph": 26.4
+     "rain": 94,
+     "rainMm": 11.9,
+     "gustMph": 26.8
     },
     {
      "date": "2026-11-24",
-     "hi": 45.8,
-     "lo": 35.7,
-     "code": 0,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 23.0
-    },
-    {
-     "date": "2026-11-25",
-     "hi": 40.4,
-     "lo": 33.2,
+     "hi": 45.4,
+     "lo": 35.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 20.6
+     "gustMph": 23.7
+    },
+    {
+     "date": "2026-11-25",
+     "hi": 40.8,
+     "lo": 32.9,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 21.3
     }
    ],
    "alert": null
@@ -69,35 +69,26 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 25.6,
-    "feels": 26.3,
-    "hum": 52,
-    "wind": 4.1,
-    "code": 1
+    "t": 22.1,
+    "feels": 24.3,
+    "hum": 79,
+    "wind": 3.2,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-21",
-     "hi": 29.7,
-     "lo": 20.3,
+     "date": "2026-11-22",
+     "hi": 31.8,
+     "lo": 21.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.0
-    },
-    {
-     "date": "2026-11-22",
-     "hi": 31.8,
-     "lo": 20.7,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.9
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-23",
-     "hi": 31.4,
-     "lo": 21.8,
+     "hi": 31.5,
+     "lo": 22.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -105,21 +96,30 @@
     },
     {
      "date": "2026-11-24",
-     "hi": 31.5,
-     "lo": 22.1,
+     "hi": 31.3,
+     "lo": 22.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 19.0
     },
     {
      "date": "2026-11-25",
-     "hi": 30.4,
-     "lo": 21.7,
+     "hi": 31.2,
+     "lo": 21.9,
      "code": 51,
      "rain": 35,
-     "rainMm": 0.6,
+     "rainMm": 0.3,
      "gustMph": 17.0
+    },
+    {
+     "date": "2026-11-26",
+     "hi": 28.5,
+     "lo": 21.9,
+     "code": 51,
+     "rain": 38,
+     "rainMm": 1.5,
+     "gustMph": 15.9
     }
    ],
    "alert": null
@@ -130,56 +130,56 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.5,
-    "feels": 26.4,
-    "hum": 77,
-    "wind": 2.4,
-    "code": 0
+    "t": 21.8,
+    "feels": 25.8,
+    "hum": 93,
+    "wind": 1.1,
+    "code": 1
    },
    "days": [
     {
-     "date": "2026-11-21",
-     "hi": 31.2,
-     "lo": 21.9,
-     "code": 0,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.2
-    },
-    {
      "date": "2026-11-22",
-     "hi": 31.4,
-     "lo": 21.2,
-     "code": 1,
+     "hi": 31.7,
+     "lo": 21.8,
+     "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.0
+     "gustMph": 10.7
     },
     {
      "date": "2026-11-23",
-     "hi": 32.5,
-     "lo": 22.1,
-     "code": 45,
+     "hi": 32.9,
+     "lo": 22.6,
+     "code": 3,
      "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 12.1
+     "gustMph": 12.3
     },
     {
      "date": "2026-11-24",
-     "hi": 32.5,
-     "lo": 24.0,
-     "code": 55,
+     "hi": 32.4,
+     "lo": 24.2,
+     "code": 80,
      "rain": 65,
-     "rainMm": 5.0,
-     "gustMph": 20.4
+     "rainMm": 6.2,
+     "gustMph": 24.4
     },
     {
      "date": "2026-11-25",
-     "hi": 30.0,
-     "lo": 23.3,
+     "hi": 30.6,
+     "lo": 23.7,
      "code": 51,
      "rain": 83,
-     "rainMm": 1.8,
+     "rainMm": 1.9,
+     "gustMph": 17.4
+    },
+    {
+     "date": "2026-11-26",
+     "hi": 30.2,
+     "lo": 23.5,
+     "code": 53,
+     "rain": 86,
+     "rainMm": 1.5,
      "gustMph": 18.8
     }
    ],
@@ -189,45 +189,45 @@
  "news": {
   "andhra": [
    {
-    "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
-    "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
-    "time": "2026-11-21T20:53:36+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "India’s first AI, Quantum University campus inaugurated in Guntur of Andhra Pradesh",
-    "summary": "National Institute of Electronics & Information Technology transit campus on the premises of Acharya Nagarjuna University to commence training programmes on December 1, 2026",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-ai-quantum-university-campus-inagurated-in-guntur-of-andhra-pradesh/article71728573.ece",
-    "time": "2026-11-21T20:45:43+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Congress to organise ‘Samvidhan Raksha March’ across Andhra Pradesh on November 26",
-    "summary": "Aim is to promote constitutional values, protect democratic institutions and safeguard citizens’ voting right, says APCC vice-president Kolanukonda Shivaji",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/congress-to-organise-samvidhan-raksha-march-across-andhra-pradesh-on-november-26/article71728925.ece",
-    "time": "2026-11-21T20:42:46+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Proactive approach attracting investors to Andhra Pradesh, says Chief Minister Chandrababu Naidu",
-    "summary": "Infrastructure and financial support being extended by the government is the reason behind it, and not ‘unfair competition’ as is being labelled by a few States, the Chief Minister asserts",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/proactive-approach-attracting-investors-to-andhra-pradesh-says-chief-minister-chandrababu-naidu/article71728294.ece",
-    "time": "2026-11-21T20:35:30+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Local body election results proved that people will stand by governments that deliver: Chandrababu Naidu",
-    "summary": "The NDA has become stronger and public support for the YSRCP waned, he says, adding that the overwhelming mandate increased the responsibility of the coalition, and we will strive to fulfil our commitments",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-election-results-proved-that-people-will-stand-by-governments-that-deliver-chandrababu-naidu/article71728488.ece",
-    "time": "2026-11-21T20:31:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Ministers express grief over Prakasam district road accident",
+    "headline": "Vijayawada girl selected for National Roller Skating Championship",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ministers-express-grief-over-prakasam-district-road-accident/article71728873.ece",
-    "time": "2026-11-21T20:29:13+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-girl-selected-for-national-roller-skating-championship/article71728989.ece",
+    "time": "2026-11-21T23:28:26+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
+    "summary": "He approves construction of a temple for Lord Surya and Brihaspati in Rajamahendravaram at a cost of ₹1.80 crore and instructs officials to focus on crowd control and regulating vehicular traffic",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/adopt-best-practices-from-maha-kumbh-meal-for-conduct-of-godavaripushkaralu-cm-tells-officials/article71729072.ece",
+    "time": "2026-11-21T23:28:15+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/quality-of-life-must-be-the-ultimate-goal-of-viksit-bharat-says-icssr-chairman/article71729035.ece",
+    "time": "2026-11-21T23:22:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Fire in toys factory, no casualties reported",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/fire-in-toys-factory-no-casualties-reported/article71729062.ece",
+    "time": "2026-11-21T23:19:12+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "TDP making derogatory remarks against YSRCP’s Srikakulam mayoral candidate: Dharmana",
+    "summary": "Former Minister says the remarks against Gunda Lakshmi Devi stem from the TDP’s fear of defeat; MLA Gondu Shankar denies the charge, saying his comments were misunderstood",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-making-derogatory-remarks-against-ysrcps-srikakulam-mayoral-candidate-dharmana/article71728302.ece",
+    "time": "2026-11-21T21:41:28+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Rajam will see rapid development under NDA, says MLA",
+    "summary": "Kondru Muralimohan seeks support for JSP chairperson candidate, councillors of NDA",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/rajam-will-see-rapid-development-under-nda-says-mla/article71728310.ece",
+    "time": "2026-11-21T21:10:40+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,49 +277,56 @@
   ],
   "india": [
    {
-    "headline": "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/raichur-is-a-treasure-trove-of-kannada-literature-says-rajappa-dalawai/article71728610.ece",
-    "time": "2026-11-21T22:25:30+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Dharwad to host State-level 10K cross-country run on Nov. 29",
-    "summary": "The District Olympics Association is organising the event as part of the Rajyotsava celebrations",
-    "link": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
-    "time": "2026-11-21T22:25:26+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Political rivals, cinema veterans share spotlight at Anirudh-Kavya wedding reception",
-    "summary": "The reception brought together political rivals with Tamilaga Vettri Kazhagam president and Chief Minister C. Joseph Vijay, who is an actor-turned-politician; DMK president M.K. Stalin and AIADMK general secretary…",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/political-rivals-cinema-veterans-share-spotlight-at-anirudh-kavya-wedding-reception/article71729098.ece",
-    "time": "2026-11-21T22:15:15+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Taj Yelahanka, Tata Group’s 400th hotel, opens in Bengaluru",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/taj-yelahanka-tata-groups-400th-hotel-opens-in-bengaluru/article71729251.ece",
-    "time": "2026-11-21T22:13:24+05:30",
-    "source": "The Hindu"
-   },
-   {
     "headline": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
-    "summary": "",
+    "summary": "‘Students and Aga sahib were removed from the site against their will; the demand stands: a fair probe into the alleged FAA rigging; this fight isn’t over,’ said a protester",
     "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
-    "time": "2026-11-21T22:08:11+05:30",
+    "time": "2026-11-22T01:19:20+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NEET paper leak case: Delhi court frames charges against 14 accused",
-    "summary": "Special Judge Ajay Gupta framed the charges after noting the accused pleaded ‘not guilty’, with the trial set to begin on a day-to-day basis from November 25",
-    "link": "https://www.thehindu.com/news/national/neet-paper-leak-case-delhi-court-frames-charges-against-14-accused/article71728867.ece",
-    "time": "2026-11-21T21:57:02+05:30",
+    "headline": "Vasan urges political parties to fight for Cauvery water rights",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/vasan-urges-political-parties-to-fight-for-cauvery-water-rights/article71728246.ece",
+    "time": "2026-11-22T01:14:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal",
+    "summary": "According to the guidelines, general transfers will ordinarily be conducted between April 1 and May 31 every year. Applications will be received through the online portal between March 1 and 31. Employees who have…",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/municipal-staff-transfers-to-move-online-by-tamil-nadu-government-with-vacancies-displayed-on-portal/article71727871.ece",
+    "time": "2026-11-22T01:14:13+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "AIPC Tamil Nadu to support MSMEs through professional network",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
+    "time": "2026-11-22T01:12:58+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
+    "time": "2026-11-22T01:12:47+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "T.N. may see solar energy installations slowing down, say energy generators",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+    "time": "2026-11-22T01:12:20+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Storms expected on both coasts threatens Thanksgiving travel",
+    "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+    "time": "2026-11-21T13:22:46-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
     "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
@@ -354,16 +361,37 @@
     "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
     "time": "2026-11-20T16:38:11-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "MLK's handwritten draft of iconic speech on display for the first time",
-    "summary": "The only known handwritten draft of the Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-    "time": "2026-11-20T16:38:05-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
+   {
+    "headline": "Lock of former US President George Washington's hair sells for $4,000",
+    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
+    "time": "2026-11-21T22:01:19+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+    "time": "2026-11-21T21:05:29+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+    "time": "2026-11-21T19:33:49+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Russia-bound ship attacked in Gulf of Finland",
+    "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+    "time": "2026-11-21T19:20:22+00:00",
+    "source": "BBC News"
+   },
    {
     "headline": "FBI reportedly investigating apparent hack of its criminal database",
     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
@@ -372,38 +400,10 @@
     "source": "BBC News"
    },
    {
-    "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-    "time": "2026-11-21T14:54:24+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
     "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
     "time": "2026-11-21T13:17:38+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-    "time": "2026-11-21T13:15:21+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-    "time": "2026-11-21T10:26:36+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-    "time": "2026-11-21T09:40:55+00:00",
     "source": "BBC News"
    }
   ]
