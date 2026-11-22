@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:17:03.739248+00:00",
+ "updatedAt": "2026-11-22T02:29:44.564460+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,10 +8,10 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 47.8,
-    "feels": 45.1,
-    "hum": 83,
-    "wind": 2.3,
+    "t": 43.9,
+    "feels": 39.6,
+    "hum": 72,
+    "wind": 2.2,
     "code": 3
    },
    "days": [
@@ -22,46 +22,46 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 11.2
     },
     {
      "date": "2026-11-22",
-     "hi": 57.6,
-     "lo": 40.6,
-     "code": 53,
-     "rain": 73,
-     "rainMm": 1.9,
-     "gustMph": 13.6
-    },
-    {
-     "date": "2026-11-23",
-     "hi": 62.7,
-     "lo": 45.4,
-     "code": 63,
-     "rain": 94,
-     "rainMm": 11.9,
+     "hi": 59.8,
+     "lo": 38.7,
+     "code": 65,
+     "rain": 75,
+     "rainMm": 32.0,
      "gustMph": 26.8
     },
     {
+     "date": "2026-11-23",
+     "hi": 63.6,
+     "lo": 45.2,
+     "code": 65,
+     "rain": 80,
+     "rainMm": 63.6,
+     "gustMph": 28.2
+    },
+    {
      "date": "2026-11-24",
-     "hi": 45.4,
-     "lo": 35.6,
-     "code": 3,
+     "hi": 45.2,
+     "lo": 36.0,
+     "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.7
+     "gustMph": 23.0
     },
     {
      "date": "2026-11-25",
-     "hi": 40.8,
-     "lo": 32.9,
+     "hi": 41.8,
+     "lo": 34.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.3
+     "gustMph": 19.9
     }
    ],
-   "alert": null
+   "alert": "Sun: rain expected, about 32 mm · Mon: heavy rain, about 64 mm"
   },
   {
    "id": "hyderabad",
@@ -69,35 +69,35 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.1,
-    "feels": 24.3,
+    "t": 22.2,
+    "feels": 24.8,
     "hum": 79,
-    "wind": 3.2,
+    "wind": 1.8,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-22",
-     "hi": 31.8,
-     "lo": 21.2,
-     "code": 3,
+     "hi": 31.1,
+     "lo": 21.1,
+     "code": 51,
      "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.6
+     "rainMm": 0.1,
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-23",
-     "hi": 31.5,
-     "lo": 22.1,
+     "hi": 31.3,
+     "lo": 21.7,
      "code": 3,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 19.5
     },
     {
      "date": "2026-11-24",
-     "hi": 31.3,
-     "lo": 22.2,
+     "hi": 31.0,
+     "lo": 22.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -105,21 +105,21 @@
     },
     {
      "date": "2026-11-25",
-     "hi": 31.2,
-     "lo": 21.9,
-     "code": 51,
-     "rain": 35,
-     "rainMm": 0.3,
-     "gustMph": 17.0
+     "hi": 29.4,
+     "lo": 22.1,
+     "code": 80,
+     "rain": 29,
+     "rainMm": 3.8,
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-26",
-     "hi": 28.5,
+     "hi": 28.3,
      "lo": 21.9,
      "code": 51,
-     "rain": 38,
+     "rain": 29,
      "rainMm": 1.5,
-     "gustMph": 15.9
+     "gustMph": 13.6
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 21.8,
-    "feels": 25.8,
-    "hum": 93,
-    "wind": 1.1,
-    "code": 1
+    "t": 24.3,
+    "feels": 28.5,
+    "hum": 83,
+    "wind": 1.3,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-22",
-     "hi": 31.7,
-     "lo": 21.8,
+     "hi": 31.8,
+     "lo": 22.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 10.7
+     "gustMph": 11.2
     },
     {
      "date": "2026-11-23",
-     "hi": 32.9,
-     "lo": 22.6,
+     "hi": 33.1,
+     "lo": 22.9,
      "code": 3,
-     "rain": 2,
+     "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 12.3
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-24",
-     "hi": 32.4,
-     "lo": 24.2,
-     "code": 80,
-     "rain": 65,
-     "rainMm": 6.2,
-     "gustMph": 24.4
+     "hi": 31.7,
+     "lo": 24.4,
+     "code": 53,
+     "rain": 59,
+     "rainMm": 2.3,
+     "gustMph": 21.3
     },
     {
      "date": "2026-11-25",
-     "hi": 30.6,
-     "lo": 23.7,
-     "code": 51,
-     "rain": 83,
-     "rainMm": 1.9,
-     "gustMph": 17.4
+     "hi": 31.0,
+     "lo": 23.6,
+     "code": 80,
+     "rain": 82,
+     "rainMm": 6.8,
+     "gustMph": 23.3
     },
     {
      "date": "2026-11-26",
-     "hi": 30.2,
-     "lo": 23.5,
-     "code": 53,
-     "rain": 86,
-     "rainMm": 1.5,
-     "gustMph": 18.8
+     "hi": 30.1,
+     "lo": 23.7,
+     "code": 51,
+     "rain": 80,
+     "rainMm": 2.7,
+     "gustMph": 14.3
     }
    ],
    "alert": null
@@ -188,6 +188,13 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
+    "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
+    "time": "2026-11-22T04:55:39+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Vijayawada girl selected for National Roller Skating Championship",
     "summary": "",
@@ -221,13 +228,6 @@
     "summary": "Former Minister says the remarks against Gunda Lakshmi Devi stem from the TDP’s fear of defeat; MLA Gondu Shankar denies the charge, saying his comments were misunderstood",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-making-derogatory-remarks-against-ysrcps-srikakulam-mayoral-candidate-dharmana/article71728302.ece",
     "time": "2026-11-21T21:41:28+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Rajam will see rapid development under NDA, says MLA",
-    "summary": "Kondru Muralimohan seeks support for JSP chairperson candidate, councillors of NDA",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/rajam-will-see-rapid-development-under-nda-says-mla/article71728310.ece",
-    "time": "2026-11-21T21:10:40+05:30",
     "source": "The Hindu"
    }
   ],
@@ -277,45 +277,45 @@
   ],
   "india": [
    {
-    "headline": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
-    "summary": "‘Students and Aga sahib were removed from the site against their will; the demand stands: a fair probe into the alleged FAA rigging; this fight isn’t over,’ said a protester",
-    "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
-    "time": "2026-11-22T01:19:20+05:30",
+    "headline": "FUJIFILM’s Spectrum tour enthrals visual creators, photography enthusiasts in Bengaluru",
+    "summary": "The three-day event featured specialised experience zones focusing on distinct creative mediums, including vlogging, cinematography, street photography and portraiture",
+    "link": "https://www.thehindu.com/news/national/karnataka/fujifilms-spectrum-tour-enthrals-visual-creators-photography-enthusiasts-in-bengaluru/article71646534.ece",
+    "time": "2026-11-22T07:35:04+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Vasan urges political parties to fight for Cauvery water rights",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/vasan-urges-political-parties-to-fight-for-cauvery-water-rights/article71728246.ece",
-    "time": "2026-11-22T01:14:42+05:30",
+    "headline": "Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
+    "summary": "The former Jammu and Kashmir Chief Minister says nearly 2,000 kanals of land have been damaged, threatening the livelihoods of 150 families; the NGT has directed a panel to inspect the site and recommend action",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmirs-famed-saffron-fields-have-been-used-as-dumping-grounds-for-three-years-mehbooba-mufti/article71729314.ece",
+    "time": "2026-11-22T07:08:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal",
-    "summary": "According to the guidelines, general transfers will ordinarily be conducted between April 1 and May 31 every year. Applications will be received through the online portal between March 1 and 31. Employees who have…",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/municipal-staff-transfers-to-move-online-by-tamil-nadu-government-with-vacancies-displayed-on-portal/article71727871.ece",
-    "time": "2026-11-22T01:14:13+05:30",
+    "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
+    "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
+    "time": "2026-11-22T04:55:39+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "AIPC Tamil Nadu to support MSMEs through professional network",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
-    "time": "2026-11-22T01:12:58+05:30",
+    "headline": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
+    "summary": "‘Our teams have drawn up a detailed roadmap of cooperation, so we will be approving that today, and I think that will give a very clear pathway to our activities ahead,’ said S. Jaishankar",
+    "link": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
+    "time": "2026-11-22T02:58:42+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
-    "time": "2026-11-22T01:12:47+05:30",
+    "headline": "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
+    "summary": "Medical experts say that the use of fairness creams containing heavy metals such as mercury to lighten the skin is emerging as a major health hazard that can lead to serious conditions such as kidney failure if not…",
+    "link": "https://www.thehindu.com/news/national/kerala/medicos-warn-against-craze-for-fairness-after-17-year-old-keralam-girl-diagnosed-with-kidney-disorder/article71728705.ece",
+    "time": "2026-11-22T01:44:51+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "T.N. may see solar energy installations slowing down, say energy generators",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
-    "time": "2026-11-22T01:12:20+05:30",
+    "headline": "Clamour to reintroduce adequate number of air-conditioned buses in Kochi grows louder",
+    "summary": "While many of the AC buses were diverted to long-distance routes, the KSRTC had to scrap most of its non-AC low-floor counterparts due to improper upkeep",
+    "link": "https://www.thehindu.com/news/national/kerala/clamour-to-reintroduce-adequate-number-of-air-conditioned-buses-in-kochi-grows-louder/article71728774.ece",
+    "time": "2026-11-22T01:37:35+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Lock of former US President George Washington's hair sells for $4,000",
-    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
-    "time": "2026-11-21T22:01:19+00:00",
-    "source": "BBC News"
-   },
-   {
     "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-    "time": "2026-11-21T21:05:29+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-    "time": "2026-11-21T19:33:49+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Russia-bound ship attacked in Gulf of Finland",
-    "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-    "time": "2026-11-21T19:20:22+00:00",
+    "time": "2026-11-22T01:25:03+00:00",
     "source": "BBC News"
    },
    {
     "headline": "FBI reportedly investigating apparent hack of its criminal database",
     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-    "time": "2026-11-21T16:35:15+00:00",
+    "time": "2026-11-22T00:10:44+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
-    "time": "2026-11-21T13:17:38+00:00",
+    "headline": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+    "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
+    "time": "2026-11-22T00:10:37+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "How a teen gamer and his mother helped rescue a missing girl",
+    "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
+    "time": "2026-11-22T00:09:58+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+    "time": "2026-11-21T22:19:43+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Lock of former US President George Washington's hair sells for $4,000",
+    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
+    "time": "2026-11-21T22:01:19+00:00",
     "source": "BBC News"
    }
   ]
