@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T02:29:44.564460+00:00",
+ "updatedAt": "2026-11-22T10:11:26.988899+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 43.9,
-    "feels": 39.6,
-    "hum": 72,
-    "wind": 2.2,
-    "code": 3
+    "t": 42.1,
+    "feels": 39.3,
+    "hum": 90,
+    "wind": 0.7,
+    "code": 45
    },
    "days": [
     {
-     "date": "2026-11-21",
-     "hi": 62.3,
-     "lo": 34.8,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 11.2
-    },
-    {
      "date": "2026-11-22",
-     "hi": 59.8,
-     "lo": 38.7,
-     "code": 65,
-     "rain": 75,
-     "rainMm": 32.0,
-     "gustMph": 26.8
+     "hi": 55.7,
+     "lo": 40.0,
+     "code": 63,
+     "rain": 88,
+     "rainMm": 8.65,
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-23",
-     "hi": 63.6,
-     "lo": 45.2,
+     "hi": 63.1,
+     "lo": 42.4,
      "code": 65,
-     "rain": 80,
-     "rainMm": 63.6,
-     "gustMph": 28.2
+     "rain": 97,
+     "rainMm": 42.8,
+     "gustMph": 26.4
     },
     {
      "date": "2026-11-24",
-     "hi": 45.2,
-     "lo": 36.0,
+     "hi": 45.0,
+     "lo": 36.5,
      "code": 0,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 23.0
+     "gustMph": 21.9
     },
     {
      "date": "2026-11-25",
-     "hi": 41.8,
-     "lo": 34.1,
+     "hi": 43.0,
+     "lo": 34.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.9
+     "gustMph": 20.6
+    },
+    {
+     "date": "2026-11-26",
+     "hi": 55.1,
+     "lo": 42.7,
+     "code": 81,
+     "rain": 70,
+     "rainMm": 32.3,
+     "gustMph": 54.6
     }
    ],
-   "alert": "Sun: rain expected, about 32 mm · Mon: heavy rain, about 64 mm"
+   "alert": "Mon: rain expected, about 43 mm"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.2,
-    "feels": 24.8,
-    "hum": 79,
-    "wind": 1.8,
-    "code": 0
+    "t": 31.5,
+    "feels": 31.5,
+    "hum": 29,
+    "wind": 2.0,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-22",
-     "hi": 31.1,
-     "lo": 21.1,
-     "code": 51,
+     "hi": 31.6,
+     "lo": 21.0,
+     "code": 3,
      "rain": 0,
-     "rainMm": 0.1,
-     "gustMph": 17.0
+     "rainMm": 0.0,
+     "gustMph": 17.7
     },
     {
      "date": "2026-11-23",
      "hi": 31.3,
-     "lo": 21.7,
-     "code": 3,
-     "rain": 2,
-     "rainMm": 0.0,
-     "gustMph": 19.5
-    },
-    {
-     "date": "2026-11-24",
-     "hi": 31.0,
-     "lo": 22.3,
+     "lo": 21.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 19.0
+     "gustMph": 17.9
+    },
+    {
+     "date": "2026-11-24",
+     "hi": 31.4,
+     "lo": 22.4,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 18.8
     },
     {
      "date": "2026-11-25",
-     "hi": 29.4,
+     "hi": 30.1,
      "lo": 22.1,
      "code": 80,
-     "rain": 29,
-     "rainMm": 3.8,
-     "gustMph": 15.4
+     "rain": 57,
+     "rainMm": 3.5,
+     "gustMph": 16.1
     },
     {
      "date": "2026-11-26",
-     "hi": 28.3,
-     "lo": 21.9,
+     "hi": 28.1,
+     "lo": 22.1,
      "code": 51,
      "rain": 29,
-     "rainMm": 1.5,
-     "gustMph": 13.6
+     "rainMm": 1.8,
+     "gustMph": 15.2
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.3,
-    "feels": 28.5,
-    "hum": 83,
-    "wind": 1.3,
-    "code": 2
+    "t": 31.8,
+    "feels": 33.8,
+    "hum": 46,
+    "wind": 4.9,
+    "code": 1
    },
    "days": [
     {
      "date": "2026-11-22",
-     "hi": 31.8,
+     "hi": 32.4,
      "lo": 22.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 11.2
+     "gustMph": 13.0
     },
     {
      "date": "2026-11-23",
-     "hi": 33.1,
-     "lo": 22.9,
-     "code": 3,
-     "rain": 6,
-     "rainMm": 0.0,
-     "gustMph": 15.4
+     "hi": 33.2,
+     "lo": 23.0,
+     "code": 51,
+     "rain": 10,
+     "rainMm": 0.3,
+     "gustMph": 19.0
     },
     {
      "date": "2026-11-24",
-     "hi": 31.7,
-     "lo": 24.4,
-     "code": 53,
-     "rain": 59,
-     "rainMm": 2.3,
-     "gustMph": 21.3
+     "hi": 31.6,
+     "lo": 24.2,
+     "code": 80,
+     "rain": 83,
+     "rainMm": 9.0,
+     "gustMph": 18.8
     },
     {
      "date": "2026-11-25",
-     "hi": 31.0,
+     "hi": 29.8,
      "lo": 23.6,
-     "code": 80,
-     "rain": 82,
-     "rainMm": 6.8,
-     "gustMph": 23.3
+     "code": 53,
+     "rain": 93,
+     "rainMm": 1.8,
+     "gustMph": 17.9
     },
     {
      "date": "2026-11-26",
-     "hi": 30.1,
-     "lo": 23.7,
+     "hi": 29.5,
+     "lo": 23.6,
      "code": 51,
-     "rain": 80,
-     "rainMm": 2.7,
-     "gustMph": 14.3
+     "rain": 92,
+     "rainMm": 1.8,
+     "gustMph": 15.4
     }
    ],
    "alert": null
@@ -188,6 +188,34 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+    "summary": "The State Election Commission has announced three-phase polling on November 26, 29 and December 2",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-focus-on-1500-panchayats-in-chittoor-annamayya-sri-sathya-sai-districts-ahead-of-polls/article71728086.ece",
+    "time": "2026-11-22T12:09:36+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "NDA will win all panchayats in upcoming polls, says TDP leader Divakar Reddy in Tirupati",
+    "summary": "Andhra Pradesh is surging ahead on the path of development during the NDA’s tenure, says Divakar Reddy",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-will-win-all-panchayats-in-upcoming-polls-says-tdp-leader-divakar-reddy-in-tirupati/article71729008.ece",
+    "time": "2026-11-22T11:57:11+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
+    "summary": "SVVU Vice-Chancellor highlights contributions of the institution to conservation, multiplication and genetic improvement of indigenous livestock breeds",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-rajiv-ranjan-singh-reviews-indigenous-cattle-research-at-svvu-in-tirupati/article71729080.ece",
+    "time": "2026-11-22T11:44:34+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Andhra Pradesh gets national recognition for its progress in HIV/AIDS control",
+    "summary": "Six districts in the State have achieved ‘Surakshit’ status and another 10 the ‘Saksham’ status, and the rankings are based on a district’s performance on 95-95-95 targets fixed by the Joint United Nations Programme",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-gets-national-recognition-for-its-progress-in-hivaids-control/article71728569.ece",
+    "time": "2026-11-22T09:15:23+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
     "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
@@ -201,125 +229,104 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-girl-selected-for-national-roller-skating-championship/article71728989.ece",
     "time": "2026-11-21T23:28:26+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials",
-    "summary": "He approves construction of a temple for Lord Surya and Brihaspati in Rajamahendravaram at a cost of ₹1.80 crore and instructs officials to focus on crowd control and regulating vehicular traffic",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/adopt-best-practices-from-maha-kumbh-meal-for-conduct-of-godavaripushkaralu-cm-tells-officials/article71729072.ece",
-    "time": "2026-11-21T23:28:15+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Quality of life must be the ultimate goal of Viksit Bharat, says ICSSR Chairman",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/quality-of-life-must-be-the-ultimate-goal-of-viksit-bharat-says-icssr-chairman/article71729035.ece",
-    "time": "2026-11-21T23:22:21+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Fire in toys factory, no casualties reported",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/fire-in-toys-factory-no-casualties-reported/article71729062.ece",
-    "time": "2026-11-21T23:19:12+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "TDP making derogatory remarks against YSRCP’s Srikakulam mayoral candidate: Dharmana",
-    "summary": "Former Minister says the remarks against Gunda Lakshmi Devi stem from the TDP’s fear of defeat; MLA Gondu Shankar denies the charge, saying his comments were misunderstood",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-making-derogatory-remarks-against-ysrcps-srikakulam-mayoral-candidate-dharmana/article71728302.ece",
-    "time": "2026-11-21T21:41:28+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "TGSPDCL sub-engineer caught taking ₹30,000 bribe in Hyderabad",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/tgspdcl-sub-engineer-caught-taking-30000-bribe-in-hyderabad/article71729010.ece",
-    "time": "2026-11-21T21:30:02+05:30",
+    "headline": "Farmers suffer during kharif as banks did not achieve targets of agri credit",
+    "summary": "With the government asking farmers to refrain from water-intensive crops in rabi, doubts are being expressed over the lending by banks in view of adverse weather conditions",
+    "link": "https://www.thehindu.com/news/national/telangana/farmers-suffer-during-kharif-as-banks-did-not-achieve-targets-of-agri-credit/article71731066.ece",
+    "time": "2026-11-22T15:39:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Nasha Mukt Bharat: Ramchander calls for collective fight against drug menace",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/nasha-mukt-bharat-ramchander-calls-for-collective-fight-against-drug-menace/article71728794.ece",
-    "time": "2026-11-21T21:14:47+05:30",
+    "headline": "i-ALERT system leads to savings, lesser emissions for RTC",
+    "summary": "The system was installed in 1,500 Ashok Leyland BS-VI buses has helped save 6,603 litres of high-speed diesel (HSD) a day and 1,98,090 litres a month",
+    "link": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece",
+    "time": "2026-11-22T14:54:23+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "BRS condemns attack on Meta office",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/brs-condemns-attack-on-meta-office/article71728994.ece",
-    "time": "2026-11-21T21:11:16+05:30",
+    "headline": "University of Hyderabad students continue protest, demand termination of faculty member over alleged casteist remarks",
+    "summary": "The email communication between April 14 and 16, 2026, contains references to former students from the Scheduled Castes community as “untouchables”, remarks against students from marginalised backgrounds in Bihar and…",
+    "link": "https://www.thehindu.com/news/national/telangana/university-of-hyderabad-students-continue-protest-demand-termination-of-faculty-member-over-alleged-casteist-remarks/article71730706.ece",
+    "time": "2026-11-22T14:30:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Hyderabad gears up for Pulse Polio drive on November 22, targets 5.22 lakh children",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-pulse-polio-drive-on-november-22-targets-522-lakh-children/article71728975.ece",
-    "time": "2026-11-21T20:45:30+05:30",
+    "headline": "NHAI’s Telangana Region witnesses drop in fatalities",
+    "summary": "With an investment of ₹2,304 crore to rectify black spots on highways in Telangana, accidents at these locations have declined by 47%",
+    "link": "https://www.thehindu.com/news/national/telangana/nhais-telangana-region-witnesses-drop-in-fatalities/article71730869.ece",
+    "time": "2026-11-22T14:21:37+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "More than 50% population uses pedestrian spaces, why focus on cars, asks panellist at IRC",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/more-than-50-population-uses-pedestrian-spaces-why-focus-on-cars-asks-panellist-at-irc/article71728849.ece",
-    "time": "2026-11-21T20:42:43+05:30",
+    "headline": "Human-centric organisational design key to navigate AI, says INSEAD professor",
+    "summary": "The fourth edition of the ISBs Insights Forum, held on November 20, saw the attendance of researchers, business leaders, policymakers and philanthropists to explore practical solutions to economic and social challenges",
+    "link": "https://www.thehindu.com/news/national/telangana/human-centric-organisational-design-key-to-navigate-ai-says-insead-professor/article71730673.ece",
+    "time": "2026-11-22T14:12:14+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "MBT leader petitions MEA over plight of two expats in West Asia",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/mbt-leader-petitions-mea-over-plight-of-two-expats-in-west-asia/article71728129.ece",
-    "time": "2026-11-21T20:37:54+05:30",
+    "headline": "TGEWIDC invites bids for works worth ₹480 crore at Osmania University",
+    "summary": "Osmania University Vice-Chancellor Kumar Molugaram said the projects would address long-pending infrastructure requirements and improve student welfare and academic facilities",
+    "link": "https://www.thehindu.com/news/national/telangana/tgewidc-invites-bids-for-works-worth-480-crore-at-osmania-university/article71730639.ece",
+    "time": "2026-11-22T14:03:37+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "FUJIFILM’s Spectrum tour enthrals visual creators, photography enthusiasts in Bengaluru",
-    "summary": "The three-day event featured specialised experience zones focusing on distinct creative mediums, including vlogging, cinematography, street photography and portraiture",
-    "link": "https://www.thehindu.com/news/national/karnataka/fujifilms-spectrum-tour-enthrals-visual-creators-photography-enthusiasts-in-bengaluru/article71646534.ece",
-    "time": "2026-11-22T07:35:04+05:30",
+    "headline": "BJP slams RJD for tearing PM Modi posters after bridge inauguration in Bihar",
+    "summary": "In several videos going viral on social media platforms, RJD workers allegedly found tearing down banners, posters, and BJP flags that were put up on the bridge soon after the departure of the Prime Minister",
+    "link": "https://www.thehindu.com/news/national/bihar/bjp-slams-rjd-for-tearing-pm-modi-posters-after-bridge-inauguration-in-bihar/article71731004.ece",
+    "time": "2026-11-22T15:35:01+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti",
-    "summary": "The former Jammu and Kashmir Chief Minister says nearly 2,000 kanals of land have been damaged, threatening the livelihoods of 150 families; the NGT has directed a panel to inspect the site and recommend action",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmirs-famed-saffron-fields-have-been-used-as-dumping-grounds-for-three-years-mehbooba-mufti/article71729314.ece",
-    "time": "2026-11-22T07:08:25+05:30",
+    "headline": "CCPA slaps ₹10 lakh fine on firm for selling ‘anti-drone gun’ on IndiaMART",
+    "summary": "The CCPA held the company guilty of violating consumer rights, issuing misleading advertisements and indulging in unfair trade practices",
+    "link": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
+    "time": "2026-11-22T15:25:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
-    "summary": "Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
-    "time": "2026-11-22T04:55:39+05:30",
+    "headline": "Rijiju bats for self-reliant Arunachal, calls for balance between tribal rights, development",
+    "summary": "Kiren Rijiju stressed the need to find a balance between protecting the interests of indigenous communities and creating an environment conducive to investment and development.",
+    "link": "https://www.thehindu.com/news/national/arunachal-pradesh/rijiju-bats-for-self-reliant-arunachal-calls-for-balance-between-tribal-rights-development/article71731068.ece",
+    "time": "2026-11-22T15:25:47+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
-    "summary": "‘Our teams have drawn up a detailed roadmap of cooperation, so we will be approving that today, and I think that will give a very clear pathway to our activities ahead,’ said S. Jaishankar",
-    "link": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
-    "time": "2026-11-22T02:58:42+05:30",
+    "headline": "Deepathoon row: Tamil Nadu files a review plea in Supreme Court against Thirupparankundram order",
+    "summary": "The party urging a re-look of the court order must show that the findings were a result of a factual misconception or had ignored binding judicial precedents or violated a statutory mandate",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/deepathoon-row-tamil-nadu-files-a-review-plea-in-supreme-court-against-thirupparankundram-order/article71731065.ece",
+    "time": "2026-11-22T15:20:32+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
-    "summary": "Medical experts say that the use of fairness creams containing heavy metals such as mercury to lighten the skin is emerging as a major health hazard that can lead to serious conditions such as kidney failure if not…",
-    "link": "https://www.thehindu.com/news/national/kerala/medicos-warn-against-craze-for-fairness-after-17-year-old-keralam-girl-diagnosed-with-kidney-disorder/article71728705.ece",
-    "time": "2026-11-22T01:44:51+05:30",
+    "headline": "Gold, copper, aluminium dive to at least 7-month lows",
+    "summary": "Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns.",
+    "link": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+    "time": "2026-11-22T15:19:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Clamour to reintroduce adequate number of air-conditioned buses in Kochi grows louder",
-    "summary": "While many of the AC buses were diverted to long-distance routes, the KSRTC had to scrap most of its non-AC low-floor counterparts due to improper upkeep",
-    "link": "https://www.thehindu.com/news/national/kerala/clamour-to-reintroduce-adequate-number-of-air-conditioned-buses-in-kochi-grows-louder/article71728774.ece",
-    "time": "2026-11-22T01:37:35+05:30",
+    "headline": "Six sent to juvenile home after Mumbai assault; Maharashtra SP leader seeks age change",
+    "summary": "Police registered a case and produced all eight before the Board, and notices were sent to parents; the case was registered under sections 189(2), 189(4), 118(1), 352 and 351(2) of the Bharatiya Nyaya Sanhita, 2023,…",
+    "link": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
+    "time": "2026-11-22T15:06:54+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "He expected a small-business loan. It turned out to be a trap",
+    "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+    "time": "2026-11-22T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Storms expected on both coasts threatens Thanksgiving travel",
     "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
@@ -354,16 +361,30 @@
     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
     "time": "2026-11-21T05:00:00-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Trump's impact on an Ohio steel plant",
-    "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed…",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-    "time": "2026-11-20T16:38:11-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
+   {
+    "headline": "South Korea education minister resigns over exam cheating scandal",
+    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+    "time": "2026-11-22T09:20:45+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+    "time": "2026-11-22T07:12:41+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Three killed and dozens missing after fire at Indonesian factory",
+    "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+    "time": "2026-11-22T06:05:00+00:00",
+    "source": "BBC News"
+   },
    {
     "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
@@ -383,27 +404,6 @@
     "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
     "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
     "time": "2026-11-22T00:10:37+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "How a teen gamer and his mother helped rescue a missing girl",
-    "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
-    "time": "2026-11-22T00:09:58+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-    "time": "2026-11-21T22:19:43+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Lock of former US President George Washington's hair sells for $4,000",
-    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
-    "time": "2026-11-21T22:01:19+00:00",
     "source": "BBC News"
    }
   ]
