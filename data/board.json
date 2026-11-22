@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T17:58:27.970951+00:00",
+ "updatedAt": "2026-11-22T23:31:13.444727+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,39 +8,39 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 58.7,
-    "feels": 57.8,
-    "hum": 80,
-    "wind": 4.1,
+    "t": 51.9,
+    "feels": 50.5,
+    "hum": 94,
+    "wind": 3.5,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-22",
-     "hi": 59.1,
+     "hi": 60.2,
      "lo": 40.0,
-     "code": 63,
-     "rain": 94,
-     "rainMm": 16.8,
-     "gustMph": 18.3
+     "code": 61,
+     "rain": 99,
+     "rainMm": 3.0,
+     "gustMph": 11.9
     },
     {
      "date": "2026-11-23",
-     "hi": 62.7,
-     "lo": 38.7,
-     "code": 61,
-     "rain": 92,
-     "rainMm": 4.6,
-     "gustMph": 25.5
+     "hi": 62.9,
+     "lo": 42.8,
+     "code": 63,
+     "rain": 97,
+     "rainMm": 15.5,
+     "gustMph": 28.9
     },
     {
      "date": "2026-11-24",
      "hi": 43.2,
-     "lo": 33.9,
-     "code": 0,
+     "lo": 32.9,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 25.5
+     "gustMph": 30.2
     },
     {
      "date": "2026-11-25",
@@ -49,16 +49,16 @@
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 20.1
     },
     {
      "date": "2026-11-26",
      "hi": 51.5,
      "lo": 42.3,
      "code": 63,
-     "rain": 85,
+     "rain": 83,
      "rainMm": 32.6,
-     "gustMph": 46.8
+     "gustMph": 47.0
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 25.1,
-    "feels": 26.6,
-    "hum": 62,
-    "wind": 4.8,
+    "t": 22.3,
+    "feels": 24.6,
+    "hum": 78,
+    "wind": 2.8,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-22",
-     "hi": 31.4,
-     "lo": 21.0,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.1
-    },
-    {
      "date": "2026-11-23",
-     "hi": 31.6,
+     "hi": 31.3,
      "lo": 21.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.1
+     "gustMph": 19.0
     },
     {
      "date": "2026-11-24",
-     "hi": 31.6,
-     "lo": 22.6,
+     "hi": 31.4,
+     "lo": 22.2,
      "code": 3,
-     "rain": 8,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 18.1
+     "gustMph": 20.8
     },
     {
      "date": "2026-11-25",
-     "hi": 29.9,
-     "lo": 22.1,
+     "hi": 30.4,
+     "lo": 22.0,
      "code": 51,
-     "rain": 57,
-     "rainMm": 1.1,
-     "gustMph": 16.1
+     "rain": 67,
+     "rainMm": 0.8,
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-26",
-     "hi": 30.1,
-     "lo": 21.8,
-     "code": 51,
-     "rain": 37,
-     "rainMm": 0.9,
-     "gustMph": 15.4
+     "hi": 31.3,
+     "lo": 21.3,
+     "code": 1,
+     "rain": 27,
+     "rainMm": 0.0,
+     "gustMph": 14.8
+    },
+    {
+     "date": "2026-11-27",
+     "hi": 30.6,
+     "lo": 21.3,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 17.9
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.9,
-    "feels": 30.0,
-    "hum": 89,
-    "wind": 1.6,
+    "t": 23.2,
+    "feels": 27.2,
+    "hum": 90,
+    "wind": 2.8,
     "code": 0
    },
    "days": [
     {
-     "date": "2026-11-22",
-     "hi": 32.4,
-     "lo": 22.2,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 13.6
-    },
-    {
      "date": "2026-11-23",
-     "hi": 33.1,
-     "lo": 23.1,
+     "hi": 33.0,
+     "lo": 23.0,
      "code": 3,
-     "rain": 12,
+     "rain": 18,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 17.9
     },
     {
      "date": "2026-11-24",
-     "hi": 32.1,
-     "lo": 24.3,
+     "hi": 31.2,
+     "lo": 23.3,
      "code": 95,
-     "rain": 85,
-     "rainMm": 7.9,
-     "gustMph": 20.6
+     "rain": 90,
+     "rainMm": 11.2,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-25",
-     "hi": 30.6,
-     "lo": 23.7,
-     "code": 55,
-     "rain": 87,
-     "rainMm": 3.5,
-     "gustMph": 20.6
+     "hi": 30.8,
+     "lo": 23.4,
+     "code": 80,
+     "rain": 94,
+     "rainMm": 6.3,
+     "gustMph": 20.4
     },
     {
      "date": "2026-11-26",
-     "hi": 30.6,
+     "hi": 30.1,
      "lo": 23.5,
      "code": 53,
      "rain": 84,
-     "rainMm": 2.4,
-     "gustMph": 14.5
+     "rainMm": 2.8,
+     "gustMph": 12.1
+    },
+    {
+     "date": "2026-11-27",
+     "hi": 30.3,
+     "lo": 23.1,
+     "code": 51,
+     "rain": 29,
+     "rainMm": 0.3,
+     "gustMph": 18.6
     }
    ],
    "alert": null
@@ -277,49 +277,63 @@
   ],
   "india": [
    {
-    "headline": "Activists rally on Vizag Beach Road against data centres, demand cancellation of permissions",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/activists-rally-on-vizag-beach-road-against-data-centres-demand-cancellation-of-permissions/article71732166.ece",
-    "time": "2026-11-22T23:24:22+05:30",
+    "headline": "Wanted man held after 14 months for mob attack on Delhi police team in Chhatarpur",
+    "summary": "The accused, identified as Arbaj Khan alias Baiju, a resident of Chandan Holla village in Chhatarpur, was apprehended by the Special Staff of South district from Village Gadpur in Bhiwadi on November 20, police said",
+    "link": "https://www.thehindu.com/news/cities/Delhi/wanted-man-held-after-14-months-for-mob-attack-on-delhi-police-team-in-chhatarpur/article71731513.ece",
+    "time": "2026-11-23T02:11:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Walkathon stresses importance of natural childbirth",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/walkathon-stresses-importance-of-natural-childbirth/article71732170.ece",
-    "time": "2026-11-22T23:11:24+05:30",
+    "headline": "Raut alleges BJP offers funds to secure support for Delimitation Bill",
+    "summary": "Sanjay Raut alleged during the conference that an MP would receive ₹150 crore upon breaking away from a party to support the Delimitation Bill without facing disqualification",
+    "link": "https://www.thehindu.com/news/national/raut-alleges-bjp-offers-funds-to-secure-support-for-delimitation-bill/article71732151.ece",
+    "time": "2026-11-23T01:48:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "West Bengal BJP president Samik Bhattacharya calls for protest over attacks on Hindus in Bangladesh",
-    "summary": "State BJP chief claims Bangladesh was created on the basis of religion, not language, as Bengali-speaking Hindus are now being persecuted and bearing the consequences of Partition",
-    "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-samik-bhattacharya-calls-for-protest-over-attacks-on-hindus-in-bangladesh/article71732075.ece",
-    "time": "2026-11-22T23:04:12+05:30",
+    "headline": "18th U.P. Legislative Assembly sits less than 90 days, experts point to unhealthy concentration of power in the Executive",
+    "summary": "Fewer functioning days directly limit legislative oversight, and MLAs lose the chance to raise people-centric issues making legislature a passive spectator; experts call it contrary to spirit of constitutional checks…",
+    "link": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
+    "time": "2026-11-23T01:47:07+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "T.M. Krishna, Chinmayi back minors ‘sexually assaulted’ by violinist Bhaskar in the U.S.",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tm-krishna-chinmayi-back-minors-sexually-assaulted-by-violinist-bhaskar-in-the-us/article71731998.ece",
-    "time": "2026-11-22T23:03:14+05:30",
+    "headline": "Factory inspections to be intensified after boy’s death at Perumbavoor in Kochi",
+    "summary": "Strict legal action to be initiated against establishments found violating regulations relating to imminent danger",
+    "link": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
+    "time": "2026-11-23T01:36:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Outfit seeks moving of DKV community from SC to BC list",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/outfit-seeks-moving-of-dkv-community-from-sc-to-bc-list/article71732069.ece",
-    "time": "2026-11-22T22:59:00+05:30",
+    "headline": "Mumbai Police to issue cards with QR code for identity checks",
+    "summary": "Devendra Fadnavis inaugurated the measure on November 21, 2026, and cards were distributed to personnel, including traffic police, as part of steps to digitise the force",
+    "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-to-issue-cards-with-qr-code-for-identity-checks/article71731836.ece",
+    "time": "2026-11-23T01:22:59+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Three medals for A.P. athletes at international taekwondo meet in Pune",
+    "headline": "Takshashila University confers honorary doctorates on author S. Ramakrishnan and playback singer K.S. Chithra",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-athletes-win-big-at-international-taekwondo-meet-in-pune/article71731951.ece",
-    "time": "2026-11-22T22:58:19+05:30",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+    "time": "2026-11-23T01:11:33+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "What it's like at a climate conference as talks collapse",
+    "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+    "time": "2026-11-22T17:40:23-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Philly festival-goers say pickles are a real big dill",
+    "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+    "time": "2026-11-22T17:40:19-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Chicago now has the worst traffic in the U.S. — here's why",
     "summary": "Traffic is bad in many U.S. cities, but Chicago is the worst. Years of construction are causing record delays on the freeway between downtown and O'Hare Airport.",
@@ -347,63 +361,49 @@
     "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
     "time": "2026-11-21T13:22:46-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-    "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-    "time": "2026-11-21T08:58:33-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Jury finds man guilty in retrial over devastating 2025 Palisades fire in Los Angeles",
-    "summary": "After a mistrial earlier in the year, a new jury has found the man accused of starting the devastating 2025 Palisades fire in Los Angeles guilty.",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6049150/jury-finds-man-guilty-in-retrial-over-devastating-2025-palisades-fire-in-los-angeles",
-    "time": "2026-11-21T07:40:23-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-    "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-    "time": "2026-11-22T17:18:26+00:00",
+    "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+    "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+    "time": "2026-11-22T22:37:43+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "summary": "The couple have been together for four years and were engaged in 2025.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+    "time": "2026-11-22T21:22:40+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-    "time": "2026-11-22T17:16:47+00:00",
+    "time": "2026-11-22T20:28:09+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Three killed and dozens missing after fire at Indonesian factory",
-    "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
-    "time": "2026-11-22T14:05:20+00:00",
+    "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+    "time": "2026-11-22T20:26:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "South Korea education minister resigns over exam cheating scandal",
-    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
-    "time": "2026-11-22T09:20:45+00:00",
+    "headline": "What's next after no deal at COP31 climate talks?",
+    "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+    "time": "2026-11-22T18:57:24+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-    "time": "2026-11-22T07:12:41+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-    "time": "2026-11-22T01:25:03+00:00",
+    "headline": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+    "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
+    "time": "2026-11-22T18:29:46+00:00",
     "source": "BBC News"
    }
   ]
