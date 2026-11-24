@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:40:54.673499+00:00",
+ "updatedAt": "2026-11-24T03:50:48.671334+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,17 +8,17 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 63.7,
-    "feels": 61.7,
-    "hum": 77,
-    "wind": 9.7,
-    "code": 0
+    "t": 45.5,
+    "feels": 39.8,
+    "hum": 70,
+    "wind": 6.0,
+    "code": 2
    },
    "days": [
     {
      "date": "2026-11-23",
-     "hi": 63.8,
-     "lo": 44.0,
+     "hi": 66.4,
+     "lo": 43.9,
      "code": 63,
      "rain": 98,
      "rainMm": 13.5,
@@ -26,39 +26,39 @@
     },
     {
      "date": "2026-11-24",
-     "hi": 44.3,
-     "lo": 31.8,
+     "hi": 43.9,
+     "lo": 31.5,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 29.3
+     "gustMph": 27.1
     },
     {
      "date": "2026-11-25",
-     "hi": 43.6,
-     "lo": 31.3,
+     "hi": 43.1,
+     "lo": 31.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 21.0
+     "gustMph": 21.5
     },
     {
      "date": "2026-11-26",
-     "hi": 53.9,
-     "lo": 42.9,
+     "hi": 57.0,
+     "lo": 43.1,
      "code": 65,
-     "rain": 87,
-     "rainMm": 38.2,
-     "gustMph": 49.4
+     "rain": 91,
+     "rainMm": 39.2,
+     "gustMph": 49.2
     },
     {
      "date": "2026-11-27",
-     "hi": 57.3,
-     "lo": 43.0,
-     "code": 80,
-     "rain": 93,
-     "rainMm": 7.8,
-     "gustMph": 41.8
+     "hi": 57.1,
+     "lo": 43.5,
+     "code": 81,
+     "rain": 95,
+     "rainMm": 6.5,
+     "gustMph": 43.6
     }
    ],
    "alert": null
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 25.1,
-    "feels": 26.8,
-    "hum": 63,
-    "wind": 4.2,
-    "code": 0
+    "t": 25.9,
+    "feels": 27.5,
+    "hum": 62,
+    "wind": 5.5,
+    "code": 2
    },
    "days": [
     {
-     "date": "2026-11-23",
-     "hi": 31.2,
-     "lo": 21.7,
+     "date": "2026-11-24",
+     "hi": 31.3,
+     "lo": 22.6,
      "code": 3,
-     "rain": 0,
+     "rain": 2,
      "rainMm": 0.0,
      "gustMph": 19.0
     },
     {
-     "date": "2026-11-24",
-     "hi": 31.0,
-     "lo": 22.5,
-     "code": 3,
-     "rain": 6,
-     "rainMm": 0.0,
-     "gustMph": 17.0
-    },
-    {
      "date": "2026-11-25",
-     "hi": 30.1,
-     "lo": 22.2,
+     "hi": 30.5,
+     "lo": 22.5,
      "code": 80,
-     "rain": 86,
-     "rainMm": 2.7,
-     "gustMph": 17.7
+     "rain": 94,
+     "rainMm": 2.6,
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-26",
-     "hi": 29.1,
-     "lo": 21.4,
-     "code": 51,
-     "rain": 59,
-     "rainMm": 1.4,
+     "hi": 29.4,
+     "lo": 22.1,
+     "code": 53,
+     "rain": 68,
+     "rainMm": 1.6,
      "gustMph": 14.8
     },
     {
      "date": "2026-11-27",
-     "hi": 29.9,
-     "lo": 21.2,
-     "code": 2,
-     "rain": 20,
+     "hi": 29.5,
+     "lo": 21.3,
+     "code": 51,
+     "rain": 25,
+     "rainMm": 0.2,
+     "gustMph": 17.9
+    },
+    {
+     "date": "2026-11-28",
+     "hi": 29.8,
+     "lo": 20.5,
+     "code": 3,
+     "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 18.1
+     "gustMph": 16.3
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.8,
-    "feels": 31.0,
-    "hum": 89,
-    "wind": 3.5,
+    "t": 28.0,
+    "feels": 32.3,
+    "hum": 76,
+    "wind": 6.0,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-23",
-     "hi": 33.1,
-     "lo": 22.9,
-     "code": 3,
-     "rain": 9,
-     "rainMm": 0.0,
-     "gustMph": 17.7
-    },
-    {
      "date": "2026-11-24",
-     "hi": 31.4,
-     "lo": 24.4,
+     "hi": 31.9,
+     "lo": 24.7,
      "code": 80,
-     "rain": 100,
-     "rainMm": 3.8,
-     "gustMph": 16.3
+     "rain": 92,
+     "rainMm": 2.5,
+     "gustMph": 24.4
     },
     {
      "date": "2026-11-25",
-     "hi": 30.6,
-     "lo": 24.0,
-     "code": 80,
-     "rain": 88,
-     "rainMm": 4.1,
-     "gustMph": 16.1
+     "hi": 30.8,
+     "lo": 24.1,
+     "code": 53,
+     "rain": 96,
+     "rainMm": 2.8,
+     "gustMph": 17.2
     },
     {
      "date": "2026-11-26",
-     "hi": 30.3,
-     "lo": 23.4,
+     "hi": 31.1,
+     "lo": 23.9,
      "code": 53,
-     "rain": 82,
-     "rainMm": 2.0,
-     "gustMph": 14.1
+     "rain": 98,
+     "rainMm": 1.2,
+     "gustMph": 15.0
     },
     {
      "date": "2026-11-27",
-     "hi": 29.9,
-     "lo": 23.0,
-     "code": 51,
-     "rain": 31,
+     "hi": 31.0,
+     "lo": 23.5,
+     "code": 53,
+     "rain": 47,
      "rainMm": 1.5,
      "gustMph": 15.9
+    },
+    {
+     "date": "2026-11-28",
+     "hi": 31.2,
+     "lo": 22.5,
+     "code": 3,
+     "rain": 9,
+     "rainMm": 0.0,
+     "gustMph": 18.8
     }
    ],
    "alert": null
@@ -189,54 +189,61 @@
  "news": {
   "andhra": [
    {
-    "headline": "Tension in Pithapuram as JSP councillors differ over vice-chairman pick",
+    "headline": "Ban on collection of wild shrimp seed at SACB proposed",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ban-on-collection-of-wild-shrimp-seed-at-sacb-proposed/article71734691.ece",
+    "time": "2026-11-24T08:41:41+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "PAV to organise health seminar on November 29",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/pav-to-organise-health-seminar-on-november-29/article71734853.ece",
+    "time": "2026-11-24T08:40:36+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Andhra Pradesh SEC declares 87 candidates as Deputy Mayors, Vice-Chairpersons",
+    "summary": "Election of Deputy Mayors and Vice-Chairpersons of 13 Urban Locla Bodies to November 24",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-declares-87-candidates-as-deputy-mayors-vice-chairpersons/article71735988.ece",
+    "time": "2026-11-24T08:37:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Vangaveeti Radha Krishna takes oath as 13th Mayor of Vijayawada",
+    "summary": "85 corporators of Vijayawada Municipal Corporation administered oath of office while Chennupati Kanthisri, TDP corporator from Ward 12, elected Deputy Mayor",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vangaveeti-radha-krishna-takes-oath-as-13th-mayor-of-vijayawada/article71735674.ece",
+    "time": "2026-11-24T08:34:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Violence erupts in Pithapuram amid JSP councillors’ sparring over vice-chairman pick",
     "summary": "Jana Sena Party Councillors, supporters opposed the party’s decision to elect Bojja Venkateswara Rao as Pithapuram Municipal Vice-Chairman on the grounds of being a newcomer to the party.",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/tension-in-pithapuram-as-jsp-councillors-differ-over-vice-chairman-pick/article71734975.ece",
-    "time": "2026-11-23T21:22:42+05:30",
+    "time": "2026-11-24T01:10:50+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "SEC directs local body poll candidates to file expenditure returns",
-    "summary": "Candidates in 99 ULBs must submit accounts by December 18 and those in Chirala by December 21; failure will invite three-year disqualification and loss of office for elected candidates",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/sec-directs-local-body-poll-candidates-to-file-expenditure-returns/article71735182.ece",
-    "time": "2026-11-23T21:22:06+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh initiates advance procurement of medicines for six months",
-    "summary": "Health Department have shifted from procuring three-month stock in advance after the CAG report flags shortcomings in the system followed between 2018 and 2022",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-initiates-advance-procurement-of-medicines-for-six-months/article71734810.ece",
-    "time": "2026-11-23T21:06:00+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra’s first semiconductor plant to come up near Visakhapatnam with ₹2,387 crore investment",
-    "summary": "The chip assembly and testing unit at Tarluvada is the State’s first project under the India Semiconductor Mission and will create 1,000 jobs",
-    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/andhras-first-semiconductor-plant-to-come-up-near-visakhapatnam-with-2387-crore-investment/article71714814.ece",
-    "time": "2026-11-23T20:55:27+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "New Mayors, chairpersons assume office across Rayalaseema",
+    "headline": "Krushi OWS holds road safety awareness competitions for school students",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/new-mayors-chairpersons-assume-office-across-rayalaseema/article71734551.ece",
-    "time": "2026-11-23T20:52:29+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "CID holds meeting to strengthen coordination against cybercrimes",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cid-holds-meeting-to-strengthen-coordination-against-cybercrimes/article71735406.ece",
-    "time": "2026-11-23T20:32:16+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
+    "time": "2026-11-24T01:10:06+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
+    "headline": "PJTSAU to launch two new degree course",
+    "summary": "‘Rythu Bharosa Yatras’ planned from January",
+    "link": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
+    "time": "2026-11-24T00:10:51+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Uttam rejects KTR’s claim of 90 TMC diversion from Nagarjunasagar",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/telangana/uttam-rejects-ktrs-claim-of-90-tmc-diversion-from-nagarjunasagar/article71736031.ece",
-    "time": "2026-11-23T23:07:56+05:30",
+    "time": "2026-11-23T23:09:09+05:30",
     "source": "The Hindu"
    },
    {
@@ -266,60 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-orders-2-lakh-compensation-to-woman-24-years-after-husbands-death-in-police-encounter/article71735826.ece",
     "time": "2026-11-23T22:38:54+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "PJTSAU to launch two new degree course; ‘Rythu Bharosa Yatras’ planned from Jan.",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
-    "time": "2026-11-23T22:35:50+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "India maps landslide susceptibility as part of shift from post-disaster relief to landslide management",
-    "summary": "Mapping exercise covers 4.3 lakh square km; focus now on prevention, preparedness, risk reduction, says Science Minister; calls for interdisciplinary research, continuous monitoring to minimise impact",
-    "link": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece",
-    "time": "2026-11-23T23:03:19+05:30",
+    "headline": "Google denies rumours of large-scale layoffs in India",
+    "summary": "An official Google handle on X noted that “approximately 30 roles were eliminated”",
+    "link": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+    "time": "2026-11-24T09:11:55+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "NIA quizzes Mamata TMC MLA in connection with April 1 violence during SIR",
-    "summary": "Sabina Yeasmin and her husband appeared before NIA officials and claimed they had no knowledge of the alleged attacks and violence on April 1 and that they were not present at the site",
-    "link": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-sabina-yeasmin-appears-before-nia-in-connection-with-attacks-on-judicial-officers/article71733840.ece",
-    "time": "2026-11-23T23:02:12+05:30",
+    "headline": "Earthquake in Nepal triggers tremors across north Bengal, Sikkim",
+    "summary": "The tremors were felt at around 7 a.m., prompting people in several areas to rush out of their homes",
+    "link": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+    "time": "2026-11-24T09:09:53+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Delhi Police bust cybercrime syndicate that defrauded victims of over ₹20 crore via malicious APK files",
-    "summary": "Officials received over 1,300 complaints in the past three months relating to bank account takeovers and cyber fraud through APK files",
-    "link": "https://www.thehindu.com/news/national/delhi-police-bust-cybercrime-syndicate-that-defrauded-victims-of-over-20-crore-via-malicious-apk-files/article71735848.ece",
-    "time": "2026-11-23T23:01:46+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Rule of law needed, not ‘Rule of Power’: Netherlands Foreign Minister Berendsen on Trilateral Summit",
-    "summary": "Berendsen holds talks with EAM Jaishankar, says Europe and India must end dependencies on global powers for energy, security and technology",
-    "link": "https://www.thehindu.com/news/national/rule-of-law-needed-not-rule-of-power-netherlands-foreign-minister-berendsen-on-trilateral-summit/article71736057.ece",
-    "time": "2026-11-23T22:59:03+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "RERA approvals for two Indiramma Housing towers in Hyderabad; to help beneficiaries in getting bank loans",
+    "headline": "Ban on collection of wild shrimp seed at SACB proposed",
     "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/rera-approvals-for-two-indiramma-housing-towers-in-hyderabad-to-help-beneficiaries-in-getting-bank-loans/article71735686.ece",
-    "time": "2026-11-23T22:57:46+05:30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ban-on-collection-of-wild-shrimp-seed-at-sacb-proposed/article71734691.ece",
+    "time": "2026-11-24T08:41:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Vijay holds consultations with MLAs of TVK allies on demands for their constituencies",
-    "summary": "The MLAs of the Congress, the Viduthalai Chiruthaigal Katchi, and the Indian Union Muslim League attended the meeting, besides the representatives of the CPI(M) and the CPI",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-holds-consultations-with-mlas-of-tvk-allieson-demands-for-their-constituencies/article71735551.ece",
-    "time": "2026-11-23T22:54:01+05:30",
+    "headline": "PAV to organise health seminar on November 29",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/pav-to-organise-health-seminar-on-november-29/article71734853.ece",
+    "time": "2026-11-24T08:40:36+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Andhra Pradesh SEC declares 87 candidates as Deputy Mayors, Vice-Chairpersons",
+    "summary": "Election of Deputy Mayors and Vice-Chairpersons of 13 Urban Locla Bodies to November 24",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-declares-87-candidates-as-deputy-mayors-vice-chairpersons/article71735988.ece",
+    "time": "2026-11-24T08:37:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Vangaveeti Radha Krishna takes oath as 13th Mayor of Vijayawada",
+    "summary": "85 corporators of Vijayawada Municipal Corporation administered oath of office while Chennupati Kanthisri, TDP corporator from Ward 12, elected Deputy Mayor",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vangaveeti-radha-krishna-takes-oath-as-13th-mayor-of-vijayawada/article71735674.ece",
+    "time": "2026-11-24T08:34:23+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Chicago now has the worst traffic in the U.S. — here's why",
+    "summary": "Chicago takes the top ranking for traffic jams according to a pair of new analyses, and according to its many, many frustrated drivers who waste hours of their lives stuck in them.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6038839-e1/chicago-now-has-the-worst-traffic-in-the-u-s-heres-why",
+    "time": "2026-11-23T17:05:12-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
     "summary": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
     "time": "2026-11-22T20:53:48-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "What it's like at a climate conference as talks collapse",
-    "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
-    "time": "2026-11-22T17:40:23-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "What failure of COP31 reveals about a divided world",
-    "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
-    "time": "2026-11-23T17:24:25+00:00",
+    "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
+    "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+    "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
+    "time": "2026-11-24T01:21:41+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
-    "time": "2026-11-23T17:07:25+00:00",
+    "headline": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+    "time": "2026-11-24T01:11:54+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "The rise and fall and rise again of Jensen Huang",
-    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-    "time": "2026-11-23T15:49:52+00:00",
+    "headline": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+    "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+    "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
+    "time": "2026-11-24T00:23:25+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-    "time": "2026-11-23T15:41:23+00:00",
+    "headline": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+    "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+    "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
+    "time": "2026-11-24T00:02:15+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Mexican soldiers attacked in wake of drug lord's arrest",
-    "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-    "time": "2026-11-23T14:54:03+00:00",
+    "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+    "time": "2026-11-23T23:16:08+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
-    "time": "2026-11-23T14:26:33+00:00",
+    "headline": "Outrage after ICE arrest father and daughter at Seattle airport",
+    "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+    "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o",
+    "time": "2026-11-23T22:59:07+00:00",
     "source": "BBC News"
    }
   ]
