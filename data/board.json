@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T01:53:46.814704+00:00",
+ "updatedAt": "2026-11-26T10:29:40.472862+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -189,6 +189,34 @@
  "news": {
   "andhra": [
    {
+    "headline": "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE",
+    "summary": "Around 25 lakh voters to exercise their franchise in 964 wards; 2,968 candidates are in the fray; the count of votes scheduled for November 30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+    "time": "2026-11-26T12:00:41+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Four killed as SUV rams lorry near Tadipatri in Anantapur district",
+    "summary": "The victims, from Kavetisamudram village, were returning from a wedding in Hyderabad; five others are injured",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/four-killed-as-suv-rams-lorry-near-tadipatri-in-anantapur-district/article71745179.ece",
+    "time": "2026-11-26T11:58:22+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "A.P. leading in promoting circular economy: Kommareddy Pattabhi Ram",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-leading-in-promoting-circular-economy-kommareddy-pattabhi-ram/article71743688.ece",
+    "time": "2026-11-26T08:55:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "A.P. government increases incentives for villages which unanimously elect Gram Panchayats",
+    "summary": "The move aims to encourage consensus-based elections, minimise factional differences and poll-related disputes, and promote social harmony at the village level",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-increases-incentives-for-villages-which-unanimously-elect-gram-panchayats/article71745070.ece",
+    "time": "2026-11-26T08:32:06+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "SRM University-A.P. signs MoU with AiDEM to facilitate global career opportunities for students",
     "summary": "The collaboration is expected to provide students with structured international placement support, pre-placement orientation and exposure to Japanese workplace culture",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-signs-mou-with-aidem-to-facilitate-global-career-opportunities-for-students/article71743454.ece",
@@ -201,209 +229,181 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/rice-prices-soar-in-nellore-district-traders-told-to-limit-stocks-register-on-portal/article71743206.ece",
     "time": "2026-11-25T22:52:53+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "CM Naidu orders expansion of Dharani rice sales to 500 centres in Andhra Pradesh",
-    "summary": "Tur dal will be sold at ₹100 a kg and fortified palm oil wil be available at ₹125 a litre at fair price shops from December first week, says Chief Minister",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/cm-naidu-orders-expansion-of-dharani-rice-sales-to-500-centres-in-andhra-pradesh/article71743399.ece",
-    "time": "2026-11-25T22:47:14+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Policy stability, speed of doing business fuel Andhra Pradesh’s investment drive, says APEDB CEO",
-    "summary": "A.P. Economic Development Board is confident that at least 75% of the investments worth ₹9.89 lakh crore tied up during CII Partnership Summit 2026 will take tangible shape, says its CEO Shan Mohan",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/policy-stability-speed-of-doing-business-fuel-andhra-pradeshs-investment-drive-says-apedb-ceo/article71742951.ece",
-    "time": "2026-11-25T22:40:24+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Moderate rain likely for two days in State",
-    "summary": "Trough brings rain to several parts of the State with highest of 45.3 mm recorded at Naidupeta in Tirupati district",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/moderate-rain-likely-for-two-days-in-state/article71743450.ece",
-    "time": "2026-11-25T22:35:04+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Andhra Pradesh first State to introduce circular economy policy, says Pattabhi Ram",
-    "summary": "State attracting recycling industries through land allocation, investment incentives, operational concessions, employment support and viability gap funding, says the Swachh Andhra Corporation chairman at a programme in…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-first-state-to-introduce-circular-economy-policy-says-pattabhi-ram/article71743331.ece",
-    "time": "2026-11-25T22:30:04+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "Women’s Commission urges Telangana Governor to recommend special investigation into illegal oocyte racket",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/womens-commission-urges-telangana-governor-to-recommend-special-investigation-into-illegal-oocyte-racket/article71742026.ece",
-    "time": "2026-11-26T00:23:51+05:30",
+    "headline": "Modi, Shah conspiring to remove votes to regain power fourth time: Telangana CM Revanth Reddy",
+    "summary": "Telangana Chief Minister participates in Samvidhan Raksha March held in Hyderabad",
+    "link": "https://www.thehindu.com/news/national/telangana/modi-shah-conspiring-to-remove-votes-to-regain-power-telangana-cm-revanth-reddy/article71745996.ece",
+    "time": "2026-11-26T15:47:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Akbaruddin Owaisi questions low spending, high dropouts in minority schools",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/akbaruddin-owaisi-questions-low-spending-high-dropouts-in-minority-schools/article71743385.ece",
-    "time": "2026-11-26T00:11:18+05:30",
+    "headline": "Defence, aerospace sector outpaces IT and pharma growth in Telangana: Minister Uttam Kumar Reddy",
+    "summary": "Telangana well positioned to emerge as a major partner in global defence and aerospace manufacturing networks, Uttam Kumar Reddy said at CII conclave in Hyderabad",
+    "link": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece",
+    "time": "2026-11-26T15:46:58+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Oppn. protest against auction of truck park in Kukatpally",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/oppn-protest-against-auction-of-truck-park-in-kukatpally/article71743955.ece",
-    "time": "2026-11-25T23:52:14+05:30",
+    "headline": "Buzz at Cyberabad Moves 2026 as citizens, experts discuss mobility challenges and solutions",
+    "summary": "An exhibition at the event highlighted congestion-prone areas and gaps in public transport accessibility, making urban mobility challenges easier to understand through visual and interactive experiences",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/buzz-at-cyberabad-moves-2026-as-citizens-experts-discuss-mobility-challenges-and-solutions/article71745899.ece",
+    "time": "2026-11-26T15:29:35+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Public transport key to tackling Hyderabad traffic woes: London official",
+    "headline": "21-cr travelator bridge to link Nampally Railway Station, Hyderabad Metro Station; 10 of 20 foundations completed",
+    "summary": "The century-old Nampally Railway Station, opened in 1907, handles around 60 trains and nearly 25,000 passengers daily",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/21-cr-travelator-bridge-to-link-nampally-railway-station-hyderabad-metro-station/article71745578.ece",
+    "time": "2026-11-26T13:40:17+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Cyberabad | Contractor’s work order canceled over supply of drainage water through green tanker; circle manager suspended",
     "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-contractors-work-order-canceled-over-supply-of-drainage-water-through-green-tanker-circle-manager-suspended/article71745463.ece",
+    "time": "2026-11-26T12:32:37+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Hyderabad must raise public transport share from 28% to at least 40%, and eventually beyond 60%: London official",
+    "summary": "Non-financial measures had played an important role in managing congestion in London and other global cities, says Chief Technology Officer of Transport for London",
     "link": "https://www.thehindu.com/news/national/telangana/public-transport-key-to-tackling-hyderabad-traffic-woes-london-official/article71743233.ece",
-    "time": "2026-11-25T23:38:23+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bandi Sanjay bats for railway station at Kondagattu",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-bats-for-railway-station-at-kondagattu/article71743634.ece",
-    "time": "2026-11-25T23:15:13+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "KRMB meet exposed State govt.’s lie on AP’s NSP tunnel project: BRS",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/krmb-meet-exposed-state-govts-lie-on-aps-nsp-tunnel-project-brs/article71743663.ece",
-    "time": "2026-11-25T23:06:09+05:30",
+    "time": "2026-11-26T12:24:03+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
-    "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
-    "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
-    "time": "2026-11-26T06:56:45+05:30",
+    "headline": "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE",
+    "summary": "Around 25 lakh voters to exercise their franchise in 964 wards; 2,968 candidates are in the fray; the count of votes scheduled for November 30",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+    "time": "2026-11-26T15:48:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "India, China hold high-level talks in Arunachal sector on border management, LAC issues: MEA",
-    "summary": "MEA spokesperson Randhir also addressed a report claiming China-sourced satellite data may have aided Pakistan in tracking Indian troop movements and monitoring installations during Operation Sindoor",
-    "link": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
-    "time": "2026-11-26T06:54:23+05:30",
+    "headline": "Modi, Shah conspiring to remove votes to regain power fourth time: Telangana CM Revanth Reddy",
+    "summary": "Telangana Chief Minister participates in Samvidhan Raksha March held in Hyderabad",
+    "link": "https://www.thehindu.com/news/national/telangana/modi-shah-conspiring-to-remove-votes-to-regain-power-telangana-cm-revanth-reddy/article71745996.ece",
+    "time": "2026-11-26T15:47:36+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Beyond 26/11: Other major terror attacks in Mumbai over the years",
-    "summary": "Here is a look at some of the other major terror attacks that have struck Mumbai city over the years, apart from the 26/11 attacks",
-    "link": "https://www.thehindu.com/news/national/beyond-2611-other-major-terror-attacks-in-mumbai-over-the-years/article71737700.ece",
-    "time": "2026-11-26T06:46:28+05:30",
+    "headline": "Defence, aerospace sector outpaces IT and pharma growth in Telangana: Minister Uttam Kumar Reddy",
+    "summary": "Telangana well positioned to emerge as a major partner in global defence and aerospace manufacturing networks, Uttam Kumar Reddy said at CII conclave in Hyderabad",
+    "link": "https://www.thehindu.com/news/national/telangana/defence-aerospace-sector-outpaces-it-and-pharma-growth-in-telangana-minister-uttam-kumar-reddy/article71745871.ece",
+    "time": "2026-11-26T15:46:58+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Maharashtra Cabinet approves free foodgrains for over 42 lakh farmers",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
-    "time": "2026-11-26T06:44:29+05:30",
+    "headline": "Constitution Day LIVE updates: U.P. taught BJP a lesson in 2024 LS polls, silenced Modi’s ‘400 paar’ slogan: Kharge",
+    "summary": "PM Modi said the Constitution is a priceless heritage of Indian democracy, one that will continue to guide in realising the resolve of a developed India",
+    "link": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+    "time": "2026-11-26T15:43:22+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "ECI directs states to correct erroneous entries in SIR rolls through Form 8 during ongoing Special Summary Revision",
-    "summary": "The ECI move follows complaints of incorrect entries in several cases in the final published SIR lists",
-    "link": "https://www.thehindu.com/news/national/eci-directs-states-to-correct-erroneous-entries-in-sir-rolls-through-form-8-during-ongoing-special-summary-revision/article71743520.ece",
-    "time": "2026-11-26T06:29:58+05:30",
+    "headline": "Jo Bachay… government warns Netflix on Pakistani series",
+    "summary": "According to official sources, the government warned Netflix that the 2025 advisory banning Pakistan-origin content from streaming platforms was still in effect",
+    "link": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece",
+    "time": "2026-11-26T15:42:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Karnataka charts India’s first comprehensive care and rehabilitation policy for burns survivors",
-    "summary": "15-bed burns care wards to be set up in district hospitals; Bangalore Medical College and Research Institute’s Mahabodhi Burns Care Centre to be upgraded as Centre of Excellence",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
-    "time": "2026-11-26T06:15:57+05:30",
+    "headline": "Vellappally Natesan says he has ‘no differences’ with Keralam CM Satheesan",
+    "summary": "The remarks came against the backdrop of repeated criticism and exchanges between Natesan and Satheesan before UDF came to power following Assembly election earlier this year",
+    "link": "https://www.thehindu.com/news/national/kerala/vellappally-natesan-says-he-has-no-differences-with-keralam-cm-satheesan/article71746015.ece",
+    "time": "2026-11-26T15:41:49+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+    "summary": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+    "time": "2026-11-26T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "'Memories of a Good Meal': How food made a difference during WWII",
+    "summary": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+    "time": "2026-11-26T05:00:00-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Morning news brief",
+    "summary": "Severe weather dampens Thanksgiving travel, Trump administration proposes new tariffs on major U.S. trading partners, EPA testing for lead contamination after Iowa munitions detonation.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief",
+    "time": "2026-11-26T04:44:34-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "Severe weather took a toll on Wisconsin's cranberry production this year",
+    "summary": "Wisconsin grows more cranberries than any other state, supplying much of the fruit Americans enjoy at Thanksgiving. But some of the state's growers are reporting disappointing harvests this fall, following a season of…",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6045909/severe-weather-took-a-toll-on-wisconsins-cranberry-production-this-year",
+    "time": "2026-11-26T04:42:02-05:00",
+    "source": "NPR"
+   },
+   {
+    "headline": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+    "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+    "time": "2026-11-26T00:23:18-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "In a flash, the Army blew up nearly 5 tons of a degraded explosive at its plant in Iowa",
     "summary": "The controlled detonation of more than 60 barrels of unstable lead azide at the Iowa Army Ammunition Plant in Middletown is complete. The explosive had been stored at the plant for nearly 20 years.",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6054005/in-a-flash-the-army-blew-up-nearly-5-tons-of-a-degraded-explosive-at-its-plant-in-iowa",
     "time": "2026-11-25T15:59:50-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-    "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-    "time": "2026-11-25T06:50:05-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
-    "summary": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
-    "time": "2026-11-25T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-    "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-    "time": "2026-11-25T05:00:00-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Morning news brief",
-    "summary": "The Army plans to destroy nearly five tons of lead-based explosives in Iowa, Kilmar Ábrego García has voluntarily left the U.S., Lawmakers raise concerns as Jensen Huang returns as Nvidia's CEO.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief",
-    "time": "2026-11-25T04:44:37-05:00",
-    "source": "NPR"
-   },
-   {
-    "headline": "Army detonates nearly five tons of lead-based explosives in Iowa",
-    "summary": "The controlled detonation of more than 60 barrels — roughly five tons — of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa is complete.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
-    "time": "2026-11-25T04:41:05-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "California warns of flooding as king tides peak over Thanksgiving",
-    "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po",
-    "time": "2026-11-26T01:22:55+00:00",
+    "headline": "New UK-EU treaty has 10-year termination clause",
+    "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+    "time": "2026-11-26T09:59:14+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "US announces new tariffs on host of countries including China",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-    "time": "2026-11-26T01:20:14+00:00",
+    "headline": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+    "time": "2026-11-26T09:27:44+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "The US pastor who wants to see women's right to vote overturned",
-    "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
-    "time": "2026-11-26T00:24:25+00:00",
+    "headline": "Two screenings of Pakistani TV show cancelled in India after backlash",
+    "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
+    "link": "https://www.bbc.co.uk/news/articles/cky97x7delz9o",
+    "time": "2026-11-26T08:30:12+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Spanish elections: What you need to know and what's at stake",
-    "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
-    "time": "2026-11-26T00:23:49+00:00",
+    "headline": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+    "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo",
+    "time": "2026-11-26T07:43:48+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
-    "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
-    "time": "2026-11-26T00:23:27+00:00",
+    "headline": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+    "summary": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "time": "2026-11-26T07:34:47+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
-    "time": "2026-11-26T00:23:05+00:00",
+    "headline": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+    "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro",
+    "time": "2026-11-26T07:31:24+00:00",
     "source": "BBC News"
    }
   ]
