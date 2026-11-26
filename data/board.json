@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T18:05:58.217189+00:00",
+ "updatedAt": "2026-11-26T01:53:46.814704+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,16 +8,16 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 44.5,
-    "feels": 37.1,
-    "hum": 55,
-    "wind": 7.4,
+    "t": 32.9,
+    "feels": 26.1,
+    "hum": 79,
+    "wind": 5.3,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-25",
-     "hi": 44.8,
+     "hi": 43.8,
      "lo": 28.7,
      "code": 45,
      "rain": 0,
@@ -26,42 +26,42 @@
     },
     {
      "date": "2026-11-26",
-     "hi": 48.6,
-     "lo": 36.6,
-     "code": 65,
+     "hi": 47.8,
+     "lo": 32.1,
+     "code": 63,
      "rain": 100,
-     "rainMm": 22.0,
-     "gustMph": 47.9
+     "rainMm": 13.7,
+     "gustMph": 42.5
     },
     {
      "date": "2026-11-27",
-     "hi": 56.3,
-     "lo": 45.2,
+     "hi": 59.0,
+     "lo": 46.2,
      "code": 65,
      "rain": 100,
-     "rainMm": 39.1,
-     "gustMph": 51.7
+     "rainMm": 33.2,
+     "gustMph": 49.7
     },
     {
      "date": "2026-11-28",
-     "hi": 47.9,
-     "lo": 43.9,
+     "hi": 47.4,
+     "lo": 44.0,
      "code": 51,
      "rain": 9,
-     "rainMm": 0.1,
-     "gustMph": 25.5
+     "rainMm": 0.2,
+     "gustMph": 22.6
     },
     {
      "date": "2026-11-29",
-     "hi": 53.4,
-     "lo": 42.4,
+     "hi": 52.3,
+     "lo": 41.3,
      "code": 3,
-     "rain": 3,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 22.1
+     "gustMph": 27.3
     }
    ],
-   "alert": "Thu: wind gusts up to 48 mph · Thu: rain expected, about 22 mm · Fri: wind gusts up to 52 mph · Fri: rain expected, about 39 mm"
+   "alert": "Thu: wind gusts up to 42 mph · Fri: wind gusts up to 50 mph · Fri: rain expected, about 33 mm"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.9,
-    "feels": 26.1,
+    "t": 22.8,
+    "feels": 26.0,
     "hum": 88,
-    "wind": 4.1,
-    "code": 51
+    "wind": 3.9,
+    "code": 3
    },
    "days": [
     {
-     "date": "2026-11-25",
-     "hi": 29.7,
-     "lo": 22.5,
-     "code": 53,
-     "rain": 100,
-     "rainMm": 4.0,
-     "gustMph": 16.3
-    },
-    {
      "date": "2026-11-26",
-     "hi": 27.9,
-     "lo": 22.3,
-     "code": 53,
-     "rain": 77,
-     "rainMm": 1.7,
+     "hi": 28.7,
+     "lo": 21.9,
+     "code": 81,
+     "rain": 84,
+     "rainMm": 10.2,
      "gustMph": 14.8
     },
     {
      "date": "2026-11-27",
-     "hi": 29.0,
-     "lo": 21.1,
+     "hi": 28.4,
+     "lo": 21.6,
      "code": 51,
-     "rain": 14,
-     "rainMm": 0.2,
-     "gustMph": 15.0
+     "rain": 38,
+     "rainMm": 1.0,
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-28",
-     "hi": 29.2,
+     "hi": 27.7,
      "lo": 19.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 15.9
     },
     {
      "date": "2026-11-29",
-     "hi": 28.2,
-     "lo": 18.8,
+     "hi": 26.8,
+     "lo": 17.9,
+     "code": 3,
+     "rain": 2,
+     "rainMm": 0.0,
+     "gustMph": 12.5
+    },
+    {
+     "date": "2026-11-30",
+     "hi": 27.4,
+     "lo": 16.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 14.5
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.6,
-    "feels": 28.8,
-    "hum": 91,
-    "wind": 5.2,
+    "t": 25.0,
+    "feels": 29.4,
+    "hum": 88,
+    "wind": 3.9,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-25",
-     "hi": 32.3,
-     "lo": 24.0,
-     "code": 80,
-     "rain": 99,
-     "rainMm": 7.5,
-     "gustMph": 17.2
-    },
-    {
      "date": "2026-11-26",
      "hi": 30.8,
      "lo": 24.2,
-     "code": 81,
-     "rain": 88,
-     "rainMm": 4.6,
-     "gustMph": 13.6
+     "code": 55,
+     "rain": 98,
+     "rainMm": 2.4,
+     "gustMph": 13.4
     },
     {
      "date": "2026-11-27",
-     "hi": 31.0,
-     "lo": 23.4,
-     "code": 3,
-     "rain": 29,
-     "rainMm": 0.0,
-     "gustMph": 13.9
+     "hi": 31.3,
+     "lo": 23.6,
+     "code": 51,
+     "rain": 17,
+     "rainMm": 0.8,
+     "gustMph": 14.5
     },
     {
      "date": "2026-11-28",
-     "hi": 30.4,
-     "lo": 22.3,
+     "hi": 30.6,
+     "lo": 22.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 17.9
     },
     {
      "date": "2026-11-29",
-     "hi": 29.5,
-     "lo": 20.1,
+     "hi": 29.8,
+     "lo": 20.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 14.8
+    },
+    {
+     "date": "2026-11-30",
+     "hi": 31.0,
+     "lo": 19.9,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.9
     }
    ],
    "alert": null
@@ -192,7 +192,7 @@
     "headline": "SRM University-A.P. signs MoU with AiDEM to facilitate global career opportunities for students",
     "summary": "The collaboration is expected to provide students with structured international placement support, pre-placement orientation and exposure to Japanese workplace culture",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-signs-mou-with-aidem-to-facilitate-global-career-opportunities-for-students/article71743454.ece",
-    "time": "2026-11-25T23:08:51+05:30",
+    "time": "2026-11-25T23:50:56+05:30",
     "source": "The Hindu"
    },
    {
@@ -233,10 +233,38 @@
   ],
   "telangana": [
    {
+    "headline": "Women’s Commission urges Telangana Governor to recommend special investigation into illegal oocyte racket",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/womens-commission-urges-telangana-governor-to-recommend-special-investigation-into-illegal-oocyte-racket/article71742026.ece",
+    "time": "2026-11-26T00:23:51+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Akbaruddin Owaisi questions low spending, high dropouts in minority schools",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/akbaruddin-owaisi-questions-low-spending-high-dropouts-in-minority-schools/article71743385.ece",
+    "time": "2026-11-26T00:11:18+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "Oppn. protest against auction of truck park in Kukatpally",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/telangana/oppn-protest-against-auction-of-truck-park-in-kukatpally/article71743955.ece",
-    "time": "2026-11-25T23:10:30+05:30",
+    "time": "2026-11-25T23:52:14+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Public transport key to tackling Hyderabad traffic woes: London official",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/public-transport-key-to-tackling-hyderabad-traffic-woes-london-official/article71743233.ece",
+    "time": "2026-11-25T23:38:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Bandi Sanjay bats for railway station at Kondagattu",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-bats-for-railway-station-at-kondagattu/article71743634.ece",
+    "time": "2026-11-25T23:15:13+05:30",
     "source": "The Hindu"
    },
    {
@@ -245,81 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/krmb-meet-exposed-state-govts-lie-on-aps-nsp-tunnel-project-brs/article71743663.ece",
     "time": "2026-11-25T23:06:09+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "De-Novo draft electoral rolls published for MLC constituencies",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/de-novo-draft-electoral-rolls-published-for-mlc-constituencies/article71743329.ece",
-    "time": "2026-11-25T22:53:59+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana Agriculture dept. focuses on value addition to crops, food processing and allied sectors",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-agriculture-dept-focuses-on-crops-value-addition-food-processing-and-allied-sectors/article71742587.ece",
-    "time": "2026-11-25T22:42:59+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Public transport key to tackling Hyderabad traffic woes: London official",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/public-transport-key-to-tackling-hyderabad-traffic-woes-london-official/article71743233.ece",
-    "time": "2026-11-25T22:42:49+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana CM keen on expanding ration basket; providing essential commodities to FSC holders comes up for discussion again",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-keen-on-expanding-ration-basket-providing-essential-commodities-to-fsc-holders-comes-up-for-discussion-again/article71743606.ece",
-    "time": "2026-11-25T22:42:27+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Family disputes turn fatal in Karnataka: Mother kills son over inter-caste relationship; man kills sister over property",
+    "headline": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+    "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
+    "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+    "time": "2026-11-26T06:56:45+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "India, China hold high-level talks in Arunachal sector on border management, LAC issues: MEA",
+    "summary": "MEA spokesperson Randhir also addressed a report claiming China-sourced satellite data may have aided Pakistan in tracking Indian troop movements and monitoring installations during Operation Sindoor",
+    "link": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+    "time": "2026-11-26T06:54:23+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Beyond 26/11: Other major terror attacks in Mumbai over the years",
+    "summary": "Here is a look at some of the other major terror attacks that have struck Mumbai city over the years, apart from the 26/11 attacks",
+    "link": "https://www.thehindu.com/news/national/beyond-2611-other-major-terror-attacks-in-mumbai-over-the-years/article71737700.ece",
+    "time": "2026-11-26T06:46:28+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Maharashtra Cabinet approves free foodgrains for over 42 lakh farmers",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/family-disputes-turn-fatal-in-karnataka-mother-kills-son-over-inter-caste-relationship-man-kills-sister-over-property/article71742829.ece",
-    "time": "2026-11-25T23:32:00+05:30",
+    "link": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
+    "time": "2026-11-26T06:44:29+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
-    "summary": "‘The case of a citizen willing to return voluntarily to her country on a travel document is a matter separate from the extradition request,’ MEA’s official spokesperson Randhir Jaiswal said",
-    "link": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
-    "time": "2026-11-25T23:31:32+05:30",
+    "headline": "ECI directs states to correct erroneous entries in SIR rolls through Form 8 during ongoing Special Summary Revision",
+    "summary": "The ECI move follows complaints of incorrect entries in several cases in the final published SIR lists",
+    "link": "https://www.thehindu.com/news/national/eci-directs-states-to-correct-erroneous-entries-in-sir-rolls-through-form-8-during-ongoing-special-summary-revision/article71743520.ece",
+    "time": "2026-11-26T06:29:58+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "HC refuses to reject two election petitions related to Manamadurai and Lalgudi constituencies",
-    "summary": "Justices N. Anand Venkatesh and N. Senthilkumar dismiss the applications filed by TVK MLA D. Elangovan and AIADMK MLA Leemarose Martin",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/hc-refuses-to-reject-two-election-petitions-related-to-manamadurai-and-lalgudi-constituencies/article71743706.ece",
-    "time": "2026-11-25T23:30:24+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Karnataka’s history and heritage come alive at Cubbon Park flower show",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-history-and-heritage-come-alive-at-cubbon-park-flower-show/article71743126.ece",
-    "time": "2026-11-25T23:29:50+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Over 17,700 units of blood collected in Karnataka-wide drive",
-    "summary": "The State Health Department, in association with the KSBTC, organised the drive, with the main programme held at Koramangala Indoor Stadium in Bengaluru",
-    "link": "https://www.thehindu.com/news/national/karnataka/over-17700-units-of-blood-collected-in-karnataka-wide-drive/article71743412.ece",
-    "time": "2026-11-25T23:29:14+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "MVD slaps ₹5.2 lakh penalty on vehicles for overloading, other violations",
-    "summary": "Six vehicles were found transporting goods in excess of the permissible weight. Action was also taken against 57 vehicles for various other violations",
-    "link": "https://www.thehindu.com/news/national/kerala/mvd-slaps-52-lakh-penalty-on-vehicles-for-overloading-other-violations/article71743190.ece",
-    "time": "2026-11-25T23:23:54+05:30",
+    "headline": "Karnataka charts India’s first comprehensive care and rehabilitation policy for burns survivors",
+    "summary": "15-bed burns care wards to be set up in district hospitals; Bangalore Medical College and Research Institute’s Mahabodhi Burns Care Centre to be upgraded as Centre of Excellence",
+    "link": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
+    "time": "2026-11-26T06:15:57+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "In a flash, the Army blew up nearly 5 tons of a degraded explosive at its plant in Iowa",
+    "summary": "The controlled detonation of more than 60 barrels of unstable lead azide at the Iowa Army Ammunition Plant in Middletown is complete. The explosive had been stored at the plant for nearly 20 years.",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6054005/in-a-flash-the-army-blew-up-nearly-5-tons-of-a-degraded-explosive-at-its-plant-in-iowa",
+    "time": "2026-11-25T15:59:50-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
     "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
     "time": "2026-11-25T04:41:05-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Iowans are worried about toxic fallout from a planned detonation. A look at the risks",
-    "summary": "NPR's Michel Martin speaks with Kerri Johannsen, policy director with the Iowa Environmental Council, about the environmental risks of the planned lead azide detonation.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052432/what-are-the-environmental-risks-of-the-lead-azide-detonation-in-iowa",
-    "time": "2026-11-25T04:40:28-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "US stocks fall further as fears over AI intensify",
-    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-    "time": "2026-11-25T17:48:09+00:00",
+    "headline": "California warns of flooding as king tides peak over Thanksgiving",
+    "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po",
+    "time": "2026-11-26T01:22:55+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-    "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-    "time": "2026-11-25T17:30:16+00:00",
+    "headline": "US announces new tariffs on host of countries including China",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+    "time": "2026-11-26T01:20:14+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-    "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
-    "time": "2026-11-25T16:20:14+00:00",
+    "headline": "The US pastor who wants to see women's right to vote overturned",
+    "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
+    "time": "2026-11-26T00:24:25+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "South Africa's Ramaphosa wins court battle over impeachment threat",
-    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
-    "time": "2026-11-25T15:42:50+00:00",
+    "headline": "Spanish elections: What you need to know and what's at stake",
+    "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
+    "time": "2026-11-26T00:23:49+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Canadian astronaut welcomes baby girl from space station",
-    "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
-    "time": "2026-11-25T15:41:39+00:00",
+    "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
+    "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
+    "time": "2026-11-26T00:23:27+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
-    "time": "2026-11-25T14:46:41+00:00",
+    "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+    "time": "2026-11-26T00:23:05+00:00",
     "source": "BBC News"
    }
   ]
