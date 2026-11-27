@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T11:47:32.110216+00:00",
+ "updatedAt": "2026-11-27T20:43:37.919645+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 46.5,
-    "feels": 35.8,
-    "hum": 93,
-    "wind": 22.1,
-    "code": 63
+    "t": 53.3,
+    "feels": 50.1,
+    "hum": 80,
+    "wind": 5.9,
+    "code": 1
    },
    "days": [
     {
-     "date": "2026-11-26",
-     "hi": 48.2,
-     "lo": 32.0,
-     "code": 65,
-     "rain": 100,
-     "rainMm": 21.2,
-     "gustMph": 51.5
-    },
-    {
      "date": "2026-11-27",
-     "hi": 56.6,
-     "lo": 42.9,
-     "code": 65,
+     "hi": 57.0,
+     "lo": 44.1,
+     "code": 63,
      "rain": 100,
-     "rainMm": 40.6,
-     "gustMph": 40.7
+     "rainMm": 11.1,
+     "gustMph": 46.1
     },
     {
      "date": "2026-11-28",
-     "hi": 47.8,
-     "lo": 39.5,
+     "hi": 47.3,
+     "lo": 38.1,
      "code": 3,
-     "rain": 10,
-     "rainMm": 0.08,
+     "rain": 19,
+     "rainMm": 0.0,
      "gustMph": 32.0
     },
     {
      "date": "2026-11-29",
-     "hi": 51.7,
-     "lo": 42.4,
+     "hi": 52.8,
+     "lo": 38.8,
      "code": 3,
-     "rain": 10,
+     "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 27.7
+     "gustMph": 28.0
     },
     {
      "date": "2026-11-30",
-     "hi": 54.8,
-     "lo": 40.0,
-     "code": 80,
-     "rain": 74,
-     "rainMm": 9.3,
+     "hi": 58.2,
+     "lo": 40.1,
+     "code": 81,
+     "rain": 90,
+     "rainMm": 14.3,
      "gustMph": 45.0
+    },
+    {
+     "date": "2026-12-01",
+     "hi": 44.2,
+     "lo": 36.8,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 33.6
     }
    ],
-   "alert": "Thu: wind gusts up to 52 mph · Thu: rain expected, about 21 mm · Fri: wind gusts up to 41 mph · Fri: rain expected, about 41 mm"
+   "alert": "Fri: wind gusts up to 46 mph"
   },
   {
    "id": "hyderabad",
@@ -69,57 +69,57 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 23.5,
-    "feels": 27.3,
-    "hum": 84,
-    "wind": 1.2,
-    "code": 3
+    "t": 21.9,
+    "feels": 24.0,
+    "hum": 81,
+    "wind": 4.1,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-27",
-     "hi": 27.6,
-     "lo": 22.5,
-     "code": 51,
-     "rain": 71,
-     "rainMm": 1.1,
-     "gustMph": 12.8
-    },
-    {
      "date": "2026-11-28",
-     "hi": 29.0,
-     "lo": 20.2,
+     "hi": 28.9,
+     "lo": 20.4,
      "code": 2,
-     "rain": 4,
+     "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 15.2
     },
     {
      "date": "2026-11-29",
-     "hi": 28.5,
-     "lo": 18.2,
+     "hi": 28.3,
+     "lo": 18.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-30",
-     "hi": 28.6,
-     "lo": 17.7,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 16.3
-    },
-    {
-     "date": "2026-12-01",
-     "hi": 28.7,
-     "lo": 19.0,
+     "hi": 28.0,
+     "lo": 17.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.9
+    },
+    {
+     "date": "2026-12-01",
+     "hi": 28.7,
+     "lo": 18.0,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.4
+    },
+    {
+     "date": "2026-12-02",
+     "hi": 28.5,
+     "lo": 20.4,
+     "code": 3,
+     "rain": 8,
+     "rainMm": 0.0,
+     "gustMph": 18.3
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.4,
-    "feels": 30.1,
-    "hum": 90,
-    "wind": 4.8,
+    "t": 23.7,
+    "feels": 28.0,
+    "hum": 95,
+    "wind": 4.5,
     "code": 3
    },
    "days": [
     {
-     "date": "2026-11-27",
-     "hi": 31.3,
-     "lo": 24.0,
-     "code": 51,
-     "rain": 29,
-     "rainMm": 0.2,
-     "gustMph": 13.9
-    },
-    {
      "date": "2026-11-28",
      "hi": 30.2,
-     "lo": 22.0,
+     "lo": 21.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 18.1
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-29",
-     "hi": 30.1,
-     "lo": 19.8,
+     "hi": 29.6,
+     "lo": 19.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.5
+     "gustMph": 14.8
     },
     {
      "date": "2026-11-30",
-     "hi": 30.8,
-     "lo": 20.8,
+     "hi": 31.1,
+     "lo": 20.5,
      "code": 3,
      "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 14.1
+    },
+    {
+     "date": "2026-12-01",
+     "hi": 31.7,
+     "lo": 21.7,
+     "code": 3,
+     "rain": 10,
      "rainMm": 0.0,
      "gustMph": 18.6
     },
     {
-     "date": "2026-12-01",
-     "hi": 32.4,
-     "lo": 22.3,
-     "code": 3,
-     "rain": 6,
-     "rainMm": 0.0,
-     "gustMph": 18.8
+     "date": "2026-12-02",
+     "hi": 31.0,
+     "lo": 23.8,
+     "code": 51,
+     "rain": 58,
+     "rainMm": 2.4,
+     "gustMph": 22.4
     }
    ],
    "alert": null
@@ -189,140 +189,147 @@
  "news": {
   "andhra": [
    {
-    "headline": "Even drumsticks are a luxury in Andhra Pradesh now",
-    "summary": "A family of four may need four to five pieces to prepare a dish, taking the daily expense to roughly ₹120 to ₹150",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/even-drumsticks-are-a-luxury-in-andhra-pradesh-now/article71750248.ece",
-    "time": "2026-11-27T17:11:29+05:30",
+    "headline": "GITAM opens admissions to 111 programmes for 2027-28",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/gitam-opens-admissions-to-111-programmes-for-2027-28/article71751091.ece",
+    "time": "2026-11-28T00:24:08+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lokesh asks TDP leaders to guard against complacency in remaining panchayat poll phases",
-    "summary": "Higher polling percentages will translate into bigger victory margins, the TDP working president Nara Lokesh tells party leaders",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-asks-tdp-leaders-to-guard-against-complacency-in-remaining-panchayat-poll-phases/article71750003.ece",
-    "time": "2026-11-27T17:05:55+05:30",
+    "headline": "Family of three die by suicide amid financial difficulties",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/family-of-three-die-by-suicide-amid-financial-difficulties/article71752160.ece",
+    "time": "2026-11-28T00:23:01+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Naidu in Delhi for NDA meeting after Union Cabinet clears delimitation Bill with 50% rise in seats for all States",
-    "summary": "Chandrababu Naidu joins NDA leaders in Delhi ahead of Parliament’s special sitting, as the Union Cabinet’s Bill keeps the present ratio of seats among States until 2051",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-in-delhi-for-nda-meeting-after-union-cabinet-clears-delimitation-bill-with-50-rise-in-seats-for-all-states/article71750067.ece",
-    "time": "2026-11-27T16:41:47+05:30",
+    "headline": "Naidu appeals to opposition parties to support delimitation, women’s quota Bills",
+    "summary": "Calling it a historic opportunity to enhance women’s participation in governance and nation-building, Chandrababu Naidu says the quota Bill should be passed unanimously; 50% increase in Lok Sabha seats will protect…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-appeals-to-opposition-parties-to-support-delimitation-womens-quota-bills/article71751855.ece",
+    "time": "2026-11-27T23:07:04+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Srikakulam farmers own the land but not the manganese Vedanta wants beneath it",
-    "summary": "In two Srikakulam gram panchayats where maize grows on land handed down through generations, farmers say no one told them their fields had been auctioned for mining. They have since stopped a survey of the 375-acre…",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-farmers-own-the-land-but-not-the-manganese-vedanta-wants-beneath-it/article71746821.ece",
-    "time": "2026-11-27T16:39:59+05:30",
+    "headline": "Giant dredger, Fairway anchors at Kona port to deepen harbour for cargo ships",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/giant-dredger-fairway-anchors-at-kona-port-to-deepen-harbour-for-cargo-ships/article71751770.ece",
+    "time": "2026-11-27T23:04:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Andhra Pradesh tenant farmers’ body seeks restoration of free crop insurance",
-    "summary": "Only 28.88 lakh of the 1.25 crore acres under e-crop have insurance cover, says association leader P. Jamal Mallaiah",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tenant-farmers-body-seeks-restoration-of-free-crop-insurance/article71745780.ece",
-    "time": "2026-11-27T15:01:51+05:30",
+    "headline": "APPSC announces CPT results, applications to open for Deputy Commissioner of Endowments from November 30",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-announces-cpt-results-applications-to-open-for-deputy-commissioner-of-endowments-from-november-30/article71751472.ece",
+    "time": "2026-11-27T23:01:25+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Polavaram evacuees boycott panchayat polls in Eluru district, demand separate panchayat",
-    "summary": "Families resettled at Koruturu R&R Colony also stayed away from the MPTC and ZPTC elections earlier this month",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/polavaram-evacuees-boycott-panchayat-polls-in-eluru-district-demand-separate-panchayat/article71746897.ece",
-    "time": "2026-11-27T14:43:39+05:30",
+    "headline": "DGP performs bhumi puja for OCTOPUS facilities in Amaravati",
+    "summary": "Harish Kumar Gupta inaugurates combat conditioning ground and long firing range; calls for developing OCTOPUS to international standards in counter-terrorism operations",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/dgp-performs-bhumi-puja-for-octopus-facilities-in-amaravati/article71751844.ece",
+    "time": "2026-11-27T22:55:07+05:30",
     "source": "The Hindu"
    }
   ],
   "telangana": [
    {
-    "headline": "CSIR-CCMB’s LaCONES G. Umapathy elected as Fellow of National Academy of Agricultural Sciences",
-    "summary": "The scientist uses reproductive physiology, genetics, genomics and eDNA tools to help conserve endangered species",
-    "link": "https://www.thehindu.com/news/national/telangana/csir-ccmbs-lacones-g-umapathy-elected-as-fellow-of-national-academy-of-agricultural-sciences/article71750247.ece",
-    "time": "2026-11-27T16:52:53+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana’s new pattadar passbooks to have unique code, land maps",
-    "summary": "Passbooks to be used for delivery and monitoring of farmer welfare schemes",
-    "link": "https://www.thehindu.com/news/national/telangana/telanganas-new-pattadar-passbooks-to-have-unique-code-land-maps/article71750274.ece",
-    "time": "2026-11-27T16:52:06+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Telangana Minister Komatireddy extends ₹6 lakh aid to student in Germany",
+    "headline": "Cochlear implant surgery performed free for 8-yr-old boy at Gandhi Hospital",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-minister-komatireddy-extends-6-lakh-aid-to-student-in-germany/article71749957.ece",
-    "time": "2026-11-27T15:07:04+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/cochlear-implant-surgery-performed-free-for-8-yr-old-boy-at-gandhi-hospital/article71751669.ece",
+    "time": "2026-11-28T00:14:44+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Special campaigns in GHMC for verification of graduates constituency draft electoral rolls",
-    "summary": "The special campaign will be conducted on November 28 and 29, 2026), while the second phase will be held on December 5 and 6, 2026, at all designated polling stations across GHMC limits",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/special-campaigns-in-ghmc-for-verification-of-graduates-constituency-draft-electoral-rolls/article71747368.ece",
-    "time": "2026-11-27T14:28:57+05:30",
+    "headline": "Govt. committed to protecting environment and safeguarding resources for future generations: Revanth Reddy",
+    "summary": "Chief Minister says State facing a serious situation, with projections indicating that there might be no rainfall for the next eight months; calls for a collective effort to tackle climate change and challenges posed by…",
+    "link": "https://www.thehindu.com/news/national/telangana/govt-committed-to-protecting-environment-and-safeguarding-resources-for-future-generations-revanth-reddy/article71752193.ece",
+    "time": "2026-11-27T23:49:27+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Telangana Waqf Board set to convene meeting after two years; discussion on properties likely",
+    "headline": "TG SAFE suspends FSSAI licence of Classic Abhiruchi restaurant in Karimnagar",
     "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/telangana-waqf-board-set-to-convene-meeting-after-two-years-discussion-on-properties-likely/article71746923.ece",
-    "time": "2026-11-27T14:00:04+05:30",
+    "link": "https://www.thehindu.com/news/national/telangana/tg-safe-suspends-fssai-licence-of-classic-abhiruchi-restaurant-in-karimnagar/article71751266.ece",
+    "time": "2026-11-27T23:40:15+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "No fine for solo car drivers, no congestion penalty proposed: Hyderabad Police",
-    "summary": "While experts at Cyberabad Moves 2026 discussed congestion charges, parking fees and curbs on solo driving, the traffic police clarified that no such fine has been proposed for motorists travelling alone in Hyderabad.",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-traffic-police-debunk-claims-of-fine-for-solo-car-drivers-say-no-congestion-penalty-proposed/article71747463.ece",
-    "time": "2026-11-27T13:42:13+05:30",
+    "headline": "Drive against illegal moneylending: 16 cases booked in Kumram Bheem Asifabad district",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/drive-against-illegal-moneylending-16-cases-booked-in-kumram-bheem-asifabad-district/article71751742.ece",
+    "time": "2026-11-27T23:37:35+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "25 workers, including nine children, rescued from bonded labour in Hanumakonda",
+    "summary": "Officials say some workers were so isolated from the outside world that they struggled to recall their names, ages and even the current date, year or day of the week during preliminary interaction",
+    "link": "https://www.thehindu.com/news/national/telangana/25-workers-including-nine-children-rescued-from-bonded-labour-in-hanumakonda/article71751874.ece",
+    "time": "2026-11-27T23:25:49+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Prajavani wins national award for digital transformation excellence",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/telangana/prajavani-wins-national-award-for-digital-transformation-excellence/article71752042.ece",
+    "time": "2026-11-27T23:17:43+05:30",
     "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "CJP’s Ashutosh Ranka serves defamation notice on Jitendra Singh over Pakistan funding remarks",
-    "summary": "Mr. Ranka called the Union Minister of State’s allegations “false, malicious, and wholly devoid of factual foundation”",
-    "link": "https://www.thehindu.com/news/national/cjps-ashutosh-ranka-serves-defamation-notice-on-jitendra-singh-over-pakistan-funding-remarks/article71750453.ece",
-    "time": "2026-11-27T17:12:49+05:30",
+    "headline": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+    "summary": "The TVK MLA was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+    "time": "2026-11-28T01:56:39+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Nine-day third session of 16th Keralam Assembly to begin on November 30",
-    "summary": "Nine Bills, including an anti-ragging Bill named after J.S. Sidharthan, the 20-year-old student whose death had sparked a Statewide outcry against ragging, will come up for consideration during the nine-day session",
-    "link": "https://www.thehindu.com/news/national/kerala/nine-day-third-session-of-16th-keralam-assembly-to-begin-on-november-30/article71750396.ece",
-    "time": "2026-11-27T17:12:40+05:30",
+    "headline": "Senior advocate Syed Faisal Qadri appointed as J&K’s Advocate General after two year gap",
+    "summary": "Mr. Faisal is a designated senior advocate with over 20 years of practice; the Omar Abdullah government in April had proposed the names for the post while the appointment came after the J&K High Court heard a PIL plea…",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
+    "time": "2026-11-28T01:51:31+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "DMK sets conditions to support Delimitation Bill",
-    "summary": "Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr. Stalin’s two…",
-    "link": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece",
-    "time": "2026-11-27T17:12:05+05:30",
+    "headline": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+    "summary": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the…",
+    "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+    "time": "2026-11-28T01:43:09+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Even drumsticks are a luxury in Andhra Pradesh now",
-    "summary": "A family of four may need four to five pieces to prepare a dish, taking the daily expense to roughly ₹120 to ₹150",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/even-drumsticks-are-a-luxury-in-andhra-pradesh-now/article71750248.ece",
-    "time": "2026-11-27T17:11:29+05:30",
+    "headline": "Lok Sabha seat freeze is no longer linked to population stabilisation",
+    "summary": "The distribution of seats based on 1971 Census continued for 50 years for the reason that a readjustment would adversely affect the proportion of States that stabilised population. Population stability was a stated…",
+    "link": "https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
+    "time": "2026-11-28T01:39:17+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Drought’s bitter harvest of debt",
-    "summary": "As El Niño conditions deepen Telangana’s agricultural distress, failed kharif crops have left farmers saddled with mounting debts, wiped-out investments and little means of recovery. With loan repayments looming and…",
-    "link": "https://www.thehindu.com/news/national/telangana/droughts-bitter-harvest-of-debt/article71748155.ece",
-    "time": "2026-11-27T17:08:52+05:30",
+    "headline": "Navy Project 17A programme completed as GRSE hands over final stealth frigate Vindhyagir",
+    "summary": "Vindhyagiri (Yard 3024) is the third and final Project 17A frigate built by GRSE",
+    "link": "https://www.thehindu.com/news/national/navy-project-17a-programme-completed-as-grse-hands-over-final-stealth-frigate-vindhyagir/article71751558.ece",
+    "time": "2026-11-28T01:25:34+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Lokesh asks TDP leaders to guard against complacency in remaining panchayat poll phases",
-    "summary": "Higher polling percentages will translate into bigger victory margins, the TDP working president Nara Lokesh tells party leaders",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-asks-tdp-leaders-to-guard-against-complacency-in-remaining-panchayat-poll-phases/article71750003.ece",
-    "time": "2026-11-27T17:05:55+05:30",
+    "headline": "Modi invokes Lord Murugan; BJP says Tamil Nadu govt. acted against Hindus",
+    "summary": "Supreme Court has exposed Tamil Nadu Government’s anti-Sanatan mindset, says Nitin Nabin",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-acted-against-hindus-says-bjp/article71751066.ece",
+    "time": "2026-11-28T01:22:32+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
    {
+    "headline": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+    "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+    "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+    "time": "2026-11-27T06:59:02-05:00",
+    "source": "NPR"
+   },
+   {
     "headline": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-    "summary": "",
+    "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's…",
     "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
     "time": "2026-11-27T05:59:36-05:00",
     "source": "NPR"
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/26/nx-s1-6044297-e1/being-a-prepper-once-came-with-a-stigma-recent-outages-are-turning-skeptics-into-believers",
     "time": "2026-11-26T16:51:51-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-    "summary": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-    "time": "2026-11-26T05:00:00-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-    "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
-    "time": "2026-11-27T11:44:40+00:00",
+    "headline": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+    "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+    "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
+    "time": "2026-11-27T20:34:45+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-    "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
-    "time": "2026-11-27T10:39:31+00:00",
+    "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
+    "time": "2026-11-27T20:09:09+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-    "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
-    "time": "2026-11-27T10:26:28+00:00",
+    "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
+    "time": "2026-11-27T20:06:31+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Clashes mar European games as Macron condemns violence",
-    "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
-    "time": "2026-11-27T10:24:24+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
-    "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
-    "time": "2026-11-27T10:01:07+00:00",
+    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o",
+    "time": "2026-11-27T18:42:50+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
     "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-    "time": "2026-11-27T09:07:48+00:00",
+    "time": "2026-11-27T18:00:40+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
+    "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo",
+    "time": "2026-11-27T17:19:31+00:00",
     "source": "BBC News"
    }
   ]
