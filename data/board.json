@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T19:46:19.971186+00:00",
+ "updatedAt": "2026-11-27T02:40:31.791457+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 44.4,
-    "feels": 34.7,
-    "hum": 74,
-    "wind": 15.8,
-    "code": 3
+    "t": 46.5,
+    "feels": 35.8,
+    "hum": 93,
+    "wind": 22.1,
+    "code": 63
    },
    "days": [
     {
      "date": "2026-11-26",
-     "hi": 47.5,
+     "hi": 48.2,
      "lo": 32.0,
      "code": 65,
      "rain": 100,
-     "rainMm": 34.1,
-     "gustMph": 49.4
+     "rainMm": 21.2,
+     "gustMph": 51.5
     },
     {
      "date": "2026-11-27",
-     "hi": 55.9,
-     "lo": 42.6,
+     "hi": 56.6,
+     "lo": 42.9,
      "code": 65,
      "rain": 100,
-     "rainMm": 28.7,
-     "gustMph": 36.9
+     "rainMm": 40.6,
+     "gustMph": 40.7
     },
     {
      "date": "2026-11-28",
-     "hi": 47.3,
-     "lo": 41.1,
+     "hi": 47.8,
+     "lo": 39.5,
      "code": 3,
-     "rain": 7,
+     "rain": 10,
      "rainMm": 0.08,
-     "gustMph": 31.5
+     "gustMph": 32.0
     },
     {
      "date": "2026-11-29",
-     "hi": 51.2,
-     "lo": 42.7,
+     "hi": 51.7,
+     "lo": 42.4,
      "code": 3,
-     "rain": 7,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 27.3
+     "gustMph": 27.7
     },
     {
      "date": "2026-11-30",
-     "hi": 56.4,
-     "lo": 38.6,
-     "code": 82,
-     "rain": 79,
-     "rainMm": 25.5,
-     "gustMph": 46.1
+     "hi": 54.8,
+     "lo": 40.0,
+     "code": 80,
+     "rain": 74,
+     "rainMm": 9.3,
+     "gustMph": 45.0
     }
    ],
-   "alert": "Thu: wind gusts up to 49 mph · Thu: rain expected, about 34 mm · Fri: rain expected, about 29 mm"
+   "alert": "Thu: wind gusts up to 52 mph · Thu: rain expected, about 21 mm · Fri: wind gusts up to 41 mph · Fri: rain expected, about 41 mm"
   },
   {
    "id": "hyderabad",
@@ -69,35 +69,35 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.8,
-    "feels": 26.4,
-    "hum": 90,
-    "wind": 3.1,
-    "code": 1
+    "t": 23.5,
+    "feels": 27.3,
+    "hum": 84,
+    "wind": 1.2,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-27",
-     "hi": 29.3,
-     "lo": 21.7,
+     "hi": 27.6,
+     "lo": 22.5,
      "code": 51,
-     "rain": 55,
-     "rainMm": 1.4,
-     "gustMph": 17.2
+     "rain": 71,
+     "rainMm": 1.1,
+     "gustMph": 12.8
     },
     {
      "date": "2026-11-28",
-     "hi": 29.1,
-     "lo": 20.1,
+     "hi": 29.0,
+     "lo": 20.2,
      "code": 2,
-     "rain": 0,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 15.7
+     "gustMph": 16.6
     },
     {
      "date": "2026-11-29",
-     "hi": 28.2,
-     "lo": 18.4,
+     "hi": 28.5,
+     "lo": 18.2,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -105,21 +105,21 @@
     },
     {
      "date": "2026-11-30",
-     "hi": 28.3,
-     "lo": 17.8,
+     "hi": 28.6,
+     "lo": 17.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 16.3
     },
     {
      "date": "2026-12-01",
-     "hi": 28.3,
-     "lo": 18.8,
+     "hi": 28.7,
+     "lo": 19.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 15.9
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 24.5,
-    "feels": 30.5,
-    "hum": 98,
-    "wind": 0.7,
+    "t": 25.4,
+    "feels": 30.1,
+    "hum": 90,
+    "wind": 4.8,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-27",
-     "hi": 31.0,
-     "lo": 23.6,
-     "code": 3,
-     "rain": 27,
-     "rainMm": 0.0,
-     "gustMph": 14.3
+     "hi": 31.3,
+     "lo": 24.0,
+     "code": 51,
+     "rain": 29,
+     "rainMm": 0.2,
+     "gustMph": 13.9
     },
     {
      "date": "2026-11-28",
-     "hi": 30.3,
-     "lo": 22.1,
+     "hi": 30.2,
+     "lo": 22.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-29",
      "hi": 30.1,
-     "lo": 19.9,
+     "lo": 19.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 14.5
     },
     {
      "date": "2026-11-30",
-     "hi": 31.5,
-     "lo": 20.9,
+     "hi": 30.8,
+     "lo": 20.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.6
+     "gustMph": 18.6
     },
     {
      "date": "2026-12-01",
-     "hi": 32.1,
-     "lo": 21.7,
+     "hi": 32.4,
+     "lo": 22.3,
      "code": 3,
-     "rain": 4,
+     "rain": 6,
      "rainMm": 0.0,
-     "gustMph": 17.4
+     "gustMph": 18.8
     }
    ],
    "alert": null
@@ -203,6 +203,13 @@
     "source": "The Hindu"
    },
    {
+    "headline": "Constitution Day observed at South Coast Railway headquarters",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/cities/Visakhapatnam/constitution-day-observed-at-south-coast-railway-headquarters/article71747118.ece",
+    "time": "2026-11-26T23:47:15+05:30",
+    "source": "The Hindu"
+   },
+   {
     "headline": "GVMC receives 803 applications during three days tax melas",
     "summary": "",
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/gvmc-receives-803-applications-during-three-days-tax-melas/article71747581.ece",
@@ -222,16 +229,37 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/polling-concludes-peaceful-across-rajamahendravaram-kakinada/article71747135.ece",
     "time": "2026-11-26T22:33:44+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Panchayat polls peaceful in Markapuram, Prakasam and Nellore districts",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/panchayat-polls-peaceful-in-markapuram-prakasam-and-nellore-districts/article71747518.ece",
-    "time": "2026-11-26T22:22:09+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "DNA could transform data storage, says DST Secretary",
+    "summary": "We are generating nearly a billion terabytes of data every year, and DNA can change the way we store this data,’Umesh Waghmare said",
+    "link": "https://www.thehindu.com/news/national/telangana/dna-could-transform-data-storage-says-dst-secretary/article71747556.ece",
+    "time": "2026-11-27T07:11:13+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Overnight sharp spell of rain drenches Hyderabad",
+    "summary": "According to the Telangana Development and Planning Society automatic weather observation data, Kukatpally and Safilguda received over 7 cm rain in a span of few hours",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/overnight-sharp-spell-of-rain-drenches-hyderabad/article71749201.ece",
+    "time": "2026-11-27T07:08:10+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Water works to trigger traffic diversions between Puranapul and Tappachabutra",
+    "summary": "Those travelling from Darbar Maisamma Temple or Tappachabutra T-Junction towards Puranapul can take the route via Nehru School and 100 Feet Road",
+    "link": "https://www.thehindu.com/news/national/telangana/water-works-to-trigger-traffic-diversions-between-puranapul-and-tappachabutra/article71747386.ece",
+    "time": "2026-11-27T07:06:53+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Drought’s bitter harvest of debt",
+    "summary": "As El Niño conditions deepen Telangana’s agricultural distress, failed kharif crops have left farmers saddled with mounting debts, wiped-out investments and little means of recovery. With loan repayments looming and…",
+    "link": "https://www.thehindu.com/news/national/telangana/droughts-bitter-harvest-of-debt/article71748155.ece",
+    "time": "2026-11-27T05:59:48+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "HC awards two-week imprisonment to Cyberabad Police Commissioner, Medchal DCP in contempt case",
     "summary": "",
@@ -245,81 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/25k-government-jobs-will-be-filled-soon-taking-total-beyond-one-lakh-revanth-reddy/article71747694.ece",
     "time": "2026-11-26T22:28:43+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "HC reserves orders over e-auction of truck parking land at Kukatpally",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/hc-reserves-orders-over-e-auction-of-truck-parking-land-at-kukatpally/article71747312.ece",
-    "time": "2026-11-26T22:21:12+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Bandi Sanjay seeks crackdown on drug mafia, questions action on key cases",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-seeks-crackdown-on-drug-mafia-questions-action-on-key-cases/article71747502.ece",
-    "time": "2026-11-26T22:07:09+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "ACB arrests TGSPDCL engineer for accepting ₹60,000 bribe in Gadwal",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/acb-arrests-tgspdcl-engineer-for-accepting-60000-bribe-in-gadwal/article71747440.ece",
-    "time": "2026-11-26T21:58:20+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "New investments, expansion of units key to TG industrial growth plans: Minister",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/cities/Hyderabad/new-investments-expansion-of-units-key-to-tg-industrial-growth-plans-minister/article71746757.ece",
-    "time": "2026-11-26T21:56:50+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Madras High Court commends Tamil Nadu police for tracing 2,510 missing persons within a fortnight",
-    "summary": "Justices A.D. Jagadish Chandira and B. Karthikeyan record their appreciation for a special drive conducted by the police to trace missing men, women, boys and girls",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-commends-tamil-nadu-police-for-tracing-2510-missing-persons-within-a-fortnight/article71747488.ece",
-    "time": "2026-11-27T01:07:17+05:30",
+    "headline": "Overnight sharp spell of rain drenches Hyderabad",
+    "summary": "According to the Telangana Development and Planning Society automatic weather observation data, Kukatpally and Safilguda received over 7 cm rain in a span of few hours",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/overnight-sharp-spell-of-rain-drenches-hyderabad/article71749201.ece",
+    "time": "2026-11-27T08:01:24+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-projects-ashwini-vaishnav/article71747955.ece",
-    "time": "2026-11-27T01:04:58+05:30",
+    "headline": "On what legal basis has government blocked a Pakistani series on Netflix? | Explained",
+    "summary": "Jo Bachay Hain Sang Samait Lo has drawn a warning from the government that Pakistani-origin content cannot be shown on Indian streaming platforms.",
+    "link": "https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece",
+    "time": "2026-11-27T07:58:41+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Experts examine key aspects, challenges of conducting Census",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/experts-examine-key-aspects-challenges-of-conducting-census/article71747713.ece",
-    "time": "2026-11-27T01:01:46+05:30",
+    "headline": "CPI(M) urges Tamil Nadu government to act against Kallakurichi TVK MLA Arul Vignesh",
+    "summary": "Tamil Nadu CM should declare that the government will act and stand with the victim, CPI(M) Politburo member U. Vasuki said.",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-act-against-kallakurichi-tvk-mla-arul-vignesh/article71745890.ece",
+    "time": "2026-11-27T07:43:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Thirupparankundram ‘deepathoon’ row: Supreme Court agrees to list plea to detail Vijay’s role",
-    "summary": "The application said the four Sthanikars had denied giving any opinion to light the lamp at the Deepa Mandapam nor were they consulted",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-deepathoon-lamp-lighting-row-on-november-27-2026/article71745742.ece",
-    "time": "2026-11-27T00:58:59+05:30",
+    "headline": "Kallakurichi MLA-woman IAS officer harassment case in Tamil Nadu: a timeline",
+    "summary": "Here’s a timeline of how the Kallakurichi MLA-IAS officer row in Tamil Nadu unfolded, the Opposition’s charges and more",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-mla-woman-ias-officer-sexual-harassment-case-timeline-of-key-developments/article71746164.ece",
+    "time": "2026-11-27T07:38:55+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Vizag youth advocate pitches ‘Blue Steps’ beach walk at Doha wellness forum",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-youth-advocate-pitches-blue-steps-beach-walk-at-doha-wellness-forum/article71746146.ece",
-    "time": "2026-11-27T00:48:13+05:30",
+    "headline": "India, UAE to accelerate joint development and production of next generation defence equipment",
+    "summary": "Meeting provided strategic direction to initiatives under the India-UAE Strategic Defence Partnership Framework, signed during PM’s May visit to the UAE",
+    "link": "https://www.thehindu.com/news/national/india-uae-to-accelerate-joint-development-and-production-of-next-generation-defence-equipment/article71747827.ece",
+    "time": "2026-11-27T07:37:59+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
-    "summary": "The Union Cabinet will meet on November 27 to clear the amended legislation",
-    "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
-    "time": "2026-11-27T00:44:45+05:30",
+    "headline": "Government has ‘clear strategy’ to stall court proceedings against GNI project: Jairam Ramesh",
+    "summary": "Congress leader says the project continues to be “bulldozed through”, citing how the Andaman and Nicobar administration has issued a tender inviting bids to demarcate the 166.1 sq km area earmarked for the project",
+    "link": "https://www.thehindu.com/news/national/government-has-clear-strategy-to-stall-court-proceedings-against-gni-project-jairam-ramesh/article71747413.ece",
+    "time": "2026-11-27T07:37:34+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "Being a prepper once came with a stigma. Recent outages are turning skeptics into believers",
+    "summary": "In the wake of a series of tech failures, major government network crashes and flight stoppages, many people online are looking to preppers to learn how to become self-reliant.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6044297-e1/being-a-prepper-once-came-with-a-stigma-recent-outages-are-turning-skeptics-into-believers",
+    "time": "2026-11-26T16:51:51-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
     "summary": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/26/nx-s1-6045909/severe-weather-took-a-toll-on-wisconsins-cranberry-production-this-year",
     "time": "2026-11-26T04:42:02-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
-    "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-    "time": "2026-11-26T00:23:18-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
-    "time": "2026-11-26T19:27:45+00:00",
+    "headline": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o",
+    "time": "2026-11-27T02:22:37+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
-    "time": "2026-11-26T16:21:19+00:00",
+    "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "time": "2026-11-27T00:52:11+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "New UK-EU treaty has 10-year termination clause",
-    "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-    "time": "2026-11-26T15:23:17+00:00",
+    "headline": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+    "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
+    "time": "2026-11-27T00:48:11+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
-    "time": "2026-11-26T15:17:18+00:00",
+    "headline": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
+    "time": "2026-11-27T00:47:43+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-    "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-    "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o",
-    "time": "2026-11-26T14:44:26+00:00",
+    "headline": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+    "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+    "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
+    "time": "2026-11-26T23:03:16+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-    "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-    "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo",
-    "time": "2026-11-26T14:35:22+00:00",
+    "headline": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+    "time": "2026-11-26T22:49:27+00:00",
     "source": "BBC News"
    }
   ]
