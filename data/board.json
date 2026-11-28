@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T20:43:37.919645+00:00",
+ "updatedAt": "2026-11-28T03:05:36.896891+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,57 +8,57 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 53.3,
-    "feels": 50.1,
-    "hum": 80,
-    "wind": 5.9,
-    "code": 1
+    "t": 46.4,
+    "feels": 40.1,
+    "hum": 85,
+    "wind": 10.2,
+    "code": 3
    },
    "days": [
     {
      "date": "2026-11-27",
      "hi": 57.0,
-     "lo": 44.1,
+     "lo": 44.6,
      "code": 63,
      "rain": 100,
-     "rainMm": 11.1,
+     "rainMm": 9.9,
      "gustMph": 46.1
     },
     {
      "date": "2026-11-28",
-     "hi": 47.3,
-     "lo": 38.1,
+     "hi": 47.5,
+     "lo": 38.6,
      "code": 3,
-     "rain": 19,
+     "rain": 11,
      "rainMm": 0.0,
-     "gustMph": 32.0
+     "gustMph": 32.9
     },
     {
      "date": "2026-11-29",
-     "hi": 52.8,
-     "lo": 38.8,
+     "hi": 51.6,
+     "lo": 39.1,
      "code": 3,
-     "rain": 6,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 28.0
+     "gustMph": 26.2
     },
     {
      "date": "2026-11-30",
-     "hi": 58.2,
-     "lo": 40.1,
-     "code": 81,
-     "rain": 90,
-     "rainMm": 14.3,
-     "gustMph": 45.0
+     "hi": 55.7,
+     "lo": 40.2,
+     "code": 82,
+     "rain": 99,
+     "rainMm": 19.6,
+     "gustMph": 41.8
     },
     {
      "date": "2026-12-01",
-     "hi": 44.2,
-     "lo": 36.8,
+     "hi": 44.3,
+     "lo": 36.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 33.6
+     "gustMph": 33.8
     }
    ],
    "alert": "Fri: wind gusts up to 46 mph"
@@ -69,44 +69,44 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 21.9,
-    "feels": 24.0,
-    "hum": 81,
-    "wind": 4.1,
+    "t": 22.3,
+    "feels": 23.9,
+    "hum": 74,
+    "wind": 4.3,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-28",
-     "hi": 28.9,
+     "hi": 28.4,
      "lo": 20.4,
-     "code": 2,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 15.2
-    },
-    {
-     "date": "2026-11-29",
-     "hi": 28.3,
-     "lo": 18.1,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 17.0
-    },
-    {
-     "date": "2026-11-30",
-     "hi": 28.0,
-     "lo": 17.9,
-     "code": 3,
+     "code": 1,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.9
     },
     {
+     "date": "2026-11-29",
+     "hi": 28.0,
+     "lo": 17.6,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.4
+    },
+    {
+     "date": "2026-11-30",
+     "hi": 27.8,
+     "lo": 17.8,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.7
+    },
+    {
      "date": "2026-12-01",
-     "hi": 28.7,
-     "lo": 18.0,
+     "hi": 28.4,
+     "lo": 18.3,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -114,12 +114,12 @@
     },
     {
      "date": "2026-12-02",
-     "hi": 28.5,
-     "lo": 20.4,
+     "hi": 28.9,
+     "lo": 20.2,
      "code": 3,
-     "rain": 8,
+     "rain": 4,
      "rainMm": 0.0,
-     "gustMph": 18.3
+     "gustMph": 17.9
     }
    ],
    "alert": null
@@ -130,57 +130,57 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 23.7,
-    "feels": 28.0,
-    "hum": 95,
-    "wind": 4.5,
+    "t": 25.2,
+    "feels": 28.2,
+    "hum": 79,
+    "wind": 6.4,
     "code": 3
    },
    "days": [
     {
      "date": "2026-11-28",
-     "hi": 30.2,
-     "lo": 21.9,
+     "hi": 30.1,
+     "lo": 21.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.0
+     "gustMph": 17.7
     },
     {
      "date": "2026-11-29",
-     "hi": 29.6,
+     "hi": 29.5,
      "lo": 19.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.8
+     "gustMph": 15.4
     },
     {
      "date": "2026-11-30",
-     "hi": 31.1,
-     "lo": 20.5,
+     "hi": 30.4,
+     "lo": 20.1,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 14.1
+     "gustMph": 16.1
     },
     {
      "date": "2026-12-01",
-     "hi": 31.7,
-     "lo": 21.7,
+     "hi": 32.0,
+     "lo": 21.9,
      "code": 3,
-     "rain": 10,
+     "rain": 8,
      "rainMm": 0.0,
-     "gustMph": 18.6
+     "gustMph": 17.9
     },
     {
      "date": "2026-12-02",
-     "hi": 31.0,
+     "hi": 31.7,
      "lo": 23.8,
      "code": 51,
-     "rain": 58,
-     "rainMm": 2.4,
-     "gustMph": 22.4
+     "rain": 30,
+     "rainMm": 0.6,
+     "gustMph": 21.9
     }
    ],
    "alert": null
@@ -277,45 +277,45 @@
   ],
   "india": [
    {
-    "headline": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
-    "summary": "The TVK MLA was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
-    "time": "2026-11-28T01:56:39+05:30",
+    "headline": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit",
+    "summary": "Indian and Nepali delegations came up with the ten-pillar vision document titled ‘Viksit Bharat-Samunnat Nepal: Reimagining the Partnership’",
+    "link": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece",
+    "time": "2026-11-28T08:06:00+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Senior advocate Syed Faisal Qadri appointed as J&K’s Advocate General after two year gap",
-    "summary": "Mr. Faisal is a designated senior advocate with over 20 years of practice; the Omar Abdullah government in April had proposed the names for the post while the appointment came after the J&K High Court heard a PIL plea…",
-    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
-    "time": "2026-11-28T01:51:31+05:30",
+    "headline": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
+    "summary": "The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations",
+    "link": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
+    "time": "2026-11-28T07:54:21+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Thirupparankundram row: Supreme Court finds wilful disobedience of Deepam order, directs lighting of pillar today",
+    "summary": "The apex court declared that authorities 'wilfully disobeyed' court orders and issued show cause notices on contempt against the Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and…",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
+    "time": "2026-11-28T07:53:07+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "What is the Indraprastha Communique issued after SCO Civilizational Forum in New Delhi? | Explained",
+    "summary": "The dialogue, which was organized by the Ministry of Culture and the Ministry of External Affairs, was proposed by Prime Minister Narendra Modi at the SCO leaders’ Summit in Tianjin last year and adopted by the SCO…",
+    "link": "https://www.thehindu.com/news/national/what-is-the-indraprastha-communique-issued-after-sco-civilizational-forum-in-new-delhi-explained/article71753482.ece",
+    "time": "2026-11-28T07:43:05+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "INLD leader alleges Haryana universities saddled with ₹16,052 crore debt",
+    "summary": "The State government has pushed 22 public universities into a debt burden over the past four years by converting grants-in-aid into perpetual loans.",
+    "link": "https://www.thehindu.com/news/cities/Delhi/inld-leader-alleges-haryana-universities-saddled-with-16052-crore-debt/article71750972.ece",
+    "time": "2026-11-28T05:13:39+05:30",
     "source": "The Hindu"
    },
    {
     "headline": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
     "summary": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the…",
     "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
-    "time": "2026-11-28T01:43:09+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Lok Sabha seat freeze is no longer linked to population stabilisation",
-    "summary": "The distribution of seats based on 1971 Census continued for 50 years for the reason that a readjustment would adversely affect the proportion of States that stabilised population. Population stability was a stated…",
-    "link": "https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
-    "time": "2026-11-28T01:39:17+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Navy Project 17A programme completed as GRSE hands over final stealth frigate Vindhyagir",
-    "summary": "Vindhyagiri (Yard 3024) is the third and final Project 17A frigate built by GRSE",
-    "link": "https://www.thehindu.com/news/national/navy-project-17a-programme-completed-as-grse-hands-over-final-stealth-frigate-vindhyagir/article71751558.ece",
-    "time": "2026-11-28T01:25:34+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Modi invokes Lord Murugan; BJP says Tamil Nadu govt. acted against Hindus",
-    "summary": "Supreme Court has exposed Tamil Nadu Government’s anti-Sanatan mindset, says Nitin Nabin",
-    "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-acted-against-hindus-says-bjp/article71751066.ece",
-    "time": "2026-11-28T01:22:32+05:30",
+    "time": "2026-11-28T04:08:22+05:30",
     "source": "The Hindu"
    }
   ],
@@ -365,45 +365,45 @@
   ],
   "world": [
    {
-    "headline": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-    "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-    "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
-    "time": "2026-11-27T20:34:45+00:00",
+    "headline": "Nigeria's 'ultimate hard man' who become an online meme",
+    "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
+    "time": "2026-11-28T01:20:35+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
+    "time": "2026-11-28T00:56:55+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+    "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+    "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
+    "time": "2026-11-28T00:50:11+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+    "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
+    "time": "2026-11-28T00:05:17+00:00",
+    "source": "BBC News"
+   },
+   {
+    "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+    "time": "2026-11-27T23:02:35+00:00",
     "source": "BBC News"
    },
    {
     "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
     "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
     "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
-    "time": "2026-11-27T20:09:09+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-    "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
-    "time": "2026-11-27T20:06:31+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-    "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o",
-    "time": "2026-11-27T18:42:50+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-    "time": "2026-11-27T18:00:40+00:00",
-    "source": "BBC News"
-   },
-   {
-    "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
-    "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo",
-    "time": "2026-11-27T17:19:31+00:00",
+    "time": "2026-11-27T21:55:53+00:00",
     "source": "BBC News"
    }
   ]
