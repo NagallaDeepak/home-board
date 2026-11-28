@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:05:36.896891+00:00",
+ "updatedAt": "2026-11-28T12:09:35.707983+00:00",
  "sources": "Open-Meteo · The Hindu · NPR · BBC",
  "weather": [
   {
@@ -8,60 +8,60 @@
    "region": "Massachusetts, USA",
    "unit": "F",
    "now": {
-    "t": 46.4,
-    "feels": 40.1,
-    "hum": 85,
-    "wind": 10.2,
-    "code": 3
+    "t": 40.4,
+    "feels": 33.2,
+    "hum": 81,
+    "wind": 9.3,
+    "code": 0
    },
    "days": [
     {
-     "date": "2026-11-27",
-     "hi": 57.0,
-     "lo": 44.6,
-     "code": 63,
-     "rain": 100,
-     "rainMm": 9.9,
-     "gustMph": 46.1
-    },
-    {
      "date": "2026-11-28",
-     "hi": 47.5,
-     "lo": 38.6,
+     "hi": 48.0,
+     "lo": 40.3,
      "code": 3,
-     "rain": 11,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 32.9
+     "gustMph": 31.8
     },
     {
      "date": "2026-11-29",
-     "hi": 51.6,
-     "lo": 39.1,
+     "hi": 52.5,
+     "lo": 39.0,
      "code": 3,
-     "rain": 4,
+     "rain": 3,
      "rainMm": 0.0,
-     "gustMph": 26.2
+     "gustMph": 25.9
     },
     {
      "date": "2026-11-30",
-     "hi": 55.7,
-     "lo": 40.2,
+     "hi": 56.1,
+     "lo": 40.7,
      "code": 82,
      "rain": 99,
-     "rainMm": 19.6,
-     "gustMph": 41.8
+     "rainMm": 21.1,
+     "gustMph": 40.7
     },
     {
      "date": "2026-12-01",
-     "hi": 44.3,
-     "lo": 36.1,
+     "hi": 45.6,
+     "lo": 36.8,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 33.8
+     "gustMph": 36.5
+    },
+    {
+     "date": "2026-12-02",
+     "hi": 47.0,
+     "lo": 37.9,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 17.2
     }
    ],
-   "alert": "Fri: wind gusts up to 46 mph"
+   "alert": "Mon: wind gusts up to 41 mph · Mon: rain expected, about 21 mm"
   },
   {
    "id": "hyderabad",
@@ -69,26 +69,26 @@
    "region": "Telangana, India",
    "unit": "C",
    "now": {
-    "t": 22.3,
-    "feels": 23.9,
-    "hum": 74,
-    "wind": 4.3,
+    "t": 26.5,
+    "feels": 26.6,
+    "hum": 48,
+    "wind": 5.7,
     "code": 0
    },
    "days": [
     {
      "date": "2026-11-28",
      "hi": 28.4,
-     "lo": 20.4,
+     "lo": 20.1,
      "code": 1,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.9
+     "gustMph": 17.0
     },
     {
      "date": "2026-11-29",
      "hi": 28.0,
-     "lo": 17.6,
+     "lo": 17.7,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
@@ -96,30 +96,30 @@
     },
     {
      "date": "2026-11-30",
-     "hi": 27.8,
-     "lo": 17.8,
+     "hi": 28.1,
+     "lo": 17.5,
+     "code": 3,
+     "rain": 0,
+     "rainMm": 0.0,
+     "gustMph": 15.0
+    },
+    {
+     "date": "2026-12-01",
+     "hi": 28.9,
+     "lo": 18.0,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
      "gustMph": 15.7
     },
     {
-     "date": "2026-12-01",
-     "hi": 28.4,
-     "lo": 18.3,
-     "code": 3,
-     "rain": 0,
-     "rainMm": 0.0,
-     "gustMph": 15.4
-    },
-    {
      "date": "2026-12-02",
-     "hi": 28.9,
-     "lo": 20.2,
+     "hi": 29.8,
+     "lo": 20.1,
      "code": 3,
-     "rain": 4,
+     "rain": 2,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 16.3
     }
    ],
    "alert": null
@@ -130,56 +130,56 @@
    "region": "Andhra Pradesh, India",
    "unit": "C",
    "now": {
-    "t": 25.2,
-    "feels": 28.2,
-    "hum": 79,
-    "wind": 6.4,
-    "code": 3
+    "t": 26.8,
+    "feels": 28.3,
+    "hum": 58,
+    "wind": 5.4,
+    "code": 0
    },
    "days": [
     {
      "date": "2026-11-28",
-     "hi": 30.1,
-     "lo": 21.8,
+     "hi": 29.9,
+     "lo": 21.6,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 17.7
+     "gustMph": 18.1
     },
     {
      "date": "2026-11-29",
-     "hi": 29.5,
+     "hi": 29.6,
      "lo": 19.9,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 15.4
+     "gustMph": 16.3
     },
     {
      "date": "2026-11-30",
-     "hi": 30.4,
-     "lo": 20.1,
+     "hi": 30.8,
+     "lo": 20.4,
      "code": 3,
      "rain": 0,
      "rainMm": 0.0,
-     "gustMph": 16.1
+     "gustMph": 16.6
     },
     {
      "date": "2026-12-01",
-     "hi": 32.0,
+     "hi": 32.2,
      "lo": 21.9,
      "code": 3,
-     "rain": 8,
+     "rain": 10,
      "rainMm": 0.0,
-     "gustMph": 17.9
+     "gustMph": 17.2
     },
     {
      "date": "2026-12-02",
-     "hi": 31.7,
-     "lo": 23.8,
+     "hi": 32.2,
+     "lo": 23.6,
      "code": 51,
-     "rain": 30,
-     "rainMm": 0.6,
+     "rain": 31,
+     "rainMm": 0.3,
      "gustMph": 21.9
     }
    ],
@@ -188,6 +188,20 @@
  ],
  "news": {
   "andhra": [
+   {
+    "headline": "Andhra Pradesh DGP hands over ₹74 lakh financial aid to surrendered Maoists",
+    "summary": "Mr. Harish Kumar Gupta said that Rehabilitation Assistance would be provided to 32 more Maoists soon",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-dgp-hands-over-74-lakh-financial-aid-to-surrendered-maoists/article71753858.ece",
+    "time": "2026-11-28T14:58:11+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "AP to set up Skill India International Centre at Rajamahendravaram",
+    "summary": "The MoU was signed in the presence of MSDE Secretary Debashree Mukherjee by MSDE Deputy Secretary Indu Bhusan Lenka and AP State Skill Development Corporation (APSSDC) Executive Director D. Manohar, representing their…",
+    "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-skill-india-international-centre-at-rajamahendravaram/article71751849.ece",
+    "time": "2026-11-28T14:33:22+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "GITAM opens admissions to 111 programmes for 2027-28",
     "summary": "",
@@ -215,23 +229,30 @@
     "link": "https://www.thehindu.com/news/national/andhra-pradesh/giant-dredger-fairway-anchors-at-kona-port-to-deepen-harbour-for-cargo-ships/article71751770.ece",
     "time": "2026-11-27T23:04:15+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "APPSC announces CPT results, applications to open for Deputy Commissioner of Endowments from November 30",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-announces-cpt-results-applications-to-open-for-deputy-commissioner-of-endowments-from-november-30/article71751472.ece",
-    "time": "2026-11-27T23:01:25+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "DGP performs bhumi puja for OCTOPUS facilities in Amaravati",
-    "summary": "Harish Kumar Gupta inaugurates combat conditioning ground and long firing range; calls for developing OCTOPUS to international standards in counter-terrorism operations",
-    "link": "https://www.thehindu.com/news/national/andhra-pradesh/dgp-performs-bhumi-puja-for-octopus-facilities-in-amaravati/article71751844.ece",
-    "time": "2026-11-27T22:55:07+05:30",
-    "source": "The Hindu"
    }
   ],
   "telangana": [
+   {
+    "headline": "Oocyte racket: Two senior Oasis Fertility executives held, ₹487 crore transactions under scanner",
+    "summary": "Police investigation alleged recruitment of women from multiple states, unauthorised medical procedures and financial transactions worth ₹487.82 crore in company bank account over eight months.",
+    "link": "https://www.thehindu.com/news/national/telangana/oocyte-racket-two-senior-oasis-fertility-executives-held-487-crore-transactions-under-scanner/article71753824.ece",
+    "time": "2026-11-28T13:15:42+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Water man of India Rajendra Singh advises against Sabarmati model for Musi river",
+    "summary": "Musi banks should be planted instead of concretised, the Magsaysay awardee says at the curtain riser event for the Telangana Climate Conclave",
+    "link": "https://www.thehindu.com/news/cities/Hyderabad/water-man-of-india-rajendra-singh-advises-against-sabarmati-model-for-musi-river/article71752356.ece",
+    "time": "2026-11-28T11:02:19+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Telangana to unveil 11 new policies at Global Summit",
+    "summary": "Industrial Policy 2.0 to focus on manufacturing; sector-specific incentives planned for textiles, footwear, defence, IT and electronics",
+    "link": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-11-new-policies-at-global-summit/article71753637.ece",
+    "time": "2026-11-28T10:55:39+05:30",
+    "source": "The Hindu"
+   },
    {
     "headline": "Cochlear implant surgery performed free for 8-yr-old boy at Gandhi Hospital",
     "summary": "",
@@ -252,74 +273,60 @@
     "link": "https://www.thehindu.com/news/national/telangana/tg-safe-suspends-fssai-licence-of-classic-abhiruchi-restaurant-in-karimnagar/article71751266.ece",
     "time": "2026-11-27T23:40:15+05:30",
     "source": "The Hindu"
-   },
-   {
-    "headline": "Drive against illegal moneylending: 16 cases booked in Kumram Bheem Asifabad district",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/drive-against-illegal-moneylending-16-cases-booked-in-kumram-bheem-asifabad-district/article71751742.ece",
-    "time": "2026-11-27T23:37:35+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "25 workers, including nine children, rescued from bonded labour in Hanumakonda",
-    "summary": "Officials say some workers were so isolated from the outside world that they struggled to recall their names, ages and even the current date, year or day of the week during preliminary interaction",
-    "link": "https://www.thehindu.com/news/national/telangana/25-workers-including-nine-children-rescued-from-bonded-labour-in-hanumakonda/article71751874.ece",
-    "time": "2026-11-27T23:25:49+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Prajavani wins national award for digital transformation excellence",
-    "summary": "",
-    "link": "https://www.thehindu.com/news/national/telangana/prajavani-wins-national-award-for-digital-transformation-excellence/article71752042.ece",
-    "time": "2026-11-27T23:17:43+05:30",
-    "source": "The Hindu"
    }
   ],
   "india": [
    {
-    "headline": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit",
-    "summary": "Indian and Nepali delegations came up with the ten-pillar vision document titled ‘Viksit Bharat-Samunnat Nepal: Reimagining the Partnership’",
-    "link": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece",
-    "time": "2026-11-28T08:06:00+05:30",
+    "headline": "Supreme Court clears way for Hockey India elections, restores Odisha’s membership",
+    "summary": "A Bench of Justices K.V. Viswanathan and Arun Palli set aside the Orissa High Court orders staying the December 5 polls and recalled two show-cause notices to Hockey Odisha",
+    "link": "https://www.thehindu.com/news/national/supreme-court-clears-way-for-hockey-india-election-on-december-5-sets-aside-orissa-hc-orders/article71754025.ece",
+    "time": "2026-11-28T17:14:43+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
-    "summary": "The Supreme Court, earlier this week, directed the FSSAI to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime and gave the regulator four months to finalise the draft regulations",
-    "link": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece",
-    "time": "2026-11-28T07:54:21+05:30",
+    "headline": "Delimitation Bill LIVE: President recommends Lok Sabha to consider the Bill; DMK announces support for Centre's proposal",
+    "summary": "INDIA bloc vows to oppose the delimitation push, while the ruling NDA is confident of passing the Bills",
+    "link": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece",
+    "time": "2026-11-28T17:13:55+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "Thirupparankundram row: Supreme Court finds wilful disobedience of Deepam order, directs lighting of pillar today",
-    "summary": "The apex court declared that authorities 'wilfully disobeyed' court orders and issued show cause notices on contempt against the Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, Board of Trustees Chairperson and…",
+    "headline": "Delimitation in India’s strategic periphery: a national security blind spot",
+    "summary": "",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/delimitation-in-indias-strategic-periphery-a-national-security-blind-spot/article71754170.ece",
+    "time": "2026-11-28T17:13:16+05:30",
+    "source": "The Hindu"
+   },
+   {
+    "headline": "Thirupparankundram row LIVE: Karthigai lamp lit at 'Deepathoon'; SC-appointed retired Judges oversee the ceremony",
+    "summary": "Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram",
     "link": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
-    "time": "2026-11-28T07:53:07+05:30",
+    "time": "2026-11-28T17:11:11+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "What is the Indraprastha Communique issued after SCO Civilizational Forum in New Delhi? | Explained",
-    "summary": "The dialogue, which was organized by the Ministry of Culture and the Ministry of External Affairs, was proposed by Prime Minister Narendra Modi at the SCO leaders’ Summit in Tianjin last year and adopted by the SCO…",
-    "link": "https://www.thehindu.com/news/national/what-is-the-indraprastha-communique-issued-after-sco-civilizational-forum-in-new-delhi-explained/article71753482.ece",
-    "time": "2026-11-28T07:43:05+05:30",
+    "headline": "Bengal madrasahs to discontinue Friday weekly holiday, observe Sunday off",
+    "summary": "The West Bengal Board of Madrasah Education directed all recognised madrasahs to remain closed only on Sundays, with immediate effect, though they can still close on religious festivals and government-declared holidays",
+    "link": "https://www.thehindu.com/news/national/west-bengal/bengal-madrasahs-to-discontinue-friday-weekly-holiday-observe-sunday-off/article71754193.ece",
+    "time": "2026-11-28T17:01:49+05:30",
     "source": "The Hindu"
    },
    {
-    "headline": "INLD leader alleges Haryana universities saddled with ₹16,052 crore debt",
-    "summary": "The State government has pushed 22 public universities into a debt burden over the past four years by converting grants-in-aid into perpetual loans.",
-    "link": "https://www.thehindu.com/news/cities/Delhi/inld-leader-alleges-haryana-universities-saddled-with-16052-crore-debt/article71750972.ece",
-    "time": "2026-11-28T05:13:39+05:30",
-    "source": "The Hindu"
-   },
-   {
-    "headline": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
-    "summary": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the…",
-    "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
-    "time": "2026-11-28T04:08:22+05:30",
+    "headline": "Delimitation based on latest census will pose a danger to Tamil Nadu: M.K Stalin",
+    "summary": "Justifying the DMK’s position on the new Bill, he said that had the party not raised its voice, the BJP would have increased the number of seats in the northern States while reducing Tamil Nadu’s share",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/delimitation-based-on-latest-census-will-pose-a-danger-to-tamil-nadu-mk-stalin/article71754272.ece",
+    "time": "2026-11-28T17:00:34+05:30",
     "source": "The Hindu"
    }
   ],
   "usa": [
+   {
+    "headline": "New wave of Democratic attorneys general may reshape the justice system",
+    "summary": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+    "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+    "time": "2026-11-28T05:00:00-05:00",
+    "source": "NPR"
+   },
    {
     "headline": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
     "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
@@ -354,56 +361,49 @@
     "link": "https://www.npr.org/2026/11/27/nx-s1-6050829/strangers-connect-by-sharing-stories-of-their-favorite-relatives",
     "time": "2026-11-27T04:45:07-05:00",
     "source": "NPR"
-   },
-   {
-    "headline": "Being a prepper once came with a stigma. Recent outages are turning skeptics into believers",
-    "summary": "In the wake of a series of tech failures, major government network crashes and flight stoppages, many people online are looking to preppers to learn how to become self-reliant.",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-6044297-e1/being-a-prepper-once-came-with-a-stigma-recent-outages-are-turning-skeptics-into-believers",
-    "time": "2026-11-26T16:51:51-05:00",
-    "source": "NPR"
    }
   ],
   "world": [
    {
-    "headline": "Nigeria's 'ultimate hard man' who become an online meme",
-    "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
-    "time": "2026-11-28T01:20:35+00:00",
+    "headline": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+    "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo",
+    "time": "2026-11-28T11:35:34+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-    "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
-    "time": "2026-11-28T00:56:55+00:00",
+    "headline": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o",
+    "time": "2026-11-28T11:18:37+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
-    "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
-    "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
-    "time": "2026-11-28T00:50:11+00:00",
+    "headline": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o",
+    "time": "2026-11-28T10:34:58+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
-    "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
-    "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
-    "time": "2026-11-28T00:05:17+00:00",
+    "headline": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+    "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko",
+    "time": "2026-11-28T07:31:14+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-    "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
-    "time": "2026-11-27T23:02:35+00:00",
+    "headline": "Eight killed in Peruvian military helicopter crash",
+    "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+    "time": "2026-11-28T04:19:16+00:00",
     "source": "BBC News"
    },
    {
-    "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
-    "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
-    "time": "2026-11-27T21:55:53+00:00",
+    "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+    "time": "2026-11-28T04:13:45+00:00",
     "source": "BBC News"
    }
   ]
